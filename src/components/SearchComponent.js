@@ -139,7 +139,7 @@ const SearchComponent = () => {
           
           {/* Fecha actual para verificar actualizaciones */}
           <Text style={styles.dateText}>
-            🚫 SW DESHABILITADO - Chrome Test - 3 Nov 2025 - 15:45
+            🚫 SW DESHABILITADO - Chrome Test - 3 Nov 2025 - 16:00
           </Text>
           
           {/* Indicador de tipo de búsqueda */}
