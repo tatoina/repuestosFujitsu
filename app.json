@@ -4,16 +4,9 @@
     "slug": "repuestos-fuji",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#6200ee"
-    },
     "web": {
-      "favicon": "./assets/favicon.png",
       "name": "RepuestosFuji",
       "shortName": "RepuestosFuji",
       "lang": "es",
@@ -32,10 +25,6 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
       "edgeToEdgeEnabled": true
     }
   }
