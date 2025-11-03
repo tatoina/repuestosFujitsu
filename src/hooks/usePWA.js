@@ -17,7 +17,8 @@ export const usePWA = () => {
         .then((registration) => {
           console.log('SW registrado exitosamente:', registration);
           
-          // Verificar actualizaciones
+          // Verificar actualizaciones - DESHABILITADO PARA EVITAR RECARGAS
+          /*
           registration.addEventListener('updatefound', () => {
             const newWorker = registration.installing;
             newWorker.addEventListener('statechange', () => {
@@ -30,6 +31,7 @@ export const usePWA = () => {
               }
             });
           });
+          */
         })
         .catch((error) => {
           console.log('SW registro fallido:', error);

@@ -34,14 +34,16 @@ const SearchComponent = () => {
 
   useEffect(() => {
     initializeData();
-    
-    // Cleanup function para limpiar timer
+  }, []); // Solo ejecutar una vez al montar el componente
+
+  // useEffect separado para cleanup del timer
+  useEffect(() => {
     return () => {
       if (debounceTimer) {
         clearTimeout(debounceTimer);
       }
     };
-  }, []);
+  }, [debounceTimer]);
 
   const initializeData = async () => {
     try {
