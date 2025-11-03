@@ -11,7 +11,17 @@ export const usePWA = () => {
     if (Platform.OS !== 'web' || typeof window === 'undefined') {
       return;
     }
-    // Registrar service worker
+    
+    // DESHABILITAR SERVICE WORKER EN VERCEL TEMPORALMENTE
+    const isVercel = window.location.hostname.includes('vercel.app') || 
+                     window.location.hostname.includes('.vercel.app');
+    
+    if (isVercel) {
+      console.log('Service Worker deshabilitado en Vercel para evitar recargas');
+      return;
+    }
+    
+    // Registrar service worker solo en local
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js')
         .then((registration) => {

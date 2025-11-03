@@ -12,6 +12,15 @@ const PWAInstallPrompt = () => {
     return null; // Solo mostrar en web
   }
 
+  // Deshabilitar en Vercel temporalmente
+  const isVercel = typeof window !== 'undefined' && 
+                   (window.location.hostname.includes('vercel.app') || 
+                    window.location.hostname.includes('.vercel.app'));
+  
+  if (isVercel) {
+    return null; // No mostrar PWA prompt en Vercel
+  }
+
   const handleInstall = async () => {
     const success = await installPWA();
     if (success) {
