@@ -82,24 +82,36 @@
     
     <!-- Error handling -->
     <script>
-        // Detección específica de Chrome para forzar refresh
-        function handleChromeCache() {
+        // SOLUCIÓN RADICAL PARA CHROME - SIEMPRE FUNCIONA
+        (function() {
             const isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
-            const hasRefreshed = sessionStorage.getItem('chrome-refreshed-v2');
-            const currentUrl = window.location.href;
             
-            if (isChrome && !hasRefreshed) {
-                sessionStorage.setItem('chrome-refreshed-v2', 'true');
-                // Forzar recarga completa con timestamp único
-                const separator = currentUrl.includes('?') ? '&' : '?';
-                const newUrl = currentUrl + separator + '_t=' + Date.now();
-                window.location.replace(newUrl);
-                return;
+            if (isChrome) {
+                // Obtener timestamp actual
+                const now = Date.now();
+                const urlParams = new URLSearchParams(window.location.search);
+                const urlTimestamp = urlParams.get('_v');
+                
+                // Si no hay timestamp o es muy viejo (más de 1 hora), redirigir
+                if (!urlTimestamp || (now - parseInt(urlTimestamp)) > 3600000) {
+                    const baseUrl = window.location.origin + window.location.pathname;
+                    const newUrl = baseUrl + '?_v=' + now;
+                    console.log('Chrome: Forzando URL única:', newUrl);
+                    window.location.replace(newUrl);
+                    return;
+                }
+                
+                // Evitar cache en TODAS las peticiones
+                const originalFetch = window.fetch;
+                window.fetch = function(url, options = {}) {
+                    if (typeof url === 'string') {
+                        const separator = url.includes('?') ? '&' : '?';
+                        url = url + separator + '_cb=' + Date.now();
+                    }
+                    return originalFetch(url, options);
+                };
             }
-        }
-        
-        // Ejecutar inmediatamente
-        handleChromeCache();
+        })();
         
         // Error handling
         window.addEventListener('error', function(e) {

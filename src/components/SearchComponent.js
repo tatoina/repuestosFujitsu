@@ -139,7 +139,7 @@ const SearchComponent = () => {
           
           {/* Fecha actual para verificar actualizaciones */}
           <Text style={styles.dateText}>
-            📅 PWA MÓVIL-FRIENDLY - 3 Nov 2025 - 15:20
+            � ANTI-CACHÉ RADICAL - 3 Nov 2025 - 15:25
           </Text>
           
           {/* Indicador de tipo de búsqueda */}
