@@ -137,6 +137,11 @@ const SearchComponent = () => {
             />
           </View>
           
+          {/* Fecha actual para verificar actualizaciones */}
+          <Text style={styles.dateText}>
+            📅 Actualizado: 3 de Noviembre 2025 - 15:05
+          </Text>
+          
           {/* Indicador de tipo de búsqueda */}
           {searchQuery.trim() && (
             <View style={styles.searchTypeIndicator}>
@@ -374,6 +379,14 @@ const styles = StyleSheet.create({
     marginLeft: 4,
     color: '#6200ee',
     fontSize: 12,
+  },
+  dateText: {
+    textAlign: 'center',
+    color: '#888',
+    fontSize: 12,
+    marginTop: 4,
+    marginBottom: 8,
+    fontStyle: 'italic',
   },
   noResultsCard: {
     marginTop: 32,
