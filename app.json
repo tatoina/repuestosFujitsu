@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SparePartsApp",
-    "slug": "SparePartsApp",
+    "name": "RepuestosFuji",
+    "slug": "repuestos-fuji",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,7 +10,23 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#6200ee"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "RepuestosFuji",
+      "shortName": "RepuestosFuji",
+      "lang": "es",
+      "scope": "/",
+      "themeColor": "#6200ee",
+      "backgroundColor": "#6200ee",
+      "description": "Aplicación para búsqueda bidireccional de códigos y descripciones de repuestos",
+      "dir": "ltr",
+      "display": "standalone",
+      "orientation": "portrait-primary",
+      "preferRelatedApplications": false,
+      "startUrl": "/",
+      "bundler": "metro"
     },
     "ios": {
       "supportsTablet": true
@@ -21,9 +37,6 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
