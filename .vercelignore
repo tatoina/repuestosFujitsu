@@ -2,3 +2,8 @@ public/*
 sw.js
 *.sw.js
 service-worker.js
+generatePWA*.js
+convertExcel.js
+*.backup.js
+*.old.js
+node_modules
