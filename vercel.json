@@ -1,9 +1,4 @@
 {
-  "build": {
-    "env": {
-      "EXPO_PUBLIC_URL": "https://repuestos-fujitsu.vercel.app"
-    }
-  },
   "builds": [
     {
       "src": "package.json",
@@ -15,16 +10,16 @@
   ],
   "routes": [
     {
-      "src": "/static/(.*)",
-      "dest": "/static/$1"
-    },
-    {
       "src": "/_expo/(.*)",
       "dest": "/_expo/$1"
     },
     {
-      "src": "/(.*\\.(js|css|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot))",
-      "dest": "/$1"
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
+    {
+      "src": "/favicon.svg",
+      "dest": "/favicon.svg"
     },
     {
       "src": "/(.*)",
