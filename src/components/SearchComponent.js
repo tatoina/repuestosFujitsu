@@ -21,7 +21,7 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 import { searchService } from '../services/searchService';
 import AdminPanel from './AdminPanel';
-import PWAInstallPrompt from './PWAInstallPrompt';
+// import PWAInstallPrompt from './PWAInstallPrompt'; // DESHABILITADO TEMPORALMENTE
 
 const SearchComponent = () => {
   const [searchQuery, setSearchQuery] = useState('');
@@ -33,32 +33,24 @@ const SearchComponent = () => {
   const [showAdminPanel, setShowAdminPanel] = useState(false);
 
   useEffect(() => {
-    initializeData();
-  }, []); // Solo ejecutar una vez al montar el componente
-
-  // useEffect separado para cleanup del timer
-  useEffect(() => {
-    return () => {
-      if (debounceTimer) {
-        clearTimeout(debounceTimer);
+    // Solo inicializar datos una vez
+    const init = async () => {
+      try {
+        setIsLoading(true);
+        await searchService.loadData();
+        setDataLoaded(true);
+      } catch (error) {
+        Alert.alert(
+          'Error',
+          'No se pudo cargar la base de datos. Asegúrate de que el archivo Excel esté en la carpeta /data'
+        );
+      } finally {
+        setIsLoading(false);
       }
     };
-  }, [debounceTimer]);
-
-  const initializeData = async () => {
-    try {
-      setIsLoading(true);
-      await searchService.loadData();
-      setDataLoaded(true);
-    } catch (error) {
-      Alert.alert(
-        'Error',
-        'No se pudo cargar la base de datos. Asegúrate de que el archivo Excel esté en la carpeta /data'
-      );
-    } finally {
-      setIsLoading(false);
-    }
-  };
+    
+    init();
+  }, []); // Sin dependencias adicionales
 
   const handleSearch = async (query = searchQuery) => {
     if (!query.trim()) {
@@ -81,14 +73,9 @@ const SearchComponent = () => {
     }
   };
 
-  // Búsqueda en tiempo real con debounce
+  // Búsqueda en tiempo real con debounce simplificado
   const handleTextChange = (text) => {
     setSearchQuery(text);
-    
-    // Limpiar el timer anterior
-    if (debounceTimer) {
-      clearTimeout(debounceTimer);
-    }
     
     // Si no hay texto, limpiar resultados inmediatamente
     if (!text.trim()) {
@@ -105,6 +92,10 @@ const SearchComponent = () => {
       handleSearch(text);
     }, 300); // 300ms de delay
     
+    // Limpiar timer anterior si existe
+    if (debounceTimer) {
+      clearTimeout(debounceTimer);
+    }
     setDebounceTimer(newTimer);
   };
 
@@ -138,7 +129,7 @@ const SearchComponent = () => {
 
   return (
     <PaperProvider>
-      <PWAInstallPrompt />
+      {/* <PWAInstallPrompt /> */}
       <View style={styles.container}>
         <View style={styles.header}>
           <View style={styles.titleContainer}>
