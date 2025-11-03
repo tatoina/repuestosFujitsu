@@ -79,21 +79,34 @@
         // Error handling
         window.addEventListener('error', function(e) {
             console.error('Error cargando la aplicación:', e);
-            const loading = document.getElementById('loading');
-            if (loading) {
-                loading.innerHTML = '<div>Error cargando la aplicación. Recarga la página.</div>';
+            try {
+                const loading = document.getElementById('loading');
+                if (loading) {
+                    loading.innerHTML = '<div style="color: #ff1744; font-weight: bold;">Error cargando la aplicación. <br><button onclick="window.location.reload()" style="margin-top: 10px; padding: 8px 16px; background: #6200ee; color: white; border: none; border-radius: 4px; cursor: pointer;">Recargar página</button></div>';
+                }
+            } catch (err) {
+                console.error('Error en el manejador de errores:', err);
             }
+        });
+
+        // Manejo de errores de promesas no capturadas
+        window.addEventListener('unhandledrejection', function(e) {
+            console.error('Promise rejection no manejada:', e.reason);
         });
         
         // Hide loading when React app mounts
         document.addEventListener('DOMContentLoaded', function() {
             setTimeout(function() {
-                const loading = document.getElementById('loading');
-                if (loading) {
-                    loading.style.display = 'none';
+                try {
+                    const loading = document.getElementById('loading');
+                    if (loading) {
+                        loading.style.display = 'none';
+                    }
+                    document.body.classList.add('app-loaded');
+                } catch (err) {
+                    console.error('Error ocultando loading:', err);
                 }
-                document.body.classList.add('app-loaded');
-            }, 2000);
+            }, 3000); // Aumentamos el tiempo a 3 segundos
         });
     </script>
 </body>
