@@ -6,7 +6,6 @@ module.exports = {
     orientation: "portrait",
     platforms: ["web"],
     web: {
-      favicon: "./public/favicon.ico",
       bundler: "metro"
     },
     assetBundlePatterns: [
