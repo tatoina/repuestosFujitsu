@@ -6,6 +6,7 @@ import {
   Alert,
   TouchableOpacity,
 } from 'react-native';
+// v2.1.0 - Búsqueda automática inteligente
 import {
   Searchbar,
   Card,
