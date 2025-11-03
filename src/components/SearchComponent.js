@@ -139,7 +139,7 @@ const SearchComponent = () => {
           
           {/* Fecha actual para verificar actualizaciones */}
           <Text style={styles.dateText}>
-            📅 Actualizado: 3 de Noviembre 2025 - 15:05
+            📅 PWA MÓVIL-FRIENDLY - 3 Nov 2025 - 15:20
           </Text>
           
           {/* Indicador de tipo de búsqueda */}
@@ -337,21 +337,28 @@ const styles = StyleSheet.create({
   resultCard: {
     marginBottom: 12,
     elevation: 2,
+    borderRadius: 8,
   },
   resultHeader: {
     flexDirection: 'row',
-    alignItems: 'center',
+    alignItems: 'flex-start',
     marginBottom: 8,
+    flexWrap: 'wrap',
   },
   resultTitle: {
     marginLeft: 8,
-    fontSize: 18,
+    fontSize: 16,
     color: '#6200ee',
+    fontWeight: 'bold',
+    flex: 1,
+    flexWrap: 'wrap',
   },
   resultSubtitle: {
     fontSize: 14,
-    color: '#666',
-    marginBottom: 8,
+    color: '#333',
+    marginTop: 4,
+    lineHeight: 20,
+    flexWrap: 'wrap',
   },
   searchTypeIndicator: {
     marginBottom: 12,

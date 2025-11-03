@@ -5,9 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#6200ee">
     <meta name="description" content="Aplicación para búsqueda bidireccional de códigos y descripciones de repuestos">
-    <meta name="app-version" content="20251103-1505">
-    <meta name="build-id" content="test-fecha-visible">
-    <meta name="cache-bust" content="202511031505">
+    <meta name="app-version" content="20251103-1520">
+    <meta name="build-id" content="pwa-mobile-friendly">
+    <meta name="cache-bust" content="202511031520">
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json">
     
     <!-- Favicons -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -82,12 +85,15 @@
         // Detección específica de Chrome para forzar refresh
         function handleChromeCache() {
             const isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
-            const hasRefreshed = sessionStorage.getItem('chrome-refreshed');
+            const hasRefreshed = sessionStorage.getItem('chrome-refreshed-v2');
+            const currentUrl = window.location.href;
             
             if (isChrome && !hasRefreshed) {
-                sessionStorage.setItem('chrome-refreshed', 'true');
-                // Recargar página una sola vez en Chrome
-                window.location.reload(true);
+                sessionStorage.setItem('chrome-refreshed-v2', 'true');
+                // Forzar recarga completa con timestamp único
+                const separator = currentUrl.includes('?') ? '&' : '?';
+                const newUrl = currentUrl + separator + '_t=' + Date.now();
+                window.location.replace(newUrl);
                 return;
             }
         }
@@ -127,6 +133,19 @@
                 }
             }, 3000);
         });
+        
+        // Register Service Worker for PWA
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(function(registration) {
+                        console.log('SW registrado:', registration.scope);
+                    })
+                    .catch(function(error) {
+                        console.log('SW registro falló:', error);
+                    });
+            });
+        }
     </script>
 </body>
 </html>

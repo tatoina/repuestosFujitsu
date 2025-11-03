@@ -1,0 +1,19 @@
+{
+  "name": "RepuestosFuji - Búsqueda Inteligente",
+  "short_name": "RepuestosFuji",
+  "description": "Aplicación para búsqueda bidireccional de códigos y descripciones de repuestos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6200ee",
+  "theme_color": "#6200ee",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
