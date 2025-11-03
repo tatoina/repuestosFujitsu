@@ -7,7 +7,11 @@
   "background_color": "#6200ee",
   "theme_color": "#6200ee",
   "orientation": "portrait-primary",
-  "categories": ["productivity", "business", "utilities"],
+  "categories": [
+    "productivity",
+    "business",
+    "utilities"
+  ],
   "lang": "es",
   "scope": "/",
   "icons": [
@@ -39,7 +43,7 @@
     },
     {
       "name": "Buscar por código",
-      "short_name": "Código", 
+      "short_name": "Código",
       "description": "Buscar repuesto por código",
       "url": "/?mode=code",
       "icons": [
@@ -60,20 +64,6 @@
           "sizes": "192x192"
         }
       ]
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/screenshot-mobile.png",
-      "sizes": "390x844",
-      "type": "image/png",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "/screenshot-desktop.png", 
-      "sizes": "1920x1080",
-      "type": "image/png",
-      "form_factor": "wide"
     }
   ],
   "prefer_related_applications": false

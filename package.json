@@ -7,8 +7,9 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "build": "node generatePWA.js && expo export -p web",
-    "vercel-build": "node generatePWA.js && expo export -p web"
+    "build": "node generatePWA.js && npx expo export -p web",
+    "vercel-build": "node generatePWA.js && npx expo export -p web",
+    "postbuild": "cp -r public/* dist/ 2>/dev/null || copy public\\* dist\\ 2>nul || true"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
