@@ -17,21 +17,16 @@ export const usePWA = () => {
         .then((registration) => {
           console.log('SW registrado exitosamente:', registration);
           
-          // Verificar actualizaciones - DESHABILITADO PARA EVITAR RECARGAS
-          /*
+          // Verificar actualizaciones - SIN AUTO-RELOAD para evitar recargas problemáticas
           registration.addEventListener('updatefound', () => {
             const newWorker = registration.installing;
             newWorker.addEventListener('statechange', () => {
               if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                // Hay una nueva versión disponible
-                if (window.confirm('Hay una nueva versión disponible. ¿Actualizar?')) {
-                  newWorker.postMessage({ type: 'SKIP_WAITING' });
-                  window.location.reload();
-                }
+                // Hay una nueva versión disponible - solo log, sin auto-reload
+                console.log('Nueva versión de la app disponible. Recarga manualmente para actualizar.');
               }
             });
           });
-          */
         })
         .catch((error) => {
           console.log('SW registro fallido:', error);

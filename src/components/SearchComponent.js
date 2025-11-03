@@ -21,7 +21,7 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 import { searchService } from '../services/searchService';
 import AdminPanel from './AdminPanel';
-// import PWAInstallPrompt from './PWAInstallPrompt'; // DESHABILITADO TEMPORALMENTE
+import PWAInstallPrompt from './PWAInstallPrompt';
 
 const SearchComponent = () => {
   const [searchQuery, setSearchQuery] = useState('');
@@ -129,7 +129,7 @@ const SearchComponent = () => {
 
   return (
     <PaperProvider>
-      {/* <PWAInstallPrompt /> */}
+      <PWAInstallPrompt />
       <View style={styles.container}>
         <View style={styles.header}>
           <View style={styles.titleContainer}>
