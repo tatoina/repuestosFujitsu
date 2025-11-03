@@ -6,21 +6,13 @@
     <meta name="theme-color" content="#6200ee">
     <meta name="description" content="Aplicación para búsqueda bidireccional de códigos y descripciones de repuestos">
     
-    <!-- PWA Manifest -->
-    <link rel="manifest" href="/manifest.json">
-    
     <!-- Favicons -->
-    <link rel="icon" type="image/svg+xml" href="/icon.svg">
-    <link rel="apple-touch-icon" href="/icon-192x192.svg">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     
     <!-- iOS PWA -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="apple-mobile-web-app-title" content="RepuestosFuji">
-    
-    <!-- Windows PWA -->
-    <meta name="msapplication-TileColor" content="#6200ee">
-    <meta name="msapplication-config" content="/browserconfig.xml">
     
     <title>RepuestosFuji - Búsqueda de Repuestos</title>
     
@@ -81,19 +73,16 @@
     <!-- App root -->
     <div id="root"></div>
     
-    <!-- Register Service Worker -->
+    <!-- Error handling -->
     <script>
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', function() {
-                navigator.serviceWorker.register('/sw.js')
-                    .then(function(registration) {
-                        console.log('SW registrado exitosamente:', registration);
-                    })
-                    .catch(function(error) {
-                        console.log('SW registro fallido:', error);
-                    });
-            });
-        }
+        // Error handling
+        window.addEventListener('error', function(e) {
+            console.error('Error cargando la aplicación:', e);
+            const loading = document.getElementById('loading');
+            if (loading) {
+                loading.innerHTML = '<div>Error cargando la aplicación. Recarga la página.</div>';
+            }
+        });
         
         // Hide loading when React app mounts
         document.addEventListener('DOMContentLoaded', function() {
@@ -104,15 +93,6 @@
                 }
                 document.body.classList.add('app-loaded');
             }, 2000);
-        });
-        
-        // Error handling
-        window.addEventListener('error', function(e) {
-            console.error('Error cargando la aplicación:', e);
-            const loading = document.getElementById('loading');
-            if (loading) {
-                loading.innerHTML = '<div>Error cargando la aplicación. Recarga la página.</div>';
-            }
         });
     </script>
 </body>
