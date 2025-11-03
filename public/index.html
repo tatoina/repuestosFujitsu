@@ -6,14 +6,8 @@
     <meta name="theme-color" content="#6200ee">
     <meta name="description" content="Aplicación para búsqueda bidireccional de códigos y descripciones de repuestos">
     
-    <!-- Cache Control -->
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
-    <meta name="version" content="v2.1.0">
-    
     <!-- Favicons -->
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=2.1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64,AAABAAEAEBAAAAAAAABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A">
     
     <!-- iOS PWA -->
@@ -21,7 +15,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="apple-mobile-web-app-title" content="RepuestosFuji">
     
-    <title>RepuestosFuji - Búsqueda de Repuestos v2.1.0</title>
+    <title>RepuestosFuji - Búsqueda de Repuestos</title>
     
     <style>
         /* Loading spinner */
@@ -99,51 +93,9 @@
         window.addEventListener('unhandledrejection', function(e) {
             console.error('Promise rejection no manejada:', e.reason);
         });
-
-        // Force cache update check
-        function checkForUpdates() {
-            const currentVersion = 'v2.1.0';
-            const storedVersion = localStorage.getItem('app-version');
-            
-            if (storedVersion && storedVersion !== currentVersion) {
-                console.log('Nueva versión detectada, limpiando caché...');
-                
-                // Limpiar caches
-                if ('caches' in window) {
-                    caches.keys().then(function(names) {
-                        names.forEach(function(name) {
-                            caches.delete(name);
-                        });
-                    });
-                }
-                
-                // Limpiar localStorage (excepto datos importantes)
-                const searchData = localStorage.getItem('spareParts');
-                localStorage.clear();
-                if (searchData) {
-                    localStorage.setItem('spareParts', searchData);
-                }
-                
-                // Mostrar notificación de actualización
-                const loading = document.getElementById('loading');
-                if (loading) {
-                    loading.innerHTML = '<div style="color: #4caf50; font-weight: bold;">¡Nueva versión disponible!<br>Actualizando aplicación...</div>';
-                }
-                
-                // Recargar página después de limpiar caché
-                setTimeout(function() {
-                    window.location.reload(true);
-                }, 1500);
-            }
-            
-            localStorage.setItem('app-version', currentVersion);
-        }
         
         // Hide loading when React app mounts
         document.addEventListener('DOMContentLoaded', function() {
-            // Verificar actualizaciones primero
-            checkForUpdates();
-            
             setTimeout(function() {
                 try {
                     const loading = document.getElementById('loading');
@@ -154,7 +106,7 @@
                 } catch (err) {
                     console.error('Error ocultando loading:', err);
                 }
-            }, 3000); // Aumentamos el tiempo a 3 segundos
+            }, 3000);
         });
     </script>
 </body>
