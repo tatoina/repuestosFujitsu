@@ -139,7 +139,7 @@ const SearchComponent = () => {
           
           {/* Fecha actual para verificar actualizaciones */}
           <Text style={styles.dateText}>
-            📅 Actualizado: 3 de Noviembre 2025 - 15:05
+            � VERSIÓN V2 LIMPIA - Sin Cache - 3 Nov 2025 - 16:15
           </Text>
           
           {/* Indicador de tipo de búsqueda */}

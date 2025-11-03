@@ -1,6 +1,6 @@
 {
-  "name": "repuestos-app-v2",
-  "version": "2.1.0",
+  "name": "repuestos-fujitsu-v2-final",
+  "version": "2.1.1",
   "main": "index.js",
   "scripts": {
     "start": "expo start",
