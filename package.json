@@ -7,7 +7,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "build": "node generatePWA.js && npx expo export -p web",
+    "build": "npx expo export -p web",
     "vercel-build": "npx expo export -p web",
     "postbuild": "cp -r public/* dist/ 2>/dev/null || copy public\\* dist\\ 2>nul || true"
   },
@@ -23,6 +23,9 @@
     "react-native-vector-icons": "^10.3.0",
     "react-native-web": "^0.21.0",
     "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2"
   },
   "private": true
 }
