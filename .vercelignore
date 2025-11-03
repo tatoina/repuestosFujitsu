@@ -7,3 +7,6 @@ convertExcel.js
 *.backup.js
 *.old.js
 node_modules
+public/sw.js
+public/sw-old.js
+public/manifest.json

@@ -12,16 +12,22 @@ export const usePWA = () => {
       return;
     }
     
-    // DESHABILITAR SERVICE WORKER EN VERCEL TEMPORALMENTE
+    // DESHABILITAR COMPLETAMENTE EN VERCEL
     const isVercel = window.location.hostname.includes('vercel.app') || 
                      window.location.hostname.includes('.vercel.app');
     
     if (isVercel) {
-      console.log('Service Worker deshabilitado en Vercel para evitar recargas');
+      console.log('PWA y Service Worker completamente deshabilitados en Vercel');
       return;
     }
     
-    // Registrar service worker solo en local
+    // DESHABILITAR TAMBIÉN EN PRODUCCIÓN PARA EVITAR PROBLEMAS
+    if (process.env.NODE_ENV === 'production') {
+      console.log('PWA deshabilitado en producción');
+      return;
+    }
+    
+    // Solo registrar service worker en desarrollo local
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js')
         .then((registration) => {
