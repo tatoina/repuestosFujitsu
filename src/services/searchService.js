@@ -200,18 +200,37 @@ class SearchService {
       return [];
     }
 
-    const searchTerm = query.toLowerCase().trim();
+    // Normalizar la búsqueda - mantener espacios pero limpiar excesos
+    const searchTerm = query.toLowerCase().trim().replace(/\s+/g, ' ');
     console.log(`Término de búsqueda procesado: "${searchTerm}"`);
     console.log(`Total de datos disponibles: ${this.data.length}`);
     
     const filtered = this.data.filter(item => {
       if (searchType === 'code') {
-        const match = item.code.toLowerCase().includes(searchTerm);
+        // Para código: buscar coincidencia exacta (sin espacios)
+        const itemCode = item.code.toLowerCase().replace(/\s+/g, '');
+        const searchCode = searchTerm.replace(/\s+/g, '');
+        const match = itemCode.includes(searchCode);
         if (match) console.log(`Coincidencia por código: ${item.code} -> ${item.description}`);
         return match;
       } else {
-        const match = item.description.toLowerCase().includes(searchTerm);
-        if (match) console.log(`Coincidencia por descripción: ${item.description} -> ${item.code}`);
+        // Para descripción: buscar que contenga el texto exacto con espacios
+        const itemDesc = item.description.toLowerCase();
+        
+        // Búsqueda principal: contiene el texto completo
+        const exactMatch = itemDesc.includes(searchTerm);
+        
+        // Búsqueda alternativa: todas las palabras están presentes
+        const words = searchTerm.split(' ').filter(word => word.length > 0);
+        const allWordsMatch = words.every(word => itemDesc.includes(word));
+        
+        const match = exactMatch || (words.length > 1 && allWordsMatch);
+        
+        if (match) {
+          console.log(`Coincidencia por descripción: "${item.description}" -> ${item.code}`);
+          console.log(`  - Coincidencia exacta: ${exactMatch}`);
+          console.log(`  - Todas las palabras: ${allWordsMatch}`);
+        }
         return match;
       }
     });
@@ -219,23 +238,34 @@ class SearchService {
     console.log(`Elementos filtrados: ${filtered.length}`);
     
     return filtered.sort((a, b) => {
-      // Ordenar por relevancia: coincidencias exactas primero
+      // Ordenar por relevancia mejorada
       const aField = searchType === 'code' ? a.code.toLowerCase() : a.description.toLowerCase();
       const bField = searchType === 'code' ? b.code.toLowerCase() : b.description.toLowerCase();
       
-      // Coincidencia exacta
+      // 1. Coincidencia exacta (más alta prioridad)
       const aExact = aField === searchTerm;
       const bExact = bField === searchTerm;
       if (aExact && !bExact) return -1;
       if (!aExact && bExact) return 1;
       
-      // Empieza con el término
+      // 2. Contiene el texto exacto completo
+      const aContainsExact = aField.includes(searchTerm);
+      const bContainsExact = bField.includes(searchTerm);
+      if (aContainsExact && !bContainsExact) return -1;
+      if (!aContainsExact && bContainsExact) return 1;
+      
+      // 3. Empieza con el término
       const aStartsWith = aField.startsWith(searchTerm);
       const bStartsWith = bField.startsWith(searchTerm);
       if (aStartsWith && !bStartsWith) return -1;
       if (!aStartsWith && bStartsWith) return 1;
       
-      // Ordenar alfabéticamente si tienen la misma relevancia
+      // 4. Ordenar por longitud (más corto = más relevante)
+      if (aField.length !== bField.length) {
+        return aField.length - bField.length;
+      }
+      
+      // 5. Ordenar alfabéticamente si tienen la misma relevancia
       return aField.localeCompare(bField);
     }).slice(0, 50); // Limitar a 50 resultados para mejor rendimiento
   }
