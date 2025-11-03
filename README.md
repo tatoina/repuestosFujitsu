@@ -55,7 +55,7 @@ El archivo Excel debe tener estas columnas (detección automática):
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/yourusername/repuestosfuji.git
+git clone https://github.com/tatoina/repuestosfuji.git
 cd repuestosfuji
 
 # Instalar dependencias
@@ -159,7 +159,7 @@ Este proyecto es de uso libre para fines educativos y comerciales.
 
 Para soporte técnico o preguntas:
 - 📧 Email: [tu-email@fujitsu.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/repuestosfuji/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/tatoina/repuestosfuji/issues)
 - 📖 Documentación: Ver archivos README en cada carpeta
 
 ---
