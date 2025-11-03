@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#6200ee">
     <meta name="description" content="Aplicación para búsqueda bidireccional de códigos y descripciones de repuestos">
-    <meta name="app-version" content="20251103-1445">
-    <meta name="build-id" content="chrome-fix-aggressive">
-    <meta name="cache-bust" content="202511031445">
+    <meta name="app-version" content="20251103-1500">
+    <meta name="build-id" content="mobile-force-update-redirect">
+    <meta name="cache-bust" content="202511031500">
     
     <!-- Favicons -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -79,6 +79,24 @@
     
     <!-- Error handling -->
     <script>
+        // Forzar actualización en móviles usando parámetros de URL
+        function forceMobileUpdate() {
+            const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+            const urlParams = new URLSearchParams(window.location.search);
+            const hasUpdateParam = urlParams.get('mobile-update');
+            
+            if (isMobile && !hasUpdateParam) {
+                // Redirigir a URL con parámetro único para forzar descarga nueva
+                const newUrl = window.location.href + (window.location.href.includes('?') ? '&' : '?') + 'mobile-update=v2.1.0&t=' + Date.now();
+                console.log('Forzando actualización móvil:', newUrl);
+                window.location.replace(newUrl);
+                return;
+            }
+        }
+        
+        // Ejecutar al cargar la página
+        forceMobileUpdate();
+        
         // Error handling
         window.addEventListener('error', function(e) {
             console.error('Error cargando la aplicación:', e);
