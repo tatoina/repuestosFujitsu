@@ -27,10 +27,10 @@ const SearchComponent = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-  const [searchType, setSearchType] = useState('description'); // 'description' o 'code'
   const [dataLoaded, setDataLoaded] = useState(false);
   const [debounceTimer, setDebounceTimer] = useState(null);
   const [showAdminPanel, setShowAdminPanel] = useState(false);
+  const [currentSearchType, setCurrentSearchType] = useState('description'); // Para mostrar al usuario qué tipo de búsqueda se está haciendo
 
   useEffect(() => {
     // Solo inicializar datos una vez
@@ -55,10 +55,17 @@ const SearchComponent = () => {
   const handleSearch = async (query = searchQuery) => {
     if (!query.trim()) {
       setSearchResults([]);
+      setCurrentSearchType('description');
       return;
     }
 
-    console.log(`Buscando: "${query}" en modo: ${searchType}`);
+    // Detectar automáticamente el tipo de búsqueda
+    const firstChar = query.trim().charAt(0);
+    const isNumeric = /\d/.test(firstChar);
+    const searchType = isNumeric ? 'code' : 'description';
+    
+    setCurrentSearchType(searchType);
+    console.log(`Búsqueda automática: "${query}" detectado como ${searchType === 'code' ? 'código' : 'descripción'}`);
 
     try {
       setIsLoading(true);
@@ -73,7 +80,7 @@ const SearchComponent = () => {
     }
   };
 
-  // Búsqueda en tiempo real con debounce simplificado
+  // Búsqueda en tiempo real con detección automática
   const handleTextChange = (text) => {
     setSearchQuery(text);
     
@@ -81,6 +88,7 @@ const SearchComponent = () => {
     if (!text.trim()) {
       setSearchResults([]);
       setIsLoading(false);
+      setCurrentSearchType('description');
       return;
     }
     
@@ -97,20 +105,6 @@ const SearchComponent = () => {
       clearTimeout(debounceTimer);
     }
     setDebounceTimer(newTimer);
-  };
-
-  const toggleSearchType = () => {
-    // Limpiar timer activo
-    if (debounceTimer) {
-      clearTimeout(debounceTimer);
-      setDebounceTimer(null);
-    }
-    
-    const newSearchType = searchType === 'description' ? 'code' : 'description';
-    setSearchType(newSearchType);
-    setSearchQuery('');
-    setSearchResults([]);
-    setIsLoading(false);
   };
 
   const copyToClipboard = (text) => {
@@ -142,42 +136,47 @@ const SearchComponent = () => {
             />
           </View>
           
-          <View style={styles.searchTypeContainer}>
-            <Chip
-              selected={searchType === 'description'}
-              onPress={toggleSearchType}
-              style={styles.chip}
-            >
-              Buscar por Descripción
-            </Chip>
-            <Chip
-              selected={searchType === 'code'}
-              onPress={toggleSearchType}
-              style={styles.chip}
-            >
-              Buscar por Código
-            </Chip>
-          </View>
+          {/* Indicador de tipo de búsqueda */}
+          {searchQuery.trim() && (
+            <View style={styles.searchTypeIndicator}>
+              <Chip 
+                icon={() => (
+                  <Ionicons
+                    name={currentSearchType === 'description' ? 'text' : 'barcode'}
+                    size={16}
+                    color="#6200ee"
+                  />
+                )}
+                style={[styles.chip, styles.activeChip]}
+                textStyle={styles.activeChipText}
+              >
+                {currentSearchType === 'description' ? 'Buscando por Descripción' : 'Buscando por Código'}
+              </Chip>
+            </View>
+          )}
 
           <Searchbar
-            placeholder={
-              searchType === 'description'
-                ? 'Escribe para buscar descripción...'
-                : 'Escribe para buscar código...'
-            }
+            placeholder="Escribe código (123...) o descripción (abc...) para buscar"
             onChangeText={handleTextChange}
             value={searchQuery}
             onSubmitEditing={() => handleSearch()}
             style={styles.searchbar}
             icon={() => (
               <Ionicons
-                name={searchType === 'description' ? 'text' : 'barcode'}
+                name="search"
                 size={20}
                 color="#666"
               />
             )}
             autoFocus={true}
           />
+          
+          {/* Ayuda para el usuario */}
+          {!searchQuery.trim() && (
+            <Text style={styles.helpText}>
+              💡 Tip: Comienza con número para buscar código, con letra para descripción
+            </Text>
+          )}
         </View>
 
         <ScrollView style={styles.resultsContainer}>
@@ -200,19 +199,19 @@ const SearchComponent = () => {
                 <View style={styles.resultHeader}>
                   <Ionicons name="car" size={20} color="#6200ee" />
                   <Title style={styles.resultTitle}>
-                    {searchType === 'description' ? item.code : item.description}
+                    {currentSearchType === 'description' ? item.code : item.description}
                   </Title>
                 </View>
                 
                 <Paragraph style={styles.resultSubtitle}>
-                  {searchType === 'description' ? item.description : item.code}
+                  {currentSearchType === 'description' ? item.description : item.code}
                 </Paragraph>
 
                 <View style={styles.cardActions}>
                   <TouchableOpacity
                     style={styles.copyButton}
                     onPress={() => copyToClipboard(
-                      searchType === 'description' ? item.code : item.description
+                      currentSearchType === 'description' ? item.code : item.description
                     )}
                   >
                     <Ionicons name="copy" size={16} color="#6200ee" />
@@ -347,6 +346,17 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: '#666',
     marginBottom: 8,
+  },
+  searchTypeIndicator: {
+    marginBottom: 12,
+    alignItems: 'center',
+  },
+  helpText: {
+    textAlign: 'center',
+    color: '#999',
+    fontSize: 12,
+    marginTop: 8,
+    fontStyle: 'italic',
   },
   cardActions: {
     flexDirection: 'row',
