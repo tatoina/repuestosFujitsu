@@ -79,6 +79,22 @@
     
     <!-- Error handling -->
     <script>
+        // Detección específica de Chrome para forzar refresh
+        function handleChromeCache() {
+            const isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+            const hasRefreshed = sessionStorage.getItem('chrome-refreshed');
+            
+            if (isChrome && !hasRefreshed) {
+                sessionStorage.setItem('chrome-refreshed', 'true');
+                // Recargar página una sola vez en Chrome
+                window.location.reload(true);
+                return;
+            }
+        }
+        
+        // Ejecutar inmediatamente
+        handleChromeCache();
+        
         // Error handling
         window.addEventListener('error', function(e) {
             console.error('Error cargando la aplicación:', e);
