@@ -1,0 +1,6644 @@
+[
+  {
+    "id": 1,
+    "code": "0880070812",
+    "description": "CABLE PARALELO CENTRONICS 5M",
+    "originalData": {
+      "Códigos": "0880070812",
+      "Descripciones": "CABLE PARALELO CENTRONICS 5M "
+    }
+  },
+  {
+    "id": 2,
+    "code": "0880073285",
+    "description": "CABLE PARALELO CENTRONICS 7M",
+    "originalData": {
+      "Códigos": "0880073285",
+      "Descripciones": "CABLE PARALELO CENTRONICS 7M "
+    }
+  },
+  {
+    "id": 3,
+    "code": "0800337132",
+    "description": "CLUNCH (EMBRAGUE DEL ROLLO DE PAPEL)",
+    "originalData": {
+      "Códigos": "0800337132",
+      "Descripciones": "CLUNCH (EMBRAGUE DEL ROLLO DE PAPEL) "
+    }
+  },
+  {
+    "id": 4,
+    "code": "0800330558",
+    "description": "FEED UNIT CON BOUNCHER A4‐T",
+    "originalData": {
+      "Códigos": "0800330558",
+      "Descripciones": "FEED UNIT CON BOUNCHER A4‐T "
+    }
+  },
+  {
+    "id": 5,
+    "code": "0800178410",
+    "description": "FEED UNIT SIN BOUNCHER A4‐T",
+    "originalData": {
+      "Códigos": "0800178410",
+      "Descripciones": "FEED UNIT SIN BOUNCHER A4‐T "
+    }
+  },
+  {
+    "id": 6,
+    "code": "0800248381",
+    "description": "IMPRESORA COMPLETA A4‐T CON BOUNCHER",
+    "originalData": {
+      "Códigos": "0800248381",
+      "Descripciones": "IMPRESORA COMPLETA A4‐T CON BOUNCHER "
+    }
+  },
+  {
+    "id": 7,
+    "code": "0800258137",
+    "description": "PLACA HLM12 (DISPLAY)",
+    "originalData": {
+      "Códigos": "0800258137",
+      "Descripciones": "PLACA HLM12 (DISPLAY) "
+    }
+  },
+  {
+    "id": 8,
+    "code": "0800258128",
+    "description": "PLACA HLM20 (PRINCIPAL) CONECTOR CENTRONICS",
+    "originalData": {
+      "Códigos": "0800258128",
+      "Descripciones": "PLACA HLM20 (PRINCIPAL) CONECTOR CENTRONICS "
+    }
+  },
+  {
+    "id": 9,
+    "code": "0800330567",
+    "description": "PRINTER UNIT",
+    "originalData": {
+      "Códigos": "0800330567",
+      "Descripciones": "PRINTER UNIT "
+    }
+  },
+  {
+    "id": 10,
+    "code": "0800337123",
+    "description": "THERMAL HEAD",
+    "originalData": {
+      "Códigos": "0800337123",
+      "Descripciones": "THERMAL HEAD "
+    }
+  },
+  {
+    "id": 11,
+    "code": "0800318947",
+    "description": "ADAPTADOR 24V‐5V",
+    "originalData": {
+      "Códigos": "0800318947",
+      "Descripciones": "ADAPTADOR 24V‐5V "
+    }
+  },
+  {
+    "id": 12,
+    "code": "0800438602",
+    "description": "ADAPTADOR PARA CONECTAR EL MEDIDOR DE VACIO (PEQUEÑO)",
+    "originalData": {
+      "Códigos": "0800438602",
+      "Descripciones": "ADAPTADOR PARA CONECTAR EL MEDIDOR DE VACIO (PEQUEÑO) "
+    }
+  },
+  {
+    "id": 13,
+    "code": "0800351188",
+    "description": "CABLEADO INTERPICK",
+    "originalData": {
+      "Códigos": "0800351188",
+      "Descripciones": "CABLEADO INTERPICK "
+    }
+  },
+  {
+    "id": 14,
+    "code": "0800458661",
+    "description": "CAJETIN 10€ (TIPO3)",
+    "originalData": {
+      "Códigos": "0800458661",
+      "Descripciones": "CAJETIN 10€ (TIPO3) "
+    }
+  },
+  {
+    "id": 15,
+    "code": "0800463575",
+    "description": "CAJETIN 100€ (TIPO 5)",
+    "originalData": {
+      "Códigos": "0800463575",
+      "Descripciones": "CAJETIN 100€ (TIPO 5) "
+    }
+  },
+  {
+    "id": 16,
+    "code": "0800250661",
+    "description": "CAJETIN 20€ (TIPO 1)",
+    "originalData": {
+      "Códigos": "0800250661",
+      "Descripciones": "CAJETIN 20€ (TIPO 1) "
+    }
+  },
+  {
+    "id": 17,
+    "code": "0800250652",
+    "description": "CAJETIN 50€ (TIPO 2)",
+    "originalData": {
+      "Códigos": "0800250652",
+      "Descripciones": "CAJETIN 50€ (TIPO 2) "
+    }
+  },
+  {
+    "id": 18,
+    "code": "0800341216",
+    "description": "CAJETIN DE RECHAZO CON TAPA (ATHENA F9015 / 6622)",
+    "originalData": {
+      "Códigos": "0800341216",
+      "Descripciones": "CAJETIN DE RECHAZO CON TAPA (ATHENA F9015 / 6622) "
+    }
+  },
+  {
+    "id": 19,
+    "code": "0800346532",
+    "description": "CAJETIN DE RECHAZOS ABIERTO (PUNT GROC)",
+    "originalData": {
+      "Códigos": "0800346532",
+      "Descripciones": "CAJETIN DE RECHAZOS ABIERTO (PUNT GROC) "
+    }
+  },
+  {
+    "id": 20,
+    "code": "0800341092",
+    "description": "CAJETIN SIN CONFIGURAR",
+    "originalData": {
+      "Códigos": "0800341092",
+      "Descripciones": "CAJETIN SIN CONFIGURAR "
+    }
+  },
+  {
+    "id": 21,
+    "code": "0800436454",
+    "description": "CANALETA IGUS 20",
+    "originalData": {
+      "Códigos": "0800436454",
+      "Descripciones": "CANALETA IGUS 20 "
+    }
+  },
+  {
+    "id": 22,
+    "code": "0800459517",
+    "description": "CIERRE CAJETIN DE BILLETES",
+    "originalData": {
+      "Códigos": "0800459517",
+      "Descripciones": "CIERRE CAJETIN DE BILLETES "
+    }
+  },
+  {
+    "id": 23,
+    "code": "0800514119",
+    "description": "CONDENSADOR ELECTROLITICO RADIAL 10MF‐450VA (BTM BILL021‐I‐JDV)",
+    "originalData": {
+      "Códigos": "0800514119",
+      "Descripciones": "CONDENSADOR ELECTROLITICO RADIAL 10MF‐450VA (BTM BILL021‐I‐JDV) "
+    }
+  },
+  {
+    "id": 24,
+    "code": "0800318714",
+    "description": "CONJUNTO CABLES (VER BTM BILL013‐I‐CM R2)",
+    "originalData": {
+      "Códigos": "0800318714",
+      "Descripciones": "CONJUNTO CABLES (VER BTM BILL013‐I‐CM R2) "
+    }
+  },
+  {
+    "id": 25,
+    "code": "0800364995",
+    "description": "CONJUNTO CLUSTERS PICK LINE",
+    "originalData": {
+      "Códigos": "0800364995",
+      "Descripciones": "CONJUNTO CLUSTERS PICK LINE  "
+    }
+  },
+  {
+    "id": 26,
+    "code": "0800466340",
+    "description": "CONJUNTO PIÑONES",
+    "originalData": {
+      "Códigos": "0800466340",
+      "Descripciones": "CONJUNTO PIÑONES "
+    }
+  },
+  {
+    "id": 27,
+    "code": "0800351918",
+    "description": "CORREA",
+    "originalData": {
+      "Códigos": "0800351918",
+      "Descripciones": "CORREA "
+    }
+  },
+  {
+    "id": 28,
+    "code": "0800351927",
+    "description": "CORREA",
+    "originalData": {
+      "Códigos": "0800351927",
+      "Descripciones": "CORREA "
+    }
+  },
+  {
+    "id": 29,
+    "code": "0800358868",
+    "description": "CORREA",
+    "originalData": {
+      "Códigos": "0800358868",
+      "Descripciones": "CORREA "
+    }
+  },
+  {
+    "id": 30,
+    "code": "0800422548",
+    "description": "CORREA",
+    "originalData": {
+      "Códigos": "0800422548",
+      "Descripciones": "CORREA "
+    }
+  },
+  {
+    "id": 31,
+    "code": "0800422557",
+    "description": "CORREA",
+    "originalData": {
+      "Códigos": "0800422557",
+      "Descripciones": "CORREA "
+    }
+  },
+  {
+    "id": 32,
+    "code": "0800422566",
+    "description": "CORREA",
+    "originalData": {
+      "Códigos": "0800422566",
+      "Descripciones": "CORREA "
+    }
+  },
+  {
+    "id": 33,
+    "code": "0800422575",
+    "description": "CORREA",
+    "originalData": {
+      "Códigos": "0800422575",
+      "Descripciones": "CORREA "
+    }
+  },
+  {
+    "id": 34,
+    "code": "0800494417",
+    "description": "CORREA",
+    "originalData": {
+      "Códigos": "0800494417",
+      "Descripciones": "CORREA "
+    }
+  },
+  {
+    "id": 35,
+    "code": "0800477748",
+    "description": "DRIVE SEGMENT ASSY",
+    "originalData": {
+      "Códigos": "0800477748",
+      "Descripciones": "DRIVE SEGMENT ASSY "
+    }
+  },
+  {
+    "id": 36,
+    "code": "0800276091",
+    "description": "EJE DE PICK (PICK LINE)",
+    "originalData": {
+      "Códigos": "0800276091",
+      "Descripciones": "EJE DE PICK (PICK LINE) "
+    }
+  },
+  {
+    "id": 37,
+    "code": "0800351945",
+    "description": "ELECTRONIC BOX ASSY",
+    "originalData": {
+      "Códigos": "0800351945",
+      "Descripciones": "ELECTRONIC BOX ASSY "
+    }
+  },
+  {
+    "id": 38,
+    "code": "0800454139",
+    "description": "ELECTROVALVULA",
+    "originalData": {
+      "Códigos": "0800454139",
+      "Descripciones": "ELECTROVALVULA "
+    }
+  },
+  {
+    "id": 39,
+    "code": "0800446425",
+    "description": "ESPACIADOR PARA CONFIGURAR CAJETIN (4 POR CASSETTE)",
+    "originalData": {
+      "Códigos": "0800446425",
+      "Descripciones": "ESPACIADOR PARA CONFIGURAR CAJETIN (4 POR CASSETTE) "
+    }
+  },
+  {
+    "id": 40,
+    "code": "0800446416",
+    "description": "ESPACIADOR PARA CONFIGURAR CAJETIN (8 POR CASSETTE)",
+    "originalData": {
+      "Códigos": "0800446416",
+      "Descripciones": "ESPACIADOR PARA CONFIGURAR CAJETIN (8 POR CASSETTE) "
+    }
+  },
+  {
+    "id": 41,
+    "code": "0800232922",
+    "description": "EXTRACTOR DE PIÑONES",
+    "originalData": {
+      "Códigos": "0800232922",
+      "Descripciones": "EXTRACTOR DE PIÑONES "
+    }
+  },
+  {
+    "id": 42,
+    "code": "0800351963",
+    "description": "FILTRO",
+    "originalData": {
+      "Códigos": "0800351963",
+      "Descripciones": "FILTRO "
+    }
+  },
+  {
+    "id": 43,
+    "code": "0800473822",
+    "description": "GUIA SALIDA UPPER LH",
+    "originalData": {
+      "Códigos": "0800473822",
+      "Descripciones": "GUIA SALIDA UPPER LH "
+    }
+  },
+  {
+    "id": 44,
+    "code": "0800473831",
+    "description": "GUIA SALIDA UPPER RH",
+    "originalData": {
+      "Códigos": "0800473831",
+      "Descripciones": "GUIA SALIDA UPPER RH "
+    }
+  },
+  {
+    "id": 45,
+    "code": "0800422539",
+    "description": "LVTD",
+    "originalData": {
+      "Códigos": "0800422539",
+      "Descripciones": "LVTD "
+    }
+  },
+  {
+    "id": 46,
+    "code": "0800351954",
+    "description": "MODULO LOWER 1‐2 (S1 –F9015 / 6622)",
+    "originalData": {
+      "Códigos": "0800351954",
+      "Descripciones": "MODULO LOWER 1‐2 (S1 –F9015 / 6622) "
+    }
+  },
+  {
+    "id": 47,
+    "code": "0800352016",
+    "description": "MODULO LOWER 3",
+    "originalData": {
+      "Códigos": "0800352016",
+      "Descripciones": "MODULO LOWER 3 "
+    }
+  },
+  {
+    "id": 48,
+    "code": "0800470889",
+    "description": "MOTOR DEL CLAMP / STOPPER DEL CLAMP (INCLUYE PIÑON)",
+    "originalData": {
+      "Códigos": "0800470889",
+      "Descripciones": "MOTOR DEL CLAMP / STOPPER DEL CLAMP (INCLUYE PIÑON) "
+    }
+  },
+  {
+    "id": 49,
+    "code": "0800318144",
+    "description": "MOTOR SHUTTER",
+    "originalData": {
+      "Códigos": "0800318144",
+      "Descripciones": "MOTOR SHUTTER "
+    }
+  },
+  {
+    "id": 50,
+    "code": "0800351678",
+    "description": "MOTOR SHUTTER ATHENA (F9015 / 6622)",
+    "originalData": {
+      "Códigos": "0800351678",
+      "Descripciones": "MOTOR SHUTTER ATHENA (F9015 / 6622) "
+    }
+  },
+  {
+    "id": 51,
+    "code": "0800460015",
+    "description": "MOTOR TRANSPORTE HORIZONTAL (* PROBLEMA ENTREGA CORTA)",
+    "originalData": {
+      "Códigos": "0800460015",
+      "Descripciones": "MOTOR TRANSPORTE HORIZONTAL (* PROBLEMA ENTREGA CORTA) "
+    }
+  },
+  {
+    "id": 52,
+    "code": "0800390305",
+    "description": "MUELLE INTERNO PARA PIEZA VERDE ANCLAJE DE CAJETIN",
+    "originalData": {
+      "Códigos": "0800390305",
+      "Descripciones": "MUELLE INTERNO PARA PIEZA VERDE ANCLAJE DE CAJETIN "
+    }
+  },
+  {
+    "id": 53,
+    "code": "0800386418",
+    "description": "MUELLE INTERNO PARA PIEZA VERDE ANCLAJE DE CAJETIN DE RECHAZOS",
+    "originalData": {
+      "Códigos": "0800386418",
+      "Descripciones": "MUELLE INTERNO PARA PIEZA VERDE ANCLAJE DE CAJETIN DE RECHAZOS "
+    }
+  },
+  {
+    "id": 54,
+    "code": "0800365002",
+    "description": "PIEZA VERDE ANCLAJE DE CAJETIN",
+    "originalData": {
+      "Códigos": "0800365002",
+      "Descripciones": "PIEZA VERDE ANCLAJE DE CAJETIN "
+    }
+  },
+  {
+    "id": 55,
+    "code": "0800364968",
+    "description": "PIEZA VERDE ANCLAJE DE CAJETIN DE RECHAZOS",
+    "originalData": {
+      "Códigos": "0800364968",
+      "Descripciones": "PIEZA VERDE ANCLAJE DE CAJETIN DE RECHAZOS "
+    }
+  },
+  {
+    "id": 56,
+    "code": "0800494596",
+    "description": "PIÑON",
+    "originalData": {
+      "Códigos": "0800494596",
+      "Descripciones": "PIÑON "
+    }
+  },
+  {
+    "id": 57,
+    "code": "0800502694",
+    "description": "PIÑON",
+    "originalData": {
+      "Códigos": "0800502694",
+      "Descripciones": "PIÑON "
+    }
+  },
+  {
+    "id": 58,
+    "code": "0800280638",
+    "description": "PIÑON MOTOR DEL CLAMP",
+    "originalData": {
+      "Códigos": "0800280638",
+      "Descripciones": "PIÑON MOTOR DEL CLAMP "
+    }
+  },
+  {
+    "id": 59,
+    "code": "0800341154",
+    "description": "PLACA DE CONTROL",
+    "originalData": {
+      "Códigos": "0800341154",
+      "Descripciones": "PLACA DE CONTROL "
+    }
+  },
+  {
+    "id": 60,
+    "code": "0800464057",
+    "description": "PLACA DE CONTROL NUEVA (AS4450751703G)",
+    "originalData": {
+      "Códigos": "0800464057",
+      "Descripciones": "PLACA DE CONTROL NUEVA (AS4450751703G) "
+    }
+  },
+  {
+    "id": 61,
+    "code": "0800350802",
+    "description": "PLACA DOUBLE PICK I/F",
+    "originalData": {
+      "Códigos": "0800350802",
+      "Descripciones": "PLACA DOUBLE PICK I/F "
+    }
+  },
+  {
+    "id": 62,
+    "code": "0800318849",
+    "description": "PLACA RIO",
+    "originalData": {
+      "Códigos": "0800318849",
+      "Descripciones": "PLACA RIO "
+    }
+  },
+  {
+    "id": 63,
+    "code": "0800318153",
+    "description": "PLACA SHUTTER NCR",
+    "originalData": {
+      "Códigos": "0800318153",
+      "Descripciones": "PLACA SHUTTER NCR "
+    }
+  },
+  {
+    "id": 64,
+    "code": "0800350811",
+    "description": "PLACA SINGLE PICK I/F",
+    "originalData": {
+      "Códigos": "0800350811",
+      "Descripciones": "PLACA SINGLE PICK I/F "
+    }
+  },
+  {
+    "id": 65,
+    "code": "0800341181",
+    "description": "PRESENTER (ATHENA F9015 / 6622)",
+    "originalData": {
+      "Códigos": "0800341181",
+      "Descripciones": "PRESENTER (ATHENA F9015 / 6622) "
+    }
+  },
+  {
+    "id": 66,
+    "code": "0800341190",
+    "description": "PRESENTER (S1 PUNT GROC)",
+    "originalData": {
+      "Códigos": "0800341190",
+      "Descripciones": "PRESENTER (S1 PUNT GROC) "
+    }
+  },
+  {
+    "id": 67,
+    "code": "0800351972",
+    "description": "RACOR EN T",
+    "originalData": {
+      "Códigos": "0800351972",
+      "Descripciones": "RACOR EN T "
+    }
+  },
+  {
+    "id": 68,
+    "code": "0800477338",
+    "description": "REMACHES BLANCOS FIJACION PLACA PICK I/F (LARGOS) (10 UNIDADES)",
+    "originalData": {
+      "Códigos": "0800477338",
+      "Descripciones": "REMACHES BLANCOS FIJACION PLACA PICK I/F (LARGOS) (10 UNIDADES) "
+    }
+  },
+  {
+    "id": 69,
+    "code": "0800477347",
+    "description": "REMACHES BLANCOS FIJACION SENSORES (CORTOS) (10 UNIDADES)",
+    "originalData": {
+      "Códigos": "0800477347",
+      "Descripciones": "REMACHES BLANCOS FIJACION SENSORES (CORTOS) (10 UNIDADES) "
+    }
+  },
+  {
+    "id": 70,
+    "code": "0800465957",
+    "description": "RUEDA DENTADA NUMERADA SINCRONIZACION",
+    "originalData": {
+      "Códigos": "0800465957",
+      "Descripciones": "RUEDA DENTADA NUMERADA SINCRONIZACION "
+    }
+  },
+  {
+    "id": 71,
+    "code": "0800351936",
+    "description": "RUEDA TACOMETRO",
+    "originalData": {
+      "Códigos": "0800351936",
+      "Descripciones": "RUEDA TACOMETRO "
+    }
+  },
+  {
+    "id": 72,
+    "code": "0800335909",
+    "description": "RUEDA VERDE",
+    "originalData": {
+      "Códigos": "0800335909",
+      "Descripciones": "RUEDA VERDE "
+    }
+  },
+  {
+    "id": 73,
+    "code": "0800381681",
+    "description": "SHUTTER ATHENA (F9015 / 6622)",
+    "originalData": {
+      "Códigos": "0800381681",
+      "Descripciones": "SHUTTER ATHENA (F9015 / 6622) "
+    }
+  },
+  {
+    "id": 74,
+    "code": "0800318180",
+    "description": "SHUTTER COMPLETO MODELO C",
+    "originalData": {
+      "Códigos": "0800318180",
+      "Descripciones": "SHUTTER COMPLETO MODELO C "
+    }
+  },
+  {
+    "id": 75,
+    "code": "0800416109",
+    "description": "SHUTTER COMPLETO MODELOS C, D, E",
+    "originalData": {
+      "Códigos": "0800416109",
+      "Descripciones": "SHUTTER COMPLETO MODELOS C, D, E "
+    }
+  },
+  {
+    "id": 76,
+    "code": "0800442189",
+    "description": "SHUTTER COMPLETO TODOS LOS MODELOS",
+    "originalData": {
+      "Códigos": "0800442189",
+      "Descripciones": "SHUTTER COMPLETO TODOS LOS MODELOS "
+    }
+  },
+  {
+    "id": 77,
+    "code": "0800439567",
+    "description": "SWITCH DETECCION CAJETIN DE RECHAZO",
+    "originalData": {
+      "Códigos": "0800439567",
+      "Descripciones": "SWITCH DETECCION CAJETIN DE RECHAZO "
+    }
+  },
+  {
+    "id": 78,
+    "code": "0800470317",
+    "description": "TUBERIA (1 METRO TUBO AZUL)",
+    "originalData": {
+      "Códigos": "0800470317",
+      "Descripciones": "TUBERIA (1 METRO TUBO AZUL) "
+    }
+  },
+  {
+    "id": 79,
+    "code": "0800487577",
+    "description": "TUBO SILICONA (DE ELECTROVALVULA A PICK LINE)",
+    "originalData": {
+      "Códigos": "0800487577",
+      "Descripciones": "TUBO SILICONA (DE ELECTROVALVULA A PICK LINE) "
+    }
+  },
+  {
+    "id": 80,
+    "code": "0800318162",
+    "description": "UNIDAD DE BILLETES NCR S1 (2 DENOMINACIONES 1+2+3)",
+    "originalData": {
+      "Códigos": "0800318162",
+      "Descripciones": "UNIDAD DE BILLETES NCR S1 (2 DENOMINACIONES 1+2+3) "
+    }
+  },
+  {
+    "id": 81,
+    "code": "0800438611",
+    "description": "VACUOMETRO (MEDIDOR DE VACIO) (DOS MODELOS)",
+    "originalData": {
+      "Códigos": "0800438611",
+      "Descripciones": "VACUOMETRO (MEDIDOR DE VACIO) (DOS MODELOS) "
+    }
+  },
+  {
+    "id": 82,
+    "code": "0800395033",
+    "description": "VACUUM RESERVOIR (CAMARA DE COMPENSACION)",
+    "originalData": {
+      "Códigos": "0800395033",
+      "Descripciones": "VACUUM RESERVOIR (CAMARA DE COMPENSACION) "
+    }
+  },
+  {
+    "id": 83,
+    "code": "0800352007",
+    "description": "VENTOSA",
+    "originalData": {
+      "Códigos": "0800352007",
+      "Descripciones": "VENTOSA "
+    }
+  },
+  {
+    "id": 84,
+    "code": "0800458322",
+    "description": "CABEZAL TERMICO",
+    "originalData": {
+      "Códigos": "0800458322",
+      "Descripciones": "CABEZAL TERMICO "
+    }
+  },
+  {
+    "id": 85,
+    "code": "0800458331",
+    "description": "CABLE DE CABEZAL TERMICO",
+    "originalData": {
+      "Códigos": "0800458331",
+      "Descripciones": "CABLE DE CABEZAL TERMICO "
+    }
+  },
+  {
+    "id": 86,
+    "code": "0800258752",
+    "description": "CABLE USB A‐B",
+    "originalData": {
+      "Códigos": "0800258752",
+      "Descripciones": "CABLE USB A‐B "
+    }
+  },
+  {
+    "id": 87,
+    "code": "0800486701",
+    "description": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B EN NCRW)",
+    "originalData": {
+      "Códigos": "0800486701",
+      "Descripciones": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B EN NCRW) "
+    }
+  },
+  {
+    "id": 88,
+    "code": "0800453210",
+    "description": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG NCR (USB MINI EN NCRW)",
+    "originalData": {
+      "Códigos": "0800453210",
+      "Descripciones": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG NCR (USB MINI EN NCRW) "
+    }
+  },
+  {
+    "id": 89,
+    "code": "0800458536",
+    "description": "CORTADORA",
+    "originalData": {
+      "Códigos": "0800458536",
+      "Descripciones": "CORTADORA "
+    }
+  },
+  {
+    "id": 90,
+    "code": "0800458509",
+    "description": "ENGRANAJE 2 (?)",
+    "originalData": {
+      "Códigos": "0800458509",
+      "Descripciones": "ENGRANAJE 2 (?) "
+    }
+  },
+  {
+    "id": 91,
+    "code": "0800458493",
+    "description": "ENGRANAJE 25 (?)",
+    "originalData": {
+      "Códigos": "0800458493",
+      "Descripciones": "ENGRANAJE 25 (?) "
+    }
+  },
+  {
+    "id": 92,
+    "code": "0800458518",
+    "description": "ENGRANAJE 4 (?)",
+    "originalData": {
+      "Códigos": "0800458518",
+      "Descripciones": "ENGRANAJE 4 (?) "
+    }
+  },
+  {
+    "id": 93,
+    "code": "0800458527",
+    "description": "ENGRANAJE 5 (?)",
+    "originalData": {
+      "Códigos": "0800458527",
+      "Descripciones": "ENGRANAJE 5 (?) "
+    }
+  },
+  {
+    "id": 94,
+    "code": "0800458484",
+    "description": "ENGRANAJE 51‐52 (?)",
+    "originalData": {
+      "Códigos": "0800458484",
+      "Descripciones": "ENGRANAJE 51‐52 (?) "
+    }
+  },
+  {
+    "id": 95,
+    "code": "0800458475",
+    "description": "ENGRANAJE DEL RODILLO (?)",
+    "originalData": {
+      "Códigos": "0800458475",
+      "Descripciones": "ENGRANAJE DEL RODILLO (?) "
+    }
+  },
+  {
+    "id": 96,
+    "code": "0800448245",
+    "description": "IMPRESORA RECIBOS BK‐T080II",
+    "originalData": {
+      "Códigos": "0800448245",
+      "Descripciones": "IMPRESORA RECIBOS BK‐T080II "
+    }
+  },
+  {
+    "id": 97,
+    "code": "0800458563",
+    "description": "INTERRUPTOR ENCENDIDO",
+    "originalData": {
+      "Códigos": "0800458563",
+      "Descripciones": "INTERRUPTOR ENCENDIDO "
+    }
+  },
+  {
+    "id": 98,
+    "code": "0800458448",
+    "description": "MICRO SWITCH IMPRESORA CERRADA",
+    "originalData": {
+      "Códigos": "0800458448",
+      "Descripciones": "MICRO SWITCH IMPRESORA CERRADA "
+    }
+  },
+  {
+    "id": 99,
+    "code": "0800458340",
+    "description": "MOTOR IMPRESORA",
+    "originalData": {
+      "Códigos": "0800458340",
+      "Descripciones": "MOTOR IMPRESORA "
+    }
+  },
+  {
+    "id": 100,
+    "code": "0800458359",
+    "description": "MOTOR PRESENTADOR",
+    "originalData": {
+      "Códigos": "0800458359",
+      "Descripciones": "MOTOR PRESENTADOR "
+    }
+  },
+  {
+    "id": 101,
+    "code": "0800458545",
+    "description": "PALANCA VERDE CIERRE CORTADORA",
+    "originalData": {
+      "Códigos": "0800458545",
+      "Descripciones": "PALANCA VERDE CIERRE CORTADORA "
+    }
+  },
+  {
+    "id": 102,
+    "code": "0800458439",
+    "description": "PANEL DE TECLADO",
+    "originalData": {
+      "Códigos": "0800458439",
+      "Descripciones": "PANEL DE TECLADO "
+    }
+  },
+  {
+    "id": 103,
+    "code": "0800458368",
+    "description": "PLACA CONTROLADORA",
+    "originalData": {
+      "Códigos": "0800458368",
+      "Descripciones": "PLACA CONTROLADORA "
+    }
+  },
+  {
+    "id": 104,
+    "code": "0800458377",
+    "description": "PLACA TRANSFERENCIA",
+    "originalData": {
+      "Códigos": "0800458377",
+      "Descripciones": "PLACA TRANSFERENCIA "
+    }
+  },
+  {
+    "id": 105,
+    "code": "0800458466",
+    "description": "PRE RODILLO",
+    "originalData": {
+      "Códigos": "0800458466",
+      "Descripciones": "PRE RODILLO "
+    }
+  },
+  {
+    "id": 106,
+    "code": "0800458457",
+    "description": "RODILLO DE IMPRESION",
+    "originalData": {
+      "Códigos": "0800458457",
+      "Descripciones": "RODILLO DE IMPRESION "
+    }
+  },
+  {
+    "id": 107,
+    "code": "0800458395",
+    "description": "SENSOR DE CARGA DE PAPEL",
+    "originalData": {
+      "Códigos": "0800458395",
+      "Descripciones": "SENSOR DE CARGA DE PAPEL "
+    }
+  },
+  {
+    "id": 108,
+    "code": "0800458386",
+    "description": "SENSOR DE MARCA",
+    "originalData": {
+      "Códigos": "0800458386",
+      "Descripciones": "SENSOR DE MARCA "
+    }
+  },
+  {
+    "id": 109,
+    "code": "0800458420",
+    "description": "SENSOR DE PAPEL",
+    "originalData": {
+      "Códigos": "0800458420",
+      "Descripciones": "SENSOR DE PAPEL "
+    }
+  },
+  {
+    "id": 110,
+    "code": "0800458411",
+    "description": "SENSOR DE PAPEL BAJO",
+    "originalData": {
+      "Códigos": "0800458411",
+      "Descripciones": "SENSOR DE PAPEL BAJO "
+    }
+  },
+  {
+    "id": 111,
+    "code": "0800458402",
+    "description": "SENSOR DE SALIDA DE PAPEL",
+    "originalData": {
+      "Códigos": "0800458402",
+      "Descripciones": "SENSOR DE SALIDA DE PAPEL "
+    }
+  },
+  {
+    "id": 112,
+    "code": "0800458554",
+    "description": "TAPA ENGRANAJES",
+    "originalData": {
+      "Códigos": "0800458554",
+      "Descripciones": "TAPA ENGRANAJES "
+    }
+  },
+  {
+    "id": 113,
+    "code": "0800499421",
+    "description": "TOPE VERDE FIJACION ROLLO DE RECIBOS",
+    "originalData": {
+      "Códigos": "0800499421",
+      "Descripciones": "TOPE VERDE FIJACION ROLLO DE RECIBOS "
+    }
+  },
+  {
+    "id": 114,
+    "code": "0800410481",
+    "description": "ASA (VERDE) CAJETIN + MUELLE GBXX",
+    "originalData": {
+      "Códigos": "0800410481",
+      "Descripciones": "ASA (VERDE) CAJETIN + MUELLE GBXX "
+    }
+  },
+  {
+    "id": 115,
+    "code": "0800458661",
+    "description": "CAJETIN 10€ BDU NCR",
+    "originalData": {
+      "Códigos": "0800458661",
+      "Descripciones": "CAJETIN 10€ BDU NCR "
+    }
+  },
+  {
+    "id": 116,
+    "code": "0800346532",
+    "description": "CAJETIN 100€ BDU NCR",
+    "originalData": {
+      "Códigos": "0800346532",
+      "Descripciones": "CAJETIN 100€ BDU NCR "
+    }
+  },
+  {
+    "id": 117,
+    "code": "0800250661",
+    "description": "CAJETIN 20€ BDU NCR",
+    "originalData": {
+      "Códigos": "0800250661",
+      "Descripciones": "CAJETIN 20€ BDU NCR "
+    }
+  },
+  {
+    "id": 118,
+    "code": "0800250652",
+    "description": "CAJETIN 50€ BDU NCR",
+    "originalData": {
+      "Códigos": "0800250652",
+      "Descripciones": "CAJETIN 50€ BDU NCR "
+    }
+  },
+  {
+    "id": 119,
+    "code": "0800453835",
+    "description": "CAJETIN DE EFECTIVO G510",
+    "originalData": {
+      "Códigos": "0800453835",
+      "Descripciones": "CAJETIN DE EFECTIVO G510 "
+    }
+  },
+  {
+    "id": 120,
+    "code": "0800463575",
+    "description": "CAJETIN DE RECHAZOS BDU NCR",
+    "originalData": {
+      "Códigos": "0800463575",
+      "Descripciones": "CAJETIN DE RECHAZOS BDU NCR "
+    }
+  },
+  {
+    "id": 121,
+    "code": "0800446997",
+    "description": "CAJETIN DE RECHAZOS G510",
+    "originalData": {
+      "Códigos": "0800446997",
+      "Descripciones": "CAJETIN DE RECHAZOS G510 "
+    }
+  },
+  {
+    "id": 122,
+    "code": "0800252357",
+    "description": "CAJETIN DE RECHAZOS GBRU",
+    "originalData": {
+      "Códigos": "0800252357",
+      "Descripciones": "CAJETIN DE RECHAZOS GBRU "
+    }
+  },
+  {
+    "id": 123,
+    "code": "0800312621",
+    "description": "CAJETIN DEPOSITO GBNA/GBRU",
+    "originalData": {
+      "Códigos": "0800312621",
+      "Descripciones": "CAJETIN DEPOSITO GBNA/GBRU "
+    }
+  },
+  {
+    "id": 124,
+    "code": "0800503639",
+    "description": "CAJETIN DEPOSITO SIN CONFIGURAR GBRU‐E",
+    "originalData": {
+      "Códigos": "0800503639",
+      "Descripciones": "CAJETIN DEPOSITO SIN CONFIGURAR GBRU‐E "
+    }
+  },
+  {
+    "id": 125,
+    "code": "0800503620",
+    "description": "CAJETIN RECICLABLE ESTANDAR SIN CONFIGURAR GBRU‐E",
+    "originalData": {
+      "Códigos": "0800503620",
+      "Descripciones": "CAJETIN RECICLABLE ESTANDAR SIN CONFIGURAR GBRU‐E "
+    }
+  },
+  {
+    "id": 126,
+    "code": "0800379523",
+    "description": "CAJETIN RECICLABLES 20€ GBRU",
+    "originalData": {
+      "Códigos": "0800379523",
+      "Descripciones": "CAJETIN RECICLABLES 20€ GBRU "
+    }
+  },
+  {
+    "id": 127,
+    "code": "0800508527",
+    "description": "CAJETIN RECICLABLES 20€ GBRU‐E",
+    "originalData": {
+      "Códigos": "0800508527",
+      "Descripciones": "CAJETIN RECICLABLES 20€ GBRU‐E "
+    }
+  },
+  {
+    "id": 128,
+    "code": "0800379532",
+    "description": "CAJETIN RECICLABLES 50€ GBRU",
+    "originalData": {
+      "Códigos": "0800379532",
+      "Descripciones": "CAJETIN RECICLABLES 50€ GBRU "
+    }
+  },
+  {
+    "id": 129,
+    "code": "0800508536",
+    "description": "CAJETIN RECICLABLES 50€ GBRU‐E",
+    "originalData": {
+      "Códigos": "0800508536",
+      "Descripciones": "CAJETIN RECICLABLES 50€ GBRU‐E "
+    }
+  },
+  {
+    "id": 130,
+    "code": "0800410285",
+    "description": "MUELLE DE ASA DE CAJETIN GBXX",
+    "originalData": {
+      "Códigos": "0800410285",
+      "Descripciones": "MUELLE DE ASA DE CAJETIN GBXX "
+    }
+  },
+  {
+    "id": 131,
+    "code": "0800447374",
+    "description": "BOMBIN + LLAVES PUERTA SUPERIOR S100 (PERSONALIZADA IBERCAJA)",
+    "originalData": {
+      "Códigos": "0800447374",
+      "Descripciones": "BOMBIN + LLAVES PUERTA SUPERIOR S100 (PERSONALIZADA IBERCAJA) "
+    }
+  },
+  {
+    "id": 132,
+    "code": "0800464048",
+    "description": "CAJA CONEXIONES SPIDER COM (BBVA)",
+    "originalData": {
+      "Códigos": "0800464048",
+      "Descripciones": "CAJA CONEXIONES SPIDER COM (BBVA) "
+    }
+  },
+  {
+    "id": 133,
+    "code": "0800198522",
+    "description": "CERRADURA CAWI 7215‐300",
+    "originalData": {
+      "Códigos": "0800198522",
+      "Descripciones": "CERRADURA CAWI 7215‐300 "
+    }
+  },
+  {
+    "id": 134,
+    "code": "0800457617",
+    "description": "CERRADURA GATOR 3000 (MANTIENE ALARMAS)",
+    "originalData": {
+      "Códigos": "0800457617",
+      "Descripciones": "CERRADURA GATOR 3000 (MANTIENE ALARMAS) "
+    }
+  },
+  {
+    "id": 135,
+    "code": "0800438639",
+    "description": "CERRADURA PRIMOR 1000 (CAWI EN1300)",
+    "originalData": {
+      "Códigos": "0800438639",
+      "Descripciones": "CERRADURA PRIMOR 1000 (CAWI EN1300) "
+    }
+  },
+  {
+    "id": 136,
+    "code": "0800476856",
+    "description": "CERRADURA PULSE WIN (IBERCAJA)",
+    "originalData": {
+      "Códigos": "0800476856",
+      "Descripciones": "CERRADURA PULSE WIN (IBERCAJA) "
+    }
+  },
+  {
+    "id": 137,
+    "code": "0800475483",
+    "description": "CERRADURA SG6125 (BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800475483",
+      "Descripciones": "CERRADURA SG6125 (BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 138,
+    "code": "0800483697",
+    "description": "CERRADURA SPIDER COM (BBVA)",
+    "originalData": {
+      "Códigos": "0800483697",
+      "Descripciones": "CERRADURA SPIDER COM (BBVA) "
+    }
+  },
+  {
+    "id": 139,
+    "code": "0800473216",
+    "description": "CONJUNTO GATOR 3000 COMPLETO (MANTIENE ALARMAS)",
+    "originalData": {
+      "Códigos": "0800473216",
+      "Descripciones": "CONJUNTO GATOR 3000 COMPLETO (MANTIENE ALARMAS) "
+    }
+  },
+  {
+    "id": 140,
+    "code": "0800478284",
+    "description": "JUEGO 2 LLAVES PARA CERRADURA KABA 70040 (RBG)",
+    "originalData": {
+      "Códigos": "0800478284",
+      "Descripciones": "JUEGO 2 LLAVES PARA CERRADURA KABA 70040 (RBG) "
+    }
+  },
+  {
+    "id": 141,
+    "code": "0800329285",
+    "description": "LOCK KEY COMBINACION 6880‐069FAS",
+    "originalData": {
+      "Códigos": "0800329285",
+      "Descripciones": "LOCK KEY COMBINACION 6880‐069FAS "
+    }
+  },
+  {
+    "id": 142,
+    "code": "0800475241",
+    "description": "LOCK MISMA KEY (CAIXA)",
+    "originalData": {
+      "Códigos": "0800475241",
+      "Descripciones": "LOCK MISMA KEY (CAIXA) "
+    }
+  },
+  {
+    "id": 143,
+    "code": "0800182370",
+    "description": "LOCK MISMA KEY (CAIXA) (ALTERNATIVO 0800475241)",
+    "originalData": {
+      "Códigos": "0800182370",
+      "Descripciones": "LOCK MISMA KEY (CAIXA) (ALTERNATIVO 0800475241) "
+    }
+  },
+  {
+    "id": 144,
+    "code": "0800463227",
+    "description": "MANETA CAJA FUERTE F8148 / S100",
+    "originalData": {
+      "Códigos": "0800463227",
+      "Descripciones": "MANETA CAJA FUERTE F8148 / S100 "
+    }
+  },
+  {
+    "id": 145,
+    "code": "0800441340",
+    "description": "MEMBRANA NUMERICA DE TECLADO MINITECH (RBG)",
+    "originalData": {
+      "Códigos": "0800441340",
+      "Descripciones": "MEMBRANA NUMERICA DE TECLADO MINITECH (RBG)   "
+    }
+  },
+  {
+    "id": 146,
+    "code": "0800441340",
+    "description": "MEMBRANA TECLADO PULSE WIN (IBERCAJA)",
+    "originalData": {
+      "Códigos": "0800441340",
+      "Descripciones": "MEMBRANA TECLADO PULSE WIN (IBERCAJA) "
+    }
+  },
+  {
+    "id": 147,
+    "code": "0800441368",
+    "description": "PESTILLO CERRADURA MINITECH (RBG)",
+    "originalData": {
+      "Códigos": "0800441368",
+      "Descripciones": "PESTILLO CERRADURA MINITECH (RBG)  "
+    }
+  },
+  {
+    "id": 148,
+    "code": "0800444882",
+    "description": "PESTILLO IVOX 4.19.97 + LLAVES NO AMAESTRABLES (RBG)",
+    "originalData": {
+      "Códigos": "0800444882",
+      "Descripciones": "PESTILLO IVOX 4.19.97 + LLAVES NO AMAESTRABLES (RBG) "
+    }
+  },
+  {
+    "id": 149,
+    "code": "0800477819",
+    "description": "PESTILLO KABA 70040 + LLAVES AMAESTRABLES (RBG)",
+    "originalData": {
+      "Códigos": "0800477819",
+      "Descripciones": "PESTILLO KABA 70040 + LLAVES AMAESTRABLES (RBG) "
+    }
+  },
+  {
+    "id": 150,
+    "code": "0800335205",
+    "description": "TECLADO CAWI",
+    "originalData": {
+      "Códigos": "0800335205",
+      "Descripciones": "TECLADO CAWI "
+    }
+  },
+  {
+    "id": 151,
+    "code": "0800499626",
+    "description": "TECLADO GATOR 3000 (MANTIENE ALARMAS)",
+    "originalData": {
+      "Códigos": "0800499626",
+      "Descripciones": "TECLADO GATOR 3000 (MANTIENE ALARMAS) "
+    }
+  },
+  {
+    "id": 152,
+    "code": "0800441359",
+    "description": "TECLADO MINITECH COMPLETO (RBG)",
+    "originalData": {
+      "Códigos": "0800441359",
+      "Descripciones": "TECLADO MINITECH COMPLETO (RBG)   "
+    }
+  },
+  {
+    "id": 153,
+    "code": "0800438648",
+    "description": "TECLADO PRIMOR 1000 FS",
+    "originalData": {
+      "Códigos": "0800438648",
+      "Descripciones": "TECLADO PRIMOR 1000 FS "
+    }
+  },
+  {
+    "id": 154,
+    "code": "0800455584",
+    "description": "TECLADO PRIMOR 1000 RO (CUATRO PUNTOS ANCLAJE)",
+    "originalData": {
+      "Códigos": "0800455584",
+      "Descripciones": "TECLADO PRIMOR 1000 RO (CUATRO PUNTOS ANCLAJE) "
+    }
+  },
+  {
+    "id": 155,
+    "code": "0800479318",
+    "description": "TECLADO PRIMOR 1000 RO (OCHO PUNTOS ANCLAJE)",
+    "originalData": {
+      "Códigos": "0800479318",
+      "Descripciones": "TECLADO PRIMOR 1000 RO (OCHO PUNTOS ANCLAJE) "
+    }
+  },
+  {
+    "id": 156,
+    "code": "0800366065",
+    "description": "TECLADO PULSE WIN (IBERCAJA)",
+    "originalData": {
+      "Códigos": "0800366065",
+      "Descripciones": "TECLADO PULSE WIN (IBERCAJA) "
+    }
+  },
+  {
+    "id": 157,
+    "code": "0800066683",
+    "description": "TECLADO SG6125 (DOS PILAS) (BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800066683",
+      "Descripciones": "TECLADO SG6125 (DOS PILAS) (BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 158,
+    "code": "0800483688",
+    "description": "TECLADO SPIDER COM (BBVA)",
+    "originalData": {
+      "Códigos": "0800483688",
+      "Descripciones": "TECLADO SPIDER COM (BBVA) "
+    }
+  },
+  {
+    "id": 159,
+    "code": "0800507485",
+    "description": "[Q170 ASROCK] CONTROLADOR Q170 ASROCK I7/W7/W10",
+    "originalData": {
+      "Códigos": "0800507485",
+      "Descripciones": "[Q170 ASROCK] CONTROLADOR Q170 ASROCK I7/W7/W10 "
+    }
+  },
+  {
+    "id": 160,
+    "code": "0800506226",
+    "description": "[Q170 ASROCK] MEMORIA PARA I7 4GB DDR4 2666 (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800506226",
+      "Descripciones": "[Q170 ASROCK] MEMORIA PARA I7 4GB DDR4 2666 (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 161,
+    "code": "0800504497",
+    "description": "[Q170 ASROCK] MICROPROCESADOR I7‐6700  (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800504497",
+      "Descripciones": "[Q170 ASROCK] MICROPROCESADOR I7‐6700  (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 162,
+    "code": "0800506235",
+    "description": "[Q170] CABLE BOTON ENCENDIDO Q170",
+    "originalData": {
+      "Códigos": "0800506235",
+      "Descripciones": "[Q170] CABLE BOTON ENCENDIDO Q170 "
+    }
+  },
+  {
+    "id": 163,
+    "code": "0800486694",
+    "description": "[Q170] CONTROLADOR Q170 I5 4GB/W7",
+    "originalData": {
+      "Códigos": "0800486694",
+      "Descripciones": "[Q170] CONTROLADOR Q170 I5 4GB/W7 "
+    }
+  },
+  {
+    "id": 164,
+    "code": "0800519515",
+    "description": "[Q170] CONTROLADOR Q170 I5 8GB/W10",
+    "originalData": {
+      "Códigos": "0800519515",
+      "Descripciones": "[Q170] CONTROLADOR Q170 I5 8GB/W10 "
+    }
+  },
+  {
+    "id": 165,
+    "code": "0800489290",
+    "description": "[Q170] CONTROLADOR Q170 I7 8GB/W7/W10",
+    "originalData": {
+      "Códigos": "0800489290",
+      "Descripciones": "[Q170] CONTROLADOR Q170 I7 8GB/W7/W10 "
+    }
+  },
+  {
+    "id": 166,
+    "code": "0800487318",
+    "description": "[Q170] MEMORIA PARA I5 4GB DDR4 2133 (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800487318",
+      "Descripciones": "[Q170] MEMORIA PARA I5 4GB DDR4 2133 (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 167,
+    "code": "0800506226",
+    "description": "[Q170] MEMORIA PARA I7 4GB DDR4 2666 (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800506226",
+      "Descripciones": "[Q170] MEMORIA PARA I7 4GB DDR4 2666 (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 168,
+    "code": "0800487309",
+    "description": "[Q170] MICROPROCESADOR I5‐6500 (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800487309",
+      "Descripciones": "[Q170] MICROPROCESADOR I5‐6500 (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 169,
+    "code": "0800504497",
+    "description": "[Q170] MICROPROCESADOR I7‐6700 (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800504497",
+      "Descripciones": "[Q170] MICROPROCESADOR I7‐6700 (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 170,
+    "code": "0800487292",
+    "description": "[Q170] PLACA CPU Q170 (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800487292",
+      "Descripciones": "[Q170] PLACA CPU Q170 (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 171,
+    "code": "0800446513",
+    "description": "[Q77] CABLE BOTON ENCENDIDO Q77",
+    "originalData": {
+      "Códigos": "0800446513",
+      "Descripciones": "[Q77] CABLE BOTON ENCENDIDO Q77 "
+    }
+  },
+  {
+    "id": 172,
+    "code": "0800469515",
+    "description": "[Q77] CONTROLADOR Q77 4GB/W7",
+    "originalData": {
+      "Códigos": "0800469515",
+      "Descripciones": "[Q77] CONTROLADOR Q77 4GB/W7 "
+    }
+  },
+  {
+    "id": 173,
+    "code": "0800519524",
+    "description": "[Q77] CONTROLADOR Q77 8GB/W10 (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800519524",
+      "Descripciones": "[Q77] CONTROLADOR Q77 8GB/W10 (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 174,
+    "code": "0800383108",
+    "description": "[Q77] MEMORIA 2GB (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800383108",
+      "Descripciones": "[Q77] MEMORIA 2GB (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 175,
+    "code": "0800446461",
+    "description": "[Q77] MICROPROCESADOR I5‐2400 (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800446461",
+      "Descripciones": "[Q77] MICROPROCESADOR I5‐2400 (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 176,
+    "code": "0800446452",
+    "description": "[Q77] PLACA CPU Q77 (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800446452",
+      "Descripciones": "[Q77] PLACA CPU Q77 (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 177,
+    "code": "0800489030",
+    "description": "[RF] CABLE USB 3.0",
+    "originalData": {
+      "Códigos": "0800489030",
+      "Descripciones": "[RF] CABLE USB 3.0 "
+    }
+  },
+  {
+    "id": 178,
+    "code": "0800498351",
+    "description": "[RF] CAMARA ECON 130 (RECONOCIMIENTO FACIAL)",
+    "originalData": {
+      "Códigos": "0800498351",
+      "Descripciones": "[RF] CAMARA ECON 130 (RECONOCIMIENTO FACIAL) "
+    }
+  },
+  {
+    "id": 179,
+    "code": "0800498388",
+    "description": "[RF] CARATULA (SOLO SOPORTE)",
+    "originalData": {
+      "Códigos": "0800498388",
+      "Descripciones": "[RF] CARATULA (SOLO SOPORTE) "
+    }
+  },
+  {
+    "id": 180,
+    "code": "0800498404",
+    "description": "[RF] CRISTAL PROTECTOR",
+    "originalData": {
+      "Códigos": "0800498404",
+      "Descripciones": "[RF] CRISTAL PROTECTOR "
+    }
+  },
+  {
+    "id": 181,
+    "code": "0800498413",
+    "description": "[RF] PLACA EXPANSORA 4 PUERTOS USB 3.0 VIA VLI VL805",
+    "originalData": {
+      "Códigos": "0800498413",
+      "Descripciones": "[RF] PLACA EXPANSORA 4 PUERTOS USB 3.0 VIA VLI VL805 "
+    }
+  },
+  {
+    "id": 182,
+    "code": "0800498253",
+    "description": "[RF] PLACA VIDEO GT1030 (DOS SALIDAS DE VIDEO)",
+    "originalData": {
+      "Códigos": "0800498253",
+      "Descripciones": "[RF] PLACA VIDEO GT1030 (DOS SALIDAS DE VIDEO) "
+    }
+  },
+  {
+    "id": 183,
+    "code": "0800498422",
+    "description": "[RF] PLACA VIDEO GT730 (TRES SALIDAS DE VIDEO)",
+    "originalData": {
+      "Códigos": "0800498422",
+      "Descripciones": "[RF] PLACA VIDEO GT730 (TRES SALIDAS DE VIDEO) "
+    }
+  },
+  {
+    "id": 184,
+    "code": "0800498397",
+    "description": "[RF] SOPORTE INTERIOR DE PLASTICO",
+    "originalData": {
+      "Códigos": "0800498397",
+      "Descripciones": "[RF] SOPORTE INTERIOR DE PLASTICO "
+    }
+  },
+  {
+    "id": 185,
+    "code": "0800504095",
+    "description": "[RF] VIDEO G710 + ADAPTADOR HDMI/VGA (SALIDA VIDEO INDETERMINADA)",
+    "originalData": {
+      "Códigos": "0800504095",
+      "Descripciones": "[RF] VIDEO G710 + ADAPTADOR HDMI/VGA (SALIDA VIDEO INDETERMINADA) "
+    }
+  },
+  {
+    "id": 186,
+    "code": "0800498262",
+    "description": "ADAPTADOR DVI ‐ VGA",
+    "originalData": {
+      "Códigos": "0800498262",
+      "Descripciones": "ADAPTADOR DVI ‐ VGA "
+    }
+  },
+  {
+    "id": 187,
+    "code": "0800472306",
+    "description": "ADAPTADOR HDMI – VGA",
+    "originalData": {
+      "Códigos": "0800472306",
+      "Descripciones": "ADAPTADOR HDMI – VGA "
+    }
+  },
+  {
+    "id": 188,
+    "code": "0800487880",
+    "description": "CABLE AMPLIACION 4 USB INTERNO PC + BRACKET",
+    "originalData": {
+      "Códigos": "0800487880",
+      "Descripciones": "CABLE AMPLIACION 4 USB INTERNO PC + BRACKET "
+    }
+  },
+  {
+    "id": 189,
+    "code": "0800446504",
+    "description": "CABLE PUERTO PARALELO",
+    "originalData": {
+      "Códigos": "0800446504",
+      "Descripciones": "CABLE PUERTO PARALELO "
+    }
+  },
+  {
+    "id": 190,
+    "code": "0800487336",
+    "description": "CABLE PUERTO SERIE DOBLE",
+    "originalData": {
+      "Códigos": "0800487336",
+      "Descripciones": "CABLE PUERTO SERIE DOBLE "
+    }
+  },
+  {
+    "id": 191,
+    "code": "0800492071",
+    "description": "COOLER EKL‐2019",
+    "originalData": {
+      "Códigos": "0800492071",
+      "Descripciones": "COOLER EKL‐2019 "
+    }
+  },
+  {
+    "id": 192,
+    "code": "0800457993",
+    "description": "DISCO SSD 128GB INNODISK 3ME4 (Q77 ‐ Q170 I5)",
+    "originalData": {
+      "Códigos": "0800457993",
+      "Descripciones": "DISCO SSD 128GB INNODISK 3ME4 (Q77 ‐ Q170 I5) "
+    }
+  },
+  {
+    "id": 193,
+    "code": "0800488004",
+    "description": "DISCO SSD 240GB KINGSTON A400 SATA3 (Q77)",
+    "originalData": {
+      "Códigos": "0800488004",
+      "Descripciones": "DISCO SSD 240GB KINGSTON A400 SATA3 (Q77) "
+    }
+  },
+  {
+    "id": 194,
+    "code": "0800504488",
+    "description": "DISCO SSD 256GB WD PC SA530 (Q170 I7)",
+    "originalData": {
+      "Códigos": "0800504488",
+      "Descripciones": "DISCO SSD 256GB WD PC SA530 (Q170 I7) "
+    }
+  },
+  {
+    "id": 195,
+    "code": "0800473564",
+    "description": "DISCO SSD KINGTON 120GB (POCONO)",
+    "originalData": {
+      "Códigos": "0800473564",
+      "Descripciones": "DISCO SSD KINGTON 120GB (POCONO) "
+    }
+  },
+  {
+    "id": 196,
+    "code": "0800255176",
+    "description": "FUENTE DE ALIMENTACION PC",
+    "originalData": {
+      "Códigos": "0800255176",
+      "Descripciones": "FUENTE DE ALIMENTACION PC "
+    }
+  },
+  {
+    "id": 197,
+    "code": "0800494890",
+    "description": "HDD 1TB ST1000DM010 (DISCO MECANICO IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800494890",
+      "Descripciones": "HDD 1TB ST1000DM010 (DISCO MECANICO IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 198,
+    "code": "0800498379",
+    "description": "KIT RECONOCIMIENTO FACIAL POCONO",
+    "originalData": {
+      "Códigos": "0800498379",
+      "Descripciones": "KIT RECONOCIMIENTO FACIAL POCONO "
+    }
+  },
+  {
+    "id": 199,
+    "code": "0800498280",
+    "description": "KIT RECONOCIMIENTO FACIAL Q170",
+    "originalData": {
+      "Códigos": "0800498280",
+      "Descripciones": "KIT RECONOCIMIENTO FACIAL Q170 "
+    }
+  },
+  {
+    "id": 200,
+    "code": "0800498244",
+    "description": "KIT RECONOCIMIENTO FACIAL Q77",
+    "originalData": {
+      "Códigos": "0800498244",
+      "Descripciones": "KIT RECONOCIMIENTO FACIAL Q77 "
+    }
+  },
+  {
+    "id": 201,
+    "code": "0800491063",
+    "description": "BLOQUEO ENTRADA TARJETAS PG FJ",
+    "originalData": {
+      "Códigos": "0800491063",
+      "Descripciones": "BLOQUEO ENTRADA TARJETAS PG FJ "
+    }
+  },
+  {
+    "id": 202,
+    "code": "0800318171",
+    "description": "BLOQUEO ENTRADA TARJETAS PG NCR",
+    "originalData": {
+      "Códigos": "0800318171",
+      "Descripciones": "BLOQUEO ENTRADA TARJETAS PG NCR "
+    }
+  },
+  {
+    "id": 203,
+    "code": "0800469837",
+    "description": "BLOQUEO ENTRADA TARJETAS S100",
+    "originalData": {
+      "Códigos": "0800469837",
+      "Descripciones": "BLOQUEO ENTRADA TARJETAS S100 "
+    }
+  },
+  {
+    "id": 204,
+    "code": "0800448209",
+    "description": "BOCA ANTISKIMMING (IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800448209",
+      "Descripciones": "BOCA ANTISKIMMING (IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 205,
+    "code": "0800486701",
+    "description": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B)",
+    "originalData": {
+      "Códigos": "0800486701",
+      "Descripciones": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B) "
+    }
+  },
+  {
+    "id": 206,
+    "code": "0800453210",
+    "description": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG NCR (USB MINI)",
+    "originalData": {
+      "Códigos": "0800453210",
+      "Descripciones": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG NCR (USB MINI) "
+    }
+  },
+  {
+    "id": 207,
+    "code": "0800448218",
+    "description": "CONTROLADOR ANTISKIMMING (IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800448218",
+      "Descripciones": "CONTROLADOR ANTISKIMMING (IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 208,
+    "code": "0800182691",
+    "description": "CORREA DENTADA DEL MOTOR",
+    "originalData": {
+      "Códigos": "0800182691",
+      "Descripciones": "CORREA DENTADA DEL MOTOR "
+    }
+  },
+  {
+    "id": 209,
+    "code": "0800507369",
+    "description": "KIT CAPTURE CRW + SOPORTES",
+    "originalData": {
+      "Códigos": "0800507369",
+      "Descripciones": "KIT CAPTURE CRW + SOPORTES "
+    }
+  },
+  {
+    "id": 210,
+    "code": "0800507430",
+    "description": "UNIDAD DE TARJETAS ICT3Q8‐SL2290 CON ANTI‐SKIMMING PG FJ (PG 2022)",
+    "originalData": {
+      "Códigos": "0800507430",
+      "Descripciones": "UNIDAD DE TARJETAS ICT3Q8‐SL2290 CON ANTI‐SKIMMING PG FJ (PG 2022) "
+    }
+  },
+  {
+    "id": 211,
+    "code": "0800490769",
+    "description": "UNIDAD DE TARJETAS PG FJ CON ANTI‐DEEP‐SKIMMING PG FJ",
+    "originalData": {
+      "Códigos": "0800490769",
+      "Descripciones": "UNIDAD DE TARJETAS PG FJ CON ANTI‐DEEP‐SKIMMING PG FJ "
+    }
+  },
+  {
+    "id": 212,
+    "code": "0800448192",
+    "description": "UNIDAD DE TARJETAS PG FJ SIN ANTI‐DEEP‐SKIMMING PG (PG FJ / S100 IBERCAJA)",
+    "originalData": {
+      "Códigos": "0800448192",
+      "Descripciones": "UNIDAD DE TARJETAS PG FJ SIN ANTI‐DEEP‐SKIMMING PG (PG FJ / S100 IBERCAJA) "
+    }
+  },
+  {
+    "id": 213,
+    "code": "0800495201",
+    "description": "UNIDAD DE TARJETAS PG NCR CON ANTI‐DEEP‐SKIMMING",
+    "originalData": {
+      "Códigos": "0800495201",
+      "Descripciones": "UNIDAD DE TARJETAS PG NCR CON ANTI‐DEEP‐SKIMMING "
+    }
+  },
+  {
+    "id": 214,
+    "code": "0800318983",
+    "description": "UNIDAD DE TARJETAS PG NCR SIN ANTI‐DEEP‐SKIMMING",
+    "originalData": {
+      "Códigos": "0800318983",
+      "Descripciones": "UNIDAD DE TARJETAS PG NCR SIN ANTI‐DEEP‐SKIMMING "
+    }
+  },
+  {
+    "id": 215,
+    "code": "0800458858",
+    "description": "UNIDAD DE TARJETAS S100 BBVA CON ANTI‐LAZO LIBANES (2 PLACAS LATERALES)",
+    "originalData": {
+      "Códigos": "0800458858",
+      "Descripciones": "UNIDAD DE TARJETAS S100 BBVA CON ANTI‐LAZO LIBANES (2 PLACAS LATERALES) "
+    }
+  },
+  {
+    "id": 216,
+    "code": "0800508689",
+    "description": "ANCLAJE UNIDAD (TIRADOR VERDE)",
+    "originalData": {
+      "Códigos": "0800508689",
+      "Descripciones": "ANCLAJE UNIDAD (TIRADOR VERDE) "
+    }
+  },
+  {
+    "id": 217,
+    "code": "0800451418",
+    "description": "BDU G510 2 DENOMINACIONES (INCLUYE PLACA DE CONTROL)",
+    "originalData": {
+      "Códigos": "0800451418",
+      "Descripciones": "BDU G510 2 DENOMINACIONES (INCLUYE PLACA DE CONTROL) "
+    }
+  },
+  {
+    "id": 218,
+    "code": "0800447656",
+    "description": "BISAGRA CAJETIN",
+    "originalData": {
+      "Códigos": "0800447656",
+      "Descripciones": "BISAGRA CAJETIN "
+    }
+  },
+  {
+    "id": 219,
+    "code": "0800469962",
+    "description": "CABLES ALIMENTACION Y SEÑAL SHUTTERS G510 + GBXX (LOS DOS) (PG FJ)",
+    "originalData": {
+      "Códigos": "0800469962",
+      "Descripciones": "CABLES ALIMENTACION Y SEÑAL SHUTTERS G510 + GBXX (LOS DOS) (PG FJ) "
+    }
+  },
+  {
+    "id": 220,
+    "code": "0800453835",
+    "description": "CASSETTE",
+    "originalData": {
+      "Códigos": "0800453835",
+      "Descripciones": "CASSETTE "
+    }
+  },
+  {
+    "id": 221,
+    "code": "0800447120",
+    "description": "CONECTOR CASSETTE 1",
+    "originalData": {
+      "Códigos": "0800447120",
+      "Descripciones": "CONECTOR CASSETTE 1 "
+    }
+  },
+  {
+    "id": 222,
+    "code": "0800447139",
+    "description": "CONECTOR CASSETTE 2",
+    "originalData": {
+      "Códigos": "0800447139",
+      "Descripciones": "CONECTOR CASSETTE 2 "
+    }
+  },
+  {
+    "id": 223,
+    "code": "0800447175",
+    "description": "CONECTOR CASSETTE 3",
+    "originalData": {
+      "Códigos": "0800447175",
+      "Descripciones": "CONECTOR CASSETTE 3 "
+    }
+  },
+  {
+    "id": 224,
+    "code": "0800447184",
+    "description": "CONECTOR CASSETTE 4",
+    "originalData": {
+      "Códigos": "0800447184",
+      "Descripciones": "CONECTOR CASSETTE 4 "
+    }
+  },
+  {
+    "id": 225,
+    "code": "0800447692",
+    "description": "CONECTOR COVER",
+    "originalData": {
+      "Códigos": "0800447692",
+      "Descripciones": "CONECTOR COVER "
+    }
+  },
+  {
+    "id": 226,
+    "code": "0800447095",
+    "description": "CONJUNTO PULSADOR CAJETIN",
+    "originalData": {
+      "Códigos": "0800447095",
+      "Descripciones": "CONJUNTO PULSADOR CAJETIN "
+    }
+  },
+  {
+    "id": 227,
+    "code": "0800447380",
+    "description": "CORREA DENTADA FEEDER",
+    "originalData": {
+      "Códigos": "0800447380",
+      "Descripciones": "CORREA DENTADA FEEDER "
+    }
+  },
+  {
+    "id": 228,
+    "code": "0800447530",
+    "description": "CORREA PLANA",
+    "originalData": {
+      "Códigos": "0800447530",
+      "Descripciones": "CORREA PLANA "
+    }
+  },
+  {
+    "id": 229,
+    "code": "0800447004",
+    "description": "FEED MODULE",
+    "originalData": {
+      "Códigos": "0800447004",
+      "Descripciones": "FEED MODULE "
+    }
+  },
+  {
+    "id": 230,
+    "code": "0800478970",
+    "description": "FIJADOR DE TORNILLO LOCTITE 242 6ML",
+    "originalData": {
+      "Códigos": "0800478970",
+      "Descripciones": "FIJADOR DE TORNILLO LOCTITE 242 6ML "
+    }
+  },
+  {
+    "id": 231,
+    "code": "0800447086",
+    "description": "FORK (CONJUNTO COMPLETO)",
+    "originalData": {
+      "Códigos": "0800447086",
+      "Descripciones": "FORK (CONJUNTO COMPLETO) "
+    }
+  },
+  {
+    "id": 232,
+    "code": "0800450776",
+    "description": "FORK (MUELLE DE LA PINZA)",
+    "originalData": {
+      "Códigos": "0800450776",
+      "Descripciones": "FORK (MUELLE DE LA PINZA) "
+    }
+  },
+  {
+    "id": 233,
+    "code": "0800475018",
+    "description": "FORK (PINZA ENHANCED)",
+    "originalData": {
+      "Códigos": "0800475018",
+      "Descripciones": "FORK (PINZA ENHANCED) "
+    }
+  },
+  {
+    "id": 234,
+    "code": "0800109236",
+    "description": "GALGA AJUSTE THICKNESS G510",
+    "originalData": {
+      "Códigos": "0800109236",
+      "Descripciones": "GALGA AJUSTE THICKNESS G510 "
+    }
+  },
+  {
+    "id": 235,
+    "code": "0800447111",
+    "description": "GUIDE LEFT",
+    "originalData": {
+      "Códigos": "0800447111",
+      "Descripciones": "GUIDE LEFT "
+    }
+  },
+  {
+    "id": 236,
+    "code": "0800447102",
+    "description": "GUIDE RIGHT",
+    "originalData": {
+      "Códigos": "0800447102",
+      "Descripciones": "GUIDE RIGHT "
+    }
+  },
+  {
+    "id": 237,
+    "code": "0800515886",
+    "description": "KIT ETIQUETAS",
+    "originalData": {
+      "Códigos": "0800515886",
+      "Descripciones": "KIT ETIQUETAS "
+    }
+  },
+  {
+    "id": 238,
+    "code": "0800515412",
+    "description": "KIT TOPE CAJETIN G510 (VER BTM BILL023‐I‐OBL)",
+    "originalData": {
+      "Códigos": "0800515412",
+      "Descripciones": "KIT TOPE CAJETIN G510 (VER BTM BILL023‐I‐OBL) "
+    }
+  },
+  {
+    "id": 239,
+    "code": "0800447665",
+    "description": "LEVER (SIN MUELLE) (KD03512‐Y037) DERECHO",
+    "originalData": {
+      "Códigos": "0800447665",
+      "Descripciones": "LEVER (SIN MUELLE) (KD03512‐Y037) DERECHO "
+    }
+  },
+  {
+    "id": 240,
+    "code": "0800447674",
+    "description": "LEVER (SIN MUELLE) (KD03512‐Y038) IZQUIERDO",
+    "originalData": {
+      "Códigos": "0800447674",
+      "Descripciones": "LEVER (SIN MUELLE) (KD03512‐Y038) IZQUIERDO "
+    }
+  },
+  {
+    "id": 241,
+    "code": "0800446979",
+    "description": "LOWER UNIT 1‐2 (SIN PLACA DE CONTROL)",
+    "originalData": {
+      "Códigos": "0800446979",
+      "Descripciones": "LOWER UNIT 1‐2 (SIN PLACA DE CONTROL) "
+    }
+  },
+  {
+    "id": 242,
+    "code": "0800470102",
+    "description": "LOWER UNIT 3‐4 NEW. MOTOR HACIA DENTRO",
+    "originalData": {
+      "Códigos": "0800470102",
+      "Descripciones": "LOWER UNIT 3‐4 NEW. MOTOR HACIA DENTRO "
+    }
+  },
+  {
+    "id": 243,
+    "code": "0800453826",
+    "description": "LOWER UNIT 3‐4 OLD. MOTOR HACIA FUERA",
+    "originalData": {
+      "Códigos": "0800453826",
+      "Descripciones": "LOWER UNIT 3‐4 OLD. MOTOR HACIA FUERA "
+    }
+  },
+  {
+    "id": 244,
+    "code": "0800446951",
+    "description": "MAIN PCB",
+    "originalData": {
+      "Códigos": "0800446951",
+      "Descripciones": "MAIN PCB "
+    }
+  },
+  {
+    "id": 245,
+    "code": "0800447237",
+    "description": "MOTOR PM1",
+    "originalData": {
+      "Códigos": "0800447237",
+      "Descripciones": "MOTOR PM1 "
+    }
+  },
+  {
+    "id": 246,
+    "code": "0800471888",
+    "description": "PLACA SHUTTER G510 PG FJ / GBXX PG FJ / S100",
+    "originalData": {
+      "Códigos": "0800471888",
+      "Descripciones": "PLACA SHUTTER G510 PG FJ / GBXX PG FJ / S100 "
+    }
+  },
+  {
+    "id": 247,
+    "code": "0800446997",
+    "description": "REJECT BOX",
+    "originalData": {
+      "Códigos": "0800446997",
+      "Descripciones": "REJECT BOX "
+    }
+  },
+  {
+    "id": 248,
+    "code": "0800479906",
+    "description": "RETENEDOR DE CASSETTE",
+    "originalData": {
+      "Códigos": "0800479906",
+      "Descripciones": "RETENEDOR DE CASSETTE "
+    }
+  },
+  {
+    "id": 249,
+    "code": "0800447638",
+    "description": "RODILLO DE PICK",
+    "originalData": {
+      "Códigos": "0800447638",
+      "Descripciones": "RODILLO DE PICK "
+    }
+  },
+  {
+    "id": 250,
+    "code": "0800447647",
+    "description": "RUBBER SHEET (4 UNIDADES EN POOL)",
+    "originalData": {
+      "Códigos": "0800447647",
+      "Descripciones": "RUBBER SHEET (4 UNIDADES EN POOL) "
+    }
+  },
+  {
+    "id": 251,
+    "code": "0800515109",
+    "description": "RUEDA EXCENTRICA SHUTTER G510 /GBXX PG FJ",
+    "originalData": {
+      "Códigos": "0800515109",
+      "Descripciones": "RUEDA EXCENTRICA SHUTTER G510 /GBXX PG FJ "
+    }
+  },
+  {
+    "id": 252,
+    "code": "0800142459",
+    "description": "SENSOR – MDS (THICKNESS)",
+    "originalData": {
+      "Códigos": "0800142459",
+      "Descripciones": "SENSOR – MDS (THICKNESS) "
+    }
+  },
+  {
+    "id": 253,
+    "code": "0800447291",
+    "description": "SENSOR EMISOR ‐ ‐CPS, PUS, POS, EJS, RTJS",
+    "originalData": {
+      "Códigos": "0800447291",
+      "Descripciones": "SENSOR EMISOR ‐ ‐CPS, PUS, POS, EJS, RTJS "
+    }
+  },
+  {
+    "id": 254,
+    "code": "0800447308",
+    "description": "SENSOR EMISOR ‐ PSx, BPRS, BPLS, GSS",
+    "originalData": {
+      "Códigos": "0800447308",
+      "Descripciones": "SENSOR EMISOR ‐ PSx, BPRS, BPLS, GSS "
+    }
+  },
+  {
+    "id": 255,
+    "code": "0800304863",
+    "description": "SENSOR EMISOR – RJS",
+    "originalData": {
+      "Códigos": "0800304863",
+      "Descripciones": "SENSOR EMISOR – RJS "
+    }
+  },
+  {
+    "id": 256,
+    "code": "0800447317",
+    "description": "SENSOR RECEPTOR – CPS, PUS, POS, EJS, RTJS",
+    "originalData": {
+      "Códigos": "0800447317",
+      "Descripciones": "SENSOR RECEPTOR – CPS, PUS, POS, EJS, RTJS "
+    }
+  },
+  {
+    "id": 257,
+    "code": "0800447326",
+    "description": "SENSOR RECEPTOR ‐ ‐PSx, BPRS, BPLS, GSS",
+    "originalData": {
+      "Códigos": "0800447326",
+      "Descripciones": "SENSOR RECEPTOR ‐ ‐PSx, BPRS, BPLS, GSS "
+    }
+  },
+  {
+    "id": 258,
+    "code": "0800447282",
+    "description": "SENSOR RECEPTOR – RJS",
+    "originalData": {
+      "Códigos": "0800447282",
+      "Descripciones": "SENSOR RECEPTOR – RJS "
+    }
+  },
+  {
+    "id": 259,
+    "code": "0800450598",
+    "description": "SENSOR U ‐ NEx, BSS, PDS, FRS, FHS, PRS, FSS, PHS, RES, SUS, SHS, FTS, BTS",
+    "originalData": {
+      "Códigos": "0800450598",
+      "Descripciones": "SENSOR U ‐ NEx, BSS, PDS, FRS, FHS, PRS, FSS, PHS, RES, SUS, SHS, FTS, BTS "
+    }
+  },
+  {
+    "id": 260,
+    "code": "0800489227",
+    "description": "SHUTTER BILLETES G510 PG FJ",
+    "originalData": {
+      "Códigos": "0800489227",
+      "Descripciones": "SHUTTER BILLETES G510 PG FJ "
+    }
+  },
+  {
+    "id": 261,
+    "code": "0800489245",
+    "description": "SHUTTER G510 S100 MOTORIZADO",
+    "originalData": {
+      "Códigos": "0800489245",
+      "Descripciones": "SHUTTER G510 S100 MOTORIZADO "
+    }
+  },
+  {
+    "id": 262,
+    "code": "0800447683",
+    "description": "TAPA DE CONECTOR",
+    "originalData": {
+      "Códigos": "0800447683",
+      "Descripciones": "TAPA DE CONECTOR "
+    }
+  },
+  {
+    "id": 263,
+    "code": "0800468810",
+    "description": "TETONES POSICIONADOR SHUTTER",
+    "originalData": {
+      "Códigos": "0800468810",
+      "Descripciones": "TETONES POSICIONADOR SHUTTER "
+    }
+  },
+  {
+    "id": 264,
+    "code": "0800446960",
+    "description": "TOP MODULE",
+    "originalData": {
+      "Códigos": "0800446960",
+      "Descripciones": "TOP MODULE "
+    }
+  },
+  {
+    "id": 265,
+    "code": "0800447068",
+    "description": "TRANSPORTE VERTICAL 1‐2",
+    "originalData": {
+      "Códigos": "0800447068",
+      "Descripciones": "TRANSPORTE VERTICAL 1‐2 "
+    }
+  },
+  {
+    "id": 266,
+    "code": "0800473966",
+    "description": "TRANSPORTE VERTICAL 3‐4. NEW MOTOR HACIA DENTRO",
+    "originalData": {
+      "Códigos": "0800473966",
+      "Descripciones": "TRANSPORTE VERTICAL 3‐4. NEW MOTOR HACIA DENTRO "
+    }
+  },
+  {
+    "id": 267,
+    "code": "0800446998",
+    "description": "TRANSPORTE VERTICAL 3‐4. OLD MOTOR HACIA FUERA",
+    "originalData": {
+      "Códigos": "0800446998",
+      "Descripciones": "TRANSPORTE VERTICAL 3‐4. OLD MOTOR HACIA FUERA "
+    }
+  },
+  {
+    "id": 268,
+    "code": "0800515485",
+    "description": "UTIL LIMPIEZA RODILLOS CAJETIN G510 ( PEDIR A COORDINADOR)",
+    "originalData": {
+      "Códigos": "0800515485",
+      "Descripciones": "UTIL LIMPIEZA RODILLOS CAJETIN G510 ( PEDIR A COORDINADOR) "
+    }
+  },
+  {
+    "id": 269,
+    "code": "0800447763",
+    "description": "BV (VALIDADORA)",
+    "originalData": {
+      "Códigos": "0800447763",
+      "Descripciones": "BV (VALIDADORA) "
+    }
+  },
+  {
+    "id": 270,
+    "code": "0800447781",
+    "description": "CASH BOX",
+    "originalData": {
+      "Códigos": "0800447781",
+      "Descripciones": "CASH BOX "
+    }
+  },
+  {
+    "id": 271,
+    "code": "0800447308",
+    "description": "EMISSION SENSOR",
+    "originalData": {
+      "Códigos": "0800447308",
+      "Descripciones": "EMISSION SENSOR "
+    }
+  },
+  {
+    "id": 272,
+    "code": "0800451409",
+    "description": "G60 BRU (UNIDAD COMPLETA)",
+    "originalData": {
+      "Códigos": "0800451409",
+      "Descripciones": "G60 BRU (UNIDAD COMPLETA)  "
+    }
+  },
+  {
+    "id": 273,
+    "code": "0800304863",
+    "description": "H SENSOR",
+    "originalData": {
+      "Códigos": "0800304863",
+      "Descripciones": "H SENSOR "
+    }
+  },
+  {
+    "id": 274,
+    "code": "0800447807",
+    "description": "I/O PCB",
+    "originalData": {
+      "Códigos": "0800447807",
+      "Descripciones": "I/O PCB  "
+    }
+  },
+  {
+    "id": 275,
+    "code": "0800447326",
+    "description": "LIGTH RECEIVING SENSOR",
+    "originalData": {
+      "Códigos": "0800447326",
+      "Descripciones": "LIGTH RECEIVING SENSOR "
+    }
+  },
+  {
+    "id": 276,
+    "code": "0800447790",
+    "description": "MAIN PCB",
+    "originalData": {
+      "Códigos": "0800447790",
+      "Descripciones": "MAIN PCB "
+    }
+  },
+  {
+    "id": 277,
+    "code": "0800447923",
+    "description": "PH SENSOR",
+    "originalData": {
+      "Códigos": "0800447923",
+      "Descripciones": "PH SENSOR "
+    }
+  },
+  {
+    "id": 278,
+    "code": "0800447914",
+    "description": "PICK RONER",
+    "originalData": {
+      "Códigos": "0800447914",
+      "Descripciones": "PICK RONER "
+    }
+  },
+  {
+    "id": 279,
+    "code": "0800447772",
+    "description": "RECICLE STACKER (CAJETIN)",
+    "originalData": {
+      "Códigos": "0800447772",
+      "Descripciones": "RECICLE STACKER (CAJETIN) "
+    }
+  },
+  {
+    "id": 280,
+    "code": "0800450598",
+    "description": "SENSOR U",
+    "originalData": {
+      "Códigos": "0800450598",
+      "Descripciones": "SENSOR U "
+    }
+  },
+  {
+    "id": 281,
+    "code": "0800447282",
+    "description": "SENSOR",
+    "originalData": {
+      "Códigos": "0800447282",
+      "Descripciones": "SENSOR "
+    }
+  },
+  {
+    "id": 282,
+    "code": "0800447816",
+    "description": "TOP MODULE",
+    "originalData": {
+      "Códigos": "0800447816",
+      "Descripciones": "TOP MODULE   "
+    }
+  },
+  {
+    "id": 283,
+    "code": "0800360793",
+    "description": "ACTUADOR SENSOR ULPC MODIFICADO",
+    "originalData": {
+      "Códigos": "0800360793",
+      "Descripciones": "ACTUADOR SENSOR ULPC MODIFICADO "
+    }
+  },
+  {
+    "id": 284,
+    "code": "0800312756",
+    "description": "AMORTIGUADOR",
+    "originalData": {
+      "Códigos": "0800312756",
+      "Descripciones": "AMORTIGUADOR "
+    }
+  },
+  {
+    "id": 285,
+    "code": "0800410481",
+    "description": "ASA (VERDE) CAJETIN + MUELLE",
+    "originalData": {
+      "Códigos": "0800410481",
+      "Descripciones": "ASA (VERDE) CAJETIN + MUELLE "
+    }
+  },
+  {
+    "id": 286,
+    "code": "0800459606",
+    "description": "BRUSH",
+    "originalData": {
+      "Códigos": "0800459606",
+      "Descripciones": "BRUSH "
+    }
+  },
+  {
+    "id": 287,
+    "code": "0800351099",
+    "description": "CABLE (CONJUNTO) SEPARATOR – PLACA UPPER",
+    "originalData": {
+      "Códigos": "0800351099",
+      "Descripciones": "CABLE (CONJUNTO) SEPARATOR – PLACA UPPER "
+    }
+  },
+  {
+    "id": 288,
+    "code": "0800312630",
+    "description": "CABLE CONECTOR CASETTE",
+    "originalData": {
+      "Códigos": "0800312630",
+      "Descripciones": "CABLE CONECTOR CASETTE "
+    }
+  },
+  {
+    "id": 289,
+    "code": "0800312676",
+    "description": "CABLE LAN BV",
+    "originalData": {
+      "Códigos": "0800312676",
+      "Descripciones": "CABLE LAN BV "
+    }
+  },
+  {
+    "id": 290,
+    "code": "0800312667",
+    "description": "CABLE POWER BV",
+    "originalData": {
+      "Códigos": "0800312667",
+      "Descripciones": "CABLE POWER BV "
+    }
+  },
+  {
+    "id": 291,
+    "code": "0800312685",
+    "description": "CABLE POWER LOWER ‐ UPPER",
+    "originalData": {
+      "Códigos": "0800312685",
+      "Descripciones": "CABLE POWER LOWER ‐ UPPER "
+    }
+  },
+  {
+    "id": 292,
+    "code": "0800312701",
+    "description": "CABLE POWER UNIDAD",
+    "originalData": {
+      "Códigos": "0800312701",
+      "Descripciones": "CABLE POWER UNIDAD "
+    }
+  },
+  {
+    "id": 293,
+    "code": "0800312729",
+    "description": "CABLE SHUTTER GBXX + MEEI (PG NCR)",
+    "originalData": {
+      "Códigos": "0800312729",
+      "Descripciones": "CABLE SHUTTER GBXX + MEEI (PG NCR) "
+    }
+  },
+  {
+    "id": 294,
+    "code": "0800351133",
+    "description": "CABLE UPCN",
+    "originalData": {
+      "Códigos": "0800351133",
+      "Descripciones": "CABLE UPCN "
+    }
+  },
+  {
+    "id": 295,
+    "code": "0800312658",
+    "description": "CABLE URCN",
+    "originalData": {
+      "Códigos": "0800312658",
+      "Descripciones": "CABLE URCN "
+    }
+  },
+  {
+    "id": 296,
+    "code": "0800312710",
+    "description": "CABLE USB A‐B 3 METROS",
+    "originalData": {
+      "Códigos": "0800312710",
+      "Descripciones": "CABLE USB A‐B 3 METROS "
+    }
+  },
+  {
+    "id": 297,
+    "code": "0800476801",
+    "description": "CABLE USB A‐B 5 METROS",
+    "originalData": {
+      "Códigos": "0800476801",
+      "Descripciones": "CABLE USB A‐B 5 METROS "
+    }
+  },
+  {
+    "id": 298,
+    "code": "0800469962",
+    "description": "CABLES ALIMENTACION Y SEÑAL SHUTTERS G510 + GBXX (LOS DOS) (PG FJ)",
+    "originalData": {
+      "Códigos": "0800469962",
+      "Descripciones": "CABLES ALIMENTACION Y SEÑAL SHUTTERS G510 + GBXX (LOS DOS) (PG FJ) "
+    }
+  },
+  {
+    "id": 299,
+    "code": "0800252357",
+    "description": "CAJETIN DE RECHAZOS GBRU",
+    "originalData": {
+      "Códigos": "0800252357",
+      "Descripciones": "CAJETIN DE RECHAZOS GBRU "
+    }
+  },
+  {
+    "id": 300,
+    "code": "0800508545",
+    "description": "CAJETIN DEPOSITO E‐GBRU CONFIGURADO",
+    "originalData": {
+      "Códigos": "0800508545",
+      "Descripciones": "CAJETIN DEPOSITO E‐GBRU CONFIGURADO "
+    }
+  },
+  {
+    "id": 301,
+    "code": "0800503639",
+    "description": "CAJETIN DEPOSITO E‐GBRU SIN CONFIGURAR",
+    "originalData": {
+      "Códigos": "0800503639",
+      "Descripciones": "CAJETIN DEPOSITO E‐GBRU SIN CONFIGURAR "
+    }
+  },
+  {
+    "id": 302,
+    "code": "0800312621",
+    "description": "CAJETIN DEPOSITO GBNA/GBRU",
+    "originalData": {
+      "Códigos": "0800312621",
+      "Descripciones": "CAJETIN DEPOSITO GBNA/GBRU "
+    }
+  },
+  {
+    "id": 303,
+    "code": "0800503620",
+    "description": "CAJETIN RECICLABLE E‐GBRU SIN CONFIGURAR",
+    "originalData": {
+      "Códigos": "0800503620",
+      "Descripciones": "CAJETIN RECICLABLE E‐GBRU SIN CONFIGURAR "
+    }
+  },
+  {
+    "id": 304,
+    "code": "0800252311",
+    "description": "CAJETIN RECICLABLE GBRU SIN CONFIGURAR",
+    "originalData": {
+      "Códigos": "0800252311",
+      "Descripciones": "CAJETIN RECICLABLE GBRU SIN CONFIGURAR "
+    }
+  },
+  {
+    "id": 305,
+    "code": "0800508527",
+    "description": "CAJETIN RECICLABLES 20€ E‐GBRU",
+    "originalData": {
+      "Códigos": "0800508527",
+      "Descripciones": "CAJETIN RECICLABLES 20€ E‐GBRU "
+    }
+  },
+  {
+    "id": 306,
+    "code": "0800379523",
+    "description": "CAJETIN RECICLABLES 20€ GBRU",
+    "originalData": {
+      "Códigos": "0800379523",
+      "Descripciones": "CAJETIN RECICLABLES 20€ GBRU "
+    }
+  },
+  {
+    "id": 307,
+    "code": "0800508536",
+    "description": "CAJETIN RECICLABLES 50€ E‐GBRU",
+    "originalData": {
+      "Códigos": "0800508536",
+      "Descripciones": "CAJETIN RECICLABLES 50€ E‐GBRU "
+    }
+  },
+  {
+    "id": 308,
+    "code": "0800379532",
+    "description": "CAJETIN RECICLABLES 50€ GBRU",
+    "originalData": {
+      "Códigos": "0800379532",
+      "Descripciones": "CAJETIN RECICLABLES 50€ GBRU "
+    }
+  },
+  {
+    "id": 309,
+    "code": "0800458590",
+    "description": "CANALETA DE CABLES 24 ESLABONES",
+    "originalData": {
+      "Códigos": "0800458590",
+      "Descripciones": "CANALETA DE CABLES 24 ESLABONES "
+    }
+  },
+  {
+    "id": 310,
+    "code": "0800357878",
+    "description": "CIERRE CAJETIN",
+    "originalData": {
+      "Códigos": "0800357878",
+      "Descripciones": "CIERRE CAJETIN "
+    }
+  },
+  {
+    "id": 311,
+    "code": "0800507163",
+    "description": "COMUNICATION CABLE E‐GBRU",
+    "originalData": {
+      "Códigos": "0800507163",
+      "Descripciones": "COMUNICATION CABLE E‐GBRU "
+    }
+  },
+  {
+    "id": 312,
+    "code": "0800312630",
+    "description": "CONECTOR CASSETTE",
+    "originalData": {
+      "Códigos": "0800312630",
+      "Descripciones": "CONECTOR CASSETTE "
+    }
+  },
+  {
+    "id": 313,
+    "code": "0800312603",
+    "description": "CONJUNTO MOTOR CAJETIN GBNA",
+    "originalData": {
+      "Códigos": "0800312603",
+      "Descripciones": "CONJUNTO MOTOR CAJETIN GBNA "
+    }
+  },
+  {
+    "id": 314,
+    "code": "0800410515",
+    "description": "CONJUNTO MOTOR CAJETIN GBRU",
+    "originalData": {
+      "Códigos": "0800410515",
+      "Descripciones": "CONJUNTO MOTOR CAJETIN GBRU "
+    }
+  },
+  {
+    "id": 315,
+    "code": "0800469132",
+    "description": "COVER (FIJACION GUIAS PREACEPTOR)",
+    "originalData": {
+      "Códigos": "0800469132",
+      "Descripciones": "COVER (FIJACION GUIAS PREACEPTOR) "
+    }
+  },
+  {
+    "id": 316,
+    "code": "0800517795",
+    "description": "FEED ROLLER SEPARATOR E‐GBRU (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800517795",
+      "Descripciones": "FEED ROLLER SEPARATOR E‐GBRU (UNIDAD) "
+    }
+  },
+  {
+    "id": 317,
+    "code": "0800327786",
+    "description": "FEED ROLLER SEPARATOR GBNA / GBRU (KIT DE 5 UDS.)",
+    "originalData": {
+      "Códigos": "0800327786",
+      "Descripciones": "FEED ROLLER SEPARATOR GBNA / GBRU (KIT DE 5 UDS.) "
+    }
+  },
+  {
+    "id": 318,
+    "code": "0800486925",
+    "description": "GATE GBRU CAS ENTRY (DERIVADOR ENTRADA DE BILLETE)",
+    "originalData": {
+      "Códigos": "0800486925",
+      "Descripciones": "GATE GBRU CAS ENTRY (DERIVADOR ENTRADA DE BILLETE) "
+    }
+  },
+  {
+    "id": 319,
+    "code": "0800484491",
+    "description": "GUIA ASCENSOR DERECHA (VISTO DE EL FRONTAL)",
+    "originalData": {
+      "Códigos": "0800484491",
+      "Descripciones": "GUIA ASCENSOR DERECHA (VISTO DE EL FRONTAL) "
+    }
+  },
+  {
+    "id": 320,
+    "code": "0800484482",
+    "description": "GUIA ASCENSOR IZQUIERDA (VISTO DESDE EL FRONTAL)",
+    "originalData": {
+      "Códigos": "0800484482",
+      "Descripciones": "GUIA ASCENSOR IZQUIERDA (VISTO DESDE EL FRONTAL) "
+    }
+  },
+  {
+    "id": 321,
+    "code": "0800330816",
+    "description": "GUIA DE MONTAJE (X4)",
+    "originalData": {
+      "Códigos": "0800330816",
+      "Descripciones": "GUIA DE MONTAJE (X4) "
+    }
+  },
+  {
+    "id": 322,
+    "code": "0800450614",
+    "description": "GUIA PREACEPTOR DERECHA",
+    "originalData": {
+      "Códigos": "0800450614",
+      "Descripciones": "GUIA PREACEPTOR DERECHA "
+    }
+  },
+  {
+    "id": 323,
+    "code": "0800450623",
+    "description": "GUIA PREACEPTOR IZQUIERDA",
+    "originalData": {
+      "Códigos": "0800450623",
+      "Descripciones": "GUIA PREACEPTOR IZQUIERDA "
+    }
+  },
+  {
+    "id": 324,
+    "code": "0800340958",
+    "description": "INTERLOCK 16A – 6 CONTACTOS",
+    "originalData": {
+      "Códigos": "0800340958",
+      "Descripciones": "INTERLOCK 16A – 6 CONTACTOS "
+    }
+  },
+  {
+    "id": 325,
+    "code": "0800478499",
+    "description": "KIT ACTUADOR INTERLOCK",
+    "originalData": {
+      "Códigos": "0800478499",
+      "Descripciones": "KIT ACTUADOR INTERLOCK "
+    }
+  },
+  {
+    "id": 326,
+    "code": "0800351865",
+    "description": "KIT ADAPTACION TAPA DE CAJETIN RECICLABLES",
+    "originalData": {
+      "Códigos": "0800351865",
+      "Descripciones": "KIT ADAPTACION TAPA DE CAJETIN RECICLABLES "
+    }
+  },
+  {
+    "id": 327,
+    "code": "0800475839",
+    "description": "KIT BILL SLIDERS 2R+2L (CAJETIN RECICLABLES GBRU)",
+    "originalData": {
+      "Códigos": "0800475839",
+      "Descripciones": "KIT BILL SLIDERS 2R+2L (CAJETIN RECICLABLES GBRU) "
+    }
+  },
+  {
+    "id": 328,
+    "code": "0800392303",
+    "description": "KIT PESTILLO ANCLAJE GXXX",
+    "originalData": {
+      "Códigos": "0800392303",
+      "Descripciones": "KIT PESTILLO ANCLAJE GXXX "
+    }
+  },
+  {
+    "id": 329,
+    "code": "0800457537",
+    "description": "KIT TORNILLOS PARA GUIA DE MONTAJE (BOLSA DE 24)",
+    "originalData": {
+      "Códigos": "0800457537",
+      "Descripciones": "KIT TORNILLOS PARA GUIA DE MONTAJE (BOLSA DE 24) "
+    }
+  },
+  {
+    "id": 330,
+    "code": "0800484302",
+    "description": "LEAF SPRING",
+    "originalData": {
+      "Códigos": "0800484302",
+      "Descripciones": "LEAF SPRING "
+    }
+  },
+  {
+    "id": 331,
+    "code": "0800450767",
+    "description": "LIJA DEL PRESOR DE SEPARADOR",
+    "originalData": {
+      "Códigos": "0800450767",
+      "Descripciones": "LIJA DEL PRESOR DE SEPARADOR "
+    }
+  },
+  {
+    "id": 332,
+    "code": "0800252393",
+    "description": "LOWER BASE GBNA",
+    "originalData": {
+      "Códigos": "0800252393",
+      "Descripciones": "LOWER BASE GBNA "
+    }
+  },
+  {
+    "id": 333,
+    "code": "0800375689",
+    "description": "LOWER BASE GBRU",
+    "originalData": {
+      "Códigos": "0800375689",
+      "Descripciones": "LOWER BASE GBRU "
+    }
+  },
+  {
+    "id": 334,
+    "code": "0800312541",
+    "description": "LOWER TRANSPORT GBNA (TAPA)",
+    "originalData": {
+      "Códigos": "0800312541",
+      "Descripciones": "LOWER TRANSPORT GBNA (TAPA) "
+    }
+  },
+  {
+    "id": 335,
+    "code": "0800252179",
+    "description": "LOWER TRANSPORT GBRU (TAPA)",
+    "originalData": {
+      "Códigos": "0800252179",
+      "Descripciones": "LOWER TRANSPORT GBRU (TAPA) "
+    }
+  },
+  {
+    "id": 336,
+    "code": "0800318144",
+    "description": "MOTOR SHUTTER PG NCR",
+    "originalData": {
+      "Códigos": "0800318144",
+      "Descripciones": "MOTOR SHUTTER PG NCR "
+    }
+  },
+  {
+    "id": 337,
+    "code": "0800410285",
+    "description": "MUELLE DE ASA DE CAJETIN",
+    "originalData": {
+      "Códigos": "0800410285",
+      "Descripciones": "MUELLE DE ASA DE CAJETIN "
+    }
+  },
+  {
+    "id": 338,
+    "code": "0800410169",
+    "description": "MUELLE DE PEINE EN SEPARATOR",
+    "originalData": {
+      "Códigos": "0800410169",
+      "Descripciones": "MUELLE DE PEINE EN SEPARATOR "
+    }
+  },
+  {
+    "id": 339,
+    "code": "0800360800",
+    "description": "PATROL NOTES (10 UNIDADES)",
+    "originalData": {
+      "Códigos": "0800360800",
+      "Descripciones": "PATROL NOTES (10 UNIDADES) "
+    }
+  },
+  {
+    "id": 340,
+    "code": "0800517802",
+    "description": "PICK ROLLER SEPARATOR E‐GBRU (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800517802",
+      "Descripciones": "PICK ROLLER SEPARATOR E‐GBRU (UNIDAD) "
+    }
+  },
+  {
+    "id": 341,
+    "code": "0800486382",
+    "description": "PICK ROLLER SEPARATOR GBNA / GBRU (UNIDAD. PEDIR 2)",
+    "originalData": {
+      "Códigos": "0800486382",
+      "Descripciones": "PICK ROLLER SEPARATOR GBNA / GBRU (UNIDAD. PEDIR 2) "
+    }
+  },
+  {
+    "id": 342,
+    "code": "0800485917",
+    "description": "PIÑON UPPER TRANSPORT",
+    "originalData": {
+      "Códigos": "0800485917",
+      "Descripciones": "PIÑON UPPER TRANSPORT "
+    }
+  },
+  {
+    "id": 343,
+    "code": "0800312596",
+    "description": "PLACA FUENTE DE ALIMENTACION DC‐DC",
+    "originalData": {
+      "Códigos": "0800312596",
+      "Descripciones": "PLACA FUENTE DE ALIMENTACION DC‐DC "
+    }
+  },
+  {
+    "id": 344,
+    "code": "0800312578",
+    "description": "PLACA LOWER GBNA",
+    "originalData": {
+      "Códigos": "0800312578",
+      "Descripciones": "PLACA LOWER GBNA "
+    }
+  },
+  {
+    "id": 345,
+    "code": "0800252240",
+    "description": "PLACA LOWER GBRU / E‐GBRU",
+    "originalData": {
+      "Códigos": "0800252240",
+      "Descripciones": "PLACA LOWER GBRU / E‐GBRU "
+    }
+  },
+  {
+    "id": 346,
+    "code": "0800312550",
+    "description": "PLACA MAIN UPPER",
+    "originalData": {
+      "Códigos": "0800312550",
+      "Descripciones": "PLACA MAIN UPPER "
+    }
+  },
+  {
+    "id": 347,
+    "code": "0800518142",
+    "description": "PLACA MAIN UPPER (E‐GBRU – CORRIGE ERRORES F409)",
+    "originalData": {
+      "Códigos": "0800518142",
+      "Descripciones": "PLACA MAIN UPPER (E‐GBRU – CORRIGE ERRORES F409) "
+    }
+  },
+  {
+    "id": 348,
+    "code": "0800504923",
+    "description": "PLACA SEPARATOR / PREACEPTOR E‐GBRU",
+    "originalData": {
+      "Códigos": "0800504923",
+      "Descripciones": "PLACA SEPARATOR / PREACEPTOR E‐GBRU "
+    }
+  },
+  {
+    "id": 349,
+    "code": "0800312569",
+    "description": "PLACA SEPARATOR/PREACEPTOR GBNA/GBRU",
+    "originalData": {
+      "Códigos": "0800312569",
+      "Descripciones": "PLACA SEPARATOR/PREACEPTOR GBNA/GBRU "
+    }
+  },
+  {
+    "id": 350,
+    "code": "0800471888",
+    "description": "PLACA SHUTTER G510 PG FJ / GBXX PG FJ / S100",
+    "originalData": {
+      "Códigos": "0800471888",
+      "Descripciones": "PLACA SHUTTER G510 PG FJ / GBXX PG FJ / S100 "
+    }
+  },
+  {
+    "id": 351,
+    "code": "0800318153",
+    "description": "PLACA SHUTTER PG NCR",
+    "originalData": {
+      "Códigos": "0800318153",
+      "Descripciones": "PLACA SHUTTER PG NCR "
+    }
+  },
+  {
+    "id": 352,
+    "code": "0800448799",
+    "description": "PLATAFORMA PARA DESPLAZAR LOWER TRANSPORT (VER BTM DEPO035‐I‐OB)",
+    "originalData": {
+      "Códigos": "0800448799",
+      "Descripciones": "PLATAFORMA PARA DESPLAZAR LOWER TRANSPORT (VER BTM DEPO035‐I‐OB) "
+    }
+  },
+  {
+    "id": 353,
+    "code": "0800487112",
+    "description": "POMO",
+    "originalData": {
+      "Códigos": "0800487112",
+      "Descripciones": "POMO "
+    }
+  },
+  {
+    "id": 354,
+    "code": "0800370979",
+    "description": "POSICIONADOR DEL LOWER UNIT",
+    "originalData": {
+      "Códigos": "0800370979",
+      "Descripciones": "POSICIONADOR DEL LOWER UNIT "
+    }
+  },
+  {
+    "id": 355,
+    "code": "0800504889",
+    "description": "PREACEPTOR E‐GBRU",
+    "originalData": {
+      "Códigos": "0800504889",
+      "Descripciones": "PREACEPTOR E‐GBRU "
+    }
+  },
+  {
+    "id": 356,
+    "code": "0800312499",
+    "description": "PREACEPTOR GBNA/GBRU",
+    "originalData": {
+      "Códigos": "0800312499",
+      "Descripciones": "PREACEPTOR GBNA/GBRU "
+    }
+  },
+  {
+    "id": 357,
+    "code": "0800365547",
+    "description": "PREVALIDADORA",
+    "originalData": {
+      "Códigos": "0800365547",
+      "Descripciones": "PREVALIDADORA "
+    }
+  },
+  {
+    "id": 358,
+    "code": "0800312587",
+    "description": "REED SWITCH PCB",
+    "originalData": {
+      "Códigos": "0800312587",
+      "Descripciones": "REED SWITCH PCB "
+    }
+  },
+  {
+    "id": 359,
+    "code": "0800515109",
+    "description": "RUEDA EXCENTRICA SHUTTER PG FJ / GBXX PG FJ / S100",
+    "originalData": {
+      "Códigos": "0800515109",
+      "Descripciones": "RUEDA EXCENTRICA SHUTTER PG FJ / GBXX PG FJ / S100 "
+    }
+  },
+  {
+    "id": 360,
+    "code": "0800504905",
+    "description": "SCROW E‐GBRU",
+    "originalData": {
+      "Códigos": "0800504905",
+      "Descripciones": "SCROW E‐GBRU "
+    }
+  },
+  {
+    "id": 361,
+    "code": "0800365556",
+    "description": "SCROW GBNA/GBRU",
+    "originalData": {
+      "Códigos": "0800365556",
+      "Descripciones": "SCROW GBNA/GBRU "
+    }
+  },
+  {
+    "id": 362,
+    "code": "0800504898",
+    "description": "SEPARATOR E‐GBRU",
+    "originalData": {
+      "Códigos": "0800504898",
+      "Descripciones": "SEPARATOR E‐GBRU "
+    }
+  },
+  {
+    "id": 363,
+    "code": "0800365565",
+    "description": "SEPARATOR GBNA/GBRU",
+    "originalData": {
+      "Códigos": "0800365565",
+      "Descripciones": "SEPARATOR GBNA/GBRU "
+    }
+  },
+  {
+    "id": 364,
+    "code": "0800318135",
+    "description": "SHUTTER GBNA NCR (MODELO C)",
+    "originalData": {
+      "Códigos": "0800318135",
+      "Descripciones": "SHUTTER GBNA NCR (MODELO C) "
+    }
+  },
+  {
+    "id": 365,
+    "code": "0800489218",
+    "description": "SHUTTER GBXX PG FJ",
+    "originalData": {
+      "Códigos": "0800489218",
+      "Descripciones": "SHUTTER GBXX PG FJ "
+    }
+  },
+  {
+    "id": 366,
+    "code": "0800442170",
+    "description": "SHUTTER GBXX PG NCR (TODOS LOS MODELOS)",
+    "originalData": {
+      "Códigos": "0800442170",
+      "Descripciones": "SHUTTER GBXX PG NCR (TODOS LOS MODELOS) "
+    }
+  },
+  {
+    "id": 367,
+    "code": "0800489236",
+    "description": "SHUTTER GBXX S100",
+    "originalData": {
+      "Códigos": "0800489236",
+      "Descripciones": "SHUTTER GBXX S100 "
+    }
+  },
+  {
+    "id": 368,
+    "code": "0800444800",
+    "description": "SOLENOIDE ROTATORIO",
+    "originalData": {
+      "Códigos": "0800444800",
+      "Descripciones": "SOLENOIDE ROTATORIO "
+    }
+  },
+  {
+    "id": 369,
+    "code": "0800410267",
+    "description": "TAPA 15",
+    "originalData": {
+      "Códigos": "0800410267",
+      "Descripciones": "TAPA 15 "
+    }
+  },
+  {
+    "id": 370,
+    "code": "0800365574",
+    "description": "UPPER TRANSPORT GBNA (FIXED REJECT BIN) SIN PLACA",
+    "originalData": {
+      "Códigos": "0800365574",
+      "Descripciones": "UPPER TRANSPORT GBNA (FIXED REJECT BIN) SIN PLACA "
+    }
+  },
+  {
+    "id": 371,
+    "code": "0800252142",
+    "description": "UPPER TRANSPORT GBRU (REMOVABLE REJECT BIN) SIN PLACA",
+    "originalData": {
+      "Códigos": "0800252142",
+      "Descripciones": "UPPER TRANSPORT GBRU (REMOVABLE REJECT BIN) SIN PLACA "
+    }
+  },
+  {
+    "id": 372,
+    "code": "0800452319",
+    "description": "VALIDADORA BV100",
+    "originalData": {
+      "Códigos": "0800452319",
+      "Descripciones": "VALIDADORA BV100 "
+    }
+  },
+  {
+    "id": 373,
+    "code": "0800312774",
+    "description": "VALIDADORA GBVM",
+    "originalData": {
+      "Códigos": "0800312774",
+      "Descripciones": "VALIDADORA GBVM "
+    }
+  },
+  {
+    "id": 374,
+    "code": "0800436052",
+    "description": "ACTUADOR ENTRADA DE LIBRETA (MAS GRUESO)",
+    "originalData": {
+      "Códigos": "0800436052",
+      "Descripciones": "ACTUADOR ENTRADA DE LIBRETA (MAS GRUESO) "
+    }
+  },
+  {
+    "id": 375,
+    "code": "0800436061",
+    "description": "ACTUADOR ENTRADA DE LIBRETA (S)",
+    "originalData": {
+      "Códigos": "0800436061",
+      "Descripciones": "ACTUADOR ENTRADA DE LIBRETA (S) "
+    }
+  },
+  {
+    "id": 376,
+    "code": "0800435981",
+    "description": "BOCA DE ENTRADA DE PLASTICO PPRX200GL",
+    "originalData": {
+      "Códigos": "0800435981",
+      "Descripciones": "BOCA DE ENTRADA DE PLASTICO PPRX200GL "
+    }
+  },
+  {
+    "id": 377,
+    "code": "0800435927",
+    "description": "CABEZAL DE IMPRESIÓN",
+    "originalData": {
+      "Códigos": "0800435927",
+      "Descripciones": "CABEZAL DE IMPRESIÓN "
+    }
+  },
+  {
+    "id": 378,
+    "code": "0800303515",
+    "description": "CEPILLO PBRP (MONTADO EN FRONTAL)",
+    "originalData": {
+      "Códigos": "0800303515",
+      "Descripciones": "CEPILLO PBRP (MONTADO EN FRONTAL) "
+    }
+  },
+  {
+    "id": 379,
+    "code": "0800309500",
+    "description": "CHAPA METALICA BOCA DE ENTRADA PPR2100",
+    "originalData": {
+      "Códigos": "0800309500",
+      "Descripciones": "CHAPA METALICA BOCA DE ENTRADA PPR2100 "
+    }
+  },
+  {
+    "id": 380,
+    "code": "0800395453",
+    "description": "CHAPA METALICA BOCA DE ENTRADA PPRX200GL",
+    "originalData": {
+      "Códigos": "0800395453",
+      "Descripciones": "CHAPA METALICA BOCA DE ENTRADA PPRX200GL "
+    }
+  },
+  {
+    "id": 381,
+    "code": "0800436668",
+    "description": "CORREA LATERAL",
+    "originalData": {
+      "Códigos": "0800436668",
+      "Descripciones": "CORREA LATERAL "
+    }
+  },
+  {
+    "id": 382,
+    "code": "0800435963",
+    "description": "CUBIERTA TRANSPARENTE DEL IMS PPRX200GL",
+    "originalData": {
+      "Códigos": "0800435963",
+      "Descripciones": "CUBIERTA TRANSPARENTE DEL IMS PPRX200GL "
+    }
+  },
+  {
+    "id": 383,
+    "code": "0800435936",
+    "description": "FUENTE DE ALIMENTACION PPRX20GL",
+    "originalData": {
+      "Códigos": "0800435936",
+      "Descripciones": "FUENTE DE ALIMENTACION PPRX20GL "
+    }
+  },
+  {
+    "id": 384,
+    "code": "0800457136",
+    "description": "GALGA PARA AJUSTE IMS PPRX200GL (SENSOR OPTICO) (RAS 7D)",
+    "originalData": {
+      "Códigos": "0800457136",
+      "Descripciones": "GALGA PARA AJUSTE IMS PPRX200GL (SENSOR OPTICO) (RAS 7D) "
+    }
+  },
+  {
+    "id": 385,
+    "code": "0800435954",
+    "description": "GOMAS DE CAMBIO DE PAGINA (CAMBIAR LAS TRES)",
+    "originalData": {
+      "Códigos": "0800435954",
+      "Descripciones": "GOMAS DE CAMBIO DE PAGINA (CAMBIAR LAS TRES) "
+    }
+  },
+  {
+    "id": 386,
+    "code": "0800385856",
+    "description": "GUIA NEGRA DEL CABEZAL MAGNETICO PPR200GL",
+    "originalData": {
+      "Códigos": "0800385856",
+      "Descripciones": "GUIA NEGRA DEL CABEZAL MAGNETICO PPR200GL "
+    }
+  },
+  {
+    "id": 387,
+    "code": "0800435918",
+    "description": "IMS UNIT PPRX200GL",
+    "originalData": {
+      "Códigos": "0800435918",
+      "Descripciones": "IMS UNIT PPRX200GL "
+    }
+  },
+  {
+    "id": 388,
+    "code": "0800436686",
+    "description": "MANDO/POMO VERDE PPRX200GL",
+    "originalData": {
+      "Códigos": "0800436686",
+      "Descripciones": "MANDO/POMO VERDE PPRX200GL "
+    }
+  },
+  {
+    "id": 389,
+    "code": "0800435972",
+    "description": "MASCARA GUIA DE CINTA",
+    "originalData": {
+      "Códigos": "0800435972",
+      "Descripciones": "MASCARA GUIA DE CINTA "
+    }
+  },
+  {
+    "id": 390,
+    "code": "0800303695",
+    "description": "MS‐READER PPR2100",
+    "originalData": {
+      "Códigos": "0800303695",
+      "Descripciones": "MS‐READER PPR2100 "
+    }
+  },
+  {
+    "id": 391,
+    "code": "0800398110",
+    "description": "MS‐READER PPRX200GL",
+    "originalData": {
+      "Códigos": "0800398110",
+      "Descripciones": "MS‐READER PPRX200GL "
+    }
+  },
+  {
+    "id": 392,
+    "code": "0800248390",
+    "description": "PBPR PPR2100",
+    "originalData": {
+      "Códigos": "0800248390",
+      "Descripciones": "PBPR PPR2100 "
+    }
+  },
+  {
+    "id": 393,
+    "code": "0800435909",
+    "description": "PBPR PPRX200GL",
+    "originalData": {
+      "Códigos": "0800435909",
+      "Descripciones": "PBPR PPRX200GL "
+    }
+  },
+  {
+    "id": 394,
+    "code": "0800435945",
+    "description": "PLACA PRX10CB PPRX200GL",
+    "originalData": {
+      "Códigos": "0800435945",
+      "Descripciones": "PLACA PRX10CB PPRX200GL "
+    }
+  },
+  {
+    "id": 395,
+    "code": "0800436043",
+    "description": "SENSOR MCS – PS1S",
+    "originalData": {
+      "Códigos": "0800436043",
+      "Descripciones": "SENSOR MCS – PS1S "
+    }
+  },
+  {
+    "id": 396,
+    "code": "0800436533",
+    "description": "SOPORTE ENTRADA LIBRETAS",
+    "originalData": {
+      "Códigos": "0800436533",
+      "Descripciones": "SOPORTE ENTRADA LIBRETAS "
+    }
+  },
+  {
+    "id": 397,
+    "code": "0800436560",
+    "description": "SOPORTE METALICO DE FOTOINTERRUPTOR MLS",
+    "originalData": {
+      "Códigos": "0800436560",
+      "Descripciones": "SOPORTE METALICO DE FOTOINTERRUPTOR MLS "
+    }
+  },
+  {
+    "id": 398,
+    "code": "0800436551",
+    "description": "SOPORTE METALICO DE FOTOINTERRUPTOS MRS1",
+    "originalData": {
+      "Códigos": "0800436551",
+      "Descripciones": "SOPORTE METALICO DE FOTOINTERRUPTOS MRS1 "
+    }
+  },
+  {
+    "id": 399,
+    "code": "0800475189",
+    "description": "ANCLAJE CON SWITCH (44N – CON SWITCH)",
+    "originalData": {
+      "Códigos": "0800475189",
+      "Descripciones": "ANCLAJE CON SWITCH (44N – CON SWITCH) "
+    }
+  },
+  {
+    "id": 400,
+    "code": "0800361159",
+    "description": "ANCLAJE EN FRONTAL (22N) (DOS PIEZAS)",
+    "originalData": {
+      "Códigos": "0800361159",
+      "Descripciones": "ANCLAJE EN FRONTAL (22N) (DOS PIEZAS) "
+    }
+  },
+  {
+    "id": 401,
+    "code": "0800361140",
+    "description": "ANCLAJE GOP (44N) (DOS PIEZAS)",
+    "originalData": {
+      "Códigos": "0800361140",
+      "Descripciones": "ANCLAJE GOP (44N) (DOS PIEZAS) "
+    }
+  },
+  {
+    "id": 402,
+    "code": "0800374500",
+    "description": "ARO DE LUZ AZUL",
+    "originalData": {
+      "Códigos": "0800374500",
+      "Descripciones": "ARO DE LUZ AZUL "
+    }
+  },
+  {
+    "id": 403,
+    "code": "0800517287",
+    "description": "ARO DE LUZ BLANCO",
+    "originalData": {
+      "Códigos": "0800517287",
+      "Descripciones": "ARO DE LUZ BLANCO "
+    }
+  },
+  {
+    "id": 404,
+    "code": "0800491063",
+    "description": "BLOQUEO ENTRADA TARJETAS PG FJ",
+    "originalData": {
+      "Códigos": "0800491063",
+      "Descripciones": "BLOQUEO ENTRADA TARJETAS PG FJ "
+    }
+  },
+  {
+    "id": 405,
+    "code": "0800318171",
+    "description": "BLOQUEO ENTRADA TARJETAS PG NCR",
+    "originalData": {
+      "Códigos": "0800318171",
+      "Descripciones": "BLOQUEO ENTRADA TARJETAS PG NCR "
+    }
+  },
+  {
+    "id": 406,
+    "code": "0800470460",
+    "description": "CABLE CURSORES – ALFABETICO",
+    "originalData": {
+      "Códigos": "0800470460",
+      "Descripciones": "CABLE CURSORES – ALFABETICO "
+    }
+  },
+  {
+    "id": 407,
+    "code": "0800350991",
+    "description": "CABLE DC HUB1 – TARJETAS PG NCR",
+    "originalData": {
+      "Códigos": "0800350991",
+      "Descripciones": "CABLE DC HUB1 – TARJETAS PG NCR "
+    }
+  },
+  {
+    "id": 408,
+    "code": "0800475866",
+    "description": "CABLE GOP USB A DOBLE – USB MINI (PG FJ)",
+    "originalData": {
+      "Códigos": "0800475866",
+      "Descripciones": "CABLE GOP USB A DOBLE – USB MINI (PG FJ) "
+    }
+  },
+  {
+    "id": 409,
+    "code": "0800470335",
+    "description": "CABLE NUMERICO – ALFABETICO",
+    "originalData": {
+      "Códigos": "0800470335",
+      "Descripciones": "CABLE NUMERICO – ALFABETICO "
+    }
+  },
+  {
+    "id": 410,
+    "code": "0800487666",
+    "description": "CABLE PANTALLA TACTIL KORTEK 0.40 METROS",
+    "originalData": {
+      "Códigos": "0800487666",
+      "Descripciones": "CABLE PANTALLA TACTIL KORTEK 0.40 METROS "
+    }
+  },
+  {
+    "id": 411,
+    "code": "0800466625",
+    "description": "CABLE PANTALLA TACTIL KORTEK 2.40 METROS",
+    "originalData": {
+      "Códigos": "0800466625",
+      "Descripciones": "CABLE PANTALLA TACTIL KORTEK 2.40 METROS "
+    }
+  },
+  {
+    "id": 412,
+    "code": "0800479531",
+    "description": "CABLE PANTALLA TACTIL KORTEK 4.80 METROS",
+    "originalData": {
+      "Códigos": "0800479531",
+      "Descripciones": "CABLE PANTALLA TACTIL KORTEK 4.80 METROS "
+    }
+  },
+  {
+    "id": 413,
+    "code": "0800491027",
+    "description": "CABLE USB 2.0 A‐MACHO / A‐MACHO (PANTALLA TACTIL MONITOR CLIENTE KF)",
+    "originalData": {
+      "Códigos": "0800491027",
+      "Descripciones": "CABLE USB 2.0 A‐MACHO / A‐MACHO (PANTALLA TACTIL MONITOR CLIENTE KF) "
+    }
+  },
+  {
+    "id": 414,
+    "code": "0800492767",
+    "description": "CABLE USB A – MICRO B (ESCANER PG FJ DIRECTO A CPU)",
+    "originalData": {
+      "Códigos": "0800492767",
+      "Descripciones": "CABLE USB A – MICRO B (ESCANER PG FJ DIRECTO A CPU) "
+    }
+  },
+  {
+    "id": 415,
+    "code": "0800340743",
+    "description": "CABLE USB A – MINI B (NFC / ESCANER PG NCR)",
+    "originalData": {
+      "Códigos": "0800340743",
+      "Descripciones": "CABLE USB A – MINI B (NFC / ESCANER PG NCR) "
+    }
+  },
+  {
+    "id": 416,
+    "code": "0800351008",
+    "description": "CABLE USB A – MINI B (TARJETAS PG NCR)",
+    "originalData": {
+      "Códigos": "0800351008",
+      "Descripciones": "CABLE USB A – MINI B (TARJETAS PG NCR) "
+    }
+  },
+  {
+    "id": 417,
+    "code": "0800475866",
+    "description": "CABLE USB A – MINI B DOBLE (GOP PG FJ A CPU)",
+    "originalData": {
+      "Códigos": "0800475866",
+      "Descripciones": "CABLE USB A – MINI B DOBLE (GOP PG FJ A CPU) "
+    }
+  },
+  {
+    "id": 418,
+    "code": "0800258752",
+    "description": "CABLE USB A‐B (RECIBOS / COIN DISPENSER / GOP PG NCR / TECLADO)",
+    "originalData": {
+      "Códigos": "0800258752",
+      "Descripciones": "CABLE USB A‐B (RECIBOS / COIN DISPENSER / GOP PG NCR / TECLADO) "
+    }
+  },
+  {
+    "id": 419,
+    "code": "0800351008",
+    "description": "CABLE USB A‐B (TARJETAS PG FJ / RECIBOS)",
+    "originalData": {
+      "Códigos": "0800351008",
+      "Descripciones": "CABLE USB A‐B (TARJETAS PG FJ / RECIBOS) "
+    }
+  },
+  {
+    "id": 420,
+    "code": "0800453238",
+    "description": "CABLE USB A‐B 1 METRO",
+    "originalData": {
+      "Códigos": "0800453238",
+      "Descripciones": "CABLE USB A‐B 1 METRO "
+    }
+  },
+  {
+    "id": 421,
+    "code": "0800312710",
+    "description": "CABLE USB A‐B 3 METROS (GBXX)",
+    "originalData": {
+      "Códigos": "0800312710",
+      "Descripciones": "CABLE USB A‐B 3 METROS (GBXX) "
+    }
+  },
+  {
+    "id": 422,
+    "code": "0800476801",
+    "description": "CABLE USB A‐B 5 METROS (GBNA / TECLADO A CPU)",
+    "originalData": {
+      "Códigos": "0800476801",
+      "Descripciones": "CABLE USB A‐B 5 METROS (GBNA / TECLADO A CPU) "
+    }
+  },
+  {
+    "id": 423,
+    "code": "0800386917",
+    "description": "CABLE USB DOBLE PARA TECLADO EPP D2X VER. 6 O SUPERIOR",
+    "originalData": {
+      "Códigos": "0800386917",
+      "Descripciones": "CABLE USB DOBLE PARA TECLADO EPP D2X VER. 6 O SUPERIOR "
+    }
+  },
+  {
+    "id": 424,
+    "code": "0800258093",
+    "description": "CABLE VGA MONITORES",
+    "originalData": {
+      "Códigos": "0800258093",
+      "Descripciones": "CABLE VGA MONITORES "
+    }
+  },
+  {
+    "id": 425,
+    "code": "0800351366",
+    "description": "CABLE VIDEO DVI‐D / GOP PG NCR",
+    "originalData": {
+      "Códigos": "0800351366",
+      "Descripciones": "CABLE VIDEO DVI‐D / GOP PG NCR "
+    }
+  },
+  {
+    "id": 426,
+    "code": "0800491018",
+    "description": "CABLE VIDEO HDMI PANTALLA PUBLICIDAD PG FJ",
+    "originalData": {
+      "Códigos": "0800491018",
+      "Descripciones": "CABLE VIDEO HDMI PANTALLA PUBLICIDAD PG FJ "
+    }
+  },
+  {
+    "id": 427,
+    "code": "0800469962",
+    "description": "CABLES ALIMENTACION Y SEÑAL SHUTTERS G510 + GBXX (LOS DOS) (PG FJ)",
+    "originalData": {
+      "Códigos": "0800469962",
+      "Descripciones": "CABLES ALIMENTACION Y SEÑAL SHUTTERS G510 + GBXX (LOS DOS) (PG FJ) "
+    }
+  },
+  {
+    "id": 428,
+    "code": "0800436445",
+    "description": "CAMARA USB",
+    "originalData": {
+      "Códigos": "0800436445",
+      "Descripciones": "CAMARA USB "
+    }
+  },
+  {
+    "id": 429,
+    "code": "0800416136",
+    "description": "CARATULA INFERIOR DE FASCIA MONITORES",
+    "originalData": {
+      "Códigos": "0800416136",
+      "Descripciones": "CARATULA INFERIOR DE FASCIA MONITORES "
+    }
+  },
+  {
+    "id": 430,
+    "code": "0800475198",
+    "description": "CARATULA INFERIOR EMBOCADURA GBXX",
+    "originalData": {
+      "Códigos": "0800475198",
+      "Descripciones": "CARATULA INFERIOR EMBOCADURA GBXX "
+    }
+  },
+  {
+    "id": 431,
+    "code": "0800394338",
+    "description": "CHAPA SOPORTE (SOLO) TECLADO ALFABETICO Y CURSORES DERECHA",
+    "originalData": {
+      "Códigos": "0800394338",
+      "Descripciones": "CHAPA SOPORTE (SOLO) TECLADO ALFABETICO Y CURSORES DERECHA "
+    }
+  },
+  {
+    "id": 432,
+    "code": "0800394347",
+    "description": "CHAPA SOPORTE (SOLO) TECLADO ALFABETICO Y CURSORES IZQUIERDA",
+    "originalData": {
+      "Códigos": "0800394347",
+      "Descripciones": "CHAPA SOPORTE (SOLO) TECLADO ALFABETICO Y CURSORES IZQUIERDA "
+    }
+  },
+  {
+    "id": 433,
+    "code": "0800469560",
+    "description": "CLIP ON COVER PG FJ",
+    "originalData": {
+      "Códigos": "0800469560",
+      "Descripciones": "CLIP ON COVER PG FJ "
+    }
+  },
+  {
+    "id": 434,
+    "code": "0800318876",
+    "description": "CLIP ON COVER PG NCR",
+    "originalData": {
+      "Códigos": "0800318876",
+      "Descripciones": "CLIP ON COVER PG NCR "
+    }
+  },
+  {
+    "id": 435,
+    "code": "0800486701",
+    "description": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B)",
+    "originalData": {
+      "Códigos": "0800486701",
+      "Descripciones": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B) "
+    }
+  },
+  {
+    "id": 436,
+    "code": "0800453210",
+    "description": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG NCR (USB MINI)",
+    "originalData": {
+      "Códigos": "0800453210",
+      "Descripciones": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG NCR (USB MINI) "
+    }
+  },
+  {
+    "id": 437,
+    "code": "0800455101",
+    "description": "CONJUNTO TODAS LAS EMBOCADURAS",
+    "originalData": {
+      "Códigos": "0800455101",
+      "Descripciones": "CONJUNTO TODAS LAS EMBOCADURAS "
+    }
+  },
+  {
+    "id": 438,
+    "code": "0800318313",
+    "description": "CRISTAL ESCANER",
+    "originalData": {
+      "Códigos": "0800318313",
+      "Descripciones": "CRISTAL ESCANER "
+    }
+  },
+  {
+    "id": 439,
+    "code": "0800318368",
+    "description": "CRISTAL PUBLICIDAD KORTEK",
+    "originalData": {
+      "Códigos": "0800318368",
+      "Descripciones": "CRISTAL PUBLICIDAD KORTEK "
+    }
+  },
+  {
+    "id": 440,
+    "code": "0800318910",
+    "description": "EMBOCADURA BILLETES",
+    "originalData": {
+      "Códigos": "0800318910",
+      "Descripciones": "EMBOCADURA BILLETES "
+    }
+  },
+  {
+    "id": 441,
+    "code": "0800318929",
+    "description": "EMBOCADURA INGRESOS",
+    "originalData": {
+      "Códigos": "0800318929",
+      "Descripciones": "EMBOCADURA INGRESOS "
+    }
+  },
+  {
+    "id": 442,
+    "code": "0800318901",
+    "description": "EMBOCADURA LIBRETAS",
+    "originalData": {
+      "Códigos": "0800318901",
+      "Descripciones": "EMBOCADURA LIBRETAS "
+    }
+  },
+  {
+    "id": 443,
+    "code": "0800318894",
+    "description": "EMBOCADURA RECIBOS",
+    "originalData": {
+      "Códigos": "0800318894",
+      "Descripciones": "EMBOCADURA RECIBOS "
+    }
+  },
+  {
+    "id": 444,
+    "code": "0800318885",
+    "description": "EMBOCADURA TARJETAS",
+    "originalData": {
+      "Códigos": "0800318885",
+      "Descripciones": "EMBOCADURA TARJETAS "
+    }
+  },
+  {
+    "id": 445,
+    "code": "0800318821",
+    "description": "ESCANER 2D READER (PG NCR)",
+    "originalData": {
+      "Códigos": "0800318821",
+      "Descripciones": "ESCANER 2D READER (PG NCR) "
+    }
+  },
+  {
+    "id": 446,
+    "code": "0800507458",
+    "description": "ESCANER HONEYWELL PG 2022 (PG FJ)",
+    "originalData": {
+      "Códigos": "0800507458",
+      "Descripciones": "ESCANER HONEYWELL PG 2022 (PG FJ) "
+    }
+  },
+  {
+    "id": 447,
+    "code": "0800446096",
+    "description": "ESCANER JADAK (PG FJ)",
+    "originalData": {
+      "Códigos": "0800446096",
+      "Descripciones": "ESCANER JADAK (PG FJ) "
+    }
+  },
+  {
+    "id": 448,
+    "code": "0800386926",
+    "description": "ETIQUETAS BILUNGÜE CATALAN",
+    "originalData": {
+      "Códigos": "0800386926",
+      "Descripciones": "ETIQUETAS BILUNGÜE CATALAN "
+    }
+  },
+  {
+    "id": 449,
+    "code": "0800386935",
+    "description": "ETIQUETAS CASTELLANO",
+    "originalData": {
+      "Códigos": "0800386935",
+      "Descripciones": "ETIQUETAS CASTELLANO "
+    }
+  },
+  {
+    "id": 450,
+    "code": "0800399039",
+    "description": "FASCIA DE MONITORES",
+    "originalData": {
+      "Códigos": "0800399039",
+      "Descripciones": "FASCIA DE MONITORES "
+    }
+  },
+  {
+    "id": 451,
+    "code": "0800318395",
+    "description": "FASCIA LIGHT (LUMINARIA ANTIGUA)",
+    "originalData": {
+      "Códigos": "0800318395",
+      "Descripciones": "FASCIA LIGHT (LUMINARIA ANTIGUA) "
+    }
+  },
+  {
+    "id": 452,
+    "code": "0800318402",
+    "description": "FASCIA LIGHT PSU (ALIMENTACION LUMINARIA ANTIGUA)",
+    "originalData": {
+      "Códigos": "0800318402",
+      "Descripciones": "FASCIA LIGHT PSU (ALIMENTACION LUMINARIA ANTIGUA) "
+    }
+  },
+  {
+    "id": 453,
+    "code": "0800469971",
+    "description": "FLICKER + DIFUSOR CORTO (PG FJ)",
+    "originalData": {
+      "Códigos": "0800469971",
+      "Descripciones": "FLICKER + DIFUSOR CORTO (PG FJ) "
+    }
+  },
+  {
+    "id": 454,
+    "code": "0800421718",
+    "description": "FLICKER + DIFUSOR CORTO (SHORT MEEI BACK LIGHT) (PG NCR)",
+    "originalData": {
+      "Códigos": "0800421718",
+      "Descripciones": "FLICKER + DIFUSOR CORTO (SHORT MEEI BACK LIGHT) (PG NCR) "
+    }
+  },
+  {
+    "id": 455,
+    "code": "0800421727",
+    "description": "FLICKER + DIFUSOR LARGO (LARGE MEEI BACK LIGHT) (PG NCR)",
+    "originalData": {
+      "Códigos": "0800421727",
+      "Descripciones": "FLICKER + DIFUSOR LARGO (LARGE MEEI BACK LIGHT) (PG NCR) "
+    }
+  },
+  {
+    "id": 456,
+    "code": "0800469980",
+    "description": "FLICKER + DIFUSOR LARGO (PG FJ)",
+    "originalData": {
+      "Códigos": "0800469980",
+      "Descripciones": "FLICKER + DIFUSOR LARGO (PG FJ) "
+    }
+  },
+  {
+    "id": 457,
+    "code": "0800475526",
+    "description": "FUENTE DE ALIMENTACION CON MODIFICACION COATING PG NCR",
+    "originalData": {
+      "Códigos": "0800475526",
+      "Descripciones": "FUENTE DE ALIMENTACION CON MODIFICACION COATING PG NCR "
+    }
+  },
+  {
+    "id": 458,
+    "code": "0800479746",
+    "description": "FUENTE DE ALIMENTACION PG FJ",
+    "originalData": {
+      "Códigos": "0800479746",
+      "Descripciones": "FUENTE DE ALIMENTACION PG FJ "
+    }
+  },
+  {
+    "id": 459,
+    "code": "0800445961",
+    "description": "FUENTE DE ALIMENTACION PG FJ (ALTERNATIVO 0800475205)",
+    "originalData": {
+      "Códigos": "0800445961",
+      "Descripciones": "FUENTE DE ALIMENTACION PG FJ (ALTERNATIVO 0800475205) "
+    }
+  },
+  {
+    "id": 460,
+    "code": "0800475205",
+    "description": "FUENTE DE ALIMENTACION PG FJ (ALTERNATIVO 0800479746)",
+    "originalData": {
+      "Códigos": "0800475205",
+      "Descripciones": "FUENTE DE ALIMENTACION PG FJ (ALTERNATIVO 0800479746) "
+    }
+  },
+  {
+    "id": 461,
+    "code": "0800117405",
+    "description": "FUSIBLE 6.3A",
+    "originalData": {
+      "Códigos": "0800117405",
+      "Descripciones": "FUSIBLE 6.3A "
+    }
+  },
+  {
+    "id": 462,
+    "code": "0216001163",
+    "description": "FUSIBLE 6.3A FAST",
+    "originalData": {
+      "Códigos": "0216001163",
+      "Descripciones": "FUSIBLE 6.3A FAST "
+    }
+  },
+  {
+    "id": 463,
+    "code": "0800415510",
+    "description": "FUSIBLE 7.5AMP PG NCR",
+    "originalData": {
+      "Códigos": "0800415510",
+      "Descripciones": "FUSIBLE 7.5AMP PG NCR "
+    }
+  },
+  {
+    "id": 464,
+    "code": "0800501800",
+    "description": "GOP ACTUALIZADO PG NCR",
+    "originalData": {
+      "Códigos": "0800501800",
+      "Descripciones": "GOP ACTUALIZADO PG NCR "
+    }
+  },
+  {
+    "id": 465,
+    "code": "0800446194",
+    "description": "GOP PG FJ",
+    "originalData": {
+      "Códigos": "0800446194",
+      "Descripciones": "GOP PG FJ "
+    }
+  },
+  {
+    "id": 466,
+    "code": "0800318858",
+    "description": "HUB DC PG NCR",
+    "originalData": {
+      "Códigos": "0800318858",
+      "Descripciones": "HUB DC PG NCR "
+    }
+  },
+  {
+    "id": 467,
+    "code": "0800318830",
+    "description": "HUB USB PG NCR (MINI USB)",
+    "originalData": {
+      "Códigos": "0800318830",
+      "Descripciones": "HUB USB PG NCR (MINI USB) "
+    }
+  },
+  {
+    "id": 468,
+    "code": "0800498299",
+    "description": "INSERTOS (BOLSA DE 10)",
+    "originalData": {
+      "Códigos": "0800498299",
+      "Descripciones": "INSERTOS (BOLSA DE 10) "
+    }
+  },
+  {
+    "id": 469,
+    "code": "0800498048",
+    "description": "INTERRUPTOR GENERAL PG FJ",
+    "originalData": {
+      "Códigos": "0800498048",
+      "Descripciones": "INTERRUPTOR GENERAL PG FJ "
+    }
+  },
+  {
+    "id": 470,
+    "code": "0800446167",
+    "description": "JACK AUDIO HEMBRA (MACHO EN CAJERO) (PUNT GROC MODELO E Y SIGUIENTES)",
+    "originalData": {
+      "Códigos": "0800446167",
+      "Descripciones": "JACK AUDIO HEMBRA (MACHO EN CAJERO) (PUNT GROC MODELO E Y SIGUIENTES) "
+    }
+  },
+  {
+    "id": 471,
+    "code": "0800387033",
+    "description": "JACK AUDIO MACHO (HEMBRA EN CAJERO) (PUNT GROC MODELOS C Y D)",
+    "originalData": {
+      "Códigos": "0800387033",
+      "Descripciones": "JACK AUDIO MACHO (HEMBRA EN CAJERO) (PUNT GROC MODELOS C Y D) "
+    }
+  },
+  {
+    "id": 472,
+    "code": "0800387408",
+    "description": "JUNTAS ANTI‐AGUA TECLADO NUMERICO",
+    "originalData": {
+      "Códigos": "0800387408",
+      "Descripciones": "JUNTAS ANTI‐AGUA TECLADO NUMERICO "
+    }
+  },
+  {
+    "id": 473,
+    "code": "0800473555",
+    "description": "KIT BISAGRAS GOP PG NCR",
+    "originalData": {
+      "Códigos": "0800473555",
+      "Descripciones": "KIT BISAGRAS GOP PG NCR "
+    }
+  },
+  {
+    "id": 474,
+    "code": "0800476507",
+    "description": "KIT MEC. COMPAS (ZICO C/D) (PG NCR)",
+    "originalData": {
+      "Códigos": "0800476507",
+      "Descripciones": "KIT MEC. COMPAS (ZICO C/D) (PG NCR) "
+    }
+  },
+  {
+    "id": 475,
+    "code": "0800473920",
+    "description": "KIT MEC. COMPAS DRCH‐IZDA. (PG FJ)",
+    "originalData": {
+      "Códigos": "0800473920",
+      "Descripciones": "KIT MEC. COMPAS DRCH‐IZDA. (PG FJ) "
+    }
+  },
+  {
+    "id": 476,
+    "code": "0800470898",
+    "description": "KIT MECANICO PARA CAMBIAR TECLADO PCI 1.0 POR PCI 3.0",
+    "originalData": {
+      "Códigos": "0800470898",
+      "Descripciones": "KIT MECANICO PARA CAMBIAR TECLADO PCI 1.0 POR PCI 3.0 "
+    }
+  },
+  {
+    "id": 477,
+    "code": "0800499412",
+    "description": "KIT MECANICO TOBERA ESCANER + SOPORTE CRISTAL (SIN CRISTAL)",
+    "originalData": {
+      "Códigos": "0800499412",
+      "Descripciones": "KIT MECANICO TOBERA ESCANER + SOPORTE CRISTAL (SIN CRISTAL) "
+    }
+  },
+  {
+    "id": 478,
+    "code": "0800479498",
+    "description": "KIT NUEVA FASCIA LIGHT (INCLUYE 0800479274 + CABLE ADAPTACION) (3 + 4)",
+    "originalData": {
+      "Códigos": "0800479498",
+      "Descripciones": "KIT NUEVA FASCIA LIGHT (INCLUYE 0800479274 + CABLE ADAPTACION) (3 + 4) "
+    }
+  },
+  {
+    "id": 479,
+    "code": "0800508171",
+    "description": "KIT RELES ASROCK 24V",
+    "originalData": {
+      "Códigos": "0800508171",
+      "Descripciones": "KIT RELES ASROCK 24V "
+    }
+  },
+  {
+    "id": 480,
+    "code": "0800508171",
+    "description": "KIT RELES ASROCK 24V",
+    "originalData": {
+      "Códigos": "0800508171",
+      "Descripciones": "KIT RELES ASROCK 24V "
+    }
+  },
+  {
+    "id": 481,
+    "code": "0800492188",
+    "description": "KIT SOPORTE + CRISTAL PUBLICIDAD PARA MONITOR KF PUNT GROC FUJITSU",
+    "originalData": {
+      "Códigos": "0800492188",
+      "Descripciones": "KIT SOPORTE + CRISTAL PUBLICIDAD PARA MONITOR KF PUNT GROC FUJITSU "
+    }
+  },
+  {
+    "id": 482,
+    "code": "0800436418",
+    "description": "MEC. COMPAS ZICO F (PG NCR)",
+    "originalData": {
+      "Códigos": "0800436418",
+      "Descripciones": "MEC. COMPAS ZICO F (PG NCR) "
+    }
+  },
+  {
+    "id": 483,
+    "code": "0800416118",
+    "description": "MESA DERECHA DOS MATRICULAS (PG NCR MODELOS C / D)",
+    "originalData": {
+      "Códigos": "0800416118",
+      "Descripciones": "MESA DERECHA DOS MATRICULAS (PG NCR MODELOS C / D) "
+    }
+  },
+  {
+    "id": 484,
+    "code": "0800469999",
+    "description": "MESA DERECHA UNA MATRICULA (PG NCR MODELOS E‐G Y PG FJ)",
+    "originalData": {
+      "Códigos": "0800469999",
+      "Descripciones": "MESA DERECHA UNA MATRICULA (PG NCR MODELOS E‐G Y PG FJ) "
+    }
+  },
+  {
+    "id": 485,
+    "code": "0800436472",
+    "description": "MESA DERECHA UNA MATRICULA + TODA LA MECANICA",
+    "originalData": {
+      "Códigos": "0800436472",
+      "Descripciones": "MESA DERECHA UNA MATRICULA + TODA LA MECANICA "
+    }
+  },
+  {
+    "id": 486,
+    "code": "0800416127",
+    "description": "MESA IZQUIERDA DOS MATRICULAS (PG NCR MODELOS C / D)",
+    "originalData": {
+      "Códigos": "0800416127",
+      "Descripciones": "MESA IZQUIERDA DOS MATRICULAS (PG NCR MODELOS C / D) "
+    }
+  },
+  {
+    "id": 487,
+    "code": "0800470059",
+    "description": "MESA IZQUIERDA UNA MATRICULA (PG NCR MODELOS E‐G Y PG FJ)",
+    "originalData": {
+      "Códigos": "0800470059",
+      "Descripciones": "MESA IZQUIERDA UNA MATRICULA (PG NCR MODELOS E‐G Y PG FJ) "
+    }
+  },
+  {
+    "id": 488,
+    "code": "0800399636",
+    "description": "MESA IZQUIERDA UNA MATRICULA + TODA LA MECANICA",
+    "originalData": {
+      "Códigos": "0800399636",
+      "Descripciones": "MESA IZQUIERDA UNA MATRICULA + TODA LA MECANICA "
+    }
+  },
+  {
+    "id": 489,
+    "code": "0800443561",
+    "description": "METACRILATO CAMARA USB",
+    "originalData": {
+      "Códigos": "0800443561",
+      "Descripciones": "METACRILATO CAMARA USB "
+    }
+  },
+  {
+    "id": 490,
+    "code": "0800318938",
+    "description": "METACRILATO FASCIA LIGHT",
+    "originalData": {
+      "Códigos": "0800318938",
+      "Descripciones": "METACRILATO FASCIA LIGHT "
+    }
+  },
+  {
+    "id": 491,
+    "code": "0800421692",
+    "description": "METACRILATO TRANSPARENTE CORTO",
+    "originalData": {
+      "Códigos": "0800421692",
+      "Descripciones": "METACRILATO TRANSPARENTE CORTO "
+    }
+  },
+  {
+    "id": 492,
+    "code": "0800421709",
+    "description": "METACRILATO TRANSPARENTE LARGO",
+    "originalData": {
+      "Códigos": "0800421709",
+      "Descripciones": "METACRILATO TRANSPARENTE LARGO "
+    }
+  },
+  {
+    "id": 493,
+    "code": "0800487354",
+    "description": "MONITOR CLIENTE KFE301 1000CD",
+    "originalData": {
+      "Códigos": "0800487354",
+      "Descripciones": "MONITOR CLIENTE KFE301 1000CD "
+    }
+  },
+  {
+    "id": 494,
+    "code": "0800498609",
+    "description": "MONITOR CLIENTE KFE308",
+    "originalData": {
+      "Códigos": "0800498609",
+      "Descripciones": "MONITOR CLIENTE KFE308 "
+    }
+  },
+  {
+    "id": 495,
+    "code": "0800385525",
+    "description": "MONITOR CLIENTE KORTEK 600CD",
+    "originalData": {
+      "Códigos": "0800385525",
+      "Descripciones": "MONITOR CLIENTE KORTEK 600CD "
+    }
+  },
+  {
+    "id": 496,
+    "code": "0800446130",
+    "description": "MONITOR CLIENTE KORTEK 600CD MEDIO BRILLO",
+    "originalData": {
+      "Códigos": "0800446130",
+      "Descripciones": "MONITOR CLIENTE KORTEK 600CD MEDIO BRILLO "
+    }
+  },
+  {
+    "id": 497,
+    "code": "0800487345",
+    "description": "MONITOR PUBLICIDAD KF 450CD",
+    "originalData": {
+      "Códigos": "0800487345",
+      "Descripciones": "MONITOR PUBLICIDAD KF 450CD "
+    }
+  },
+  {
+    "id": 498,
+    "code": "0800446121",
+    "description": "MONITOR PUBLICIDAD KORTEK 250CD",
+    "originalData": {
+      "Códigos": "0800446121",
+      "Descripciones": "MONITOR PUBLICIDAD KORTEK 250CD "
+    }
+  },
+  {
+    "id": 499,
+    "code": "0800385534",
+    "description": "MONITOR PUBLICIDAD KORTEK KT‐LA15CX 250CD",
+    "originalData": {
+      "Códigos": "0800385534",
+      "Descripciones": "MONITOR PUBLICIDAD KORTEK KT‐LA15CX 250CD "
+    }
+  },
+  {
+    "id": 500,
+    "code": "0800318144",
+    "description": "MOTOR SHUTTER BILLETES / GBNA (PG NCR TODOS LOS MODELOS)",
+    "originalData": {
+      "Códigos": "0800318144",
+      "Descripciones": "MOTOR SHUTTER BILLETES / GBNA (PG NCR TODOS LOS MODELOS) "
+    }
+  },
+  {
+    "id": 501,
+    "code": "0800395943",
+    "description": "NFC ANTENA+CABLE+ANTENA KIOSK II (560‐0602‐05)",
+    "originalData": {
+      "Códigos": "0800395943",
+      "Descripciones": "NFC ANTENA+CABLE+ANTENA KIOSK II (560‐0602‐05) "
+    }
+  },
+  {
+    "id": 502,
+    "code": "0800474386",
+    "description": "NFC ANTENA+CABLE+ETIQUETA KIOSK III / KIOSK II EMV CO  V.2.6 (IDVK‐310100‐F1)",
+    "originalData": {
+      "Códigos": "0800474386",
+      "Descripciones": "NFC ANTENA+CABLE+ETIQUETA KIOSK III / KIOSK II EMV CO  V.2.6 (IDVK‐310100‐F1) "
+    }
+  },
+  {
+    "id": 503,
+    "code": "0800395952",
+    "description": "NFC CONTROLADOR KIOSK II (540‐0601‐03)",
+    "originalData": {
+      "Códigos": "0800395952",
+      "Descripciones": "NFC CONTROLADOR KIOSK II (540‐0601‐03) "
+    }
+  },
+  {
+    "id": 504,
+    "code": "0800474377",
+    "description": "NFC CONTROLADOR KIOSK III (IDVK300001)",
+    "originalData": {
+      "Códigos": "0800474377",
+      "Descripciones": "NFC CONTROLADOR KIOSK III (IDVK300001) "
+    }
+  },
+  {
+    "id": 505,
+    "code": "0800487951",
+    "description": "NFC CONTROLADOR KIOSK III EMV CO V.2.6 (IDVK‐300012)",
+    "originalData": {
+      "Códigos": "0800487951",
+      "Descripciones": "NFC CONTROLADOR KIOSK III EMV CO V.2.6 (IDVK‐300012) "
+    }
+  },
+  {
+    "id": 506,
+    "code": "0800396933",
+    "description": "NFC ETIQUETA",
+    "originalData": {
+      "Códigos": "0800396933",
+      "Descripciones": "NFC ETIQUETA "
+    }
+  },
+  {
+    "id": 507,
+    "code": "0800479274",
+    "description": "NUEVA FASCIA LIGHT (LUMINARIA NUEVA)",
+    "originalData": {
+      "Códigos": "0800479274",
+      "Descripciones": "NUEVA FASCIA LIGHT (LUMINARIA NUEVA) "
+    }
+  },
+  {
+    "id": 508,
+    "code": "0800475660",
+    "description": "PANTALLA TACTIL CLIENTE KORTEK",
+    "originalData": {
+      "Códigos": "0800475660",
+      "Descripciones": "PANTALLA TACTIL CLIENTE KORTEK "
+    }
+  },
+  {
+    "id": 509,
+    "code": "0800445998",
+    "description": "PLACA HUB USB PG FJ (USB B) ALTERNATIVO 0800479112",
+    "originalData": {
+      "Códigos": "0800445998",
+      "Descripciones": "PLACA HUB USB PG FJ (USB B) ALTERNATIVO 0800479112 "
+    }
+  },
+  {
+    "id": 510,
+    "code": "0800479112",
+    "description": "PLACA HUB USB PG FJ REV. 6 (USB B)",
+    "originalData": {
+      "Códigos": "0800479112",
+      "Descripciones": "PLACA HUB USB PG FJ REV. 6 (USB B) "
+    }
+  },
+  {
+    "id": 511,
+    "code": "0800470246",
+    "description": "PLACA ILM92BB",
+    "originalData": {
+      "Códigos": "0800470246",
+      "Descripciones": "PLACA ILM92BB "
+    }
+  },
+  {
+    "id": 512,
+    "code": "0800445970",
+    "description": "PLACA MISCELANEA PG FJ ILM10CC",
+    "originalData": {
+      "Códigos": "0800445970",
+      "Descripciones": "PLACA MISCELANEA PG FJ ILM10CC "
+    }
+  },
+  {
+    "id": 513,
+    "code": "0800491964",
+    "description": "PLACA MISCELANEA PG FJ JLM10",
+    "originalData": {
+      "Códigos": "0800491964",
+      "Descripciones": "PLACA MISCELANEA PG FJ JLM10 "
+    }
+  },
+  {
+    "id": 514,
+    "code": "0800318956",
+    "description": "PLACA MISCELANEA PG NCR",
+    "originalData": {
+      "Códigos": "0800318956",
+      "Descripciones": "PLACA MISCELANEA PG NCR "
+    }
+  },
+  {
+    "id": 515,
+    "code": "0800318153",
+    "description": "PLACA SHUTTER BILLETES / GBNA (PG NCR TODOS LOS MODELOS)",
+    "originalData": {
+      "Códigos": "0800318153",
+      "Descripciones": "PLACA SHUTTER BILLETES / GBNA (PG NCR TODOS LOS MODELOS) "
+    }
+  },
+  {
+    "id": 516,
+    "code": "0800471888",
+    "description": "PLACA SHUTTER G510 PG FJ / GBXX PG FJ",
+    "originalData": {
+      "Códigos": "0800471888",
+      "Descripciones": "PLACA SHUTTER G510 PG FJ / GBXX PG FJ "
+    }
+  },
+  {
+    "id": 517,
+    "code": "0800453229",
+    "description": "PROLONGADOR USB 2.0 ACTIVO",
+    "originalData": {
+      "Códigos": "0800453229",
+      "Descripciones": "PROLONGADOR USB 2.0 ACTIVO "
+    }
+  },
+  {
+    "id": 518,
+    "code": "0800316501",
+    "description": "PROLONGADOR USB M‐H 2 METROS",
+    "originalData": {
+      "Códigos": "0800316501",
+      "Descripciones": "PROLONGADOR USB M‐H 2 METROS "
+    }
+  },
+  {
+    "id": 519,
+    "code": "0800035565",
+    "description": "PROLONGADOR VGA M‐H 2 METROS",
+    "originalData": {
+      "Códigos": "0800035565",
+      "Descripciones": "PROLONGADOR VGA M‐H 2 METROS "
+    }
+  },
+  {
+    "id": 520,
+    "code": "0800492133",
+    "description": "PUNTO AMARILLO DERECHO (PG FJ Y NCR A PARTIR MODELO E)",
+    "originalData": {
+      "Códigos": "0800492133",
+      "Descripciones": "PUNTO AMARILLO DERECHO (PG FJ Y NCR A PARTIR MODELO E) "
+    }
+  },
+  {
+    "id": 521,
+    "code": "0800492115",
+    "description": "PUNTO AMARILLO DERECHO (PG NCR MODELO C/D)",
+    "originalData": {
+      "Códigos": "0800492115",
+      "Descripciones": "PUNTO AMARILLO DERECHO (PG NCR MODELO C/D) "
+    }
+  },
+  {
+    "id": 522,
+    "code": "0800492142",
+    "description": "PUNTO AMARILLO IZQUIERDO (PG FJ Y NCR A PARTIR MODELO E)",
+    "originalData": {
+      "Códigos": "0800492142",
+      "Descripciones": "PUNTO AMARILLO IZQUIERDO (PG FJ Y NCR A PARTIR MODELO E) "
+    }
+  },
+  {
+    "id": 523,
+    "code": "0800492124",
+    "description": "PUNTO AMARILLO IZQUIERDO (PG NCR MODELO C/D)",
+    "originalData": {
+      "Códigos": "0800492124",
+      "Descripciones": "PUNTO AMARILLO IZQUIERDO (PG NCR MODELO C/D) "
+    }
+  },
+  {
+    "id": 524,
+    "code": "0800515109",
+    "description": "RUEDA EXCENTRICA SHUTTER G510 / GBXX PG FJ",
+    "originalData": {
+      "Códigos": "0800515109",
+      "Descripciones": "RUEDA EXCENTRICA SHUTTER G510 / GBXX PG FJ "
+    }
+  },
+  {
+    "id": 525,
+    "code": "0800486710",
+    "description": "SENSOR MAGNETICO ALARMA CSB‐FRT",
+    "originalData": {
+      "Códigos": "0800486710",
+      "Descripciones": "SENSOR MAGNETICO ALARMA CSB‐FRT "
+    }
+  },
+  {
+    "id": 526,
+    "code": "0800318180",
+    "description": "SHUTTER BILLETES (PG NCR MODELO C)",
+    "originalData": {
+      "Códigos": "0800318180",
+      "Descripciones": "SHUTTER BILLETES (PG NCR MODELO C) "
+    }
+  },
+  {
+    "id": 527,
+    "code": "0800416109",
+    "description": "SHUTTER BILLETES (PG NCR MODELOS C‐D‐E)",
+    "originalData": {
+      "Códigos": "0800416109",
+      "Descripciones": "SHUTTER BILLETES (PG NCR MODELOS C‐D‐E) "
+    }
+  },
+  {
+    "id": 528,
+    "code": "0800442189",
+    "description": "SHUTTER BILLETES (PG NCR TODOS LOS MODELOS)",
+    "originalData": {
+      "Códigos": "0800442189",
+      "Descripciones": "SHUTTER BILLETES (PG NCR TODOS LOS MODELOS) "
+    }
+  },
+  {
+    "id": 529,
+    "code": "0800489227",
+    "description": "SHUTTER BILLETES G510 (PG FJ)",
+    "originalData": {
+      "Códigos": "0800489227",
+      "Descripciones": "SHUTTER BILLETES G510 (PG FJ) "
+    }
+  },
+  {
+    "id": 530,
+    "code": "0800475456",
+    "description": "SHUTTER BILLETES G510 REFORZADO (PG FJ)",
+    "originalData": {
+      "Códigos": "0800475456",
+      "Descripciones": "SHUTTER BILLETES G510 REFORZADO (PG FJ) "
+    }
+  },
+  {
+    "id": 531,
+    "code": "0800318135",
+    "description": "SHUTTER GBNA (PG NCR MODELO C)",
+    "originalData": {
+      "Códigos": "0800318135",
+      "Descripciones": "SHUTTER GBNA (PG NCR MODELO C) "
+    }
+  },
+  {
+    "id": 532,
+    "code": "0800442170",
+    "description": "SHUTTER GBNA (PG NCR TODOS LOS MODELOS)",
+    "originalData": {
+      "Códigos": "0800442170",
+      "Descripciones": "SHUTTER GBNA (PG NCR TODOS LOS MODELOS) "
+    }
+  },
+  {
+    "id": 533,
+    "code": "0800489218",
+    "description": "SHUTTER GBXX (PG FJ)",
+    "originalData": {
+      "Códigos": "0800489218",
+      "Descripciones": "SHUTTER GBXX (PG FJ) "
+    }
+  },
+  {
+    "id": 534,
+    "code": "0800475465",
+    "description": "SHUTTER GBXX REFORZADO (PG FJ)",
+    "originalData": {
+      "Códigos": "0800475465",
+      "Descripciones": "SHUTTER GBXX REFORZADO (PG FJ) "
+    }
+  },
+  {
+    "id": 535,
+    "code": "0800318279",
+    "description": "TECLADO ALFABETICO",
+    "originalData": {
+      "Códigos": "0800318279",
+      "Descripciones": "TECLADO ALFABETICO "
+    }
+  },
+  {
+    "id": 536,
+    "code": "0800530164",
+    "description": "TECLADO ALFABETICO NUEVO (POR DETERIORO ESTETICO) (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800530164",
+      "Descripciones": "TECLADO ALFABETICO NUEVO (POR DETERIORO ESTETICO) (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 537,
+    "code": "0800318288",
+    "description": "TECLADO CURSORES",
+    "originalData": {
+      "Códigos": "0800318288",
+      "Descripciones": "TECLADO CURSORES "
+    }
+  },
+  {
+    "id": 538,
+    "code": "0800530155",
+    "description": "TECLADO CURSORES NUEVO (POR DETERIORO ESTETICO) (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800530155",
+      "Descripciones": "TECLADO CURSORES NUEVO (POR DETERIORO ESTETICO) (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 539,
+    "code": "0800318260",
+    "description": "TECLADO NUMERICO 1.0 (CAIXA) ZZT588‐D12‐F16",
+    "originalData": {
+      "Códigos": "0800318260",
+      "Descripciones": "TECLADO NUMERICO 1.0 (CAIXA) ZZT588‐D12‐F16 "
+    }
+  },
+  {
+    "id": 540,
+    "code": "0800453201",
+    "description": "TECLADO NUMERICO 3.0 (CAIXA) ZZT588‐D300‐F20",
+    "originalData": {
+      "Códigos": "0800453201",
+      "Descripciones": "TECLADO NUMERICO 3.0 (CAIXA) ZZT588‐D300‐F20 "
+    }
+  },
+  {
+    "id": 541,
+    "code": "0800495933",
+    "description": "TECLADO NUMERICO 5.0 (CAIXA) ZZT588‐D400‐F50",
+    "originalData": {
+      "Códigos": "0800495933",
+      "Descripciones": "TECLADO NUMERICO 5.0 (CAIXA) ZZT588‐D400‐F50 "
+    }
+  },
+  {
+    "id": 542,
+    "code": "0800530119",
+    "description": "TECLADO NUMERICO PCI 5.0 NUEVO (POR DETERIORO ESTETICO) (RESTRINGIDO)",
+    "originalData": {
+      "Códigos": "0800530119",
+      "Descripciones": "TECLADO NUMERICO PCI 5.0 NUEVO (POR DETERIORO ESTETICO) (RESTRINGIDO) "
+    }
+  },
+  {
+    "id": 543,
+    "code": "0800439674",
+    "description": "TOPE DE UNIDAD EN SHUTTER (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800439674",
+      "Descripciones": "TOPE DE UNIDAD EN SHUTTER (UNIDAD) "
+    }
+  },
+  {
+    "id": 544,
+    "code": "0800495755",
+    "description": "ACTUADOR INTERLOCK LOWER DOOR",
+    "originalData": {
+      "Códigos": "0800495755",
+      "Descripciones": "ACTUADOR INTERLOCK LOWER DOOR   "
+    }
+  },
+  {
+    "id": 545,
+    "code": "0800491367",
+    "description": "CAJETIN MANUAL DE LA PUERTA",
+    "originalData": {
+      "Códigos": "0800491367",
+      "Descripciones": "CAJETIN MANUAL DE LA PUERTA "
+    }
+  },
+  {
+    "id": 546,
+    "code": "0800498565",
+    "description": "CERRADURA TAPA INTERNA EN PUERTA",
+    "originalData": {
+      "Códigos": "0800498565",
+      "Descripciones": "CERRADURA TAPA INTERNA EN PUERTA "
+    }
+  },
+  {
+    "id": 547,
+    "code": "0800476936",
+    "description": "CONTROLADOR LINUX",
+    "originalData": {
+      "Códigos": "0800476936",
+      "Descripciones": "CONTROLADOR LINUX   "
+    }
+  },
+  {
+    "id": 548,
+    "code": "0800425876",
+    "description": "CORREA DERECHA VALIDADORA",
+    "originalData": {
+      "Códigos": "0800425876",
+      "Descripciones": "CORREA DERECHA VALIDADORA "
+    }
+  },
+  {
+    "id": 549,
+    "code": "0800496521",
+    "description": "EMBOCADURA BUZON MANUAL LATERALES",
+    "originalData": {
+      "Códigos": "0800496521",
+      "Descripciones": "EMBOCADURA BUZON MANUAL LATERALES "
+    }
+  },
+  {
+    "id": 550,
+    "code": "0800425661",
+    "description": "ENTRADA – ENTRANCE",
+    "originalData": {
+      "Códigos": "0800425661",
+      "Descripciones": "ENTRADA – ENTRANCE  "
+    }
+  },
+  {
+    "id": 551,
+    "code": "0800434385",
+    "description": "ETIQUETAS NUMERADAS PARA LOS RSM",
+    "originalData": {
+      "Códigos": "0800434385",
+      "Descripciones": "ETIQUETAS NUMERADAS PARA LOS RSM "
+    }
+  },
+  {
+    "id": 552,
+    "code": "0800476687",
+    "description": "GUIA ENTRADA DERECHA",
+    "originalData": {
+      "Códigos": "0800476687",
+      "Descripciones": "GUIA ENTRADA DERECHA "
+    }
+  },
+  {
+    "id": 553,
+    "code": "0800476678",
+    "description": "GUIA ENTRADA IZQUIERDA",
+    "originalData": {
+      "Códigos": "0800476678",
+      "Descripciones": "GUIA ENTRADA IZQUIERDA "
+    }
+  },
+  {
+    "id": 554,
+    "code": "0800485855",
+    "description": "GUIA PLASTICO SALIDA",
+    "originalData": {
+      "Códigos": "0800485855",
+      "Descripciones": "GUIA PLASTICO SALIDA "
+    }
+  },
+  {
+    "id": 555,
+    "code": "0800433769",
+    "description": "INTERLOCK SWITCH MODULO INFERIOR",
+    "originalData": {
+      "Códigos": "0800433769",
+      "Descripciones": "INTERLOCK SWITCH MODULO INFERIOR "
+    }
+  },
+  {
+    "id": 556,
+    "code": "0800433778",
+    "description": "INTERLOCK SWITCH MODULO SUPERIOR",
+    "originalData": {
+      "Códigos": "0800433778",
+      "Descripciones": "INTERLOCK SWITCH MODULO SUPERIOR "
+    }
+  },
+  {
+    "id": 557,
+    "code": "0800476927",
+    "description": "ISM (T) (CAPACIDAD 450 ES1/ES2)",
+    "originalData": {
+      "Códigos": "0800476927",
+      "Descripciones": "ISM (T) (CAPACIDAD 450 ES1/ES2) "
+    }
+  },
+  {
+    "id": 558,
+    "code": "0800434198",
+    "description": "ISM SET BOX (CHASIS ISM)",
+    "originalData": {
+      "Códigos": "0800434198",
+      "Descripciones": "ISM SET BOX (CHASIS ISM) "
+    }
+  },
+  {
+    "id": 559,
+    "code": "0800425714",
+    "description": "ISM",
+    "originalData": {
+      "Códigos": "0800425714",
+      "Descripciones": "ISM "
+    }
+  },
+  {
+    "id": 560,
+    "code": "0800438327",
+    "description": "JUEGO 2 LLAVES MODULO SUPERIOR",
+    "originalData": {
+      "Códigos": "0800438327",
+      "Descripciones": "JUEGO 2 LLAVES MODULO SUPERIOR "
+    }
+  },
+  {
+    "id": 561,
+    "code": "0800478284",
+    "description": "JUEGO 2 LLAVES PARA CERRADURA KABA‐MAUER 70040",
+    "originalData": {
+      "Códigos": "0800478284",
+      "Descripciones": "JUEGO 2 LLAVES PARA CERRADURA KABA‐MAUER 70040 "
+    }
+  },
+  {
+    "id": 562,
+    "code": "0800478266",
+    "description": "KIT APERTURA EMERGENCIA POR FALLO EN F.A. PRINCIPAL",
+    "originalData": {
+      "Códigos": "0800478266",
+      "Descripciones": "KIT APERTURA EMERGENCIA POR FALLO EN F.A. PRINCIPAL "
+    }
+  },
+  {
+    "id": 563,
+    "code": "0800435589",
+    "description": "KIT BLOQUEO LOWER UNIT",
+    "originalData": {
+      "Códigos": "0800435589",
+      "Descripciones": "KIT BLOQUEO LOWER UNIT "
+    }
+  },
+  {
+    "id": 564,
+    "code": "0800435570",
+    "description": "KIT BLOQUEO UPPER UNIT",
+    "originalData": {
+      "Códigos": "0800435570",
+      "Descripciones": "KIT BLOQUEO UPPER UNIT "
+    }
+  },
+  {
+    "id": 565,
+    "code": "0800489940",
+    "description": "KIT LAN LINUX COMPLETO",
+    "originalData": {
+      "Códigos": "0800489940",
+      "Descripciones": "KIT LAN LINUX COMPLETO   "
+    }
+  },
+  {
+    "id": 566,
+    "code": "0800443400",
+    "description": "KIT SECURE BOARD PLUS COMPLETO",
+    "originalData": {
+      "Códigos": "0800443400",
+      "Descripciones": "KIT SECURE BOARD PLUS COMPLETO "
+    }
+  },
+  {
+    "id": 567,
+    "code": "0800426205",
+    "description": "LCD – LCD OPERATOR PANNEL",
+    "originalData": {
+      "Códigos": "0800426205",
+      "Descripciones": "LCD – LCD OPERATOR PANNEL   "
+    }
+  },
+  {
+    "id": 568,
+    "code": "0800498574",
+    "description": "LLAVE CERRADURA TAPA INTERNA EN PUERTA",
+    "originalData": {
+      "Códigos": "0800498574",
+      "Descripciones": "LLAVE CERRADURA TAPA INTERNA EN PUERTA "
+    }
+  },
+  {
+    "id": 569,
+    "code": "0800433420",
+    "description": "LOWER FRAME (RSM1 ‐> RSM8)",
+    "originalData": {
+      "Códigos": "0800433420",
+      "Descripciones": "LOWER FRAME (RSM1 ‐> RSM8) "
+    }
+  },
+  {
+    "id": 570,
+    "code": "0800441340",
+    "description": "MEMBRANA NUMERICA DE TECLADO MINITECH",
+    "originalData": {
+      "Códigos": "0800441340",
+      "Descripciones": "MEMBRANA NUMERICA DE TECLADO MINITECH "
+    }
+  },
+  {
+    "id": 571,
+    "code": "0800433741",
+    "description": "MICROSWITCH CARRO INFERIOR INSERTADO",
+    "originalData": {
+      "Códigos": "0800433741",
+      "Descripciones": "MICROSWITCH CARRO INFERIOR INSERTADO "
+    }
+  },
+  {
+    "id": 572,
+    "code": "0800441947",
+    "description": "MIDDLE TRANSPORT (PASO CAJA FUERTE) ‘V’",
+    "originalData": {
+      "Códigos": "0800441947",
+      "Descripciones": "MIDDLE TRANSPORT (PASO CAJA FUERTE) ‘V’ "
+    }
+  },
+  {
+    "id": 573,
+    "code": "0800441368",
+    "description": "PESTILLO CERRADURA MINITECH",
+    "originalData": {
+      "Códigos": "0800441368",
+      "Descripciones": "PESTILLO CERRADURA MINITECH "
+    }
+  },
+  {
+    "id": 574,
+    "code": "0800444882",
+    "description": "PESTILLO IVOX 4.19.97 + LLAVES NO AMAESTRABLES",
+    "originalData": {
+      "Códigos": "0800444882",
+      "Descripciones": "PESTILLO IVOX 4.19.97 + LLAVES NO AMAESTRABLES "
+    }
+  },
+  {
+    "id": 575,
+    "code": "0800477819",
+    "description": "PESTILLO KABA‐MAUER 70040 + LLAVES AMAESTRABLES",
+    "originalData": {
+      "Códigos": "0800477819",
+      "Descripciones": "PESTILLO KABA‐MAUER 70040 + LLAVES AMAESTRABLES "
+    }
+  },
+  {
+    "id": 576,
+    "code": "0800425698",
+    "description": "PLACA CPU+I/O‐20U",
+    "originalData": {
+      "Códigos": "0800425698",
+      "Descripciones": "PLACA CPU+I/O‐20U "
+    }
+  },
+  {
+    "id": 577,
+    "code": "0800425723",
+    "description": "PLACA INTERFACE CPU+I/O‐20IF",
+    "originalData": {
+      "Códigos": "0800425723",
+      "Descripciones": "PLACA INTERFACE CPU+I/O‐20IF "
+    }
+  },
+  {
+    "id": 578,
+    "code": "0800489076",
+    "description": "PLACA LAN",
+    "originalData": {
+      "Códigos": "0800489076",
+      "Descripciones": "PLACA LAN "
+    }
+  },
+  {
+    "id": 579,
+    "code": "0800425769",
+    "description": "PLACA LOWER CPU+I/O‐20L",
+    "originalData": {
+      "Códigos": "0800425769",
+      "Descripciones": "PLACA LOWER CPU+I/O‐20L "
+    }
+  },
+  {
+    "id": 580,
+    "code": "0800426492",
+    "description": "PLACA RELAY (G‐6438)",
+    "originalData": {
+      "Códigos": "0800426492",
+      "Descripciones": "PLACA RELAY (G‐6438)   "
+    }
+  },
+  {
+    "id": 581,
+    "code": "0800437079",
+    "description": "PLACA RS232",
+    "originalData": {
+      "Códigos": "0800437079",
+      "Descripciones": "PLACA RS232 "
+    }
+  },
+  {
+    "id": 582,
+    "code": "0800478159",
+    "description": "PLACA SECURE BOARD PLUS (SB+)",
+    "originalData": {
+      "Códigos": "0800478159",
+      "Descripciones": "PLACA SECURE BOARD PLUS (SB+) "
+    }
+  },
+  {
+    "id": 583,
+    "code": "0800426394",
+    "description": "PLACA SILENT ALARM I/F2 (G‐5304)",
+    "originalData": {
+      "Códigos": "0800426394",
+      "Descripciones": "PLACA SILENT ALARM I/F2 (G‐5304) "
+    }
+  },
+  {
+    "id": 584,
+    "code": "0800426321",
+    "description": "POWER SUPPLY",
+    "originalData": {
+      "Códigos": "0800426321",
+      "Descripciones": "POWER SUPPLY  "
+    }
+  },
+  {
+    "id": 585,
+    "code": "0800433750",
+    "description": "PUSH‐BUTTON SWITCH (BOTON DE ‘OCUPADO’)",
+    "originalData": {
+      "Códigos": "0800433750",
+      "Descripciones": "PUSH‐BUTTON SWITCH (BOTON DE ‘OCUPADO’) "
+    }
+  },
+  {
+    "id": 586,
+    "code": "0800426562",
+    "description": "RAS (G‐6568) ASSY – TECLADO OPERATOR PANNEL",
+    "originalData": {
+      "Códigos": "0800426562",
+      "Descripciones": "RAS (G‐6568) ASSY – TECLADO OPERATOR PANNEL "
+    }
+  },
+  {
+    "id": 587,
+    "code": "0800433885",
+    "description": "RODILLO EN TAPA ‘B’ (PINCH ROLLER SET)",
+    "originalData": {
+      "Códigos": "0800433885",
+      "Descripciones": "RODILLO EN TAPA ‘B’ (PINCH ROLLER SET) "
+    }
+  },
+  {
+    "id": 588,
+    "code": "0800477515",
+    "description": "RSM 10 INFERIOR ALTA CAPACIDAD – T)",
+    "originalData": {
+      "Códigos": "0800477515",
+      "Descripciones": "RSM 10 INFERIOR ALTA CAPACIDAD – T) "
+    }
+  },
+  {
+    "id": 589,
+    "code": "0800433395",
+    "description": "RSM 10 INFERIOR",
+    "originalData": {
+      "Códigos": "0800433395",
+      "Descripciones": "RSM 10 INFERIOR "
+    }
+  },
+  {
+    "id": 590,
+    "code": "0800468892",
+    "description": "RSM 1‐3‐5‐7 SUPRIOR ALTA CAPACIDAD – T",
+    "originalData": {
+      "Códigos": "0800468892",
+      "Descripciones": "RSM 1‐3‐5‐7 SUPRIOR ALTA CAPACIDAD – T "
+    }
+  },
+  {
+    "id": 591,
+    "code": "0800425741",
+    "description": "RSM 1‐3‐5‐7 SUPRIOR",
+    "originalData": {
+      "Códigos": "0800425741",
+      "Descripciones": "RSM 1‐3‐5‐7 SUPRIOR   "
+    }
+  },
+  {
+    "id": 592,
+    "code": "0800476918",
+    "description": "RSM 2‐4‐6‐8 INFERIOR ALTA CAPACIDAD – T",
+    "originalData": {
+      "Códigos": "0800476918",
+      "Descripciones": "RSM 2‐4‐6‐8 INFERIOR ALTA CAPACIDAD – T "
+    }
+  },
+  {
+    "id": 593,
+    "code": "0800425750",
+    "description": "RSM 2‐4‐6‐8 INFERIOR",
+    "originalData": {
+      "Códigos": "0800425750",
+      "Descripciones": "RSM 2‐4‐6‐8 INFERIOR   "
+    }
+  },
+  {
+    "id": 594,
+    "code": "0800477524",
+    "description": "RSM 9 SUPERIOR ALTA CAPACIDAD – T",
+    "originalData": {
+      "Códigos": "0800477524",
+      "Descripciones": "RSM 9 SUPERIOR ALTA CAPACIDAD – T   "
+    }
+  },
+  {
+    "id": 595,
+    "code": "0800433386",
+    "description": "RSM 9 SUPERIOR",
+    "originalData": {
+      "Códigos": "0800433386",
+      "Descripciones": "RSM 9 SUPERIOR "
+    }
+  },
+  {
+    "id": 596,
+    "code": "0800433411",
+    "description": "RSM9‐RSM10 LOWER FRAME",
+    "originalData": {
+      "Códigos": "0800433411",
+      "Descripciones": "RSM9‐RSM10 LOWER FRAME   "
+    }
+  },
+  {
+    "id": 597,
+    "code": "0800425670",
+    "description": "SALIDA – EXIT",
+    "originalData": {
+      "Códigos": "0800425670",
+      "Descripciones": "SALIDA – EXIT   "
+    }
+  },
+  {
+    "id": 598,
+    "code": "0800426170",
+    "description": "SOCKET LAN",
+    "originalData": {
+      "Códigos": "0800426170",
+      "Descripciones": "SOCKET LAN "
+    }
+  },
+  {
+    "id": 599,
+    "code": "0800496512",
+    "description": "SOPORTE BUZON MANUAL EN LA PUERTA",
+    "originalData": {
+      "Códigos": "0800496512",
+      "Descripciones": "SOPORTE BUZON MANUAL EN LA PUERTA "
+    }
+  },
+  {
+    "id": 600,
+    "code": "0800477757",
+    "description": "TAPA ‘B’ TRANSPORTE SUPERIOR",
+    "originalData": {
+      "Códigos": "0800477757",
+      "Descripciones": "TAPA ‘B’ TRANSPORTE SUPERIOR "
+    }
+  },
+  {
+    "id": 601,
+    "code": "0800473797",
+    "description": "TAPA CABLES SOBRE VALIDADORA",
+    "originalData": {
+      "Códigos": "0800473797",
+      "Descripciones": "TAPA CABLES SOBRE VALIDADORA "
+    }
+  },
+  {
+    "id": 602,
+    "code": "0800476525",
+    "description": "TARJETA COMPACT FLASH (PEDIR CONTRA CONTRATO)",
+    "originalData": {
+      "Códigos": "0800476525",
+      "Descripciones": "TARJETA COMPACT FLASH (PEDIR CONTRA CONTRATO) "
+    }
+  },
+  {
+    "id": 603,
+    "code": "0800441359",
+    "description": "TECLADO MINITECH COMPLETO",
+    "originalData": {
+      "Códigos": "0800441359",
+      "Descripciones": "TECLADO MINITECH COMPLETO "
+    }
+  },
+  {
+    "id": 604,
+    "code": "0800425689",
+    "description": "TRANSPORTE SUPERIOR – UPPER PATHWAY",
+    "originalData": {
+      "Códigos": "0800425689",
+      "Descripciones": "TRANSPORTE SUPERIOR – UPPER PATHWAY "
+    }
+  },
+  {
+    "id": 605,
+    "code": "0800433402",
+    "description": "TRANSPORTE VERTICAL",
+    "originalData": {
+      "Códigos": "0800433402",
+      "Descripciones": "TRANSPORTE VERTICAL  "
+    }
+  },
+  {
+    "id": 606,
+    "code": "0800425705",
+    "description": "VALIDADORA – BILL VALIDATION (HDV‐200)",
+    "originalData": {
+      "Códigos": "0800425705",
+      "Descripciones": "VALIDADORA – BILL VALIDATION (HDV‐200) "
+    }
+  },
+  {
+    "id": 607,
+    "code": "0800426660",
+    "description": "VENTILADOR CNV13ASSY‐FANV2 (ERROR FA70)",
+    "originalData": {
+      "Códigos": "0800426660",
+      "Descripciones": "VENTILADOR CNV13ASSY‐FANV2 (ERROR FA70)  "
+    }
+  },
+  {
+    "id": 608,
+    "code": "0800433803",
+    "description": "VENTILADOR ISM – DC FAN (SUSTITUIR LOS DOS)",
+    "originalData": {
+      "Códigos": "0800433803",
+      "Descripciones": "VENTILADOR ISM – DC FAN (SUSTITUIR LOS DOS) "
+    }
+  },
+  {
+    "id": 609,
+    "code": "0800469837",
+    "description": "BLOQUEO ENTRADA DE TARJETAS",
+    "originalData": {
+      "Códigos": "0800469837",
+      "Descripciones": "BLOQUEO ENTRADA DE TARJETAS "
+    }
+  },
+  {
+    "id": 610,
+    "code": "0800448209",
+    "description": "BOCA ANTI‐SKIMMING (IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800448209",
+      "Descripciones": "BOCA ANTI‐SKIMMING (IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 611,
+    "code": "0800475866",
+    "description": "CABLE USB DOBLE GOP A CPU",
+    "originalData": {
+      "Códigos": "0800475866",
+      "Descripciones": "CABLE USB DOBLE GOP A CPU "
+    }
+  },
+  {
+    "id": 612,
+    "code": "0800468801",
+    "description": "CHAPA ACTUADORA DEL BLOQUEO DE ENTRADA DE TARJETAS.",
+    "originalData": {
+      "Códigos": "0800468801",
+      "Descripciones": "CHAPA ACTUADORA DEL BLOQUEO DE ENTRADA DE TARJETAS. "
+    }
+  },
+  {
+    "id": 613,
+    "code": "0800446265",
+    "description": "CLIP ON COVER ESTANDAR",
+    "originalData": {
+      "Códigos": "0800446265",
+      "Descripciones": "CLIP ON COVER ESTANDAR "
+    }
+  },
+  {
+    "id": 614,
+    "code": "0800448218",
+    "description": "CONTROLADOR ANTISKIMMING (IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800448218",
+      "Descripciones": "CONTROLADOR ANTISKIMMING (IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 615,
+    "code": "0800501953",
+    "description": "CONTROLADOR Q170 I5 S100 COMPLETO",
+    "originalData": {
+      "Códigos": "0800501953",
+      "Descripciones": "CONTROLADOR Q170 I5 S100 COMPLETO "
+    }
+  },
+  {
+    "id": 616,
+    "code": "0800501953",
+    "description": "CONTROLADOR Q170 I5 S100 COMPLETO",
+    "originalData": {
+      "Códigos": "0800501953",
+      "Descripciones": "CONTROLADOR Q170 I5 S100 COMPLETO "
+    }
+  },
+  {
+    "id": 617,
+    "code": "0800475107",
+    "description": "EMBOCADURA BILLETES",
+    "originalData": {
+      "Códigos": "0800475107",
+      "Descripciones": "EMBOCADURA BILLETES "
+    }
+  },
+  {
+    "id": 618,
+    "code": "0800465859",
+    "description": "EMBOCADURA G60",
+    "originalData": {
+      "Códigos": "0800465859",
+      "Descripciones": "EMBOCADURA G60 "
+    }
+  },
+  {
+    "id": 619,
+    "code": "0800465840",
+    "description": "EMBOCADURA GBNA",
+    "originalData": {
+      "Códigos": "0800465840",
+      "Descripciones": "EMBOCADURA GBNA "
+    }
+  },
+  {
+    "id": 620,
+    "code": "0800465788",
+    "description": "EMBOCADURA LIBRETAS",
+    "originalData": {
+      "Códigos": "0800465788",
+      "Descripciones": "EMBOCADURA LIBRETAS "
+    }
+  },
+  {
+    "id": 621,
+    "code": "0800465760",
+    "description": "EMBOCADURA RECIBOS (CON MONEDAS – BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800465760",
+      "Descripciones": "EMBOCADURA RECIBOS (CON MONEDAS – BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 622,
+    "code": "0800465804",
+    "description": "EMBOCADURA TARJETAS",
+    "originalData": {
+      "Códigos": "0800465804",
+      "Descripciones": "EMBOCADURA TARJETAS "
+    }
+  },
+  {
+    "id": 623,
+    "code": "0800446096",
+    "description": "ESCANER",
+    "originalData": {
+      "Códigos": "0800446096",
+      "Descripciones": "ESCANER "
+    }
+  },
+  {
+    "id": 624,
+    "code": "0800446096",
+    "description": "ESCANER",
+    "originalData": {
+      "Códigos": "0800446096",
+      "Descripciones": "ESCANER "
+    }
+  },
+  {
+    "id": 625,
+    "code": "0800258235",
+    "description": "FLICKER F8048R. PENDIENTE DE VERIFICAR PARA EL S100 (REF. RH320‐7201‐T092/01)",
+    "originalData": {
+      "Códigos": "0800258235",
+      "Descripciones": "FLICKER F8048R. PENDIENTE DE VERIFICAR PARA EL S100 (REF. RH320‐7201‐T092/01) "
+    }
+  },
+  {
+    "id": 626,
+    "code": "0800445961",
+    "description": "FUENTE DE ALIMENTACION",
+    "originalData": {
+      "Códigos": "0800445961",
+      "Descripciones": "FUENTE DE ALIMENTACION "
+    }
+  },
+  {
+    "id": 627,
+    "code": "0800475205",
+    "description": "FUENTE DE ALIMENTACION",
+    "originalData": {
+      "Códigos": "0800475205",
+      "Descripciones": "FUENTE DE ALIMENTACION "
+    }
+  },
+  {
+    "id": 628,
+    "code": "0800479746",
+    "description": "FUENTE DE ALIMENTACION",
+    "originalData": {
+      "Códigos": "0800479746",
+      "Descripciones": "FUENTE DE ALIMENTACION "
+    }
+  },
+  {
+    "id": 629,
+    "code": "0800446194",
+    "description": "GOP USB",
+    "originalData": {
+      "Códigos": "0800446194",
+      "Descripciones": "GOP USB "
+    }
+  },
+  {
+    "id": 630,
+    "code": "0800494890",
+    "description": "HDD 1TB ST1000DM010 (DISCO MECANICO IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800494890",
+      "Descripciones": "HDD 1TB ST1000DM010 (DISCO MECANICO IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 631,
+    "code": "0800494890",
+    "description": "HDD 1TB ST1000DM010 (DISCO MECANICO IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800494890",
+      "Descripciones": "HDD 1TB ST1000DM010 (DISCO MECANICO IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 632,
+    "code": "0800465868",
+    "description": "JACK AUDIO",
+    "originalData": {
+      "Códigos": "0800465868",
+      "Descripciones": "JACK AUDIO "
+    }
+  },
+  {
+    "id": 633,
+    "code": "0800474206",
+    "description": "KIT CIERRES FRONTAL CON MUELLES",
+    "originalData": {
+      "Códigos": "0800474206",
+      "Descripciones": "KIT CIERRES FRONTAL CON MUELLES "
+    }
+  },
+  {
+    "id": 634,
+    "code": "0800486346",
+    "description": "KIT CIERRES FRONTAL SIN MUELLES",
+    "originalData": {
+      "Códigos": "0800486346",
+      "Descripciones": "KIT CIERRES FRONTAL SIN MUELLES "
+    }
+  },
+  {
+    "id": 635,
+    "code": "0800465831",
+    "description": "MARCO PANTALLA",
+    "originalData": {
+      "Códigos": "0800465831",
+      "Descripciones": "MARCO PANTALLA "
+    }
+  },
+  {
+    "id": 636,
+    "code": "0800446256",
+    "description": "MESA S100 MODEL 2X",
+    "originalData": {
+      "Códigos": "0800446256",
+      "Descripciones": "MESA S100 MODEL 2X "
+    }
+  },
+  {
+    "id": 637,
+    "code": "0800491349",
+    "description": "MONITOR  CLIENTE KF KF305 ALTO BRILLO 100CD (IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800491349",
+      "Descripciones": "MONITOR  CLIENTE KF KF305 ALTO BRILLO 100CD (IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 638,
+    "code": "0800491330",
+    "description": "MONITOR CLIENTE KF KFE303 MEDIO BRILLO 450CD (IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800491330",
+      "Descripciones": "MONITOR CLIENTE KF KFE303 MEDIO BRILLO 450CD (IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 639,
+    "code": "0800446130",
+    "description": "MONITOR CLIENTE KORTEK ALTO BRILLO 600CD",
+    "originalData": {
+      "Códigos": "0800446130",
+      "Descripciones": "MONITOR CLIENTE KORTEK ALTO BRILLO 600CD "
+    }
+  },
+  {
+    "id": 640,
+    "code": "0800446121",
+    "description": "MONITOR CLIENTE KORTEK BRILLO NORMAL 250CD",
+    "originalData": {
+      "Códigos": "0800446121",
+      "Descripciones": "MONITOR CLIENTE KORTEK BRILLO NORMAL 250CD "
+    }
+  },
+  {
+    "id": 641,
+    "code": "0800395943",
+    "description": "NFC ANTENA + CABLE + ETIQUETA KIOSK II (560‐0602‐05)",
+    "originalData": {
+      "Códigos": "0800395943",
+      "Descripciones": "NFC ANTENA + CABLE + ETIQUETA KIOSK II (560‐0602‐05) "
+    }
+  },
+  {
+    "id": 642,
+    "code": "0800474386",
+    "description": "NFC ANTENA + CABLE + ETIQUETA KIOSK II EMV CO V.2.6 (IDVK‐310100‐F1)",
+    "originalData": {
+      "Códigos": "0800474386",
+      "Descripciones": "NFC ANTENA + CABLE + ETIQUETA KIOSK II EMV CO V.2.6 (IDVK‐310100‐F1) "
+    }
+  },
+  {
+    "id": 643,
+    "code": "0800474386",
+    "description": "NFC ANTENA + CABLE + ETIQUETA KIOSK III (IDVK‐310100‐F1)",
+    "originalData": {
+      "Códigos": "0800474386",
+      "Descripciones": "NFC ANTENA + CABLE + ETIQUETA KIOSK III (IDVK‐310100‐F1) "
+    }
+  },
+  {
+    "id": 644,
+    "code": "0800395952",
+    "description": "NFC CONTROLLER KIOSK II (540‐0601‐03)",
+    "originalData": {
+      "Códigos": "0800395952",
+      "Descripciones": "NFC CONTROLLER KIOSK II (540‐0601‐03) "
+    }
+  },
+  {
+    "id": 645,
+    "code": "0800487951",
+    "description": "NFC CONTROLLER KIOSK II EMV CO V.2.6 (IDVK‐3000012)",
+    "originalData": {
+      "Códigos": "0800487951",
+      "Descripciones": "NFC CONTROLLER KIOSK II EMV CO V.2.6 (IDVK‐3000012) "
+    }
+  },
+  {
+    "id": 646,
+    "code": "0800474377",
+    "description": "NFC CONTROLLER KIOSK III (IDVK‐300001)",
+    "originalData": {
+      "Códigos": "0800474377",
+      "Descripciones": "NFC CONTROLLER KIOSK III (IDVK‐300001) "
+    }
+  },
+  {
+    "id": 647,
+    "code": "0800396933",
+    "description": "NFC ETIQUETA",
+    "originalData": {
+      "Códigos": "0800396933",
+      "Descripciones": "NFC ETIQUETA "
+    }
+  },
+  {
+    "id": 648,
+    "code": "0800318402",
+    "description": "PLACA ADAPTADORA ALIMENTACION LUMINARIA",
+    "originalData": {
+      "Códigos": "0800318402",
+      "Descripciones": "PLACA ADAPTADORA ALIMENTACION LUMINARIA "
+    }
+  },
+  {
+    "id": 649,
+    "code": "0800479112",
+    "description": "PLACA HUB USB REV. 6 (USB B)",
+    "originalData": {
+      "Códigos": "0800479112",
+      "Descripciones": "PLACA HUB USB REV. 6 (USB B) "
+    }
+  },
+  {
+    "id": 650,
+    "code": "0800470246",
+    "description": "PLACA ILM92BB PARA SHUTTER MOTORIZADO",
+    "originalData": {
+      "Códigos": "0800470246",
+      "Descripciones": "PLACA ILM92BB PARA SHUTTER MOTORIZADO "
+    }
+  },
+  {
+    "id": 651,
+    "code": "0800445970",
+    "description": "PLACA MISCELANEA ILM10CC",
+    "originalData": {
+      "Códigos": "0800445970",
+      "Descripciones": "PLACA MISCELANEA ILM10CC "
+    }
+  },
+  {
+    "id": 652,
+    "code": "0800491964",
+    "description": "PLACA MISCELANEA JLM10",
+    "originalData": {
+      "Códigos": "0800491964",
+      "Descripciones": "PLACA MISCELANEA JLM10 "
+    }
+  },
+  {
+    "id": 653,
+    "code": "0800446309",
+    "description": "PLAFON ILUMINADO (¿? VERIFICAR REFEENCIA RH30H‐9000‐0001)",
+    "originalData": {
+      "Códigos": "0800446309",
+      "Descripciones": "PLAFON ILUMINADO (¿? VERIFICAR REFEENCIA RH30H‐9000‐0001) "
+    }
+  },
+  {
+    "id": 654,
+    "code": "0800465797",
+    "description": "PLASTICO FLICKERS",
+    "originalData": {
+      "Códigos": "0800465797",
+      "Descripciones": "PLASTICO FLICKERS "
+    }
+  },
+  {
+    "id": 655,
+    "code": "0800465779",
+    "description": "PLASTICO LED ILUMINACION",
+    "originalData": {
+      "Códigos": "0800465779",
+      "Descripciones": "PLASTICO LED ILUMINACION "
+    }
+  },
+  {
+    "id": 656,
+    "code": "0800465813",
+    "description": "POLICARBONATO ESCANER",
+    "originalData": {
+      "Códigos": "0800465813",
+      "Descripciones": "POLICARBONATO ESCANER "
+    }
+  },
+  {
+    "id": 657,
+    "code": "0800465877",
+    "description": "POLICARBONATO INDICADOR DE SERVICIO",
+    "originalData": {
+      "Códigos": "0800465877",
+      "Descripciones": "POLICARBONATO INDICADOR DE SERVICIO "
+    }
+  },
+  {
+    "id": 658,
+    "code": "0800446318",
+    "description": "POLICARBONATO TRASLUCIDO PROPAGANDA",
+    "originalData": {
+      "Códigos": "0800446318",
+      "Descripciones": "POLICARBONATO TRASLUCIDO PROPAGANDA "
+    }
+  },
+  {
+    "id": 659,
+    "code": "0800319045",
+    "description": "POWER LED 1W",
+    "originalData": {
+      "Códigos": "0800319045",
+      "Descripciones": "POWER LED 1W "
+    }
+  },
+  {
+    "id": 660,
+    "code": "0800515109",
+    "description": "RUEDA EXCENTRICA SHUTTER G510 PG FJ / GBXX PG FJ / S100",
+    "originalData": {
+      "Códigos": "0800515109",
+      "Descripciones": "RUEDA EXCENTRICA SHUTTER G510 PG FJ / GBXX PG FJ / S100 "
+    }
+  },
+  {
+    "id": 661,
+    "code": "0800489245",
+    "description": "SHUTTER G510 S100 MOTORIZADO",
+    "originalData": {
+      "Códigos": "0800489245",
+      "Descripciones": "SHUTTER G510 S100 MOTORIZADO "
+    }
+  },
+  {
+    "id": 662,
+    "code": "0800446023",
+    "description": "SHUTTER G60",
+    "originalData": {
+      "Códigos": "0800446023",
+      "Descripciones": "SHUTTER G60 "
+    }
+  },
+  {
+    "id": 663,
+    "code": "0800489236",
+    "description": "SHUTTER GBXX S100",
+    "originalData": {
+      "Códigos": "0800489236",
+      "Descripciones": "SHUTTER GBXX S100 "
+    }
+  },
+  {
+    "id": 664,
+    "code": "0800468188",
+    "description": "TECLADO CLIENTE PCI EPP 3.0 BBVA",
+    "originalData": {
+      "Códigos": "0800468188",
+      "Descripciones": "TECLADO CLIENTE PCI EPP 3.0 BBVA "
+    }
+  },
+  {
+    "id": 665,
+    "code": "0800470219",
+    "description": "TECLADO CLIENTE PCI EPP 3.0 BCO. SANTANDER",
+    "originalData": {
+      "Códigos": "0800470219",
+      "Descripciones": "TECLADO CLIENTE PCI EPP 3.0 BCO. SANTANDER "
+    }
+  },
+  {
+    "id": 666,
+    "code": "0800446158",
+    "description": "TECLADO CLIENTE PCI EPP 3.0 IBERCAJA",
+    "originalData": {
+      "Códigos": "0800446158",
+      "Descripciones": "TECLADO CLIENTE PCI EPP 3.0 IBERCAJA "
+    }
+  },
+  {
+    "id": 667,
+    "code": "0800495942",
+    "description": "TECLADO CLIENTE PCI EPP 5.0 IBERCAJA",
+    "originalData": {
+      "Códigos": "0800495942",
+      "Descripciones": "TECLADO CLIENTE PCI EPP 5.0 IBERCAJA "
+    }
+  },
+  {
+    "id": 668,
+    "code": "0800464547",
+    "description": "TOUCH + SOPORTE PARA PANTALLA KORTEK S100",
+    "originalData": {
+      "Códigos": "0800464547",
+      "Descripciones": "TOUCH + SOPORTE PARA PANTALLA KORTEK S100 "
+    }
+  },
+  {
+    "id": 669,
+    "code": "0800448236",
+    "description": "UNIDAD DE MONEDAS",
+    "originalData": {
+      "Códigos": "0800448236",
+      "Descripciones": "UNIDAD DE MONEDAS "
+    }
+  },
+  {
+    "id": 670,
+    "code": "0800448192",
+    "description": "UNIDAD DE TARJETAS (IBERCAJA / BCO. SANTANDER)",
+    "originalData": {
+      "Códigos": "0800448192",
+      "Descripciones": "UNIDAD DE TARJETAS (IBERCAJA / BCO. SANTANDER) "
+    }
+  },
+  {
+    "id": 671,
+    "code": "0800458858",
+    "description": "UNIDAD DE TARJETAS CON ANTI‐LAZO LIBANES (DOS PLACAS LATERALES) (BBVA)",
+    "originalData": {
+      "Códigos": "0800458858",
+      "Descripciones": "UNIDAD DE TARJETAS CON ANTI‐LAZO LIBANES (DOS PLACAS LATERALES) (BBVA) "
+    }
+  },
+  {
+    "id": 672,
+    "code": "0999120053",
+    "description": "ACEITE FINO (500CL)",
+    "originalData": {
+      "Códigos": "0999120053",
+      "Descripciones": "ACEITE FINO (500CL) "
+    }
+  },
+  {
+    "id": 673,
+    "code": "0800475189",
+    "description": "ANCLAJE CON SWITCH",
+    "originalData": {
+      "Códigos": "0800475189",
+      "Descripciones": "ANCLAJE CON SWITCH "
+    }
+  },
+  {
+    "id": 674,
+    "code": "0800361159",
+    "description": "ANCLAJE FRONTAL (22N)",
+    "originalData": {
+      "Códigos": "0800361159",
+      "Descripciones": "ANCLAJE FRONTAL (22N) "
+    }
+  },
+  {
+    "id": 675,
+    "code": "0800361140",
+    "description": "ANCLAJE GOP (44N)",
+    "originalData": {
+      "Códigos": "0800361140",
+      "Descripciones": "ANCLAJE GOP (44N) "
+    }
+  },
+  {
+    "id": 676,
+    "code": "0800227929",
+    "description": "BILLETE DUMMY 10€ (ALTERNATIVO 0800300867)",
+    "originalData": {
+      "Códigos": "0800227929",
+      "Descripciones": "BILLETE DUMMY 10€ (ALTERNATIVO 0800300867) "
+    }
+  },
+  {
+    "id": 677,
+    "code": "0800227956",
+    "description": "BILLETE DUMMY 100€ (ALTERNATIVO 0800300894)",
+    "originalData": {
+      "Códigos": "0800227956",
+      "Descripciones": "BILLETE DUMMY 100€ (ALTERNATIVO 0800300894) "
+    }
+  },
+  {
+    "id": 678,
+    "code": "0800227938",
+    "description": "BILLETE DUMMY 20€ (ALTERNATIVO 0800300876)",
+    "originalData": {
+      "Códigos": "0800227938",
+      "Descripciones": "BILLETE DUMMY 20€ (ALTERNATIVO 0800300876) "
+    }
+  },
+  {
+    "id": 679,
+    "code": "0800227965",
+    "description": "BILLETE DUMMY 200€ (ALTERNATIVO 0800300901)",
+    "originalData": {
+      "Códigos": "0800227965",
+      "Descripciones": "BILLETE DUMMY 200€ (ALTERNATIVO 0800300901) "
+    }
+  },
+  {
+    "id": 680,
+    "code": "0800227910",
+    "description": "BILLETE DUMMY 5€ (ALTERNATIVO 0800300858)",
+    "originalData": {
+      "Códigos": "0800227910",
+      "Descripciones": "BILLETE DUMMY 5€ (ALTERNATIVO 0800300858) "
+    }
+  },
+  {
+    "id": 681,
+    "code": "0800227947",
+    "description": "BILLETE DUMMY 50€ (ALTERNATIVO 0800300885)",
+    "originalData": {
+      "Códigos": "0800227947",
+      "Descripciones": "BILLETE DUMMY 50€ (ALTERNATIVO 0800300885) "
+    }
+  },
+  {
+    "id": 682,
+    "code": "0800227974",
+    "description": "BILLETE DUMMY 500€ (ALTERNATIVO 0800300910)",
+    "originalData": {
+      "Códigos": "0800227974",
+      "Descripciones": "BILLETE DUMMY 500€ (ALTERNATIVO 0800300910) "
+    }
+  },
+  {
+    "id": 683,
+    "code": "0800491063",
+    "description": "BLOQUEO ENTRADA TARJETAS PG FJ",
+    "originalData": {
+      "Códigos": "0800491063",
+      "Descripciones": "BLOQUEO ENTRADA TARJETAS PG FJ "
+    }
+  },
+  {
+    "id": 684,
+    "code": "0800318171",
+    "description": "BLOQUEO ENTRADA TARJETAS PG NCR",
+    "originalData": {
+      "Códigos": "0800318171",
+      "Descripciones": "BLOQUEO ENTRADA TARJETAS PG NCR "
+    }
+  },
+  {
+    "id": 685,
+    "code": "0800469837",
+    "description": "BLOQUEO ENTRADA TARJETAS S100",
+    "originalData": {
+      "Códigos": "0800469837",
+      "Descripciones": "BLOQUEO ENTRADA TARJETAS S100 "
+    }
+  },
+  {
+    "id": 686,
+    "code": "0800182361",
+    "description": "BOMBIN + LLAVES PUERTA SUPERIOR DIFERENTE KEY (IBERCAJA ‐ COORDINADOR)",
+    "originalData": {
+      "Códigos": "0800182361",
+      "Descripciones": "BOMBIN + LLAVES PUERTA SUPERIOR DIFERENTE KEY (IBERCAJA ‐ COORDINADOR) "
+    }
+  },
+  {
+    "id": 687,
+    "code": "0800182370",
+    "description": "BOMBIN + LLAVES PUERTA SUPERIOR PG MISMA KEY (CAIXA ‐ COORDINADOR)",
+    "originalData": {
+      "Códigos": "0800182370",
+      "Descripciones": "BOMBIN + LLAVES PUERTA SUPERIOR PG MISMA KEY (CAIXA ‐ COORDINADOR) "
+    }
+  },
+  {
+    "id": 688,
+    "code": "0800488095",
+    "description": "BRIDA CON SOLAPA PARA CAJETINES STORE EXTERNALIZADA",
+    "originalData": {
+      "Códigos": "0800488095",
+      "Descripciones": "BRIDA CON SOLAPA PARA CAJETINES STORE EXTERNALIZADA "
+    }
+  },
+  {
+    "id": 689,
+    "code": "0800315272",
+    "description": "CAJA 100 GUANTES LATEX CAT III T.G.",
+    "originalData": {
+      "Códigos": "0800315272",
+      "Descripciones": "CAJA 100 GUANTES LATEX CAT III T.G. "
+    }
+  },
+  {
+    "id": 690,
+    "code": "0800315263",
+    "description": "CAJA 100 GUANTES LATEX CAT III T.M.",
+    "originalData": {
+      "Códigos": "0800315263",
+      "Descripciones": "CAJA 100 GUANTES LATEX CAT III T.M. "
+    }
+  },
+  {
+    "id": 691,
+    "code": "0800315254",
+    "description": "CAJA 100 GUANTES LATEX CAT III T.XL/XXL",
+    "originalData": {
+      "Códigos": "0800315254",
+      "Descripciones": "CAJA 100 GUANTES LATEX CAT III T.XL/XXL "
+    }
+  },
+  {
+    "id": 692,
+    "code": "0800315307",
+    "description": "CAJA 100 GUANTES NITRILO CAT III T.G.",
+    "originalData": {
+      "Códigos": "0800315307",
+      "Descripciones": "CAJA 100 GUANTES NITRILO CAT III T.G. "
+    }
+  },
+  {
+    "id": 693,
+    "code": "0800315290",
+    "description": "CAJA 100 GUANTES NITRILO CAT III T.M.",
+    "originalData": {
+      "Códigos": "0800315290",
+      "Descripciones": "CAJA 100 GUANTES NITRILO CAT III T.M. "
+    }
+  },
+  {
+    "id": 694,
+    "code": "0800315281",
+    "description": "CAJA 100 GUANTES NITRILO CAT III T.XL/XXL",
+    "originalData": {
+      "Códigos": "0800315281",
+      "Descripciones": "CAJA 100 GUANTES NITRILO CAT III T.XL/XXL "
+    }
+  },
+  {
+    "id": 695,
+    "code": "0800475919",
+    "description": "CARD OF TEST NFC+BAND+CHIP (TARJETA DE TEST) (PEDIR CONTRA CONTRATO)",
+    "originalData": {
+      "Códigos": "0800475919",
+      "Descripciones": "CARD OF TEST NFC+BAND+CHIP (TARJETA DE TEST) (PEDIR CONTRA CONTRATO) "
+    }
+  },
+  {
+    "id": 696,
+    "code": "0133081314",
+    "description": "CLEANING CARD LIBRETAS",
+    "originalData": {
+      "Códigos": "0133081314",
+      "Descripciones": "CLEANING CARD LIBRETAS "
+    }
+  },
+  {
+    "id": 697,
+    "code": "0133088004",
+    "description": "CLEANING CARD TARJETAS",
+    "originalData": {
+      "Códigos": "0133088004",
+      "Descripciones": "CLEANING CARD TARJETAS "
+    }
+  },
+  {
+    "id": 698,
+    "code": "0917100040",
+    "description": "COIL TRAPO",
+    "originalData": {
+      "Códigos": "0917100040",
+      "Descripciones": "COIL TRAPO "
+    }
+  },
+  {
+    "id": 699,
+    "code": "0800478970",
+    "description": "FIJADOR DE TORNILLOS LOCTITE 242 (6ML)",
+    "originalData": {
+      "Códigos": "0800478970",
+      "Descripciones": "FIJADOR DE TORNILLOS LOCTITE 242 (6ML) "
+    }
+  },
+  {
+    "id": 700,
+    "code": "0800415510",
+    "description": "FUSIBLE 7.5AMP PG NCR",
+    "originalData": {
+      "Códigos": "0800415510",
+      "Descripciones": "FUSIBLE 7.5AMP PG NCR "
+    }
+  },
+  {
+    "id": 701,
+    "code": "0800513637",
+    "description": "GEL DESINFECTANTE HIDROALCOHOLICO (1L)",
+    "originalData": {
+      "Códigos": "0800513637",
+      "Descripciones": "GEL DESINFECTANTE HIDROALCOHOLICO (1L) "
+    }
+  },
+  {
+    "id": 702,
+    "code": "0800513708",
+    "description": "GEL DESINFECTANTE HIDROALCOHOLICO (500CL)",
+    "originalData": {
+      "Códigos": "0800513708",
+      "Descripciones": "GEL DESINFECTANTE HIDROALCOHOLICO (500CL) "
+    }
+  },
+  {
+    "id": 703,
+    "code": "0800498039",
+    "description": "GUIA BANDEJA UNIDAD G510 / FRONTAL S100 (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800498039",
+      "Descripciones": "GUIA BANDEJA UNIDAD G510 / FRONTAL S100 (UNIDAD) "
+    }
+  },
+  {
+    "id": 704,
+    "code": "0800498057",
+    "description": "GUIA BANDEJA UNIDAD MONEDAS (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800498057",
+      "Descripciones": "GUIA BANDEJA UNIDAD MONEDAS (UNIDAD) "
+    }
+  },
+  {
+    "id": 705,
+    "code": "0800498020",
+    "description": "GUIA BANDEJA UNIDAD PPR (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800498020",
+      "Descripciones": "GUIA BANDEJA UNIDAD PPR (UNIDAD) "
+    }
+  },
+  {
+    "id": 706,
+    "code": "0800436515",
+    "description": "GUIA BANDEJA UNIDADES TARJETAS / RECIBOS (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800436515",
+      "Descripciones": "GUIA BANDEJA UNIDADES TARJETAS / RECIBOS (UNIDAD) "
+    }
+  },
+  {
+    "id": 707,
+    "code": "0800330816",
+    "description": "GUIA DE UNIDAD GBXX (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800330816",
+      "Descripciones": "GUIA DE UNIDAD GBXX (UNIDAD) "
+    }
+  },
+  {
+    "id": 708,
+    "code": "0917008034",
+    "description": "HEAD CLEANING SOLVENT (CRC) (250ML)",
+    "originalData": {
+      "Códigos": "0917008034",
+      "Descripciones": "HEAD CLEANING SOLVENT (CRC) (250ML) "
+    }
+  },
+  {
+    "id": 709,
+    "code": "0800513959",
+    "description": "HERRAMIENTA PARA CONECTAR SOPLADOR A PG FJ (PROC0162) (COORDINADOR)",
+    "originalData": {
+      "Códigos": "0800513959",
+      "Descripciones": "HERRAMIENTA PARA CONECTAR SOPLADOR A PG FJ (PROC0162) (COORDINADOR) "
+    }
+  },
+  {
+    "id": 710,
+    "code": "0800492687",
+    "description": "HIHG COHERTIVENES TEST CARD HICO (TARJETA DE TEST)",
+    "originalData": {
+      "Códigos": "0800492687",
+      "Descripciones": "HIHG COHERTIVENES TEST CARD HICO (TARJETA DE TEST) "
+    }
+  },
+  {
+    "id": 711,
+    "code": "0800498048",
+    "description": "INTERRUPTOR GENERAL PG FJ",
+    "originalData": {
+      "Códigos": "0800498048",
+      "Descripciones": "INTERRUPTOR GENERAL PG FJ "
+    }
+  },
+  {
+    "id": 712,
+    "code": "0917000050",
+    "description": "ISOPROPILICO EN SPRAY CON BROCHA",
+    "originalData": {
+      "Códigos": "0917000050",
+      "Descripciones": "ISOPROPILICO EN SPRAY CON BROCHA "
+    }
+  },
+  {
+    "id": 713,
+    "code": "0800181996",
+    "description": "JABON LIMPIADOR PARA RODILLOS Y GOMAS (500CL)",
+    "originalData": {
+      "Códigos": "0800181996",
+      "Descripciones": "JABON LIMPIADOR PARA RODILLOS Y GOMAS (500CL) "
+    }
+  },
+  {
+    "id": 714,
+    "code": "0800361505",
+    "description": "KIT 100 BASTONCILLOS",
+    "originalData": {
+      "Códigos": "0800361505",
+      "Descripciones": "KIT 100 BASTONCILLOS "
+    }
+  },
+  {
+    "id": 715,
+    "code": "0800457537",
+    "description": "KIT TORNILLOS PARA GUIA DE MONTAJE GBNA (BOLSA DE 24)",
+    "originalData": {
+      "Códigos": "0800457537",
+      "Descripciones": "KIT TORNILLOS PARA GUIA DE MONTAJE GBNA (BOLSA DE 24) "
+    }
+  },
+  {
+    "id": 716,
+    "code": "0800513619",
+    "description": "MASCARILLA FFP2 (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800513619",
+      "Descripciones": "MASCARILLA FFP2 (UNIDAD) "
+    }
+  },
+  {
+    "id": 717,
+    "code": "0800513628",
+    "description": "MASCARILLA FFP3 (UNIDAD)",
+    "originalData": {
+      "Códigos": "0800513628",
+      "Descripciones": "MASCARILLA FFP3 (UNIDAD) "
+    }
+  },
+  {
+    "id": 718,
+    "code": "0800513735",
+    "description": "MASCARILLA QUIRURGICA (CAJA DE 50)",
+    "originalData": {
+      "Códigos": "0800513735",
+      "Descripciones": "MASCARILLA QUIRURGICA (CAJA DE 50) "
+    }
+  },
+  {
+    "id": 719,
+    "code": "0800367000",
+    "description": "MEM. PENDRIVE USB 32GB KINGSTON (COORDINADOR)",
+    "originalData": {
+      "Códigos": "0800367000",
+      "Descripciones": "MEM. PENDRIVE USB 32GB KINGSTON (COORDINADOR) "
+    }
+  },
+  {
+    "id": 720,
+    "code": "0800338989",
+    "description": "PASTA TERMICA DE SILICONA 1.5G (NO SE PUEDE PEDIR CONTRA AVERIA)",
+    "originalData": {
+      "Códigos": "0800338989",
+      "Descripciones": "PASTA TERMICA DE SILICONA 1.5G (NO SE PUEDE PEDIR CONTRA AVERIA) "
+    }
+  },
+  {
+    "id": 721,
+    "code": "0214150292",
+    "description": "PILA 3.2V CR2032",
+    "originalData": {
+      "Códigos": "0214150292",
+      "Descripciones": "PILA 3.2V CR2032 "
+    }
+  },
+  {
+    "id": 722,
+    "code": "0800181987",
+    "description": "POWER 13 GRASA (250CC)",
+    "originalData": {
+      "Códigos": "0800181987",
+      "Descripciones": "POWER 13 GRASA (250CC) "
+    }
+  },
+  {
+    "id": 723,
+    "code": "0800485597",
+    "description": "SOPLADOR BLOWER X3 HURRICANE (PEDIR CONTRA CONTRATO)",
+    "originalData": {
+      "Códigos": "0800485597",
+      "Descripciones": "SOPLADOR BLOWER X3 HURRICANE (PEDIR CONTRA CONTRATO) "
+    }
+  },
+  {
+    "id": 724,
+    "code": "0995120033",
+    "description": "SPRAY LIMPIEZA DISCOS CMI",
+    "originalData": {
+      "Códigos": "0995120033",
+      "Descripciones": "SPRAY LIMPIEZA DISCOS CMI "
+    }
+  },
+  {
+    "id": 725,
+    "code": "0800340958",
+    "description": "SWITCH E75 – 16AMP 6 CONTACTOS (INTERLOCK GBXX)",
+    "originalData": {
+      "Códigos": "0800340958",
+      "Descripciones": "SWITCH E75 – 16AMP 6 CONTACTOS (INTERLOCK GBXX) "
+    }
+  },
+  {
+    "id": 726,
+    "code": "0800340495",
+    "description": "SWITCH F69 – 10AMP",
+    "originalData": {
+      "Códigos": "0800340495",
+      "Descripciones": "SWITCH F69 – 10AMP "
+    }
+  },
+  {
+    "id": 727,
+    "code": "0800350704",
+    "description": "SWITCH F69 – 10AMP (PUERTA PG FJ – INTERLOCK G510)",
+    "originalData": {
+      "Códigos": "0800350704",
+      "Descripciones": "SWITCH F69 – 10AMP (PUERTA PG FJ – INTERLOCK G510) "
+    }
+  },
+  {
+    "id": 728,
+    "code": "0800453443",
+    "description": "SWITCH F79 – 10AMP  (PUERTA PG NCR)",
+    "originalData": {
+      "Códigos": "0800453443",
+      "Descripciones": "SWITCH F79 – 10AMP  (PUERTA PG NCR) "
+    }
+  },
+  {
+    "id": 729,
+    "code": "0800318448",
+    "description": "SWITCH VARILLAS PG FJ",
+    "originalData": {
+      "Códigos": "0800318448",
+      "Descripciones": "SWITCH VARILLAS PG FJ "
+    }
+  },
+  {
+    "id": 730,
+    "code": "0800383242",
+    "description": "TERMOMETRO KAISE IR‐88 (BTM CABI035‐I‐OB R1) (TEMPERATURA CAJEROS)",
+    "originalData": {
+      "Códigos": "0800383242",
+      "Descripciones": "TERMOMETRO KAISE IR‐88 (BTM CABI035‐I‐OB R1) (TEMPERATURA CAJEROS) "
+    }
+  },
+  {
+    "id": 731,
+    "code": "0800389353",
+    "description": "TERMOMETRO PROTOCOLO TEMPERARURA EN RECINTO (SALUD LABORAL)",
+    "originalData": {
+      "Códigos": "0800389353",
+      "Descripciones": "TERMOMETRO PROTOCOLO TEMPERARURA EN RECINTO (SALUD LABORAL) "
+    }
+  },
+  {
+    "id": 732,
+    "code": "0800488674",
+    "description": "TESTER SENSORES EN U (PEDIR A TRAVES DE COORDINADOR)",
+    "originalData": {
+      "Códigos": "0800488674",
+      "Descripciones": "TESTER SENSORES EN U (PEDIR A TRAVES DE COORDINADOR) "
+    }
+  },
+  {
+    "id": 733,
+    "code": "0800520362",
+    "description": "TOPE DE GOMA GUIA BANDEJA (UNIDAD) (COMUNICADO CS‐20240925‐OB)",
+    "originalData": {
+      "Códigos": "0800520362",
+      "Descripciones": "TOPE DE GOMA GUIA BANDEJA (UNIDAD) (COMUNICADO CS‐20240925‐OB) "
+    }
+  },
+  {
+    "id": 734,
+    "code": "0800495176",
+    "description": "TWIST TIE PUSH 450‐3‐1 (UNIDAD – PEDIR 15)",
+    "originalData": {
+      "Códigos": "0800495176",
+      "Descripciones": "TWIST TIE PUSH 450‐3‐1 (UNIDAD – PEDIR 15) "
+    }
+  },
+  {
+    "id": 735,
+    "code": "0800495167",
+    "description": "TWIST TIE PUSH 750‐3‐1 (UNIDAD – PEDIR 15)",
+    "originalData": {
+      "Códigos": "0800495167",
+      "Descripciones": "TWIST TIE PUSH 750‐3‐1 (UNIDAD – PEDIR 15) "
+    }
+  },
+  {
+    "id": 736,
+    "code": "0800515485",
+    "description": "UTIL LIMPIEZA RODILLOS CAJETIN G510 ( PEDIR A COORDINADOR)",
+    "originalData": {
+      "Códigos": "0800515485",
+      "Descripciones": "UTIL LIMPIEZA RODILLOS CAJETIN G510 ( PEDIR A COORDINADOR) "
+    }
+  },
+  {
+    "id": 737,
+    "code": "0800474297",
+    "description": "VARILLA DEL FRONTAL PG NCR",
+    "originalData": {
+      "Códigos": "0800474297",
+      "Descripciones": "VARILLA DEL FRONTAL PG NCR "
+    }
+  },
+  {
+    "id": 738,
+    "code": "0800503096",
+    "description": "VENTILADOR PROTOCOLO TEMPERATURA EN RECINTO (SALUD LABORAL)",
+    "originalData": {
+      "Códigos": "0800503096",
+      "Descripciones": "VENTILADOR PROTOCOLO TEMPERATURA EN RECINTO (SALUD LABORAL) "
+    }
+  }
+]
