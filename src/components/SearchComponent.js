@@ -139,7 +139,7 @@ const SearchComponent = () => {
           
           {/* Fecha actual para verificar actualizaciones */}
           <Text style={styles.dateText}>
-            � ANTI-CACHÉ RADICAL - 3 Nov 2025 - 15:25
+            🚫 SW DESHABILITADO - Chrome Test - 3 Nov 2025 - 15:45
           </Text>
           
           {/* Indicador de tipo de búsqueda */}
