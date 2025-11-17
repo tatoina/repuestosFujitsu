@@ -32,6 +32,7 @@ const SearchComponent = () => {
   const [debounceTimer, setDebounceTimer] = useState(null);
   const [showAdminPanel, setShowAdminPanel] = useState(false);
   const [currentSearchType, setCurrentSearchType] = useState('description'); // Para mostrar al usuario qué tipo de búsqueda se está haciendo
+  const [stats, setStats] = useState(null);
 
   useEffect(() => {
     // Solo inicializar datos una vez
@@ -39,6 +40,8 @@ const SearchComponent = () => {
       try {
         setIsLoading(true);
         await searchService.loadData();
+        const statistics = searchService.getStatistics();
+        setStats(statistics);
         setDataLoaded(true);
       } catch (error) {
         Alert.alert(
@@ -137,9 +140,27 @@ const SearchComponent = () => {
             />
           </View>
           
+          {/* Estadísticas de la base de datos */}
+          {stats && (
+            <View style={styles.statsContainer}>
+              <Text style={styles.statsTitle}>📊 Base de Datos:</Text>
+              <View style={styles.statsRow}>
+                <Chip icon="file-excel" style={styles.excelStat} textStyle={styles.statText}>
+                  Excel: {stats.totalExcel}
+                </Chip>
+                <Chip icon="file-pdf-box" style={styles.pdfStat} textStyle={styles.statText}>
+                  PDFs: {stats.totalPDF}
+                </Chip>
+                <Chip icon="check-all" style={styles.totalStat} textStyle={styles.statText}>
+                  Total: {stats.totalParts}
+                </Chip>
+              </View>
+            </View>
+          )}
+          
           {/* Fecha actual para verificar actualizaciones */}
           <Text style={styles.dateText}>
-            📚 VERSIÓN V2 + PDFs - Excel + 589 Repuestos PDF - 17 Nov 2025
+            📚 Busca en EXCEL y PDFs simultáneamente - 17 Nov 2025
           </Text>
           
           {/* Indicador de tipo de búsqueda */}
@@ -203,11 +224,19 @@ const SearchComponent = () => {
             <Card key={index} style={styles.resultCard}>
               <Card.Content>
                 <View style={styles.resultHeader}>
-                  <Ionicons 
-                    name={item.sourceType === 'pdf' ? 'document-text' : 'car'} 
-                    size={20} 
-                    color={item.sourceType === 'pdf' ? '#ff6f00' : '#6200ee'} 
-                  />
+                  <View style={[
+                    styles.sourceIndicator, 
+                    item.sourceType === 'pdf' ? styles.pdfIndicator : styles.excelIndicator
+                  ]}>
+                    <Ionicons 
+                      name={item.sourceType === 'pdf' ? 'document-text' : 'table'} 
+                      size={16} 
+                      color="#fff" 
+                    />
+                    <Text style={styles.sourceIndicatorText}>
+                      {item.sourceType === 'pdf' ? 'PDF' : 'EXCEL'}
+                    </Text>
+                  </View>
                   <Title style={styles.resultTitle}>
                     {currentSearchType === 'description' ? item.code : item.description}
                   </Title>
@@ -235,11 +264,16 @@ const SearchComponent = () => {
                   
                   {item.hasImage && item.imageRef && (
                     <Chip 
-                      icon={() => <Ionicons name="image" size={14} color="#4caf50" />}
+                      icon={() => <Ionicons name="camera" size={14} color="#4caf50" />}
                       style={styles.imageChip}
                       textStyle={styles.chipText}
+                      onPress={() => Alert.alert(
+                        '📷 Tiene Imagen',
+                        `Este repuesto tiene foto en el PDF.\n\nBusca la imagen Nº ${item.imageRef} en "${item.pdfSource}"`,
+                        [{ text: 'OK' }]
+                      )}
                     >
-                      Imagen #{item.imageRef}
+                      📷 Tiene foto (#{item.imageRef})
                     </Chip>
                   )}
                 </View>
@@ -258,10 +292,17 @@ const SearchComponent = () => {
                   {item.hasImage && (
                     <TouchableOpacity
                       style={styles.imageButton}
-                      onPress={() => Alert.alert('Imagen', `Ver imagen #${item.imageRef} de ${item.pdfSource}`)}
+                      onPress={() => Alert.alert(
+                        '📷 Referencia a Imagen',
+                        `Este repuesto tiene una imagen numerada:\n\n` +
+                        `📄 PDF: ${item.pdfSource}\n` +
+                        `🖼️ Imagen Nº: ${item.imageRef}\n\n` +
+                        `💡 Consejo: Abre el PDF "${item.pdfSource}" y busca la imagen con el número ${item.imageRef}`,
+                        [{ text: 'Entendido', style: 'default' }]
+                      )}
                     >
-                      <Ionicons name="image-outline" size={16} color="#4caf50" />
-                      <Text style={styles.imageButtonText}>Ver Imagen</Text>
+                      <Ionicons name="information-circle" size={16} color="#4caf50" />
+                      <Text style={styles.imageButtonText}>Info Imagen</Text>
                     </TouchableOpacity>
                   )}
                 </View>
@@ -384,6 +425,26 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 8,
   },
+  sourceIndicator: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 8,
+    paddingVertical: 4,
+    borderRadius: 4,
+    marginRight: 8,
+  },
+  excelIndicator: {
+    backgroundColor: '#6200ee',
+  },
+  pdfIndicator: {
+    backgroundColor: '#ff6f00',
+  },
+  sourceIndicatorText: {
+    color: '#fff',
+    fontSize: 10,
+    fontWeight: 'bold',
+    marginLeft: 4,
+  },
   resultTitle: {
     marginLeft: 8,
     fontSize: 18,
@@ -404,6 +465,41 @@ const styles = StyleSheet.create({
     fontSize: 12,
     marginTop: 8,
     fontStyle: 'italic',
+  },
+  statsContainer: {
+    backgroundColor: '#fff',
+    padding: 12,
+    borderRadius: 8,
+    marginBottom: 8,
+    elevation: 1,
+  },
+  statsTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: '#333',
+    marginBottom: 8,
+    textAlign: 'center',
+  },
+  statsRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    flexWrap: 'wrap',
+  },
+  excelStat: {
+    backgroundColor: '#e3f2fd',
+    marginHorizontal: 4,
+  },
+  pdfStat: {
+    backgroundColor: '#fff3e0',
+    marginHorizontal: 4,
+  },
+  totalStat: {
+    backgroundColor: '#e8f5e9',
+    marginHorizontal: 4,
+  },
+  statText: {
+    fontSize: 11,
+    fontWeight: '600',
   },
   cardActions: {
     flexDirection: 'row',
