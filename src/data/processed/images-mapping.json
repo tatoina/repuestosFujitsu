@@ -1,0 +1,1923 @@
+{
+  "CONTROLADOR.pdf": {
+    "total_images": 17,
+    "images": [
+      {
+        "filename": "CONTROLADOR_page1_img1.jpeg",
+        "page": 1,
+        "index": 1,
+        "path": "data\\images\\CONTROLADOR_page1_img1.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page2_img1.jpeg",
+        "page": 2,
+        "index": 1,
+        "path": "data\\images\\CONTROLADOR_page2_img1.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page2_img2.jpeg",
+        "page": 2,
+        "index": 2,
+        "path": "data\\images\\CONTROLADOR_page2_img2.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page3_img1.jpeg",
+        "page": 3,
+        "index": 1,
+        "path": "data\\images\\CONTROLADOR_page3_img1.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page3_img2.jpeg",
+        "page": 3,
+        "index": 2,
+        "path": "data\\images\\CONTROLADOR_page3_img2.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page3_img3.jpeg",
+        "page": 3,
+        "index": 3,
+        "path": "data\\images\\CONTROLADOR_page3_img3.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page4_img1.jpeg",
+        "page": 4,
+        "index": 1,
+        "path": "data\\images\\CONTROLADOR_page4_img1.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page4_img2.jpeg",
+        "page": 4,
+        "index": 2,
+        "path": "data\\images\\CONTROLADOR_page4_img2.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page4_img3.jpeg",
+        "page": 4,
+        "index": 3,
+        "path": "data\\images\\CONTROLADOR_page4_img3.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page4_img4.jpeg",
+        "page": 4,
+        "index": 4,
+        "path": "data\\images\\CONTROLADOR_page4_img4.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page5_img1.jpeg",
+        "page": 5,
+        "index": 1,
+        "path": "data\\images\\CONTROLADOR_page5_img1.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page5_img2.jpeg",
+        "page": 5,
+        "index": 2,
+        "path": "data\\images\\CONTROLADOR_page5_img2.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page5_img3.jpeg",
+        "page": 5,
+        "index": 3,
+        "path": "data\\images\\CONTROLADOR_page5_img3.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page5_img4.jpeg",
+        "page": 5,
+        "index": 4,
+        "path": "data\\images\\CONTROLADOR_page5_img4.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page5_img5.jpeg",
+        "page": 5,
+        "index": 5,
+        "path": "data\\images\\CONTROLADOR_page5_img5.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page5_img6.jpeg",
+        "page": 5,
+        "index": 6,
+        "path": "data\\images\\CONTROLADOR_page5_img6.jpeg"
+      },
+      {
+        "filename": "CONTROLADOR_page5_img7.jpeg",
+        "page": 5,
+        "index": 7,
+        "path": "data\\images\\CONTROLADOR_page5_img7.jpeg"
+      }
+    ]
+  },
+  "CRW.pdf": {
+    "total_images": 10,
+    "images": [
+      {
+        "filename": "CRW_page1_img1.jpeg",
+        "page": 1,
+        "index": 1,
+        "path": "data\\images\\CRW_page1_img1.jpeg"
+      },
+      {
+        "filename": "CRW_page1_img2.jpeg",
+        "page": 1,
+        "index": 2,
+        "path": "data\\images\\CRW_page1_img2.jpeg"
+      },
+      {
+        "filename": "CRW_page1_img3.jpeg",
+        "page": 1,
+        "index": 3,
+        "path": "data\\images\\CRW_page1_img3.jpeg"
+      },
+      {
+        "filename": "CRW_page1_img4.jpeg",
+        "page": 1,
+        "index": 4,
+        "path": "data\\images\\CRW_page1_img4.jpeg"
+      },
+      {
+        "filename": "CRW_page1_img5.jpeg",
+        "page": 1,
+        "index": 5,
+        "path": "data\\images\\CRW_page1_img5.jpeg"
+      },
+      {
+        "filename": "CRW_page1_img6.jpeg",
+        "page": 1,
+        "index": 6,
+        "path": "data\\images\\CRW_page1_img6.jpeg"
+      },
+      {
+        "filename": "CRW_page1_img7.jpeg",
+        "page": 1,
+        "index": 7,
+        "path": "data\\images\\CRW_page1_img7.jpeg"
+      },
+      {
+        "filename": "CRW_page1_img8.jpeg",
+        "page": 1,
+        "index": 8,
+        "path": "data\\images\\CRW_page1_img8.jpeg"
+      },
+      {
+        "filename": "CRW_page1_img9.jpeg",
+        "page": 1,
+        "index": 9,
+        "path": "data\\images\\CRW_page1_img9.jpeg"
+      },
+      {
+        "filename": "CRW_page1_img10.jpeg",
+        "page": 1,
+        "index": 10,
+        "path": "data\\images\\CRW_page1_img10.jpeg"
+      }
+    ]
+  },
+  "G510.pdf": {
+    "total_images": 14,
+    "images": [
+      {
+        "filename": "G510_page1_img1.jpeg",
+        "page": 1,
+        "index": 1,
+        "path": "data\\images\\G510_page1_img1.jpeg"
+      },
+      {
+        "filename": "G510_page1_img2.png",
+        "page": 1,
+        "index": 2,
+        "path": "data\\images\\G510_page1_img2.png"
+      },
+      {
+        "filename": "G510_page1_img3.png",
+        "page": 1,
+        "index": 3,
+        "path": "data\\images\\G510_page1_img3.png"
+      },
+      {
+        "filename": "G510_page2_img1.jpeg",
+        "page": 2,
+        "index": 1,
+        "path": "data\\images\\G510_page2_img1.jpeg"
+      },
+      {
+        "filename": "G510_page2_img2.jpeg",
+        "page": 2,
+        "index": 2,
+        "path": "data\\images\\G510_page2_img2.jpeg"
+      },
+      {
+        "filename": "G510_page2_img3.jpeg",
+        "page": 2,
+        "index": 3,
+        "path": "data\\images\\G510_page2_img3.jpeg"
+      },
+      {
+        "filename": "G510_page2_img4.jpeg",
+        "page": 2,
+        "index": 4,
+        "path": "data\\images\\G510_page2_img4.jpeg"
+      },
+      {
+        "filename": "G510_page3_img1.jpeg",
+        "page": 3,
+        "index": 1,
+        "path": "data\\images\\G510_page3_img1.jpeg"
+      },
+      {
+        "filename": "G510_page3_img2.jpeg",
+        "page": 3,
+        "index": 2,
+        "path": "data\\images\\G510_page3_img2.jpeg"
+      },
+      {
+        "filename": "G510_page3_img3.jpeg",
+        "page": 3,
+        "index": 3,
+        "path": "data\\images\\G510_page3_img3.jpeg"
+      },
+      {
+        "filename": "G510_page3_img4.jpeg",
+        "page": 3,
+        "index": 4,
+        "path": "data\\images\\G510_page3_img4.jpeg"
+      },
+      {
+        "filename": "G510_page3_img5.jpeg",
+        "page": 3,
+        "index": 5,
+        "path": "data\\images\\G510_page3_img5.jpeg"
+      },
+      {
+        "filename": "G510_page3_img6.jpeg",
+        "page": 3,
+        "index": 6,
+        "path": "data\\images\\G510_page3_img6.jpeg"
+      },
+      {
+        "filename": "G510_page3_img7.jpeg",
+        "page": 3,
+        "index": 7,
+        "path": "data\\images\\G510_page3_img7.jpeg"
+      }
+    ]
+  },
+  "LIBRETAS.pdf": {
+    "total_images": 4,
+    "images": [
+      {
+        "filename": "LIBRETAS_page1_img1.jpeg",
+        "page": 1,
+        "index": 1,
+        "path": "data\\images\\LIBRETAS_page1_img1.jpeg"
+      },
+      {
+        "filename": "LIBRETAS_page1_img2.jpeg",
+        "page": 1,
+        "index": 2,
+        "path": "data\\images\\LIBRETAS_page1_img2.jpeg"
+      },
+      {
+        "filename": "LIBRETAS_page1_img3.jpeg",
+        "page": 1,
+        "index": 3,
+        "path": "data\\images\\LIBRETAS_page1_img3.jpeg"
+      },
+      {
+        "filename": "LIBRETAS_page1_img4.jpeg",
+        "page": 1,
+        "index": 4,
+        "path": "data\\images\\LIBRETAS_page1_img4.jpeg"
+      }
+    ]
+  },
+  "PUNT GROC.pdf": {
+    "total_images": 151,
+    "images": [
+      {
+        "filename": "PUNT GROC_page1_img1.jpeg",
+        "page": 1,
+        "index": 1,
+        "path": "data\\images\\PUNT GROC_page1_img1.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page1_img2.jpeg",
+        "page": 1,
+        "index": 2,
+        "path": "data\\images\\PUNT GROC_page1_img2.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page1_img3.jpeg",
+        "page": 1,
+        "index": 3,
+        "path": "data\\images\\PUNT GROC_page1_img3.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page1_img4.jpeg",
+        "page": 1,
+        "index": 4,
+        "path": "data\\images\\PUNT GROC_page1_img4.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page1_img5.jpeg",
+        "page": 1,
+        "index": 5,
+        "path": "data\\images\\PUNT GROC_page1_img5.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img1.jpeg",
+        "page": 2,
+        "index": 1,
+        "path": "data\\images\\PUNT GROC_page2_img1.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img2.jpeg",
+        "page": 2,
+        "index": 2,
+        "path": "data\\images\\PUNT GROC_page2_img2.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img3.jpeg",
+        "page": 2,
+        "index": 3,
+        "path": "data\\images\\PUNT GROC_page2_img3.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img4.jpeg",
+        "page": 2,
+        "index": 4,
+        "path": "data\\images\\PUNT GROC_page2_img4.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img5.jpeg",
+        "page": 2,
+        "index": 5,
+        "path": "data\\images\\PUNT GROC_page2_img5.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img6.jpeg",
+        "page": 2,
+        "index": 6,
+        "path": "data\\images\\PUNT GROC_page2_img6.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img7.jpeg",
+        "page": 2,
+        "index": 7,
+        "path": "data\\images\\PUNT GROC_page2_img7.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img8.jpeg",
+        "page": 2,
+        "index": 8,
+        "path": "data\\images\\PUNT GROC_page2_img8.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img9.jpeg",
+        "page": 2,
+        "index": 9,
+        "path": "data\\images\\PUNT GROC_page2_img9.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img10.jpeg",
+        "page": 2,
+        "index": 10,
+        "path": "data\\images\\PUNT GROC_page2_img10.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img11.jpeg",
+        "page": 2,
+        "index": 11,
+        "path": "data\\images\\PUNT GROC_page2_img11.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img12.jpeg",
+        "page": 2,
+        "index": 12,
+        "path": "data\\images\\PUNT GROC_page2_img12.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img13.jpeg",
+        "page": 2,
+        "index": 13,
+        "path": "data\\images\\PUNT GROC_page2_img13.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img14.jpeg",
+        "page": 2,
+        "index": 14,
+        "path": "data\\images\\PUNT GROC_page2_img14.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img15.jpeg",
+        "page": 2,
+        "index": 15,
+        "path": "data\\images\\PUNT GROC_page2_img15.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img16.jpeg",
+        "page": 2,
+        "index": 16,
+        "path": "data\\images\\PUNT GROC_page2_img16.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img17.jpeg",
+        "page": 2,
+        "index": 17,
+        "path": "data\\images\\PUNT GROC_page2_img17.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img18.jpeg",
+        "page": 2,
+        "index": 18,
+        "path": "data\\images\\PUNT GROC_page2_img18.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img19.jpeg",
+        "page": 2,
+        "index": 19,
+        "path": "data\\images\\PUNT GROC_page2_img19.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img20.jpeg",
+        "page": 2,
+        "index": 20,
+        "path": "data\\images\\PUNT GROC_page2_img20.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img21.jpeg",
+        "page": 2,
+        "index": 21,
+        "path": "data\\images\\PUNT GROC_page2_img21.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img22.jpeg",
+        "page": 2,
+        "index": 22,
+        "path": "data\\images\\PUNT GROC_page2_img22.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img23.jpeg",
+        "page": 2,
+        "index": 23,
+        "path": "data\\images\\PUNT GROC_page2_img23.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img24.jpeg",
+        "page": 2,
+        "index": 24,
+        "path": "data\\images\\PUNT GROC_page2_img24.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img25.jpeg",
+        "page": 2,
+        "index": 25,
+        "path": "data\\images\\PUNT GROC_page2_img25.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img26.jpeg",
+        "page": 2,
+        "index": 26,
+        "path": "data\\images\\PUNT GROC_page2_img26.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img27.jpeg",
+        "page": 2,
+        "index": 27,
+        "path": "data\\images\\PUNT GROC_page2_img27.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img28.jpeg",
+        "page": 2,
+        "index": 28,
+        "path": "data\\images\\PUNT GROC_page2_img28.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img29.jpeg",
+        "page": 2,
+        "index": 29,
+        "path": "data\\images\\PUNT GROC_page2_img29.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img30.jpeg",
+        "page": 2,
+        "index": 30,
+        "path": "data\\images\\PUNT GROC_page2_img30.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img31.jpeg",
+        "page": 2,
+        "index": 31,
+        "path": "data\\images\\PUNT GROC_page2_img31.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img32.jpeg",
+        "page": 2,
+        "index": 32,
+        "path": "data\\images\\PUNT GROC_page2_img32.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img33.jpeg",
+        "page": 2,
+        "index": 33,
+        "path": "data\\images\\PUNT GROC_page2_img33.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page2_img34.jpeg",
+        "page": 2,
+        "index": 34,
+        "path": "data\\images\\PUNT GROC_page2_img34.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img1.jpeg",
+        "page": 3,
+        "index": 1,
+        "path": "data\\images\\PUNT GROC_page3_img1.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img2.jpeg",
+        "page": 3,
+        "index": 2,
+        "path": "data\\images\\PUNT GROC_page3_img2.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img3.jpeg",
+        "page": 3,
+        "index": 3,
+        "path": "data\\images\\PUNT GROC_page3_img3.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img4.jpeg",
+        "page": 3,
+        "index": 4,
+        "path": "data\\images\\PUNT GROC_page3_img4.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img5.jpeg",
+        "page": 3,
+        "index": 5,
+        "path": "data\\images\\PUNT GROC_page3_img5.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img6.jpeg",
+        "page": 3,
+        "index": 6,
+        "path": "data\\images\\PUNT GROC_page3_img6.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img7.jpeg",
+        "page": 3,
+        "index": 7,
+        "path": "data\\images\\PUNT GROC_page3_img7.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img8.jpeg",
+        "page": 3,
+        "index": 8,
+        "path": "data\\images\\PUNT GROC_page3_img8.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img9.jpeg",
+        "page": 3,
+        "index": 9,
+        "path": "data\\images\\PUNT GROC_page3_img9.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img10.jpeg",
+        "page": 3,
+        "index": 10,
+        "path": "data\\images\\PUNT GROC_page3_img10.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img11.jpeg",
+        "page": 3,
+        "index": 11,
+        "path": "data\\images\\PUNT GROC_page3_img11.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img12.jpeg",
+        "page": 3,
+        "index": 12,
+        "path": "data\\images\\PUNT GROC_page3_img12.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img13.jpeg",
+        "page": 3,
+        "index": 13,
+        "path": "data\\images\\PUNT GROC_page3_img13.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img14.jpeg",
+        "page": 3,
+        "index": 14,
+        "path": "data\\images\\PUNT GROC_page3_img14.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img15.jpeg",
+        "page": 3,
+        "index": 15,
+        "path": "data\\images\\PUNT GROC_page3_img15.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img16.jpeg",
+        "page": 3,
+        "index": 16,
+        "path": "data\\images\\PUNT GROC_page3_img16.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img17.jpeg",
+        "page": 3,
+        "index": 17,
+        "path": "data\\images\\PUNT GROC_page3_img17.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img18.jpeg",
+        "page": 3,
+        "index": 18,
+        "path": "data\\images\\PUNT GROC_page3_img18.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img19.jpeg",
+        "page": 3,
+        "index": 19,
+        "path": "data\\images\\PUNT GROC_page3_img19.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img20.jpeg",
+        "page": 3,
+        "index": 20,
+        "path": "data\\images\\PUNT GROC_page3_img20.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img21.jpeg",
+        "page": 3,
+        "index": 21,
+        "path": "data\\images\\PUNT GROC_page3_img21.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img22.jpeg",
+        "page": 3,
+        "index": 22,
+        "path": "data\\images\\PUNT GROC_page3_img22.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img23.jpeg",
+        "page": 3,
+        "index": 23,
+        "path": "data\\images\\PUNT GROC_page3_img23.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img24.jpeg",
+        "page": 3,
+        "index": 24,
+        "path": "data\\images\\PUNT GROC_page3_img24.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img25.jpeg",
+        "page": 3,
+        "index": 25,
+        "path": "data\\images\\PUNT GROC_page3_img25.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img26.jpeg",
+        "page": 3,
+        "index": 26,
+        "path": "data\\images\\PUNT GROC_page3_img26.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img27.jpeg",
+        "page": 3,
+        "index": 27,
+        "path": "data\\images\\PUNT GROC_page3_img27.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img28.jpeg",
+        "page": 3,
+        "index": 28,
+        "path": "data\\images\\PUNT GROC_page3_img28.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img29.jpeg",
+        "page": 3,
+        "index": 29,
+        "path": "data\\images\\PUNT GROC_page3_img29.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img30.jpeg",
+        "page": 3,
+        "index": 30,
+        "path": "data\\images\\PUNT GROC_page3_img30.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img31.jpeg",
+        "page": 3,
+        "index": 31,
+        "path": "data\\images\\PUNT GROC_page3_img31.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page3_img32.jpeg",
+        "page": 3,
+        "index": 32,
+        "path": "data\\images\\PUNT GROC_page3_img32.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img1.jpeg",
+        "page": 4,
+        "index": 1,
+        "path": "data\\images\\PUNT GROC_page4_img1.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img2.jpeg",
+        "page": 4,
+        "index": 2,
+        "path": "data\\images\\PUNT GROC_page4_img2.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img3.jpeg",
+        "page": 4,
+        "index": 3,
+        "path": "data\\images\\PUNT GROC_page4_img3.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img4.jpeg",
+        "page": 4,
+        "index": 4,
+        "path": "data\\images\\PUNT GROC_page4_img4.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img5.jpeg",
+        "page": 4,
+        "index": 5,
+        "path": "data\\images\\PUNT GROC_page4_img5.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img6.jpeg",
+        "page": 4,
+        "index": 6,
+        "path": "data\\images\\PUNT GROC_page4_img6.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img7.jpeg",
+        "page": 4,
+        "index": 7,
+        "path": "data\\images\\PUNT GROC_page4_img7.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img8.jpeg",
+        "page": 4,
+        "index": 8,
+        "path": "data\\images\\PUNT GROC_page4_img8.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img9.jpeg",
+        "page": 4,
+        "index": 9,
+        "path": "data\\images\\PUNT GROC_page4_img9.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img10.jpeg",
+        "page": 4,
+        "index": 10,
+        "path": "data\\images\\PUNT GROC_page4_img10.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img11.jpeg",
+        "page": 4,
+        "index": 11,
+        "path": "data\\images\\PUNT GROC_page4_img11.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img12.jpeg",
+        "page": 4,
+        "index": 12,
+        "path": "data\\images\\PUNT GROC_page4_img12.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img13.jpeg",
+        "page": 4,
+        "index": 13,
+        "path": "data\\images\\PUNT GROC_page4_img13.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img14.jpeg",
+        "page": 4,
+        "index": 14,
+        "path": "data\\images\\PUNT GROC_page4_img14.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img15.jpeg",
+        "page": 4,
+        "index": 15,
+        "path": "data\\images\\PUNT GROC_page4_img15.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img16.jpeg",
+        "page": 4,
+        "index": 16,
+        "path": "data\\images\\PUNT GROC_page4_img16.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img17.jpeg",
+        "page": 4,
+        "index": 17,
+        "path": "data\\images\\PUNT GROC_page4_img17.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img18.jpeg",
+        "page": 4,
+        "index": 18,
+        "path": "data\\images\\PUNT GROC_page4_img18.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img19.jpeg",
+        "page": 4,
+        "index": 19,
+        "path": "data\\images\\PUNT GROC_page4_img19.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img20.jpeg",
+        "page": 4,
+        "index": 20,
+        "path": "data\\images\\PUNT GROC_page4_img20.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img21.jpeg",
+        "page": 4,
+        "index": 21,
+        "path": "data\\images\\PUNT GROC_page4_img21.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img22.jpeg",
+        "page": 4,
+        "index": 22,
+        "path": "data\\images\\PUNT GROC_page4_img22.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img23.jpeg",
+        "page": 4,
+        "index": 23,
+        "path": "data\\images\\PUNT GROC_page4_img23.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img24.jpeg",
+        "page": 4,
+        "index": 24,
+        "path": "data\\images\\PUNT GROC_page4_img24.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img25.jpeg",
+        "page": 4,
+        "index": 25,
+        "path": "data\\images\\PUNT GROC_page4_img25.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img26.jpeg",
+        "page": 4,
+        "index": 26,
+        "path": "data\\images\\PUNT GROC_page4_img26.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img27.jpeg",
+        "page": 4,
+        "index": 27,
+        "path": "data\\images\\PUNT GROC_page4_img27.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img28.jpeg",
+        "page": 4,
+        "index": 28,
+        "path": "data\\images\\PUNT GROC_page4_img28.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img29.jpeg",
+        "page": 4,
+        "index": 29,
+        "path": "data\\images\\PUNT GROC_page4_img29.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img30.jpeg",
+        "page": 4,
+        "index": 30,
+        "path": "data\\images\\PUNT GROC_page4_img30.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img31.jpeg",
+        "page": 4,
+        "index": 31,
+        "path": "data\\images\\PUNT GROC_page4_img31.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page4_img32.jpeg",
+        "page": 4,
+        "index": 32,
+        "path": "data\\images\\PUNT GROC_page4_img32.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img1.jpeg",
+        "page": 5,
+        "index": 1,
+        "path": "data\\images\\PUNT GROC_page5_img1.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img2.jpeg",
+        "page": 5,
+        "index": 2,
+        "path": "data\\images\\PUNT GROC_page5_img2.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img3.jpeg",
+        "page": 5,
+        "index": 3,
+        "path": "data\\images\\PUNT GROC_page5_img3.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img4.jpeg",
+        "page": 5,
+        "index": 4,
+        "path": "data\\images\\PUNT GROC_page5_img4.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img5.jpeg",
+        "page": 5,
+        "index": 5,
+        "path": "data\\images\\PUNT GROC_page5_img5.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img6.jpeg",
+        "page": 5,
+        "index": 6,
+        "path": "data\\images\\PUNT GROC_page5_img6.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img7.jpeg",
+        "page": 5,
+        "index": 7,
+        "path": "data\\images\\PUNT GROC_page5_img7.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img8.jpeg",
+        "page": 5,
+        "index": 8,
+        "path": "data\\images\\PUNT GROC_page5_img8.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img9.jpeg",
+        "page": 5,
+        "index": 9,
+        "path": "data\\images\\PUNT GROC_page5_img9.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img10.jpeg",
+        "page": 5,
+        "index": 10,
+        "path": "data\\images\\PUNT GROC_page5_img10.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img11.jpeg",
+        "page": 5,
+        "index": 11,
+        "path": "data\\images\\PUNT GROC_page5_img11.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img12.jpeg",
+        "page": 5,
+        "index": 12,
+        "path": "data\\images\\PUNT GROC_page5_img12.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img13.jpeg",
+        "page": 5,
+        "index": 13,
+        "path": "data\\images\\PUNT GROC_page5_img13.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img14.jpeg",
+        "page": 5,
+        "index": 14,
+        "path": "data\\images\\PUNT GROC_page5_img14.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img15.jpeg",
+        "page": 5,
+        "index": 15,
+        "path": "data\\images\\PUNT GROC_page5_img15.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img16.jpeg",
+        "page": 5,
+        "index": 16,
+        "path": "data\\images\\PUNT GROC_page5_img16.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img17.jpeg",
+        "page": 5,
+        "index": 17,
+        "path": "data\\images\\PUNT GROC_page5_img17.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img18.jpeg",
+        "page": 5,
+        "index": 18,
+        "path": "data\\images\\PUNT GROC_page5_img18.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img19.jpeg",
+        "page": 5,
+        "index": 19,
+        "path": "data\\images\\PUNT GROC_page5_img19.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img20.jpeg",
+        "page": 5,
+        "index": 20,
+        "path": "data\\images\\PUNT GROC_page5_img20.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img21.jpeg",
+        "page": 5,
+        "index": 21,
+        "path": "data\\images\\PUNT GROC_page5_img21.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img22.jpeg",
+        "page": 5,
+        "index": 22,
+        "path": "data\\images\\PUNT GROC_page5_img22.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img23.jpeg",
+        "page": 5,
+        "index": 23,
+        "path": "data\\images\\PUNT GROC_page5_img23.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img24.jpeg",
+        "page": 5,
+        "index": 24,
+        "path": "data\\images\\PUNT GROC_page5_img24.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img25.jpeg",
+        "page": 5,
+        "index": 25,
+        "path": "data\\images\\PUNT GROC_page5_img25.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img26.jpeg",
+        "page": 5,
+        "index": 26,
+        "path": "data\\images\\PUNT GROC_page5_img26.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img27.jpeg",
+        "page": 5,
+        "index": 27,
+        "path": "data\\images\\PUNT GROC_page5_img27.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img28.jpeg",
+        "page": 5,
+        "index": 28,
+        "path": "data\\images\\PUNT GROC_page5_img28.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img29.jpeg",
+        "page": 5,
+        "index": 29,
+        "path": "data\\images\\PUNT GROC_page5_img29.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img30.jpeg",
+        "page": 5,
+        "index": 30,
+        "path": "data\\images\\PUNT GROC_page5_img30.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img31.jpeg",
+        "page": 5,
+        "index": 31,
+        "path": "data\\images\\PUNT GROC_page5_img31.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page5_img32.jpeg",
+        "page": 5,
+        "index": 32,
+        "path": "data\\images\\PUNT GROC_page5_img32.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page6_img1.jpeg",
+        "page": 6,
+        "index": 1,
+        "path": "data\\images\\PUNT GROC_page6_img1.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page6_img2.jpeg",
+        "page": 6,
+        "index": 2,
+        "path": "data\\images\\PUNT GROC_page6_img2.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page6_img3.jpeg",
+        "page": 6,
+        "index": 3,
+        "path": "data\\images\\PUNT GROC_page6_img3.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page6_img4.jpeg",
+        "page": 6,
+        "index": 4,
+        "path": "data\\images\\PUNT GROC_page6_img4.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page6_img5.jpeg",
+        "page": 6,
+        "index": 5,
+        "path": "data\\images\\PUNT GROC_page6_img5.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page6_img6.jpeg",
+        "page": 6,
+        "index": 6,
+        "path": "data\\images\\PUNT GROC_page6_img6.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page7_img1.jpeg",
+        "page": 7,
+        "index": 1,
+        "path": "data\\images\\PUNT GROC_page7_img1.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page7_img2.jpeg",
+        "page": 7,
+        "index": 2,
+        "path": "data\\images\\PUNT GROC_page7_img2.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page7_img3.jpeg",
+        "page": 7,
+        "index": 3,
+        "path": "data\\images\\PUNT GROC_page7_img3.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page7_img4.jpeg",
+        "page": 7,
+        "index": 4,
+        "path": "data\\images\\PUNT GROC_page7_img4.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page8_img1.jpeg",
+        "page": 8,
+        "index": 1,
+        "path": "data\\images\\PUNT GROC_page8_img1.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page8_img2.jpeg",
+        "page": 8,
+        "index": 2,
+        "path": "data\\images\\PUNT GROC_page8_img2.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page8_img3.jpeg",
+        "page": 8,
+        "index": 3,
+        "path": "data\\images\\PUNT GROC_page8_img3.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page8_img4.jpeg",
+        "page": 8,
+        "index": 4,
+        "path": "data\\images\\PUNT GROC_page8_img4.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page8_img5.jpeg",
+        "page": 8,
+        "index": 5,
+        "path": "data\\images\\PUNT GROC_page8_img5.jpeg"
+      },
+      {
+        "filename": "PUNT GROC_page8_img6.jpeg",
+        "page": 8,
+        "index": 6,
+        "path": "data\\images\\PUNT GROC_page8_img6.jpeg"
+      }
+    ]
+  },
+  "RBG 200.pdf": {
+    "total_images": 27,
+    "images": [
+      {
+        "filename": "RBG 200_page2_img1.jpeg",
+        "page": 2,
+        "index": 1,
+        "path": "data\\images\\RBG 200_page2_img1.jpeg"
+      },
+      {
+        "filename": "RBG 200_page2_img2.png",
+        "page": 2,
+        "index": 2,
+        "path": "data\\images\\RBG 200_page2_img2.png"
+      },
+      {
+        "filename": "RBG 200_page2_img3.jpeg",
+        "page": 2,
+        "index": 3,
+        "path": "data\\images\\RBG 200_page2_img3.jpeg"
+      },
+      {
+        "filename": "RBG 200_page2_img4.jpeg",
+        "page": 2,
+        "index": 4,
+        "path": "data\\images\\RBG 200_page2_img4.jpeg"
+      },
+      {
+        "filename": "RBG 200_page2_img5.jpeg",
+        "page": 2,
+        "index": 5,
+        "path": "data\\images\\RBG 200_page2_img5.jpeg"
+      },
+      {
+        "filename": "RBG 200_page2_img6.jpeg",
+        "page": 2,
+        "index": 6,
+        "path": "data\\images\\RBG 200_page2_img6.jpeg"
+      },
+      {
+        "filename": "RBG 200_page2_img7.jpeg",
+        "page": 2,
+        "index": 7,
+        "path": "data\\images\\RBG 200_page2_img7.jpeg"
+      },
+      {
+        "filename": "RBG 200_page2_img8.jpeg",
+        "page": 2,
+        "index": 8,
+        "path": "data\\images\\RBG 200_page2_img8.jpeg"
+      },
+      {
+        "filename": "RBG 200_page3_img1.jpeg",
+        "page": 3,
+        "index": 1,
+        "path": "data\\images\\RBG 200_page3_img1.jpeg"
+      },
+      {
+        "filename": "RBG 200_page3_img2.jpeg",
+        "page": 3,
+        "index": 2,
+        "path": "data\\images\\RBG 200_page3_img2.jpeg"
+      },
+      {
+        "filename": "RBG 200_page3_img3.jpeg",
+        "page": 3,
+        "index": 3,
+        "path": "data\\images\\RBG 200_page3_img3.jpeg"
+      },
+      {
+        "filename": "RBG 200_page3_img4.jpeg",
+        "page": 3,
+        "index": 4,
+        "path": "data\\images\\RBG 200_page3_img4.jpeg"
+      },
+      {
+        "filename": "RBG 200_page3_img5.jpeg",
+        "page": 3,
+        "index": 5,
+        "path": "data\\images\\RBG 200_page3_img5.jpeg"
+      },
+      {
+        "filename": "RBG 200_page4_img1.jpeg",
+        "page": 4,
+        "index": 1,
+        "path": "data\\images\\RBG 200_page4_img1.jpeg"
+      },
+      {
+        "filename": "RBG 200_page4_img2.jpeg",
+        "page": 4,
+        "index": 2,
+        "path": "data\\images\\RBG 200_page4_img2.jpeg"
+      },
+      {
+        "filename": "RBG 200_page4_img3.jpeg",
+        "page": 4,
+        "index": 3,
+        "path": "data\\images\\RBG 200_page4_img3.jpeg"
+      },
+      {
+        "filename": "RBG 200_page4_img4.jpeg",
+        "page": 4,
+        "index": 4,
+        "path": "data\\images\\RBG 200_page4_img4.jpeg"
+      },
+      {
+        "filename": "RBG 200_page4_img5.jpeg",
+        "page": 4,
+        "index": 5,
+        "path": "data\\images\\RBG 200_page4_img5.jpeg"
+      },
+      {
+        "filename": "RBG 200_page4_img6.jpeg",
+        "page": 4,
+        "index": 6,
+        "path": "data\\images\\RBG 200_page4_img6.jpeg"
+      },
+      {
+        "filename": "RBG 200_page4_img7.jpeg",
+        "page": 4,
+        "index": 7,
+        "path": "data\\images\\RBG 200_page4_img7.jpeg"
+      },
+      {
+        "filename": "RBG 200_page5_img1.jpeg",
+        "page": 5,
+        "index": 1,
+        "path": "data\\images\\RBG 200_page5_img1.jpeg"
+      },
+      {
+        "filename": "RBG 200_page5_img2.jpeg",
+        "page": 5,
+        "index": 2,
+        "path": "data\\images\\RBG 200_page5_img2.jpeg"
+      },
+      {
+        "filename": "RBG 200_page5_img3.jpeg",
+        "page": 5,
+        "index": 3,
+        "path": "data\\images\\RBG 200_page5_img3.jpeg"
+      },
+      {
+        "filename": "RBG 200_page6_img1.jpeg",
+        "page": 6,
+        "index": 1,
+        "path": "data\\images\\RBG 200_page6_img1.jpeg"
+      },
+      {
+        "filename": "RBG 200_page6_img2.jpeg",
+        "page": 6,
+        "index": 2,
+        "path": "data\\images\\RBG 200_page6_img2.jpeg"
+      },
+      {
+        "filename": "RBG 200_page6_img3.jpeg",
+        "page": 6,
+        "index": 3,
+        "path": "data\\images\\RBG 200_page6_img3.jpeg"
+      },
+      {
+        "filename": "RBG 200_page7_img1.png",
+        "page": 7,
+        "index": 1,
+        "path": "data\\images\\RBG 200_page7_img1.png"
+      }
+    ]
+  },
+  "RECIBOS.pdf": {
+    "total_images": 4,
+    "images": [
+      {
+        "filename": "RECIBOS_page1_img1.jpeg",
+        "page": 1,
+        "index": 1,
+        "path": "data\\images\\RECIBOS_page1_img1.jpeg"
+      },
+      {
+        "filename": "RECIBOS_page1_img2.jpeg",
+        "page": 1,
+        "index": 2,
+        "path": "data\\images\\RECIBOS_page1_img2.jpeg"
+      },
+      {
+        "filename": "RECIBOS_page1_img3.jpeg",
+        "page": 1,
+        "index": 3,
+        "path": "data\\images\\RECIBOS_page1_img3.jpeg"
+      },
+      {
+        "filename": "RECIBOS_page1_img4.jpeg",
+        "page": 1,
+        "index": 4,
+        "path": "data\\images\\RECIBOS_page1_img4.jpeg"
+      }
+    ]
+  },
+  "Repuestos.pdf": {
+    "total_images": 0,
+    "images": []
+  },
+  "S100.pdf": {
+    "total_images": 47,
+    "images": [
+      {
+        "filename": "S100_page1_img1.jpeg",
+        "page": 1,
+        "index": 1,
+        "path": "data\\images\\S100_page1_img1.jpeg"
+      },
+      {
+        "filename": "S100_page1_img2.jpeg",
+        "page": 1,
+        "index": 2,
+        "path": "data\\images\\S100_page1_img2.jpeg"
+      },
+      {
+        "filename": "S100_page1_img3.jpeg",
+        "page": 1,
+        "index": 3,
+        "path": "data\\images\\S100_page1_img3.jpeg"
+      },
+      {
+        "filename": "S100_page1_img4.jpeg",
+        "page": 1,
+        "index": 4,
+        "path": "data\\images\\S100_page1_img4.jpeg"
+      },
+      {
+        "filename": "S100_page1_img5.jpeg",
+        "page": 1,
+        "index": 5,
+        "path": "data\\images\\S100_page1_img5.jpeg"
+      },
+      {
+        "filename": "S100_page1_img6.jpeg",
+        "page": 1,
+        "index": 6,
+        "path": "data\\images\\S100_page1_img6.jpeg"
+      },
+      {
+        "filename": "S100_page1_img7.jpeg",
+        "page": 1,
+        "index": 7,
+        "path": "data\\images\\S100_page1_img7.jpeg"
+      },
+      {
+        "filename": "S100_page1_img8.jpeg",
+        "page": 1,
+        "index": 8,
+        "path": "data\\images\\S100_page1_img8.jpeg"
+      },
+      {
+        "filename": "S100_page1_img9.jpeg",
+        "page": 1,
+        "index": 9,
+        "path": "data\\images\\S100_page1_img9.jpeg"
+      },
+      {
+        "filename": "S100_page1_img10.jpeg",
+        "page": 1,
+        "index": 10,
+        "path": "data\\images\\S100_page1_img10.jpeg"
+      },
+      {
+        "filename": "S100_page1_img11.jpeg",
+        "page": 1,
+        "index": 11,
+        "path": "data\\images\\S100_page1_img11.jpeg"
+      },
+      {
+        "filename": "S100_page1_img12.jpeg",
+        "page": 1,
+        "index": 12,
+        "path": "data\\images\\S100_page1_img12.jpeg"
+      },
+      {
+        "filename": "S100_page1_img13.jpeg",
+        "page": 1,
+        "index": 13,
+        "path": "data\\images\\S100_page1_img13.jpeg"
+      },
+      {
+        "filename": "S100_page1_img14.jpeg",
+        "page": 1,
+        "index": 14,
+        "path": "data\\images\\S100_page1_img14.jpeg"
+      },
+      {
+        "filename": "S100_page1_img15.jpeg",
+        "page": 1,
+        "index": 15,
+        "path": "data\\images\\S100_page1_img15.jpeg"
+      },
+      {
+        "filename": "S100_page1_img16.jpeg",
+        "page": 1,
+        "index": 16,
+        "path": "data\\images\\S100_page1_img16.jpeg"
+      },
+      {
+        "filename": "S100_page1_img17.jpeg",
+        "page": 1,
+        "index": 17,
+        "path": "data\\images\\S100_page1_img17.jpeg"
+      },
+      {
+        "filename": "S100_page1_img18.jpeg",
+        "page": 1,
+        "index": 18,
+        "path": "data\\images\\S100_page1_img18.jpeg"
+      },
+      {
+        "filename": "S100_page1_img19.jpeg",
+        "page": 1,
+        "index": 19,
+        "path": "data\\images\\S100_page1_img19.jpeg"
+      },
+      {
+        "filename": "S100_page1_img20.jpeg",
+        "page": 1,
+        "index": 20,
+        "path": "data\\images\\S100_page1_img20.jpeg"
+      },
+      {
+        "filename": "S100_page1_img21.jpeg",
+        "page": 1,
+        "index": 21,
+        "path": "data\\images\\S100_page1_img21.jpeg"
+      },
+      {
+        "filename": "S100_page1_img22.jpeg",
+        "page": 1,
+        "index": 22,
+        "path": "data\\images\\S100_page1_img22.jpeg"
+      },
+      {
+        "filename": "S100_page1_img23.jpeg",
+        "page": 1,
+        "index": 23,
+        "path": "data\\images\\S100_page1_img23.jpeg"
+      },
+      {
+        "filename": "S100_page1_img24.jpeg",
+        "page": 1,
+        "index": 24,
+        "path": "data\\images\\S100_page1_img24.jpeg"
+      },
+      {
+        "filename": "S100_page1_img25.jpeg",
+        "page": 1,
+        "index": 25,
+        "path": "data\\images\\S100_page1_img25.jpeg"
+      },
+      {
+        "filename": "S100_page1_img26.jpeg",
+        "page": 1,
+        "index": 26,
+        "path": "data\\images\\S100_page1_img26.jpeg"
+      },
+      {
+        "filename": "S100_page1_img27.jpeg",
+        "page": 1,
+        "index": 27,
+        "path": "data\\images\\S100_page1_img27.jpeg"
+      },
+      {
+        "filename": "S100_page1_img28.jpeg",
+        "page": 1,
+        "index": 28,
+        "path": "data\\images\\S100_page1_img28.jpeg"
+      },
+      {
+        "filename": "S100_page1_img29.jpeg",
+        "page": 1,
+        "index": 29,
+        "path": "data\\images\\S100_page1_img29.jpeg"
+      },
+      {
+        "filename": "S100_page1_img30.jpeg",
+        "page": 1,
+        "index": 30,
+        "path": "data\\images\\S100_page1_img30.jpeg"
+      },
+      {
+        "filename": "S100_page1_img31.jpeg",
+        "page": 1,
+        "index": 31,
+        "path": "data\\images\\S100_page1_img31.jpeg"
+      },
+      {
+        "filename": "S100_page1_img32.jpeg",
+        "page": 1,
+        "index": 32,
+        "path": "data\\images\\S100_page1_img32.jpeg"
+      },
+      {
+        "filename": "S100_page1_img33.jpeg",
+        "page": 1,
+        "index": 33,
+        "path": "data\\images\\S100_page1_img33.jpeg"
+      },
+      {
+        "filename": "S100_page2_img1.jpeg",
+        "page": 2,
+        "index": 1,
+        "path": "data\\images\\S100_page2_img1.jpeg"
+      },
+      {
+        "filename": "S100_page2_img2.jpeg",
+        "page": 2,
+        "index": 2,
+        "path": "data\\images\\S100_page2_img2.jpeg"
+      },
+      {
+        "filename": "S100_page2_img3.jpeg",
+        "page": 2,
+        "index": 3,
+        "path": "data\\images\\S100_page2_img3.jpeg"
+      },
+      {
+        "filename": "S100_page3_img1.jpeg",
+        "page": 3,
+        "index": 1,
+        "path": "data\\images\\S100_page3_img1.jpeg"
+      },
+      {
+        "filename": "S100_page3_img2.jpeg",
+        "page": 3,
+        "index": 2,
+        "path": "data\\images\\S100_page3_img2.jpeg"
+      },
+      {
+        "filename": "S100_page3_img3.jpeg",
+        "page": 3,
+        "index": 3,
+        "path": "data\\images\\S100_page3_img3.jpeg"
+      },
+      {
+        "filename": "S100_page3_img4.jpeg",
+        "page": 3,
+        "index": 4,
+        "path": "data\\images\\S100_page3_img4.jpeg"
+      },
+      {
+        "filename": "S100_page3_img5.jpeg",
+        "page": 3,
+        "index": 5,
+        "path": "data\\images\\S100_page3_img5.jpeg"
+      },
+      {
+        "filename": "S100_page3_img6.jpeg",
+        "page": 3,
+        "index": 6,
+        "path": "data\\images\\S100_page3_img6.jpeg"
+      },
+      {
+        "filename": "S100_page3_img7.jpeg",
+        "page": 3,
+        "index": 7,
+        "path": "data\\images\\S100_page3_img7.jpeg"
+      },
+      {
+        "filename": "S100_page3_img8.jpeg",
+        "page": 3,
+        "index": 8,
+        "path": "data\\images\\S100_page3_img8.jpeg"
+      },
+      {
+        "filename": "S100_page3_img9.jpeg",
+        "page": 3,
+        "index": 9,
+        "path": "data\\images\\S100_page3_img9.jpeg"
+      },
+      {
+        "filename": "S100_page3_img10.jpeg",
+        "page": 3,
+        "index": 10,
+        "path": "data\\images\\S100_page3_img10.jpeg"
+      },
+      {
+        "filename": "S100_page3_img11.jpeg",
+        "page": 3,
+        "index": 11,
+        "path": "data\\images\\S100_page3_img11.jpeg"
+      }
+    ]
+  },
+  "VARIOS.pdf": {
+    "total_images": 38,
+    "images": [
+      {
+        "filename": "VARIOS_page1_img1.jpeg",
+        "page": 1,
+        "index": 1,
+        "path": "data\\images\\VARIOS_page1_img1.jpeg"
+      },
+      {
+        "filename": "VARIOS_page1_img2.jpeg",
+        "page": 1,
+        "index": 2,
+        "path": "data\\images\\VARIOS_page1_img2.jpeg"
+      },
+      {
+        "filename": "VARIOS_page1_img3.jpeg",
+        "page": 1,
+        "index": 3,
+        "path": "data\\images\\VARIOS_page1_img3.jpeg"
+      },
+      {
+        "filename": "VARIOS_page1_img4.jpeg",
+        "page": 1,
+        "index": 4,
+        "path": "data\\images\\VARIOS_page1_img4.jpeg"
+      },
+      {
+        "filename": "VARIOS_page1_img5.jpeg",
+        "page": 1,
+        "index": 5,
+        "path": "data\\images\\VARIOS_page1_img5.jpeg"
+      },
+      {
+        "filename": "VARIOS_page1_img6.jpeg",
+        "page": 1,
+        "index": 6,
+        "path": "data\\images\\VARIOS_page1_img6.jpeg"
+      },
+      {
+        "filename": "VARIOS_page1_img7.jpeg",
+        "page": 1,
+        "index": 7,
+        "path": "data\\images\\VARIOS_page1_img7.jpeg"
+      },
+      {
+        "filename": "VARIOS_page1_img8.jpeg",
+        "page": 1,
+        "index": 8,
+        "path": "data\\images\\VARIOS_page1_img8.jpeg"
+      },
+      {
+        "filename": "VARIOS_page1_img9.jpeg",
+        "page": 1,
+        "index": 9,
+        "path": "data\\images\\VARIOS_page1_img9.jpeg"
+      },
+      {
+        "filename": "VARIOS_page1_img10.jpeg",
+        "page": 1,
+        "index": 10,
+        "path": "data\\images\\VARIOS_page1_img10.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img1.jpeg",
+        "page": 2,
+        "index": 1,
+        "path": "data\\images\\VARIOS_page2_img1.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img2.jpeg",
+        "page": 2,
+        "index": 2,
+        "path": "data\\images\\VARIOS_page2_img2.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img3.jpeg",
+        "page": 2,
+        "index": 3,
+        "path": "data\\images\\VARIOS_page2_img3.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img4.jpeg",
+        "page": 2,
+        "index": 4,
+        "path": "data\\images\\VARIOS_page2_img4.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img5.jpeg",
+        "page": 2,
+        "index": 5,
+        "path": "data\\images\\VARIOS_page2_img5.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img6.jpeg",
+        "page": 2,
+        "index": 6,
+        "path": "data\\images\\VARIOS_page2_img6.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img7.jpeg",
+        "page": 2,
+        "index": 7,
+        "path": "data\\images\\VARIOS_page2_img7.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img8.jpeg",
+        "page": 2,
+        "index": 8,
+        "path": "data\\images\\VARIOS_page2_img8.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img9.jpeg",
+        "page": 2,
+        "index": 9,
+        "path": "data\\images\\VARIOS_page2_img9.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img10.jpeg",
+        "page": 2,
+        "index": 10,
+        "path": "data\\images\\VARIOS_page2_img10.jpeg"
+      },
+      {
+        "filename": "VARIOS_page2_img11.jpeg",
+        "page": 2,
+        "index": 11,
+        "path": "data\\images\\VARIOS_page2_img11.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img1.jpeg",
+        "page": 3,
+        "index": 1,
+        "path": "data\\images\\VARIOS_page3_img1.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img2.jpeg",
+        "page": 3,
+        "index": 2,
+        "path": "data\\images\\VARIOS_page3_img2.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img3.jpeg",
+        "page": 3,
+        "index": 3,
+        "path": "data\\images\\VARIOS_page3_img3.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img4.jpeg",
+        "page": 3,
+        "index": 4,
+        "path": "data\\images\\VARIOS_page3_img4.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img5.jpeg",
+        "page": 3,
+        "index": 5,
+        "path": "data\\images\\VARIOS_page3_img5.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img6.jpeg",
+        "page": 3,
+        "index": 6,
+        "path": "data\\images\\VARIOS_page3_img6.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img7.jpeg",
+        "page": 3,
+        "index": 7,
+        "path": "data\\images\\VARIOS_page3_img7.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img8.jpeg",
+        "page": 3,
+        "index": 8,
+        "path": "data\\images\\VARIOS_page3_img8.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img9.jpeg",
+        "page": 3,
+        "index": 9,
+        "path": "data\\images\\VARIOS_page3_img9.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img10.jpeg",
+        "page": 3,
+        "index": 10,
+        "path": "data\\images\\VARIOS_page3_img10.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img11.jpeg",
+        "page": 3,
+        "index": 11,
+        "path": "data\\images\\VARIOS_page3_img11.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img12.jpeg",
+        "page": 3,
+        "index": 12,
+        "path": "data\\images\\VARIOS_page3_img12.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img13.jpeg",
+        "page": 3,
+        "index": 13,
+        "path": "data\\images\\VARIOS_page3_img13.jpeg"
+      },
+      {
+        "filename": "VARIOS_page3_img14.jpeg",
+        "page": 3,
+        "index": 14,
+        "path": "data\\images\\VARIOS_page3_img14.jpeg"
+      },
+      {
+        "filename": "VARIOS_page4_img1.jpeg",
+        "page": 4,
+        "index": 1,
+        "path": "data\\images\\VARIOS_page4_img1.jpeg"
+      },
+      {
+        "filename": "VARIOS_page4_img2.jpeg",
+        "page": 4,
+        "index": 2,
+        "path": "data\\images\\VARIOS_page4_img2.jpeg"
+      },
+      {
+        "filename": "VARIOS_page4_img3.jpeg",
+        "page": 4,
+        "index": 3,
+        "path": "data\\images\\VARIOS_page4_img3.jpeg"
+      }
+    ]
+  }
+}

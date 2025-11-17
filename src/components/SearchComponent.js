@@ -5,8 +5,10 @@ import {
   ScrollView,
   Alert,
   TouchableOpacity,
+  Modal,
+  Image,
 } from 'react-native';
-// v2.1.0 - Búsqueda automática inteligente
+// v2.1.0 - Búsqueda automática inteligente + Imágenes extraídas
 import {
   Searchbar,
   Card,
@@ -33,6 +35,8 @@ const SearchComponent = () => {
   const [showAdminPanel, setShowAdminPanel] = useState(false);
   const [currentSearchType, setCurrentSearchType] = useState('description'); // Para mostrar al usuario qué tipo de búsqueda se está haciendo
   const [stats, setStats] = useState(null);
+  const [selectedImage, setSelectedImage] = useState(null);
+  const [showImageModal, setShowImageModal] = useState(false);
 
   useEffect(() => {
     // Solo inicializar datos una vez
@@ -292,17 +296,30 @@ const SearchComponent = () => {
                   {item.hasImage && (
                     <TouchableOpacity
                       style={styles.imageButton}
-                      onPress={() => Alert.alert(
-                        '📷 Referencia a Imagen',
-                        `Este repuesto tiene una imagen numerada:\n\n` +
-                        `📄 PDF: ${item.pdfSource}\n` +
-                        `🖼️ Imagen Nº: ${item.imageRef}\n\n` +
-                        `💡 Consejo: Abre el PDF "${item.pdfSource}" y busca la imagen con el número ${item.imageRef}`,
-                        [{ text: 'Entendido', style: 'default' }]
-                      )}
+                      onPress={() => {
+                        if (item.imagePath) {
+                          setSelectedImage({
+                            path: item.imagePath,
+                            code: item.code,
+                            description: item.description,
+                            imageRef: item.imageRef,
+                            pdfSource: item.pdfSource
+                          });
+                          setShowImageModal(true);
+                        } else {
+                          Alert.alert(
+                            '📷 Referencia a Imagen',
+                            `Este repuesto tiene una imagen numerada:\n\n` +
+                            `📄 PDF: ${item.pdfSource}\n` +
+                            `🖼️ Imagen Nº: ${item.imageRef}\n\n` +
+                            `⚠️ Imagen no disponible en este momento`,
+                            [{ text: 'Entendido', style: 'default' }]
+                          );
+                        }
+                      }}
                     >
-                      <Ionicons name="information-circle" size={16} color="#4caf50" />
-                      <Text style={styles.imageButtonText}>Info Imagen</Text>
+                      <Ionicons name={item.imagePath ? "image" : "information-circle"} size={16} color="#4caf50" />
+                      <Text style={styles.imageButtonText}>{item.imagePath ? "Ver Imagen" : "Info Imagen"}</Text>
                     </TouchableOpacity>
                   )}
                 </View>
@@ -331,6 +348,50 @@ const SearchComponent = () => {
           visible={showAdminPanel}
           onDismiss={() => setShowAdminPanel(false)}
         />
+
+        <Modal
+          visible={showImageModal}
+          transparent={true}
+          animationType="fade"
+          onRequestClose={() => setShowImageModal(false)}
+        >
+          <View style={styles.modalOverlay}>
+            <View style={styles.modalContent}>
+              <View style={styles.modalHeader}>
+                <View style={styles.modalHeaderText}>
+                  <Text style={styles.modalTitle}>{selectedImage?.code}</Text>
+                  <Text style={styles.modalSubtitle} numberOfLines={2}>
+                    {selectedImage?.description}
+                  </Text>
+                </View>
+                <TouchableOpacity
+                  style={styles.closeButton}
+                  onPress={() => setShowImageModal(false)}
+                >
+                  <Ionicons name="close" size={28} color="#333" />
+                </TouchableOpacity>
+              </View>
+              
+              {selectedImage?.path && (
+                <ScrollView 
+                  style={styles.imageScrollView}
+                  contentContainerStyle={styles.imageScrollContent}
+                >
+                  <Image
+                    source={{ uri: selectedImage.path }}
+                    style={styles.modalImage}
+                    resizeMode="contain"
+                  />
+                  <View style={styles.imageInfo}>
+                    <Text style={styles.imageInfoText}>
+                      📄 {selectedImage.pdfSource} | 🖼️ Imagen #{selectedImage.imageRef}
+                    </Text>
+                  </View>
+                </ScrollView>
+              )}
+            </View>
+          </View>
+        </Modal>
       </View>
     </PaperProvider>
   );
@@ -578,6 +639,72 @@ const styles = StyleSheet.create({
     marginTop: 8,
     textAlign: 'center',
     color: '#999',
+  },
+  modalOverlay: {
+    flex: 1,
+    backgroundColor: 'rgba(0, 0, 0, 0.9)',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  modalContent: {
+    width: '95%',
+    maxWidth: 800,
+    height: '90%',
+    backgroundColor: '#fff',
+    borderRadius: 12,
+    overflow: 'hidden',
+  },
+  modalHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',
+    padding: 16,
+    backgroundColor: '#6200ee',
+  },
+  modalHeaderText: {
+    flex: 1,
+    marginRight: 12,
+  },
+  modalTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    color: '#fff',
+    marginBottom: 4,
+  },
+  modalSubtitle: {
+    fontSize: 14,
+    color: '#fff',
+    opacity: 0.9,
+  },
+  closeButton: {
+    padding: 4,
+    backgroundColor: 'rgba(255, 255, 255, 0.2)',
+    borderRadius: 20,
+  },
+  imageScrollView: {
+    flex: 1,
+  },
+  imageScrollContent: {
+    flexGrow: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: 16,
+  },
+  modalImage: {
+    width: '100%',
+    height: 500,
+    maxHeight: '80%',
+  },
+  imageInfo: {
+    marginTop: 16,
+    padding: 12,
+    backgroundColor: '#f5f5f5',
+    borderRadius: 8,
+  },
+  imageInfoText: {
+    fontSize: 13,
+    color: '#666',
+    textAlign: 'center',
   },
 });
 

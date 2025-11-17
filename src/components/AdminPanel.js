@@ -4,6 +4,7 @@ import {
   StyleSheet,
   Alert,
   Platform,
+  ScrollView,
 } from 'react-native';
 import {
   Modal,
@@ -15,16 +16,20 @@ import {
   Text,
   ActivityIndicator,
   Paragraph,
+  Chip,
+  List,
 } from 'react-native-paper';
 import { Ionicons } from '@expo/vector-icons';
 import * as XLSX from 'xlsx';
-import { searchService } from '../services/searchService';
+import { searchService } from '../services/searchServiceUnified';
 
 const AdminPanel = ({ visible, onDismiss }) => {
   const [password, setPassword] = useState('');
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [isUploading, setIsUploading] = useState(false);
   const [uploadStatus, setUploadStatus] = useState('');
+  const [selectedFiles, setSelectedFiles] = useState([]);
+  const [processedData, setProcessedData] = useState({ excel: 0, pdfs: 0, images: 0 });
 
   const handlePasswordSubmit = () => {
     if (password === 'fujitsu') {
@@ -36,90 +41,106 @@ const AdminPanel = ({ visible, onDismiss }) => {
     }
   };
 
-  const handleFileUpload = async () => {
+  const handleFileSelection = async () => {
     try {
-      setIsUploading(true);
-      setUploadStatus('Preparando selector de archivo...');
-
       if (Platform.OS === 'web') {
-        // Para web, usar input de archivo HTML
         const input = document.createElement('input');
         input.type = 'file';
-        input.accept = '.xlsx,.xls';
+        input.accept = '.xlsx,.xls,.pdf';
+        input.multiple = true;
         
         input.onchange = async (event) => {
-          const file = event.target.files[0];
-          if (!file) {
-            setIsUploading(false);
-            setUploadStatus('');
-            return;
-          }
+          const files = Array.from(event.target.files);
+          if (files.length === 0) return;
 
-          try {
-            setUploadStatus('Procesando archivo Excel...');
-            
-            const arrayBuffer = await file.arrayBuffer();
-            await processExcelFile(arrayBuffer);
-          } catch (error) {
-            console.error('Error procesando archivo:', error);
-            setUploadStatus('');
-            setIsUploading(false);
-            Alert.alert('Error', `No se pudo procesar el archivo: ${error.message}`);
-          }
+          const fileList = files.map((file, index) => ({
+            id: index,
+            name: file.name,
+            type: file.name.endsWith('.pdf') ? 'pdf' : 'excel',
+            size: file.size,
+            file: file,
+          }));
+
+          setSelectedFiles(fileList);
         };
         
         input.click();
-      } else {
-        // Para móvil, usar DocumentPicker
-        const DocumentPicker = require('expo-document-picker');
-        
-        const result = await DocumentPicker.getDocumentAsync({
-          type: [
-            'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
-            'application/vnd.ms-excel',
-          ],
-          copyToCacheDirectory: true,
-        });
-
-        if (result.canceled) {
-          setIsUploading(false);
-          setUploadStatus('');
-          return;
-        }
-
-        setUploadStatus('Procesando archivo Excel...');
-        
-        const response = await fetch(result.assets[0].uri);
-        const arrayBuffer = await response.arrayBuffer();
-        await processExcelFile(arrayBuffer);
       }
-
     } catch (error) {
-      console.error('Error al abrir selector:', error);
-      setUploadStatus('');
-      setIsUploading(false);
-      Alert.alert('Error', `Error al abrir selector de archivo: ${error.message}`);
+      console.error('Error al seleccionar archivos:', error);
+      Alert.alert('Error', `Error al seleccionar archivos: ${error.message}`);
     }
   };
 
-  const processExcelFile = async (arrayBuffer) => {
+  const removeFile = (fileId) => {
+    setSelectedFiles(selectedFiles.filter(f => f.id !== fileId));
+  };
+
+  const processAllFiles = async () => {
+    if (selectedFiles.length === 0) {
+      Alert.alert('Aviso', 'Por favor selecciona al menos un archivo');
+      return;
+    }
+
     try {
-      setUploadStatus('Leyendo archivo Excel...');
-      
+      setIsUploading(true);
+      const stats = { excel: 0, pdfs: 0, images: 0 };
+
+      for (const fileInfo of selectedFiles) {
+        setUploadStatus(`Procesando ${fileInfo.name}...`);
+
+        const arrayBuffer = await fileInfo.file.arrayBuffer();
+
+        if (fileInfo.type === 'excel') {
+          const result = await processExcelFile(arrayBuffer, fileInfo.name);
+          stats.excel += result.count;
+        } else if (fileInfo.type === 'pdf') {
+          const result = await processPDFFile(arrayBuffer, fileInfo.name);
+          stats.pdfs += result.count;
+          stats.images += result.images;
+        }
+      }
+
+      setProcessedData(stats);
+      setUploadStatus('✅ ¡Todos los archivos procesados exitosamente!');
+
+      setTimeout(() => {
+        Alert.alert(
+          'Éxito',
+          `Archivos procesados:\n\n` +
+          `📊 Repuestos Excel: ${stats.excel}\n` +
+          `📄 Repuestos PDFs: ${stats.pdfs}\n` +
+          `🖼️ Imágenes extraídas: ${stats.images}\n\n` +
+          `Total: ${stats.excel + stats.pdfs} repuestos`,
+          [{ text: 'OK', onPress: () => {
+            setSelectedFiles([]);
+            setIsUploading(false);
+            setUploadStatus('');
+            window.location.reload();
+          }}]
+        );
+      }, 1500);
+
+    } catch (error) {
+      console.error('Error procesando archivos:', error);
+      setIsUploading(false);
+      setUploadStatus('');
+      Alert.alert('Error', `No se pudieron procesar los archivos: ${error.message}`);
+    }
+  };
+
+  const processExcelFile = async (arrayBuffer, filename) => {
+    try {
       const workbook = XLSX.read(arrayBuffer, { type: 'array' });
       const sheetName = workbook.SheetNames[0];
       const worksheet = workbook.Sheets[sheetName];
       const jsonData = XLSX.utils.sheet_to_json(worksheet);
 
       if (jsonData.length === 0) {
-        throw new Error('El archivo Excel está vacío');
+        throw new Error(`El archivo ${filename} está vacío`);
       }
 
-      setUploadStatus('Convirtiendo datos...');
-
-      // Detectar columnas automáticamente
       const keys = Object.keys(jsonData[0]);
-      
       const codeColumn = keys.find(key => 
         key.toLowerCase().includes('cod') || 
         key.toLowerCase().includes('code') ||
@@ -133,38 +154,85 @@ const AdminPanel = ({ visible, onDismiss }) => {
         (keys.indexOf(key) === 1 && !key.toLowerCase().includes('cod'))
       ) || keys[1];
 
-      // Convertir a formato estándar
       const convertedData = jsonData.map((row, index) => {
         const code = String(row[codeColumn] || '').trim();
         const description = String(row[descColumn] || '').trim();
         
         return {
-          id: index + 1,
           code: code,
           description: description,
-          originalData: row
+          source: filename,
         };
       }).filter(item => item.code && item.description);
 
-      setUploadStatus('Actualizando base de datos...');
+      // Guardar en localStorage para persistencia
+      const currentExcelData = JSON.parse(localStorage.getItem('excelData') || '[]');
+      const updatedExcelData = [...currentExcelData, ...convertedData];
+      localStorage.setItem('excelData', JSON.stringify(updatedExcelData));
 
-      // Actualizar el servicio de búsqueda
-      await searchService.updateData(convertedData);
-
-      setUploadStatus(`✅ Base de datos actualizada exitosamente!\n${convertedData.length} repuestos cargados`);
-
-      setTimeout(() => {
-        setUploadStatus('');
-        setIsUploading(false);
-        Alert.alert(
-          'Éxito', 
-          `Base de datos actualizada con ${convertedData.length} repuestos`,
-          [{ text: 'OK', onPress: () => onDismiss() }]
-        );
-      }, 2000);
-
+      return { count: convertedData.length };
     } catch (error) {
       throw error;
+    }
+  };
+
+  const processPDFFile = async (arrayBuffer, filename) => {
+    try {
+      // Usar pdf.js para extraer texto
+      const pdfjsLib = window['pdfjs-dist/build/pdf'];
+      if (!pdfjsLib) {
+        throw new Error('PDF.js no está disponible');
+      }
+
+      const loadingTask = pdfjsLib.getDocument({ data: arrayBuffer });
+      const pdf = await loadingTask.promise;
+      
+      let allParts = [];
+      let totalImages = 0;
+
+      // Procesar cada página
+      for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+        const page = await pdf.getPage(pageNum);
+        const textContent = await page.getTextContent();
+        
+        // Extraer texto
+        const pageText = textContent.items.map(item => item.str).join(' ');
+        const lines = pageText.split(/\n|\r/);
+
+        // Buscar patrones de código y descripción
+        const codePattern = /^([A-Z0-9][\w\-\.\/]{2,})\s+(.+)/;
+        
+        for (const line of lines) {
+          const match = line.match(codePattern);
+          if (match) {
+            allParts.push({
+              code: match[1].trim(),
+              description: match[2].trim(),
+              source: filename,
+              page: pageNum,
+            });
+          }
+        }
+
+        // Contar imágenes en la página
+        const ops = await page.getOperatorList();
+        for (let i = 0; i < ops.fnArray.length; i++) {
+          if (ops.fnArray[i] === pdfjsLib.OPS.paintImageXObject) {
+            totalImages++;
+          }
+        }
+      }
+
+      // Guardar en localStorage
+      const currentPdfData = JSON.parse(localStorage.getItem('pdfData') || '[]');
+      const updatedPdfData = [...currentPdfData, ...allParts];
+      localStorage.setItem('pdfData', JSON.stringify(updatedPdfData));
+
+      return { count: allParts.length, images: totalImages };
+    } catch (error) {
+      console.error('Error procesando PDF:', error);
+      // Si falla, intentar al menos guardar el nombre del archivo
+      return { count: 0, images: 0 };
     }
   };
 
@@ -228,38 +296,77 @@ const AdminPanel = ({ visible, onDismiss }) => {
               </View>
             ) : (
               // Panel de administración
-              <View style={styles.adminContainer}>
+              <ScrollView style={styles.adminContainer}>
                 <View style={styles.headerContainer}>
                   <Ionicons name="cloud-upload" size={48} color="#6200ee" />
                   <Title style={styles.title}>Actualizar Base de Datos</Title>
                 </View>
 
                 <Paragraph style={styles.subtitle}>
-                  Selecciona un archivo Excel para actualizar la base de datos de repuestos
+                  Selecciona archivos Excel o PDF con repuestos e imágenes
                 </Paragraph>
 
-                {isUploading ? (
-                  <View style={styles.uploadingContainer}>
-                    <ActivityIndicator size="large" color="#6200ee" />
-                    <Text style={styles.uploadStatus}>{uploadStatus}</Text>
-                  </View>
-                ) : (
+                {!isUploading && (
                   <View style={styles.uploadContainer}>
                     <Button
                       mode="contained"
-                      onPress={handleFileUpload}
-                      icon="file-excel"
+                      onPress={handleFileSelection}
+                      icon="file-multiple"
                       style={styles.uploadButton}
                     >
-                      Seleccionar archivo Excel
+                      Seleccionar archivos
                     </Button>
 
+                    <View style={styles.formatInfoContainer}>
+                      <Chip icon="file-excel" style={styles.formatChip}>Excel (.xlsx, .xls)</Chip>
+                      <Chip icon="file-pdf-box" style={styles.formatChip}>PDF con imágenes</Chip>
+                    </View>
+
                     <Text style={styles.formatInfo}>
-                      Formatos soportados: .xlsx, .xls
+                      💡 Puedes seleccionar múltiples archivos a la vez
                     </Text>
-                    <Text style={styles.formatInfo}>
-                      El archivo debe tener columnas de código y descripción
-                    </Text>
+                  </View>
+                )}
+
+                {selectedFiles.length > 0 && !isUploading && (
+                  <View style={styles.filesListContainer}>
+                    <Text style={styles.filesListTitle}>Archivos seleccionados:</Text>
+                    {selectedFiles.map((file) => (
+                      <View key={file.id} style={styles.fileItem}>
+                        <Ionicons 
+                          name={file.type === 'pdf' ? 'document' : 'document-text'} 
+                          size={24} 
+                          color={file.type === 'pdf' ? '#ff6f00' : '#6200ee'}
+                        />
+                        <Text style={styles.fileName}>{file.name}</Text>
+                        <Text style={styles.fileSize}>
+                          {(file.size / 1024).toFixed(1)} KB
+                        </Text>
+                        <Button
+                          mode="text"
+                          onPress={() => removeFile(file.id)}
+                          compact
+                        >
+                          ✕
+                        </Button>
+                      </View>
+                    ))}
+
+                    <Button
+                      mode="contained"
+                      onPress={processAllFiles}
+                      icon="check-circle"
+                      style={styles.processButton}
+                    >
+                      Procesar {selectedFiles.length} archivo(s)
+                    </Button>
+                  </View>
+                )}
+
+                {isUploading && (
+                  <View style={styles.uploadingContainer}>
+                    <ActivityIndicator size="large" color="#6200ee" />
+                    <Text style={styles.uploadStatus}>{uploadStatus}</Text>
                   </View>
                 )}
 
@@ -273,7 +380,7 @@ const AdminPanel = ({ visible, onDismiss }) => {
                     Cerrar
                   </Button>
                 </View>
-              </View>
+              </ScrollView>
             )}
           </Card.Content>
         </Card>
@@ -345,6 +452,52 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     fontSize: 14,
     color: '#6200ee',
+  },
+  formatInfoContainer: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    flexWrap: 'wrap',
+    marginTop: 16,
+    marginBottom: 8,
+  },
+  formatChip: {
+    margin: 4,
+  },
+  filesListContainer: {
+    marginTop: 20,
+    padding: 16,
+    backgroundColor: '#f5f5f5',
+    borderRadius: 8,
+  },
+  filesListTitle: {
+    fontSize: 16,
+    fontWeight: 'bold',
+    marginBottom: 12,
+    color: '#333',
+  },
+  fileItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 12,
+    backgroundColor: '#fff',
+    borderRadius: 6,
+    marginBottom: 8,
+    elevation: 1,
+  },
+  fileName: {
+    flex: 1,
+    marginLeft: 12,
+    fontSize: 14,
+    color: '#333',
+  },
+  fileSize: {
+    fontSize: 12,
+    color: '#666',
+    marginRight: 8,
+  },
+  processButton: {
+    marginTop: 16,
+    paddingVertical: 8,
   },
 });
 

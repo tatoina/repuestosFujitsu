@@ -1,37 +1,69 @@
 import * as XLSX from 'xlsx';
 import { Asset } from 'expo-asset';
 import pdfData from '../data/processed/pdfs-data.json';
+import imagesMapping from '../data/processed/images-mapping.json';
 
 class SearchService {
   constructor() {
     this.excelData = [];
     this.pdfData = [];
+    this.imagesMapping = {};
     this.isDataLoaded = false;
   }
 
   async loadData() {
     try {
-      console.log('Cargando datos Excel y PDFs...');
+      console.log('Cargando datos Excel, PDFs e imágenes...');
       
-      // Cargar datos de Excel
+      // Cargar datos de Excel (JSON estático + localStorage)
       try {
         const repuestosData = require('../data/repuestos.json');
         this.excelData = repuestosData;
         console.log(`✅ Datos Excel cargados: ${this.excelData.length} repuestos`);
+        
+        // Añadir datos cargados por el usuario desde localStorage
+        if (typeof localStorage !== 'undefined') {
+          const userExcelData = JSON.parse(localStorage.getItem('excelData') || '[]');
+          if (userExcelData.length > 0) {
+            this.excelData = [...this.excelData, ...userExcelData];
+            console.log(`✅ + ${userExcelData.length} repuestos de archivos subidos`);
+          }
+        }
       } catch (error) {
         console.log('⚠️ No se pudieron cargar datos Excel');
         this.excelData = [];
       }
 
-      // Cargar datos de PDFs
+      // Cargar datos de PDFs (JSON estático + localStorage)
       try {
         if (pdfData && pdfData.parts) {
           this.pdfData = pdfData.parts;
           console.log(`✅ Datos PDFs cargados: ${this.pdfData.length} repuestos de ${pdfData.totalPDFs} PDFs`);
         }
+        
+        // Añadir PDFs cargados por el usuario desde localStorage
+        if (typeof localStorage !== 'undefined') {
+          const userPdfData = JSON.parse(localStorage.getItem('pdfData') || '[]');
+          if (userPdfData.length > 0) {
+            this.pdfData = [...this.pdfData, ...userPdfData];
+            console.log(`✅ + ${userPdfData.length} repuestos de PDFs subidos`);
+          }
+        }
       } catch (error) {
         console.log('⚠️ No se pudieron cargar datos PDFs');
         this.pdfData = [];
+      }
+
+      // Cargar mapping de imágenes
+      try {
+        if (imagesMapping) {
+          this.imagesMapping = imagesMapping;
+          const totalImages = Object.values(imagesMapping).reduce((sum, pdf) => sum + (pdf.total_images || 0), 0);
+          console.log(`✅ Mapping de imágenes cargado: ${totalImages} imágenes de ${Object.keys(imagesMapping).length} PDFs`);
+        }
+      } catch (error) {
+        console.log('⚠️ No se pudo cargar mapping de imágenes');
+        this.imagesMapping = {};
       }
 
       this.isDataLoaded = true;
@@ -72,16 +104,34 @@ class SearchService {
       } else {
         return item.description && item.description.toLowerCase().includes(queryLower);
       }
-    }).map(item => ({
-      code: item.code,
-      description: item.description,
-      imageRef: item.imageRef,
-      pdfSource: item.source,
-      source: `PDF: ${item.source}`,
-      sourceType: 'pdf',
-      hasImage: !!item.imageRef,
-      rawLine: item.rawLine
-    }));
+    }).map(item => {
+      // Intentar encontrar la imagen correspondiente
+      let imagePath = null;
+      if (item.imageRef && item.source && this.imagesMapping[item.source]) {
+        const pdfImages = this.imagesMapping[item.source].images || [];
+        // Buscar imagen por índice (imageRef puede ser un número)
+        const imageIndex = parseInt(item.imageRef);
+        if (!isNaN(imageIndex) && imageIndex > 0 && imageIndex <= pdfImages.length) {
+          const imageData = pdfImages[imageIndex - 1];
+          if (imageData) {
+            // Convertir ruta Windows a ruta web
+            imagePath = `/images/${imageData.filename}`;
+          }
+        }
+      }
+
+      return {
+        code: item.code,
+        description: item.description,
+        imageRef: item.imageRef,
+        pdfSource: item.source,
+        source: `PDF: ${item.source}`,
+        sourceType: 'pdf',
+        hasImage: !!item.imageRef,
+        imagePath: imagePath,
+        rawLine: item.rawLine
+      };
+    });
 
     // Combinar resultados (PDFs primero si tienen imágenes)
     const pdfWithImages = pdfResults.filter(r => r.hasImage);
