@@ -20,7 +20,7 @@ import {
   IconButton,
 } from 'react-native-paper';
 import { Ionicons } from '@expo/vector-icons';
-import { searchService } from '../services/searchService';
+import { searchService } from '../services/searchServiceUnified';
 import AdminPanel from './AdminPanel';
 import PWAInstallPrompt from './PWAInstallPrompt';
 
@@ -139,7 +139,7 @@ const SearchComponent = () => {
           
           {/* Fecha actual para verificar actualizaciones */}
           <Text style={styles.dateText}>
-            � VERSIÓN V2 LIMPIA - Sin Cache - 3 Nov 2025 - 16:15
+            📚 VERSIÓN V2 + PDFs - Excel + 589 Repuestos PDF - 17 Nov 2025
           </Text>
           
           {/* Indicador de tipo de búsqueda */}
@@ -203,7 +203,11 @@ const SearchComponent = () => {
             <Card key={index} style={styles.resultCard}>
               <Card.Content>
                 <View style={styles.resultHeader}>
-                  <Ionicons name="car" size={20} color="#6200ee" />
+                  <Ionicons 
+                    name={item.sourceType === 'pdf' ? 'document-text' : 'car'} 
+                    size={20} 
+                    color={item.sourceType === 'pdf' ? '#ff6f00' : '#6200ee'} 
+                  />
                   <Title style={styles.resultTitle}>
                     {currentSearchType === 'description' ? item.code : item.description}
                   </Title>
@@ -212,6 +216,33 @@ const SearchComponent = () => {
                 <Paragraph style={styles.resultSubtitle}>
                   {currentSearchType === 'description' ? item.description : item.code}
                 </Paragraph>
+
+                {/* Mostrar fuente y número de imagen si existe */}
+                <View style={styles.sourceInfo}>
+                  <Chip 
+                    icon={() => (
+                      <Ionicons 
+                        name={item.sourceType === 'pdf' ? 'document' : 'document-outline'} 
+                        size={14} 
+                        color={item.sourceType === 'pdf' ? '#ff6f00' : '#6200ee'}
+                      />
+                    )}
+                    style={[styles.sourceChip, item.sourceType === 'pdf' && styles.pdfChip]}
+                    textStyle={styles.chipText}
+                  >
+                    {item.source}
+                  </Chip>
+                  
+                  {item.hasImage && item.imageRef && (
+                    <Chip 
+                      icon={() => <Ionicons name="image" size={14} color="#4caf50" />}
+                      style={styles.imageChip}
+                      textStyle={styles.chipText}
+                    >
+                      Imagen #{item.imageRef}
+                    </Chip>
+                  )}
+                </View>
 
                 <View style={styles.cardActions}>
                   <TouchableOpacity
@@ -223,6 +254,16 @@ const SearchComponent = () => {
                     <Ionicons name="copy" size={16} color="#6200ee" />
                     <Text style={styles.copyButtonText}>Copiar</Text>
                   </TouchableOpacity>
+                  
+                  {item.hasImage && (
+                    <TouchableOpacity
+                      style={styles.imageButton}
+                      onPress={() => Alert.alert('Imagen', `Ver imagen #${item.imageRef} de ${item.pdfSource}`)}
+                    >
+                      <Ionicons name="image-outline" size={16} color="#4caf50" />
+                      <Text style={styles.imageButtonText}>Ver Imagen</Text>
+                    </TouchableOpacity>
+                  )}
                 </View>
               </Card.Content>
             </Card>
@@ -367,6 +408,42 @@ const styles = StyleSheet.create({
   cardActions: {
     flexDirection: 'row',
     justifyContent: 'flex-end',
+    marginTop: 8,
+  },
+  sourceInfo: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    marginTop: 8,
+    marginBottom: 4,
+  },
+  sourceChip: {
+    marginRight: 8,
+    marginBottom: 4,
+    backgroundColor: '#e3f2fd',
+  },
+  pdfChip: {
+    backgroundColor: '#fff3e0',
+  },
+  imageChip: {
+    backgroundColor: '#e8f5e9',
+  },
+  chipText: {
+    fontSize: 11,
+  },
+  imageButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 4,
+    backgroundColor: '#e8f5e9',
+    marginLeft: 8,
+  },
+  imageButtonText: {
+    marginLeft: 4,
+    fontSize: 14,
+    color: '#4caf50',
+    fontWeight: '500',
   },
   copyButton: {
     flexDirection: 'row',

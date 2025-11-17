@@ -1,0 +1,4172 @@
+{
+  "processedDate": "2025-11-17T12:44:00.272Z",
+  "totalParts": 589,
+  "totalPDFs": 10,
+  "parts": [
+    {
+      "code": "0800531794",
+      "description": "CONTROLADOR TALLADEGA",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800531794  CONTROLADOR TALLADEGA"
+    },
+    {
+      "code": "0800341056",
+      "description": "PLACA BASE INTEL Q965 LGA 775 EATX",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800341056  PLACA BASE INTEL Q965 LGA 775 EATX"
+    },
+    {
+      "code": "0800387462",
+      "description": "PROCESADOR INTEL CORE 2 DUO E6400 2.13GHZ LGA 775",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800387462  PROCESADOR INTEL CORE 2 DUO E6400 2.13GHZ LGA 775"
+    },
+    {
+      "code": "0800332832",
+      "description": "MEMORIA 1GB DDR II 800 PC2 6400",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800332832  MEMORIA 1GB DDR II 800 PC2 6400"
+    },
+    {
+      "code": "0800491571",
+      "description": "COOLER PARA CORE 2 DUO AKASA AK‐CCE‐7106HP",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800491571  COOLER PARA CORE 2 DUO AKASA AK‐CCE‐7106HP"
+    },
+    {
+      "code": "0800255176",
+      "description": "FUENTE DE ALIMENTACION",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800255176  FUENTE DE ALIMENTACION"
+    },
+    {
+      "code": "0800476080",
+      "description": "PLACA VGA NVIDIA GEFORCE GT610",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800476080  PLACA VGA NVIDIA GEFORCE GT610"
+    },
+    {
+      "code": "0800457573",
+      "description": "PLACA VGA NVIDIA GEFORCE GT210",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800457573  PLACA VGA NVIDIA GEFORCE GT210"
+    },
+    {
+      "code": "0800389273",
+      "description": "PLACA VGA NVIDIA GEFORCE GT8400 (ZICO E)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800389273  PLACA VGA NVIDIA GEFORCE GT8400 (ZICO E)"
+    },
+    {
+      "code": "0800351044",
+      "description": "USB 2.0 PORT BREAK OUT ASSEMBLY",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800351044  USB 2.0 PORT BREAK OUT ASSEMBLY"
+    },
+    {
+      "code": "0800457181",
+      "description": "CONTROLADOR POCONO",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800457181  CONTROLADOR POCONO"
+    },
+    {
+      "code": "0800457555",
+      "description": "PLACA BASE POCONO I5",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800457555  PLACA BASE POCONO I5"
+    },
+    {
+      "code": "0800383082",
+      "description": "PROCESADOR INTEL I5‐2400 6MB 1333",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800383082  PROCESADOR INTEL I5‐2400 6MB 1333"
+    },
+    {
+      "code": "0800383108",
+      "description": "(X2) MEMORIA 2GB. DDR3 1333",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800383108  (X2) MEMORIA 2GB. DDR3 1333"
+    },
+    {
+      "code": "0800492071",
+      "description": "COOLER PARA I5 EKL‐2019",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800492071  COOLER PARA I5 EKL‐2019"
+    },
+    {
+      "code": "0800255176",
+      "description": "FUENTE DE ALIMENTACION",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800255176  FUENTE DE ALIMENTACION"
+    },
+    {
+      "code": "0800340672",
+      "description": "CABLE INTERNO RESET",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800340672  CABLE INTERNO RESET"
+    },
+    {
+      "code": "0800457573",
+      "description": "PLACA VIDEO PUBLICIDAD G210",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800457573  PLACA VIDEO PUBLICIDAD G210"
+    },
+    {
+      "code": "0800498413",
+      "description": "PLACA AMPLIACION PCIE 4 PUERTOS USB 3.0 (RF)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498413  PLACA AMPLIACION PCIE 4 PUERTOS USB 3.0 (RF)"
+    },
+    {
+      "code": "0800473564",
+      "description": "SSD KINGSTON 120GB",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800473564  SSD KINGSTON 120GB"
+    },
+    {
+      "code": "0800504095",
+      "description": "MINI KIT RF (PLACA VIDEO G710 + ADAPTADOR HDMI/VGA)",
+      "imageRef": "4",
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800504095  MINI KIT RF (PLACA VIDEO G710 + ADAPTADOR HDMI/VGA)"
+    },
+    {
+      "code": "0800351044",
+      "description": "CABLE INTERNO 4 PUERTOS USB 2.0",
+      "imageRef": "4",
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800351044  CABLE INTERNO 4 PUERTOS USB 2.0"
+    },
+    {
+      "code": "0800080186",
+      "description": "DVD‐ROM SATA NEGRO",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800080186  DVD‐ROM SATA NEGRO"
+    },
+    {
+      "code": "0800498379",
+      "description": "KIT RECONOCIMIENTO FACIAL POCONO",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498379  KIT RECONOCIMIENTO FACIAL POCONO"
+    },
+    {
+      "code": "POCONO",
+      "description": "SIN RF  POCONO CON RF",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "POCONO SIN RF  POCONO CON RF"
+    },
+    {
+      "code": "0800469515",
+      "description": "CONTROLADOR Q77 PG FJ IQ5_2.4/CS_Q77/R4/S",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800469515  CONTROLADOR Q77 PG FJ IQ5_2.4/CS_Q77/R4/S"
+    },
+    {
+      "code": "0800446452",
+      "description": "PLACA BASE Q77",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800446452  PLACA BASE Q77"
+    },
+    {
+      "code": "0800446461",
+      "description": "PROCESADOR INTEL I5‐2400 3.10GHZ. 6MB",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800446461  PROCESADOR INTEL I5‐2400 3.10GHZ. 6MB"
+    },
+    {
+      "code": "0800446489",
+      "description": "MEMORIA 2GB.",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800446489  MEMORIA 2GB."
+    },
+    {
+      "code": "0800492071",
+      "description": "COOLER PARA I5 EKL‐2019",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800492071  COOLER PARA I5 EKL‐2019"
+    },
+    {
+      "code": "0800255176",
+      "description": "FUENTE DE ALIMENTACION",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800255176  FUENTE DE ALIMENTACION"
+    },
+    {
+      "code": "0800446504",
+      "description": "CABLE PUERTO PARALELO",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800446504  CABLE PUERTO PARALELO"
+    },
+    {
+      "code": "0800446513",
+      "description": "CABLE BOTON DE ENCENDIDO",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800446513  CABLE BOTON DE ENCENDIDO"
+    },
+    {
+      "code": "0800487880",
+      "description": "CABLE AMPLIACION 4 PUERTOS USB INTERNOS",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800487880  CABLE AMPLIACION 4 PUERTOS USB INTERNOS"
+    },
+    {
+      "code": "0800498422",
+      "description": "PLACA VIDEO NVIDIA GT730 (TRES SALIDAS DE VIDEO) (RF)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498422  PLACA VIDEO NVIDIA GT730 (TRES SALIDAS DE VIDEO) (RF)"
+    },
+    {
+      "code": "0800498253",
+      "description": "PLACA VIDEO NVIDIA GT1030 (DOS SALIDAS DE VIDEO) (RF)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498253  PLACA VIDEO NVIDIA GT1030 (DOS SALIDAS DE VIDEO) (RF)"
+    },
+    {
+      "code": "0800498413",
+      "description": "PLACA AMPLIACION PCIE 4 PUERTOS USB 3.0 (RF)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498413  PLACA AMPLIACION PCIE 4 PUERTOS USB 3.0 (RF)"
+    },
+    {
+      "code": "0800457993",
+      "description": "SSD 128GB INNODISK 3ME4",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800457993  SSD 128GB INNODISK 3ME4"
+    },
+    {
+      "code": "0800448004",
+      "description": "SSD 240GB A400 SATA3",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800448004  SSD 240GB A400 SATA3"
+    },
+    {
+      "code": "0800498244",
+      "description": "KIT RECONOCIMIENTO FACIAL Q77",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498244  KIT RECONOCIMIENTO FACIAL Q77"
+    },
+    {
+      "code": "TARJETA",
+      "description": "GRAFICA GT730",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "TARJETA GRAFICA GT730"
+    },
+    {
+      "code": "TARJETA",
+      "description": "GRAFICA GT1030",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "TARJETA GRAFICA GT1030"
+    },
+    {
+      "code": "0800486694",
+      "description": "KIT CONTROLLER Q170 I5 3.6/Q170",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800486694  KIT CONTROLLER Q170 I5 3.6/Q170"
+    },
+    {
+      "code": "0800498398",
+      "description": "KIT CONTR. I5_Q170/8GB",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498398  KIT CONTR. I5_Q170/8GB"
+    },
+    {
+      "code": "0800489290",
+      "description": "KIT CONTR. I7_4.0/Q170/2R4/256",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800489290  KIT CONTR. I7_4.0/Q170/2R4/256"
+    },
+    {
+      "code": "0800498307",
+      "description": "KIT CONTR. I7_4.0/Q170/2R4/256",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498307  KIT CONTR. I7_4.0/Q170/2R4/256"
+    },
+    {
+      "code": "0800487292",
+      "description": "PLACA BASE Q170H4‐M6",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800487292  PLACA BASE Q170H4‐M6"
+    },
+    {
+      "code": "0800487318",
+      "description": "(X1) MEMORIA 4GB DDR4 2133 (PARA Q170‐I5)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800487318  (X1) MEMORIA 4GB DDR4 2133 (PARA Q170‐I5)"
+    },
+    {
+      "code": "0800506226",
+      "description": "(X2) MEMORIA 4GB DDR4 2666 (PARA Q170‐I7)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800506226  (X2) MEMORIA 4GB DDR4 2666 (PARA Q170‐I7)"
+    },
+    {
+      "code": "0800487309",
+      "description": "PROCESADOR INTEL I5‐6500 (PARA Q170‐I5)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800487309  PROCESADOR INTEL I5‐6500 (PARA Q170‐I5)"
+    },
+    {
+      "code": "0800504497",
+      "description": "PROCESADOR INTEL I7‐6700 (PARA Q170‐I7)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800504497  PROCESADOR INTEL I7‐6700 (PARA Q170‐I7)"
+    },
+    {
+      "code": "0800492071",
+      "description": "COOLER EKL‐2019",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800492071  COOLER EKL‐2019"
+    },
+    {
+      "code": "0800255176",
+      "description": "FUENTE DE ALIMENTACION",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800255176  FUENTE DE ALIMENTACION"
+    },
+    {
+      "code": "0800487880",
+      "description": "CABLE AMPLIACION 4 PUERTOS USB INTERNOS",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800487880  CABLE AMPLIACION 4 PUERTOS USB INTERNOS"
+    },
+    {
+      "code": "0800446513",
+      "description": "CABLE BOTON DE ENCENDIDO",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800446513  CABLE BOTON DE ENCENDIDO"
+    },
+    {
+      "code": "0800487336",
+      "description": "CABLE AMPLIACION 2 PUERTOS SERIE",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800487336  CABLE AMPLIACION 2 PUERTOS SERIE"
+    },
+    {
+      "code": "0800498253",
+      "description": "PLACA VIDEO NVIDIA GEFORCE GT1030 (RF)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498253  PLACA VIDEO NVIDIA GEFORCE GT1030 (RF)"
+    },
+    {
+      "code": "0800498413",
+      "description": "PLACA AMPLIACION PCIE 4 PUERTOS USB 3.0 (RF)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498413  PLACA AMPLIACION PCIE 4 PUERTOS USB 3.0 (RF)"
+    },
+    {
+      "code": "0800457993",
+      "description": "SSD 128GB INNODISK 3ME4 (PARA Q170‐I5)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800457993  SSD 128GB INNODISK 3ME4 (PARA Q170‐I5)"
+    },
+    {
+      "code": "0800504488",
+      "description": "SSD 256GB WD PC SA530 3D (PARA Q170‐I7)",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800504488  SSD 256GB WD PC SA530 3D (PARA Q170‐I7)"
+    },
+    {
+      "code": "0800498280",
+      "description": "KIT RECONOCIMIENTO FACIAL Q170",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498280  KIT RECONOCIMIENTO FACIAL Q170"
+    },
+    {
+      "code": "0800501926",
+      "description": "KIT Q170 I7 MIGRACION NCR",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800501926  KIT Q170 I7 MIGRACION NCR"
+    },
+    {
+      "code": "TARJETA",
+      "description": "GRAFICA GT1030",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "TARJETA GRAFICA GT1030"
+    },
+    {
+      "code": "TARJETA",
+      "description": "GRAFICA GT1030",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "TARJETA GRAFICA GT1030"
+    },
+    {
+      "code": "0800498244",
+      "description": "KIT RECONOCIMIENTO FACIAL Q77",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498244  KIT RECONOCIMIENTO FACIAL Q77"
+    },
+    {
+      "code": "0800498280",
+      "description": "KIT RECONOCIMIENTO FACIAL Q170",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498280  KIT RECONOCIMIENTO FACIAL Q170"
+    },
+    {
+      "code": "0800498379",
+      "description": "KIT RECONOCIMIENTO FACIAL POCONO",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "0800498379  KIT RECONOCIMIENTO FACIAL POCONO"
+    },
+    {
+      "code": "KIT",
+      "description": "RECONOCIMIENTO FACIAL",
+      "imageRef": null,
+      "source": "CONTROLADOR.pdf",
+      "rawLine": "KIT RECONOCIMIENTO FACIAL"
+    },
+    {
+      "code": "0800453210",
+      "description": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRWPG NCR (USB MINI)",
+      "imageRef": null,
+      "source": "CRW.pdf",
+      "rawLine": "0800453210   CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRWPG NCR (USB MINI)"
+    },
+    {
+      "code": "0800451418",
+      "description": "BDU G510 2 DENOMINACIONES",
+      "imageRef": null,
+      "source": "G510.pdf",
+      "rawLine": "0800451418  BDU G510 2 DENOMINACIONES"
+    },
+    {
+      "code": "0800109236",
+      "description": "GALGA AJUSTE ESPESOR T=0,3 (PEDIR A TRAVES DE COORDINADOR)",
+      "imageRef": null,
+      "source": "G510.pdf",
+      "rawLine": "0800109236  GALGA AJUSTE ESPESOR T=0,3 (PEDIR A TRAVES DE COORDINADOR)"
+    },
+    {
+      "code": "PUNT",
+      "description": "GROC V. 221106",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "PUNT GROC V. 221106"
+    },
+    {
+      "code": "PUNT",
+      "description": "GROC V. 221106",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "PUNT GROC V. 221106"
+    },
+    {
+      "code": "PUNT",
+      "description": "GROC V. 221106",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "PUNT GROC V. 221106"
+    },
+    {
+      "code": "0800470460",
+      "description": "CABLE CURSORES – ALFABETICO",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800470460  CABLE CURSORES – ALFABETICO"
+    },
+    {
+      "code": "0800470335",
+      "description": "CABLE NUMERICO – ALFABETICO",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800470335  CABLE NUMERICO – ALFABETICO"
+    },
+    {
+      "code": "PUNT",
+      "description": "GROC V. 221106",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "PUNT GROC V. 221106"
+    },
+    {
+      "code": "PUNT",
+      "description": "GROC V. 221106",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "PUNT GROC V. 221106"
+    },
+    {
+      "code": "PUNT",
+      "description": "GROC V. 221106",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "PUNT GROC V. 221106"
+    },
+    {
+      "code": "0800387408",
+      "description": "JUNTAS ANTI‐AGUA TECLADO NUMERICO",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800387408  JUNTAS ANTI‐AGUA TECLADO NUMERICO"
+    },
+    {
+      "code": "PUNT",
+      "description": "GROC V. 221106",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "PUNT GROC V. 221106"
+    },
+    {
+      "code": "0800470460",
+      "description": "CABLE TECLADO CURSORES A ALFABETICO",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800470460  CABLE TECLADO CURSORES A ALFABETICO"
+    },
+    {
+      "code": "0800470335",
+      "description": "CABLE TECLADO NUMERICO A ALFABETICO",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800470335  CABLE TECLADO NUMERICO A ALFABETICO"
+    },
+    {
+      "code": "0800491027",
+      "description": "CABLE USB 2.0 A‐MACHO / A‐MACHO (PANTALLA TACTIL MONITOR CLIENTE KF)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800491027  CABLE USB 2.0 A‐MACHO / A‐MACHO (PANTALLA TACTIL MONITOR CLIENTE KF)"
+    },
+    {
+      "code": "0800340743",
+      "description": "CABLE USB A – MINI B (NFC / ESCANER PG NCR)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800340743  CABLE USB A – MINI B (NFC / ESCANER PG NCR)"
+    },
+    {
+      "code": "0800475866",
+      "description": "CABLE USB A – MINI B DOBLE (GOP PG FJ A CPU)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800475866  CABLE USB A – MINI B DOBLE (GOP PG FJ A CPU)"
+    },
+    {
+      "code": "0800476801",
+      "description": "CABLE USB A‐A 5 METROS (GBNA / TECLADO A CPU)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800476801  CABLE USB A‐A 5 METROS (GBNA / TECLADO A CPU)"
+    },
+    {
+      "code": "0800258752",
+      "description": "CABLE USB A‐B (RECIBOS / COIN DISPENSER / GOP PG NCR)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800258752  CABLE USB A‐B (RECIBOS / COIN DISPENSER / GOP PG NCR)"
+    },
+    {
+      "code": "0800351008",
+      "description": "CABLE USB A‐B (TARJETAS / RECIBOS)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800351008  CABLE USB A‐B (TARJETAS / RECIBOS)"
+    },
+    {
+      "code": "0800453210",
+      "description": "CABLE USB A‐B (TARJETAS / RECIBOS)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800453210  CABLE USB A‐B (TARJETAS / RECIBOS)"
+    },
+    {
+      "code": "0800453238",
+      "description": "CABLE USB A‐B 1 METRO",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800453238  CABLE USB A‐B 1 METRO"
+    },
+    {
+      "code": "0800312710",
+      "description": "CABLE USB A‐B 3 METROS",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800312710  CABLE USB A‐B 3 METROS"
+    },
+    {
+      "code": "0800386917",
+      "description": "CABLE USB DOBLE PARA TECLADO EPP D2X VER. 6 O SUPERIOR",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800386917  CABLE USB DOBLE PARA TECLADO EPP D2X VER. 6 O SUPERIOR"
+    },
+    {
+      "code": "0800258093",
+      "description": "CABLE VGA MONITORES",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800258093  CABLE VGA MONITORES"
+    },
+    {
+      "code": "0800351366",
+      "description": "CABLE VIDEO DVI‐D / GOP PG NCR",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800351366  CABLE VIDEO DVI‐D / GOP PG NCR"
+    },
+    {
+      "code": "0800453299",
+      "description": "PROLONGADOR USB 2.0 ACTIVO",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800453299  PROLONGADOR USB 2.0 ACTIVO"
+    },
+    {
+      "code": "0800316501",
+      "description": "PROLONGADOR USB M‐H 2 METROS",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800316501  PROLONGADOR USB M‐H 2 METROS"
+    },
+    {
+      "code": "0800035565",
+      "description": "PROLONGADOR VGA M‐H 2 METROS",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800035565  PROLONGADOR VGA M‐H 2 METROS"
+    },
+    {
+      "code": "PUNT",
+      "description": "GROC V. 221106",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "PUNT GROC V. 221106"
+    },
+    {
+      "code": "0800479318",
+      "description": "TECLADOR PRIMOR 3000 (MANTIENE ALARMAS)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800479318  TECLADOR PRIMOR 3000 (MANTIENE ALARMAS)"
+    },
+    {
+      "code": "0800457617",
+      "description": "CERRADURA PRIMOR 3000 (MANTIENE ALARMAS)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800457617  CERRADURA PRIMOR 3000 (MANTIENE ALARMAS)"
+    },
+    {
+      "code": "0800473216",
+      "description": "CONJUNTO PRIMOR 300 COMPLETO (MANTIENE ALARMAS)",
+      "imageRef": null,
+      "source": "PUNT GROC.pdf",
+      "rawLine": "0800473216  CONJUNTO PRIMOR 300 COMPLETO (MANTIENE ALARMAS)"
+    },
+    {
+      "code": "RBG",
+      "description": "200 V. 221014",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "RBG 200 V. 221014"
+    },
+    {
+      "code": "DESPIECE",
+      "description": "ESQUEMATICO",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "DESPIECE ESQUEMATICO"
+    },
+    {
+      "code": "I/F2",
+      "description": "Silent Alarm",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "I/F2 Silent Alarm"
+    },
+    {
+      "code": "Upper",
+      "description": "unit control",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "Upper unit control"
+    },
+    {
+      "code": "Fuente",
+      "description": "de alimentación",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "Fuente de alimentación"
+    },
+    {
+      "code": "Kit",
+      "description": "lan Linux complete",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "Kit lan Linux complete"
+    },
+    {
+      "code": "RBG",
+      "description": "200 V. 221014",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "RBG 200 V. 221014"
+    },
+    {
+      "code": "RBG",
+      "description": "200 V. 221014",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "RBG 200 V. 221014"
+    },
+    {
+      "code": "RBG",
+      "description": "200 V. 221014",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "RBG 200 V. 221014"
+    },
+    {
+      "code": "RBG",
+      "description": "200 V. 221014",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "RBG 200 V. 221014"
+    },
+    {
+      "code": "0800478266",
+      "description": "KIT APERTURA EMERGENCIA POR FALLO EN F.A. PRINCIPAL       RBC034‐I‐JD",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800478266  KIT APERTURA EMERGENCIA POR FALLO EN F.A. PRINCIPAL       RBC034‐I‐JD"
+    },
+    {
+      "code": "RBG",
+      "description": "200 V. 221014",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "RBG 200 V. 221014"
+    },
+    {
+      "code": "0800433778",
+      "description": "INTERLOCK SWITCH MODULO SUPERIOR    4A220039",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800433778  INTERLOCK SWITCH MODULO SUPERIOR    4A220039"
+    },
+    {
+      "code": "0800433769",
+      "description": "INTERLOCK SWITCH MODULO INFERIOR    4A220030",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800433769  INTERLOCK SWITCH MODULO INFERIOR    4A220030"
+    },
+    {
+      "code": "0800433741",
+      "description": "MICROSWITCH CARRO INFERIOR INSERTADO    4A0300040",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800433741  MICROSWITCH CARRO INFERIOR INSERTADO    4A0300040"
+    },
+    {
+      "code": "0800433750",
+      "description": "PUCH‐BUTTON SWITCH (BOTON DE ‘OCUPADO’)",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800433750  PUCH‐BUTTON SWITCH (BOTON DE ‘OCUPADO’)"
+    },
+    {
+      "code": "0800434385",
+      "description": "ETIQUETAS NUMERADAS PARA LOS RSM    LB33S570PZ0",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800434385  ETIQUETAS NUMERADAS PARA LOS RSM    LB33S570PZ0"
+    },
+    {
+      "code": "0800476525",
+      "description": "TARJETA COMPACT FLASH (PEDIR CONTRA CONTRATO)",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800476525  TARJETA COMPACT FLASH (PEDIR CONTRA CONTRATO)"
+    },
+    {
+      "code": "0800478159",
+      "description": "PLACA SECURE BOARD PLUS",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800478159  PLACA SECURE BOARD PLUS"
+    },
+    {
+      "code": "0800443400",
+      "description": "KIT SECURE BOARD PLUS COMPLETO     SBPLUSK1",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800443400  KIT SECURE BOARD PLUS COMPLETO     SBPLUSK1"
+    },
+    {
+      "code": "0800477944",
+      "description": "MIDDLE TRANSPORT (PASO CAJA FUERTE) ‘V’",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800477944  MIDDLE TRANSPORT (PASO CAJA FUERTE) ‘V’"
+    },
+    {
+      "code": "0800498574",
+      "description": "LLAVE CERRADURA TAPA INTERNA EN PUERTA",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800498574  LLAVE CERRADURA TAPA INTERNA EN PUERTA"
+    },
+    {
+      "code": "0800498565",
+      "description": "CERRADURA TAPA INTERNA EN PUERTA",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800498565  CERRADURA TAPA INTERNA EN PUERTA"
+    },
+    {
+      "code": "0800491367",
+      "description": "CAJETIN MANUAL DE LA PUERTA     LB33V3620Z0",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800491367  CAJETIN MANUAL DE LA PUERTA     LB33V3620Z0"
+    },
+    {
+      "code": "0800495755",
+      "description": "ACTUADOR INTERLOCK LOWER DOOR     LB33V360PZ0",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800495755  ACTUADOR INTERLOCK LOWER DOOR     LB33V360PZ0"
+    },
+    {
+      "code": "0800496521",
+      "description": "EMBOCADURA BUZON MANUAL LATERALES    LB33B3630Z0",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800496521  EMBOCADURA BUZON MANUAL LATERALES    LB33B3630Z0"
+    },
+    {
+      "code": "0800496512",
+      "description": "SOPORTE BUZON MANUAL EN LA PUERTA    LB33V361PZ0",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800496512  SOPORTE BUZON MANUAL EN LA PUERTA    LB33V361PZ0"
+    },
+    {
+      "code": "RBG",
+      "description": "200 V. 221014",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "RBG 200 V. 221014"
+    },
+    {
+      "code": "0800444882",
+      "description": "PESTILLO IVOX 4.19.97 + LLAVES NO AMAESTRABLES",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800444882  PESTILLO IVOX 4.19.97 + LLAVES NO AMAESTRABLES"
+    },
+    {
+      "code": "0800447819",
+      "description": "PESTILLO KABA 70040 + LLAVES AMAESTRABLES",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800447819  PESTILLO KABA 70040 + LLAVES AMAESTRABLES"
+    },
+    {
+      "code": "0800478284",
+      "description": "JUEGO 2 LLAVES PARA CERRADURA KABA 70040",
+      "imageRef": null,
+      "source": "RBG 200.pdf",
+      "rawLine": "0800478284  JUEGO 2 LLAVES PARA CERRADURA KABA 70040"
+    },
+    {
+      "code": "CONJUNTO",
+      "description": "CABLES USB+ALIMENTACION T‐RPR & CRWPG NCR (USB MINI)",
+      "imageRef": null,
+      "source": "RECIBOS.pdf",
+      "rawLine": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRWPG NCR (USB MINI)"
+    },
+    {
+      "code": "CONJUNTO",
+      "description": "CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B)",
+      "imageRef": null,
+      "source": "RECIBOS.pdf",
+      "rawLine": "CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B)"
+    },
+    {
+      "code": "0880070812",
+      "description": "CABLE PARALELO CENTRONICS 5M",
+      "imageRef": null,
+      "source": "RECIBOS.pdf",
+      "rawLine": "0880070812  CABLE PARALELO CENTRONICS 5M"
+    },
+    {
+      "code": "0880073285",
+      "description": "CABLE PARALELO CENTRONICS 7M",
+      "imageRef": null,
+      "source": "RECIBOS.pdf",
+      "rawLine": "0880073285  CABLE PARALELO CENTRONICS 7M"
+    },
+    {
+      "code": "0800337132",
+      "description": "A4‐T CLUNCH (EMBRAGUE DEL ROLLO)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800337132  A4‐T CLUNCH (EMBRAGUE DEL ROLLO)"
+    },
+    {
+      "code": "0800330558",
+      "description": "A4‐T FEED UNIT CON BOUNCHER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800330558  A4‐T FEED UNIT CON BOUNCHER"
+    },
+    {
+      "code": "0800178410",
+      "description": "A4‐T FEED UNIT SIN BOUNCHER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800178410  A4‐T FEED UNIT SIN BOUNCHER"
+    },
+    {
+      "code": "0800248381",
+      "description": "A4‐T IMPRESORA COMPLETA A4‐T",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800248381  A4‐T IMPRESORA COMPLETA A4‐T"
+    },
+    {
+      "code": "0800258137",
+      "description": "A4‐T PLACA HLM12 (DISPLAY)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800258137  A4‐T PLACA HLM12 (DISPLAY)"
+    },
+    {
+      "code": "0800258128",
+      "description": "A4‐T PLACA HLM20 (PRINCIPAL)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800258128  A4‐T PLACA HLM20 (PRINCIPAL)"
+    },
+    {
+      "code": "0800337123",
+      "description": "A4‐T THERMAL HEAD",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800337123  A4‐T THERMAL HEAD"
+    },
+    {
+      "code": "0800351963",
+      "description": "BILLETES NCR AIR FILTER (FILTRO AIRE)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351963  BILLETES NCR AIR FILTER (FILTRO AIRE)"
+    },
+    {
+      "code": "0800318714",
+      "description": "BILLETES NCR CABLEADO. CODIGO UNICO (VER BTM BILL013‐I‐CM)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318714  BILLETES NCR CABLEADO. CODIGO UNICO (VER BTM BILL013‐I‐CM)"
+    },
+    {
+      "code": "0800463575",
+      "description": "BILLETES NCR CAJETIN DE RECHAZOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800463575  BILLETES NCR CAJETIN DE RECHAZOS"
+    },
+    {
+      "code": "0800341092",
+      "description": "BILLETES NCR CAJETIN GENERICO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800341092  BILLETES NCR CAJETIN GENERICO"
+    },
+    {
+      "code": "0800458661",
+      "description": "BILLETES NCR CAJETIN RETRABAJADO 10# TIPO 3",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800458661  BILLETES NCR CAJETIN RETRABAJADO 10# TIPO 3"
+    },
+    {
+      "code": "0800346532",
+      "description": "BILLETES NCR CAJETIN RETRABAJADO 100€ TIPO 5",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800346532  BILLETES NCR CAJETIN RETRABAJADO 100€ TIPO 5"
+    },
+    {
+      "code": "0800250661",
+      "description": "BILLETES NCR CAJETIN RETRABAJADO 20€ TIPO 1",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800250661  BILLETES NCR CAJETIN RETRABAJADO 20€ TIPO 1"
+    },
+    {
+      "code": "0800250652",
+      "description": "BILLETES NCR CAJETIN RETRABAJADO 50€ TIPO 2",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800250652  BILLETES NCR CAJETIN RETRABAJADO 50€ TIPO 2"
+    },
+    {
+      "code": "0800222050",
+      "description": "BILLETES NCR CIERRE DE PLASTICOPARA CAJETIN DE BILLETES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800222050  BILLETES NCR CIERRE DE PLASTICOPARA CAJETIN DE BILLETES"
+    },
+    {
+      "code": "0800351972",
+      "description": "BILLETES NCR CONECTOR ‘T’",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351972  BILLETES NCR CONECTOR ‘T’"
+    },
+    {
+      "code": "0800364995",
+      "description": "BILLETES NCR CONJUNTO COMPLETO PICK LINE (X2)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800364995  BILLETES NCR CONJUNTO COMPLETO PICK LINE (X2)"
+    },
+    {
+      "code": "0800446340",
+      "description": "BILLETES NCR CONJUNTO PIÑONES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446340  BILLETES NCR CONJUNTO PIÑONES"
+    },
+    {
+      "code": "0800422575",
+      "description": "BILLETES NCR CORREA DENTADA LOWER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800422575  BILLETES NCR CORREA DENTADA LOWER"
+    },
+    {
+      "code": "0800352007",
+      "description": "BILLETES NCR CUP VACUUM (VENTOSA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800352007  BILLETES NCR CUP VACUUM (VENTOSA)"
+    },
+    {
+      "code": "0800477748",
+      "description": "BILLETES NCR DRIVE SEGMENT ASSY (BRAZO ACTUADOR DEL CLUSTER DRIVE ASSEMBLY)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800477748  BILLETES NCR DRIVE SEGMENT ASSY (BRAZO ACTUADOR DEL CLUSTER DRIVE ASSEMBLY)"
+    },
+    {
+      "code": "0800276091",
+      "description": "BILLETES NCR EJE DE PICK (PIC LINE)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800276091  BILLETES NCR EJE DE PICK (PIC LINE)"
+    },
+    {
+      "code": "0800351954",
+      "description": "BILLETES NCR LOWER UNIT 1‐2",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351954  BILLETES NCR LOWER UNIT 1‐2"
+    },
+    {
+      "code": "0800352016",
+      "description": "BILLETES NCR LOWER UNIT 3",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800352016  BILLETES NCR LOWER UNIT 3"
+    },
+    {
+      "code": "0800351945",
+      "description": "BILLETES NCR MOTOR ALTERNA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351945  BILLETES NCR MOTOR ALTERNA"
+    },
+    {
+      "code": "0800318144",
+      "description": "BILLETES NCR MOTOR SHUTTER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318144  BILLETES NCR MOTOR SHUTTER"
+    },
+    {
+      "code": "0800470889",
+      "description": "BILLETES NCR MOTOR STEPPER 3.6 (MOTOR CLAMP)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800470889  BILLETES NCR MOTOR STEPPER 3.6 (MOTOR CLAMP)"
+    },
+    {
+      "code": "0800368418",
+      "description": "BILLETES NCR MUELLE PARA PIEZA ANCLAJE CAJETIN DE RECHAZOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800368418  BILLETES NCR MUELLE PARA PIEZA ANCLAJE CAJETIN DE RECHAZOS"
+    },
+    {
+      "code": "0800390305",
+      "description": "BILLETES NCR MUELLE PARA PIEZA VERDE ANCLAJE CAJETINES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800390305  BILLETES NCR MUELLE PARA PIEZA VERDE ANCLAJE CAJETINES"
+    },
+    {
+      "code": "0800364968",
+      "description": "BILLETES NCR PIEZA VERDE ANCLAJE CAJETIN DE RECHAZOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800364968  BILLETES NCR PIEZA VERDE ANCLAJE CAJETIN DE RECHAZOS"
+    },
+    {
+      "code": "0800365002",
+      "description": "BILLETES NCR PIEZA VERDE ANCLAJE DE CAJETIN",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800365002  BILLETES NCR PIEZA VERDE ANCLAJE DE CAJETIN"
+    },
+    {
+      "code": "0800341154",
+      "description": "BILLETES NCR PLACA CONTROL S1 DISPENSE BOARD",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800341154  BILLETES NCR PLACA CONTROL S1 DISPENSE BOARD"
+    },
+    {
+      "code": "0800464057",
+      "description": "BILLETES NCR PLACA CONTROL S1 DISPENSER BOARD –NEW (AS4450751703G)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800464057  BILLETES NCR PLACA CONTROL S1 DISPENSER BOARD –NEW (AS4450751703G)"
+    },
+    {
+      "code": "0800350802",
+      "description": "BILLETES NCR PLACA DOUBLE PICK I/F",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800350802  BILLETES NCR PLACA DOUBLE PICK I/F"
+    },
+    {
+      "code": "0800318144",
+      "description": "BILLETES NCR PLACA SHUTTER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318144  BILLETES NCR PLACA SHUTTER"
+    },
+    {
+      "code": "0800350811",
+      "description": "BILLETES NCR PLACA SINGLE PICK I/F",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800350811  BILLETES NCR PLACA SINGLE PICK I/F"
+    },
+    {
+      "code": "0800341190",
+      "description": "BILLETES NCR PRESENTER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800341190  BILLETES NCR PRESENTER"
+    },
+    {
+      "code": "0800477347",
+      "description": "BILLETES NCR REMACHES CORTOS X 10 PARA SENSORES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800477347  BILLETES NCR REMACHES CORTOS X 10 PARA SENSORES"
+    },
+    {
+      "code": "0800477338",
+      "description": "BILLETES NCR REMACHES LARGOS X 10 PARA PLACAS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800477338  BILLETES NCR REMACHES LARGOS X 10 PARA PLACAS"
+    },
+    {
+      "code": "0800465957",
+      "description": "BILLETES NCR RUEDA DENTADA NUMERADA SINCRONIZACION",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800465957  BILLETES NCR RUEDA DENTADA NUMERADA SINCRONIZACION"
+    },
+    {
+      "code": "0800335909",
+      "description": "BILLETES NCR RUEDA VERDE GRANDE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800335909  BILLETES NCR RUEDA VERDE GRANDE"
+    },
+    {
+      "code": "0800422539",
+      "description": "BILLETES NCR SENSOR ASSY LVDT",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800422539  BILLETES NCR SENSOR ASSY LVDT"
+    },
+    {
+      "code": "0800442189",
+      "description": "BILLETES NCR SHUTTER  (COMPATIBLE TODOS LOS MODELOS)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800442189  BILLETES NCR SHUTTER  (COMPATIBLE TODOS LOS MODELOS)"
+    },
+    {
+      "code": "0800416109",
+      "description": "BILLETES NCR SHUTTER (COMPATIBLE MODEL C, D, E)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800416109  BILLETES NCR SHUTTER (COMPATIBLE MODEL C, D, E)"
+    },
+    {
+      "code": "0800318180",
+      "description": "BILLETES NCR SHUTTER (COMPATIBLE MODELO C)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318180  BILLETES NCR SHUTTER (COMPATIBLE MODELO C)"
+    },
+    {
+      "code": "0800454139",
+      "description": "BILLETES NCR SOLENOID PICK VALVE (ELECTROVALVULA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800454139  BILLETES NCR SOLENOID PICK VALVE (ELECTROVALVULA)"
+    },
+    {
+      "code": "0800439567",
+      "description": "BILLETES NCR SWITCH DETECCION CAJETIN DE RECHAZOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800439567  BILLETES NCR SWITCH DETECCION CAJETIN DE RECHAZOS"
+    },
+    {
+      "code": "0800470317",
+      "description": "BILLETES NCR TUBO VACIO 1 M (AZUL)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800470317  BILLETES NCR TUBO VACIO 1 M (AZUL)"
+    },
+    {
+      "code": "0800318162",
+      "description": "BILLETES NCR UNIDAD BILLETES COMPLETA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318162  BILLETES NCR UNIDAD BILLETES COMPLETA"
+    },
+    {
+      "code": "0800395033",
+      "description": "BILLETES NCR VACUUM RESERVOIR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800395033  BILLETES NCR VACUUM RESERVOIR"
+    },
+    {
+      "code": "0800458536",
+      "description": "BK‐T080II    CORTADORA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800458536  BK‐T080II    CORTADORA"
+    },
+    {
+      "code": "0800458545",
+      "description": "BK‐T080II    PALANCA VERDE CIERRE CORTADORA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800458545  BK‐T080II    PALANCA VERDE CIERRE CORTADORA"
+    },
+    {
+      "code": "0800448245",
+      "description": "BK‐T080II    THERMAL SINGLE ROLL RPR BK‐T080II",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800448245  BK‐T080II    THERMAL SINGLE ROLL RPR BK‐T080II"
+    },
+    {
+      "code": "0800499421",
+      "description": "BK‐T080II    TOPE VERDE FIJACION ROLLO DE RECIBOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800499421  BK‐T080II    TOPE VERDE FIJACION ROLLO DE RECIBOS"
+    },
+    {
+      "code": "0800475189",
+      "description": "CABINET    ANCLAJE 44N CON SWITCH",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800475189  CABINET    ANCLAJE 44N CON SWITCH"
+    },
+    {
+      "code": "0800361159",
+      "description": "CABINET ANCLAJE GOP",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800361159  CABINET ANCLAJE GOP"
+    },
+    {
+      "code": "0800374500",
+      "description": "CABINET ARO DE LUZ",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800374500  CABINET ARO DE LUZ"
+    },
+    {
+      "code": "0800491063",
+      "description": "CABINET    BLOQUEO ENTRADA TARJETAS PG FJ",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800491063  CABINET    BLOQUEO ENTRADA TARJETAS PG FJ"
+    },
+    {
+      "code": "0800318171",
+      "description": "CABINET    BLOQUEO ENTRADA TARJETAS PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318171  CABINET    BLOQUEO ENTRADA TARJETAS PG NCR"
+    },
+    {
+      "code": "0800469837",
+      "description": "CABINET    BLOQUEO ENTRADA TARJETAS S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800469837  CABINET    BLOQUEO ENTRADA TARJETAS S100"
+    },
+    {
+      "code": "0800436445",
+      "description": "CABINET    CAMARA USB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800436445  CABINET    CAMARA USB"
+    },
+    {
+      "code": "0800182370",
+      "description": "CABINET    CERRADURA + 3 LLAVES PUERTA SUPERIOR TRASERA (ALTERNATIVO 0800475241)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800182370  CABINET    CERRADURA + 3 LLAVES PUERTA SUPERIOR TRASERA (ALTERNATIVO 0800475241)"
+    },
+    {
+      "code": "0800182370",
+      "description": "CABINET    CERRADURA + TRES LLAVES PUERTA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800182370  CABINET    CERRADURA + TRES LLAVES PUERTA"
+    },
+    {
+      "code": "0800475241",
+      "description": "CABINET    CERRADURA + TRES LLAVES PUERTA (ALTERNATIVO DE 0800182370)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800475241  CABINET    CERRADURA + TRES LLAVES PUERTA (ALTERNATIVO DE 0800182370)"
+    },
+    {
+      "code": "0800470898",
+      "description": "CABINET    CHAPAS PARA MONTAR TECLADO PCI 3.0",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800470898  CABINET    CHAPAS PARA MONTAR TECLADO PCI 3.0"
+    },
+    {
+      "code": "0800455101",
+      "description": "CABINET    CONJUNTO COMPLETO TODAS LAS ENBOCADURAS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800455101  CABINET    CONJUNTO COMPLETO TODAS LAS ENBOCADURAS"
+    },
+    {
+      "code": "0800318368",
+      "description": "CABINET    CRISTAL ANTIVANDALICO PUBLICIDAD",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318368  CABINET    CRISTAL ANTIVANDALICO PUBLICIDAD"
+    },
+    {
+      "code": "0800318910",
+      "description": "CABINET    EMBOCADURA BILLETES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318910  CABINET    EMBOCADURA BILLETES"
+    },
+    {
+      "code": "0800318929",
+      "description": "CABINET    EMBOCADURA INGRESOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318929  CABINET    EMBOCADURA INGRESOS"
+    },
+    {
+      "code": "0800318901",
+      "description": "CABINET    EMBOCADURA LIBRETAS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318901  CABINET    EMBOCADURA LIBRETAS"
+    },
+    {
+      "code": "0800318894",
+      "description": "CABINET EMBOCADURA RECIBOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318894  CABINET EMBOCADURA RECIBOS"
+    },
+    {
+      "code": "0800318885",
+      "description": "CABINET    EMBOCADURA TARJETAS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318885  CABINET    EMBOCADURA TARJETAS"
+    },
+    {
+      "code": "0800503210",
+      "description": "CABINET ESCANER – BAR CODE READER JDK‐10216 (?)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800503210  CABINET ESCANER – BAR CODE READER JDK‐10216 (?)"
+    },
+    {
+      "code": "0800446096",
+      "description": "CABINET    ESCANER ‐ BAR CODE READER PG FJ",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446096  CABINET    ESCANER ‐ BAR CODE READER PG FJ"
+    },
+    {
+      "code": "0800318313",
+      "description": "CABINET    ESCANER ‐ CRISTAL ESCANER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318313  CABINET    ESCANER ‐ CRISTAL ESCANER"
+    },
+    {
+      "code": "0800318821",
+      "description": "CABINET    ESCANER 2D READER PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318821  CABINET    ESCANER 2D READER PG NCR"
+    },
+    {
+      "code": "0800386926",
+      "description": "CABINET    ETIQUETAS BILINGÜE CATALAN",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800386926  CABINET    ETIQUETAS BILINGÜE CATALAN"
+    },
+    {
+      "code": "0800386935",
+      "description": "CABINET    ETIQUETAS CASTELLANO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800386935  CABINET    ETIQUETAS CASTELLANO"
+    },
+    {
+      "code": "0800318395",
+      "description": "CABINET    FASCIA LIGHT POWER LEDS. BARRA DE LEDS VIEJA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318395  CABINET    FASCIA LIGHT POWER LEDS. BARRA DE LEDS VIEJA"
+    },
+    {
+      "code": "0800318402",
+      "description": "CABINET    FASCIA LIGHT PSU. FUENTE LEDS LUZ FRONTAL",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318402  CABINET    FASCIA LIGHT PSU. FUENTE LEDS LUZ FRONTAL"
+    },
+    {
+      "code": "0800479274",
+      "description": "CABINET    FASCIA LIGHT SELF‐REGULATED. KIT CONVERSION LUMINARIA VIEJA‐NUEVA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800479274  CABINET    FASCIA LIGHT SELF‐REGULATED. KIT CONVERSION LUMINARIA VIEJA‐NUEVA"
+    },
+    {
+      "code": "0800479746",
+      "description": "CABINET    FUENTE DE ALIMENTACION PG FUJITSU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800479746  CABINET    FUENTE DE ALIMENTACION PG FUJITSU"
+    },
+    {
+      "code": "0800445961",
+      "description": "CABINET    FUENTE DE ALIMENTACION PG FUJITSU. ALTERNATIVO 0800475205",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800445961  CABINET    FUENTE DE ALIMENTACION PG FUJITSU. ALTERNATIVO 0800475205"
+    },
+    {
+      "code": "0800475205",
+      "description": "CABINET    FUENTE DE ALIMENTACION PG FUJITSU. ALTERNATIVO 0800479746",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800475205  CABINET    FUENTE DE ALIMENTACION PG FUJITSU. ALTERNATIVO 0800479746"
+    },
+    {
+      "code": "0800475526",
+      "description": "CABINET    FUENTE DE ALIMENTACION PG NCR CON MODIFICACION COATING",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800475526  CABINET    FUENTE DE ALIMENTACION PG NCR CON MODIFICACION COATING"
+    },
+    {
+      "code": "0800415510",
+      "description": "CABINET    FUSIBLE 7.5A PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800415510  CABINET    FUSIBLE 7.5A PG NCR"
+    },
+    {
+      "code": "0800501800",
+      "description": "CABINET    GOP ACTUALIZADO PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800501800  CABINET    GOP ACTUALIZADO PG NCR"
+    },
+    {
+      "code": "0800446194",
+      "description": "CABINET    GOP USB PG FJ",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446194  CABINET    GOP USB PG FJ"
+    },
+    {
+      "code": "0800445998",
+      "description": "CABINET    HUB USB PG FJ (USB‐B) ALTERNATIVO 0800479112",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800445998  CABINET    HUB USB PG FJ (USB‐B) ALTERNATIVO 0800479112"
+    },
+    {
+      "code": "0800479112",
+      "description": "CABINET    HUB USB PG FJ REV. 6 (USB‐B)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800479112  CABINET    HUB USB PG FJ REV. 6 (USB‐B)"
+    },
+    {
+      "code": "0800318830",
+      "description": "CABINET    HUB USB PG NCR (MINI‐USB)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318830  CABINET    HUB USB PG NCR (MINI‐USB)"
+    },
+    {
+      "code": "0800498299",
+      "description": "CABINET INSERTOS X 10",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498299  CABINET INSERTOS X 10"
+    },
+    {
+      "code": "0800339639",
+      "description": "CABINET    INTERLOCK E75 16A (GBXX)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800339639  CABINET    INTERLOCK E75 16A (GBXX)"
+    },
+    {
+      "code": "0800350704",
+      "description": "CABINET    INTERLOCK F69 1 CIRCUITO 10A (BILLETES 8148)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800350704  CABINET    INTERLOCK F69 1 CIRCUITO 10A (BILLETES 8148)"
+    },
+    {
+      "code": "0800340495",
+      "description": "CABINET    INTERLOCK F69 1 CIRCUITO 10A (PUERTA CABINET F8000)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800340495  CABINET    INTERLOCK F69 1 CIRCUITO 10A (PUERTA CABINET F8000)"
+    },
+    {
+      "code": "0800453443",
+      "description": "CABINET    INTERLOCK F79 2 CIRCUITOS 10A (PUERTA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800453443  CABINET    INTERLOCK F79 2 CIRCUITOS 10A (PUERTA)"
+    },
+    {
+      "code": "0800387408",
+      "description": "CABINET    JUNTAS ANTIAGUA TECLADO NUMERICO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800387408  CABINET    JUNTAS ANTIAGUA TECLADO NUMERICO"
+    },
+    {
+      "code": "0800473555",
+      "description": "CABINET    KIT BISAGRAS GOP PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800473555  CABINET    KIT BISAGRAS GOP PG NCR"
+    },
+    {
+      "code": "0800479498",
+      "description": "CABINET    KIT FASCIA LIGHT SELF REGULATED. BARRA DE LEDS NUEVA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800479498  CABINET    KIT FASCIA LIGHT SELF REGULATED. BARRA DE LEDS NUEVA"
+    },
+    {
+      "code": "0800495782",
+      "description": "CABINET    KIT SOPORTE PANTALLA CLIENTE Y POLICARBONATO INFERIOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800495782  CABINET    KIT SOPORTE PANTALLA CLIENTE Y POLICARBONATO INFERIOR"
+    },
+    {
+      "code": "0800389852",
+      "description": "CABINET    MARCO SOPORTE TOUCH SCREEN",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800389852  CABINET    MARCO SOPORTE TOUCH SCREEN"
+    },
+    {
+      "code": "0800436472",
+      "description": "CABINET    MESA DERECHA PG FJ Y NCR D, E, F, G (MESA 1 MATRICULA + TODA LA MECANICA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800436472  CABINET    MESA DERECHA PG FJ Y NCR D, E, F, G (MESA 1 MATRICULA + TODA LA MECANICA)"
+    },
+    {
+      "code": "0800469999",
+      "description": "CABINET    MESA DERECHA PG FJ Y NCR MOD. E, F, G (SOLO MESA –1 MATRICULA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800469999  CABINET    MESA DERECHA PG FJ Y NCR MOD. E, F, G (SOLO MESA –1 MATRICULA)"
+    },
+    {
+      "code": "0800416118",
+      "description": "CABINET    MESA DERECHA PG NCR MOD. C Y D (SOLO MESA –2 MATRICULAS)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800416118  CABINET    MESA DERECHA PG NCR MOD. C Y D (SOLO MESA –2 MATRICULAS)"
+    },
+    {
+      "code": "0800399636",
+      "description": "CABINET    MESA IZQUIERDA PG FJ Y NCR E, F, G (MESA 1 MATRICULA + TODA LA MECANICA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800399636  CABINET    MESA IZQUIERDA PG FJ Y NCR E, F, G (MESA 1 MATRICULA + TODA LA MECANICA)"
+    },
+    {
+      "code": "0800470059",
+      "description": "CABINET    MESA IZQUIERDA PG FJ Y NCR MOD. E, F, G (SOLO MESA – 1 MATRICULA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800470059  CABINET    MESA IZQUIERDA PG FJ Y NCR MOD. E, F, G (SOLO MESA – 1 MATRICULA)"
+    },
+    {
+      "code": "0800416127",
+      "description": "CABINET    MESA IZQUIERDA PG NCR MOD. C Y D (SOLO MESA –2 MATRICULAS)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800416127  CABINET    MESA IZQUIERDA PG NCR MOD. C Y D (SOLO MESA –2 MATRICULAS)"
+    },
+    {
+      "code": "0800416136",
+      "description": "CABINET    METACRILATO BAJO PANTALLA CLIENTE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800416136  CABINET    METACRILATO BAJO PANTALLA CLIENTE"
+    },
+    {
+      "code": "0800318938",
+      "description": "CABINET    METACRILATO ILUMINACION FASCIA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318938  CABINET    METACRILATO ILUMINACION FASCIA"
+    },
+    {
+      "code": "0800443561",
+      "description": "CABINET METACRILATO WEBCAM",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800443561  CABINET METACRILATO WEBCAM"
+    },
+    {
+      "code": "0800498609",
+      "description": "CABINET    MONITOR CLIENTE KFE308 (PG FJ, NCR)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498609  CABINET    MONITOR CLIENTE KFE308 (PG FJ, NCR)"
+    },
+    {
+      "code": "0800446121",
+      "description": "CABINET    MONITOR CLIENTE KORTEK BRILLO NORMAL(PG FJ, NCR Y S100)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446121  CABINET    MONITOR CLIENTE KORTEK BRILLO NORMAL(PG FJ, NCR Y S100)"
+    },
+    {
+      "code": "0800446130",
+      "description": "CABINET    MONITOR CLIENTE LORTEK ALTO BRILLO (PG FJ, NCR Y S100)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446130  CABINET    MONITOR CLIENTE LORTEK ALTO BRILLO (PG FJ, NCR Y S100)"
+    },
+    {
+      "code": "0800399039",
+      "description": "CABINET    MONITORS FASCIA (MARCO DE MONITORES)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800399039  CABINET    MONITORS FASCIA (MARCO DE MONITORES)"
+    },
+    {
+      "code": "0800487354",
+      "description": "CABINET    PANTALLA CLIENTE KF KFE301 TACTIL INEGRADA PG FUJITSU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487354  CABINET    PANTALLA CLIENTE KF KFE301 TACTIL INEGRADA PG FUJITSU"
+    },
+    {
+      "code": "0800385525",
+      "description": "CABINET    PANTALLA CLIENTE KORTEK KT‐EJ15CX PG FUJITSU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800385525  CABINET    PANTALLA CLIENTE KORTEK KT‐EJ15CX PG FUJITSU"
+    },
+    {
+      "code": "0800487345",
+      "description": "CABINET    PANTALLA PUBLICIDAD KF KFE300 PG FUJITSU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487345  CABINET    PANTALLA PUBLICIDAD KF KFE300 PG FUJITSU"
+    },
+    {
+      "code": "0800385534",
+      "description": "CABINET    PANTALLA PUBLICIDAD KORTEK KT‐LA15CX PG FUJITSU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800385534  CABINET    PANTALLA PUBLICIDAD KORTEK KT‐LA15CX PG FUJITSU"
+    },
+    {
+      "code": "0800318858",
+      "description": "CABINET    PLACA DC HUB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318858  CABINET    PLACA DC HUB"
+    },
+    {
+      "code": "0800470246",
+      "description": "CABINET    PLACA ILM92BB (DISTRIBUIDORA TENSIONES PARA SHUTTER MOTORIZADO)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800470246  CABINET    PLACA ILM92BB (DISTRIBUIDORA TENSIONES PARA SHUTTER MOTORIZADO)"
+    },
+    {
+      "code": "0800446327",
+      "description": "CABINET    PLACA ILM98 (ALARMAS)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446327  CABINET    PLACA ILM98 (ALARMAS)"
+    },
+    {
+      "code": "0800445970",
+      "description": "CABINET    PLACA MISCELANEA PG FJ ILM10CC",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800445970  CABINET    PLACA MISCELANEA PG FJ ILM10CC"
+    },
+    {
+      "code": "0800491964",
+      "description": "CABINET    PLACA MISCELANEA PG FJ JLM10",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800491964  CABINET    PLACA MISCELANEA PG FJ JLM10"
+    },
+    {
+      "code": "0800318956",
+      "description": "CABINET    PLACA MISCELANEA PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318956  CABINET    PLACA MISCELANEA PG NCR"
+    },
+    {
+      "code": "0800318279",
+      "description": "CABINET    TECLADO ALFANUMERICO F8148",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318279  CABINET    TECLADO ALFANUMERICO F8148"
+    },
+    {
+      "code": "0800446149",
+      "description": "CABINET    TECLADO CLIENTE EPP BANKIA S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446149  CABINET    TECLADO CLIENTE EPP BANKIA S100"
+    },
+    {
+      "code": "0800470219",
+      "description": "CABINET    TECLADO CLIENTE PCI EPP 3.0 BANCO SANTANDER S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800470219  CABINET    TECLADO CLIENTE PCI EPP 3.0 BANCO SANTANDER S100"
+    },
+    {
+      "code": "0800468188",
+      "description": "CABINET    TECLADO CLIENTE PCI EPP 3.0 BBVA S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800468188  CABINET    TECLADO CLIENTE PCI EPP 3.0 BBVA S100"
+    },
+    {
+      "code": "0800318288",
+      "description": "CABINET TECLADO CURSORES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318288  CABINET TECLADO CURSORES"
+    },
+    {
+      "code": "0800318260",
+      "description": "CABINET    TECLADO NUMERICO PCI EPP 1.0 ZZT588‐D12‐F16 PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318260  CABINET    TECLADO NUMERICO PCI EPP 1.0 ZZT588‐D12‐F16 PG NCR"
+    },
+    {
+      "code": "0800453201",
+      "description": "CABINET    TECLADO NUMERICO PCI EPP 3.0ZZT588‐D300‐F20",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800453201  CABINET    TECLADO NUMERICO PCI EPP 3.0ZZT588‐D300‐F20"
+    },
+    {
+      "code": "0800495933",
+      "description": "CABINET    TECLADO NUMERICO PCI EPP 5.0ZZT588‐D400‐F50",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800495933  CABINET    TECLADO NUMERICO PCI EPP 5.0ZZT588‐D400‐F50"
+    },
+    {
+      "code": "0800470460",
+      "description": "CABLES    CABLE TECLADO CURSORES A ALFANUMERICO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800470460  CABLES    CABLE TECLADO CURSORES A ALFANUMERICO"
+    },
+    {
+      "code": "0800470335",
+      "description": "CABLES    CABLE TECLADO NUMERICO A ALFANUMERICO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800470335  CABLES    CABLE TECLADO NUMERICO A ALFANUMERICO"
+    },
+    {
+      "code": "0800491027",
+      "description": "CABLES    CABLE USB 2.0 A‐MACHO / A‐MACHO (PANTALLA TACTIL MONITOR KF)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800491027  CABLES    CABLE USB 2.0 A‐MACHO / A‐MACHO (PANTALLA TACTIL MONITOR KF)"
+    },
+    {
+      "code": "0800340743",
+      "description": "CABLES    CABLE USB A ‐MINI B PARA NFC Y ESCANER (PG NCR)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800340743  CABLES    CABLE USB A ‐MINI B PARA NFC Y ESCANER (PG NCR)"
+    },
+    {
+      "code": "0800453238",
+      "description": "CABLES    CABLE USB A‐B 1M",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800453238  CABLES    CABLE USB A‐B 1M"
+    },
+    {
+      "code": "0800312710",
+      "description": "CABLES    CABLE USB A‐B 3 METROS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312710  CABLES    CABLE USB A‐B 3 METROS"
+    },
+    {
+      "code": "0800476801",
+      "description": "CABLES    CABLE USB A‐B 5 METROS GBNA / TECLADO PCI 3.0 A CPU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800476801  CABLES    CABLE USB A‐B 5 METROS GBNA / TECLADO PCI 3.0 A CPU"
+    },
+    {
+      "code": "0800258752",
+      "description": "CABLES    CABLE USB A‐B RECIBOS / COIN DISPENSER / GOP PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800258752  CABLES    CABLE USB A‐B RECIBOS / COIN DISPENSER / GOP PG NCR"
+    },
+    {
+      "code": "0800386917",
+      "description": "CABLES    CABLE USB DOBLE PARA TECLADO EPP D2XVER. 6 O SUPERIOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800386917  CABLES    CABLE USB DOBLE PARA TECLADO EPP D2XVER. 6 O SUPERIOR"
+    },
+    {
+      "code": "0800475866",
+      "description": "CABLES    CABLE USB GOP A CPU (DOBLE)PG FJ",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800475866  CABLES    CABLE USB GOP A CPU (DOBLE)PG FJ"
+    },
+    {
+      "code": "0800351008",
+      "description": "CABLES    CABLE USB HUB1 A TARJETAS MCRW / RECIBOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351008  CABLES    CABLE USB HUB1 A TARJETAS MCRW / RECIBOS"
+    },
+    {
+      "code": "0800258093",
+      "description": "CABLES    CABLE VGA MONITORES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800258093  CABLES    CABLE VGA MONITORES"
+    },
+    {
+      "code": "0800351366",
+      "description": "CABLES    CABLE VIDEO DVI‐D GOP PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351366  CABLES    CABLE VIDEO DVI‐D GOP PG NCR"
+    },
+    {
+      "code": "0800486701",
+      "description": "CABLES    CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800486701  CABLES    CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B)"
+    },
+    {
+      "code": "0800453210",
+      "description": "CABLES    CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG NCR (USB MINI)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800453210  CABLES    CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG NCR (USB MINI)"
+    },
+    {
+      "code": "0800453229",
+      "description": "CABLES    PROLONGADOR USB 2.0 ACTIVO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800453229  CABLES    PROLONGADOR USB 2.0 ACTIVO"
+    },
+    {
+      "code": "0800316501",
+      "description": "CABLES    PROLONGADOR USB M‐H 2M",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800316501  CABLES    PROLONGADOR USB M‐H 2M"
+    },
+    {
+      "code": "0800035565",
+      "description": "CABLES    PROLONGADOR VGA M‐H 2M",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800035565  CABLES    PROLONGADOR VGA M‐H 2M"
+    },
+    {
+      "code": "0800464048",
+      "description": "CERRADURAS CAJA CONEXIONES SPIDER COM (BBVA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800464048  CERRADURAS CAJA CONEXIONES SPIDER COM (BBVA)"
+    },
+    {
+      "code": "0800457617",
+      "description": "CERRADURAS CERRADURA GATOR 3000",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457617  CERRADURAS CERRADURA GATOR 3000"
+    },
+    {
+      "code": "0800438639",
+      "description": "CERRADURAS CERRADURA PRIMOR 1000",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800438639  CERRADURAS CERRADURA PRIMOR 1000"
+    },
+    {
+      "code": "0800476856",
+      "description": "CERRADURAS CERRADURA PULSE SWIN (IBERCAJA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800476856  CERRADURAS CERRADURA PULSE SWIN (IBERCAJA)"
+    },
+    {
+      "code": "0800475483",
+      "description": "CERRADURAS CERRADURA SG6125 (BANCO SANTANDER)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800475483  CERRADURAS CERRADURA SG6125 (BANCO SANTANDER)"
+    },
+    {
+      "code": "0800483697",
+      "description": "CERRADURAS CERRADURA SPIDER COM (BBVA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800483697  CERRADURAS CERRADURA SPIDER COM (BBVA)"
+    },
+    {
+      "code": "0800473216",
+      "description": "CERRADURAS CONJUNTO PRIMOR 3000 COMPLETO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800473216  CERRADURAS CONJUNTO PRIMOR 3000 COMPLETO"
+    },
+    {
+      "code": "0800441340",
+      "description": "CERRADURAS MEMBRANA TECLADO PULSE SWIN (IBERCAJA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800441340  CERRADURAS MEMBRANA TECLADO PULSE SWIN (IBERCAJA)"
+    },
+    {
+      "code": "0800499626",
+      "description": "CERRADURAS TECLADO GATOR 3000",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800499626  CERRADURAS TECLADO GATOR 3000"
+    },
+    {
+      "code": "0800438648",
+      "description": "CERRADURAS TECLADO PRIMORFS (2 PILOTOS)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800438648  CERRADURAS TECLADO PRIMORFS (2 PILOTOS)"
+    },
+    {
+      "code": "0800455584",
+      "description": "CERRADURAS TECLADO PRIMOR RO (4 PUNTOS DE ANCLAJE) (1 PILOTO)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800455584  CERRADURAS TECLADO PRIMOR RO (4 PUNTOS DE ANCLAJE) (1 PILOTO)"
+    },
+    {
+      "code": "0800479318",
+      "description": "CERRADURAS TECLADO PRIMOR RO (8 PUNTOS DE ANCLAJE) (1 PILOTO) /GATOR 3000",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800479318  CERRADURAS TECLADO PRIMOR RO (8 PUNTOS DE ANCLAJE) (1 PILOTO) /GATOR 3000"
+    },
+    {
+      "code": "0800366065",
+      "description": "CERRADURAS TECLADO PULSE SWIN (IBERCAJA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800366065  CERRADURAS TECLADO PULSE SWIN (IBERCAJA)"
+    },
+    {
+      "code": "0800066683",
+      "description": "CERRADURAS TECLADO SG6125 2 PILAS (BANCO SANTANDER)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800066683  CERRADURAS TECLADO SG6125 2 PILAS (BANCO SANTANDER)"
+    },
+    {
+      "code": "0800483688",
+      "description": "CERRADURAS TECLADO SPIDER COM (BBVA)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800483688  CERRADURAS TECLADO SPIDER COM (BBVA)"
+    },
+    {
+      "code": "0800468801",
+      "description": "CRW ACTUADOR TRAMPILLA TARJETAS (CHAPA SOBRE UNIDAD) S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800468801  CRW ACTUADOR TRAMPILLA TARJETAS (CHAPA SOBRE UNIDAD) S100"
+    },
+    {
+      "code": "0800351721",
+      "description": "CRW BATERIA PARA EXPULSION DE TARJETAS NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351721  CRW BATERIA PARA EXPULSION DE TARJETAS NCR"
+    },
+    {
+      "code": "0800182691",
+      "description": "CRW CORREA DENTADA DEL MOTOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800182691  CRW CORREA DENTADA DEL MOTOR"
+    },
+    {
+      "code": "0800507369",
+      "description": "CRW KIT CAPTURE CARD (CONTENEDOR TARJETAS CAPTURADAS)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800507369  CRW KIT CAPTURE CARD (CONTENEDOR TARJETAS CAPTURADAS)"
+    },
+    {
+      "code": "0800490769",
+      "description": "CRW UNIDAD DE TARJETAS CON ANTI‐DEEP‐SKIMMING PG FUJITSU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800490769  CRW UNIDAD DE TARJETAS CON ANTI‐DEEP‐SKIMMING PG FUJITSU"
+    },
+    {
+      "code": "0800495201",
+      "description": "CRW UNIDAD DE TARJETAS CON ANTI‐DEEP‐SKIMMING PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800495201  CRW UNIDAD DE TARJETAS CON ANTI‐DEEP‐SKIMMING PG NCR"
+    },
+    {
+      "code": "0800376072",
+      "description": "CRW UNIDAD DE TARJETAS F8000",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800376072  CRW UNIDAD DE TARJETAS F8000"
+    },
+    {
+      "code": "0800448192",
+      "description": "CRW UNIDAD DE TARJETAS SIN ANTI‐DEEP‐SKIMMING PG FUJITSU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800448192  CRW UNIDAD DE TARJETAS SIN ANTI‐DEEP‐SKIMMING PG FUJITSU"
+    },
+    {
+      "code": "0800318983",
+      "description": "CRW UNIDAD DE TARJETAS SIN ANTI‐DEEP‐SKIMMING PG NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318983  CRW UNIDAD DE TARJETAS SIN ANTI‐DEEP‐SKIMMING PG NCR"
+    },
+    {
+      "code": "0800329891",
+      "description": "DISCOS    HDD 500GB (MECANICO –IBERCAJA / BANCO POPULAR)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800329891  DISCOS    HDD 500GB (MECANICO –IBERCAJA / BANCO POPULAR)"
+    },
+    {
+      "code": "0800457993",
+      "description": "DISCOS    SSD 128GB INNODISK 3ME4 (PARA PG FJ Q170 I5)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457993  DISCOS    SSD 128GB INNODISK 3ME4 (PARA PG FJ Q170 I5)"
+    },
+    {
+      "code": "0800504488",
+      "description": "DISCOS    SSD 256GB 2.5IN WD PCSA530 3D (PARA CPU PG FJ Q170 I7/RF)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800504488  DISCOS    SSD 256GB 2.5IN WD PCSA530 3D (PARA CPU PG FJ Q170 I7/RF)"
+    },
+    {
+      "code": "0800488004",
+      "description": "DISCOS    SSD A400‐240GB A400 SATA3 (PARA CPU Q77)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800488004  DISCOS    SSD A400‐240GB A400 SATA3 (PARA CPU Q77)"
+    },
+    {
+      "code": "0800473564",
+      "description": "DISCOS    SSD KINGSTON SUV400S37 (PARA CPU NCR TALLADEGA Y POCONO)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800473564  DISCOS    SSD KINGSTON SUV400S37 (PARA CPU NCR TALLADEGA Y POCONO)"
+    },
+    {
+      "code": "0800508545",
+      "description": "E‐GBRU    CAJETIN DEPOSITO E‐GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800508545  E‐GBRU    CAJETIN DEPOSITO E‐GBRU"
+    },
+    {
+      "code": "0800503639",
+      "description": "E‐GBRU    CAJETIN DEPOSITO SIN CONFIGURAR E‐GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800503639  E‐GBRU    CAJETIN DEPOSITO SIN CONFIGURAR E‐GBRU"
+    },
+    {
+      "code": "0800508527",
+      "description": "E‐GBRU    CAJETIN RECICLABLES 20€ E‐GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800508527  E‐GBRU    CAJETIN RECICLABLES 20€ E‐GBRU"
+    },
+    {
+      "code": "0800508536",
+      "description": "E‐GBRU    CAJETIN RECICLABLES 50€ E‐GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800508536  E‐GBRU    CAJETIN RECICLABLES 50€ E‐GBRU"
+    },
+    {
+      "code": "0800503620",
+      "description": "E‐GBRU    CAJETIN RECICLABLES ESTANDAR SIN CONFIGURAR E‐GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800503620  E‐GBRU    CAJETIN RECICLABLES ESTANDAR SIN CONFIGURAR E‐GBRU"
+    },
+    {
+      "code": "0800504923",
+      "description": "E‐GBRU    PLACA SEPARATOR/PREACEPTOR E‐GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800504923  E‐GBRU    PLACA SEPARATOR/PREACEPTOR E‐GBRU"
+    },
+    {
+      "code": "0800504889",
+      "description": "E‐GBRU    PREACEPTOR E‐GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800504889  E‐GBRU    PREACEPTOR E‐GBRU"
+    },
+    {
+      "code": "0800504905",
+      "description": "E‐GBRU    SCROW E‐GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800504905  E‐GBRU    SCROW E‐GBRU"
+    },
+    {
+      "code": "0800504898",
+      "description": "E‐GBRU    SEPARATOR E‐GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800504898  E‐GBRU    SEPARATOR E‐GBRU"
+    },
+    {
+      "code": "0800453835",
+      "description": "G510 CASSETTE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800453835  G510 CASSETTE"
+    },
+    {
+      "code": "0800447120",
+      "description": "G510 CONECTOR CASSETTE 1",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447120  G510 CONECTOR CASSETTE 1"
+    },
+    {
+      "code": "0800447139",
+      "description": "G510 CONECTOR CASSETTE 2",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447139  G510 CONECTOR CASSETTE 2"
+    },
+    {
+      "code": "0800447175",
+      "description": "G510 CONECTOR CASSETTE 3",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447175  G510 CONECTOR CASSETTE 3"
+    },
+    {
+      "code": "0800447184",
+      "description": "G510 CONECTOR CASSETTE 4",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447184  G510 CONECTOR CASSETTE 4"
+    },
+    {
+      "code": "0800447004",
+      "description": "G510 FEED MODULEEN CAJETIN",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447004  G510 FEED MODULEEN CAJETIN"
+    },
+    {
+      "code": "0800478970",
+      "description": "G510 FIJADOR DE TORNILLO LOCTITE 242 6ML",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800478970  G510 FIJADOR DE TORNILLO LOCTITE 242 6ML"
+    },
+    {
+      "code": "0800109236",
+      "description": "G510 GALGA AJUSTE ESPESOR T=0,3",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800109236  G510 GALGA AJUSTE ESPESOR T=0,3"
+    },
+    {
+      "code": "0800446979",
+      "description": "G510 LOWER MODULE 1‐2",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446979  G510 LOWER MODULE 1‐2"
+    },
+    {
+      "code": "0800470102",
+      "description": "G510 LOWER UNIT 3‐4 NEW MOTOR HACIA DENTRO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800470102  G510 LOWER UNIT 3‐4 NEW MOTOR HACIA DENTRO"
+    },
+    {
+      "code": "0800453826",
+      "description": "G510 LOWER UNIT 3‐4 OLD MOTOR HACIA FUERA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800453826  G510 LOWER UNIT 3‐4 OLD MOTOR HACIA FUERA"
+    },
+    {
+      "code": "0800446951",
+      "description": "G510 MAIN PCB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446951  G510 MAIN PCB"
+    },
+    {
+      "code": "0800446997",
+      "description": "G510 REJECT BOX",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446997  G510 REJECT BOX"
+    },
+    {
+      "code": "0800447647",
+      "description": "G510 RUBBER SHEET PEDIR 4 POR MAQUINA (TIRAS VERTICALES EN POOL)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447647  G510 RUBBER SHEET PEDIR 4 POR MAQUINA (TIRAS VERTICALES EN POOL)"
+    },
+    {
+      "code": "0800447291",
+      "description": "G510 SENSOR EMISOR CPS, PUS, POS, EJS, RTJS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447291  G510 SENSOR EMISOR CPS, PUS, POS, EJS, RTJS"
+    },
+    {
+      "code": "0800447308",
+      "description": "G510 SENSOR EMISOR PSX, BPRS, BPLS, GSS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447308  G510 SENSOR EMISOR PSX, BPRS, BPLS, GSS"
+    },
+    {
+      "code": "0800304863",
+      "description": "G510 SENSOR EMISOR RJS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800304863  G510 SENSOR EMISOR RJS"
+    },
+    {
+      "code": "0800142459",
+      "description": "G510 SENSOR MDS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800142459  G510 SENSOR MDS"
+    },
+    {
+      "code": "0800447317",
+      "description": "G510 SENSOR RECEPTOR CPS, PUS, POS, EJS, RTJS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447317  G510 SENSOR RECEPTOR CPS, PUS, POS, EJS, RTJS"
+    },
+    {
+      "code": "0800447326",
+      "description": "G510 SENSOR RECEPTOR PSX, BPRS, BPLS, GSS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447326  G510 SENSOR RECEPTOR PSX, BPRS, BPLS, GSS"
+    },
+    {
+      "code": "0800447282",
+      "description": "G510 SENSOR RECEPTOR RJS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447282  G510 SENSOR RECEPTOR RJS"
+    },
+    {
+      "code": "0800450598",
+      "description": "G510 SENSOR U NEX, BSS, PDS, FRS, FHS, PRS, FSS, PHS, RES, SUS, SHS, FTS, BTS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800450598  G510 SENSOR U NEX, BSS, PDS, FRS, FHS, PRS, FSS, PHS, RES, SUS, SHS, FTS, BTS"
+    },
+    {
+      "code": "0800489227",
+      "description": "G510 SHUTTER G510 PG FJ",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800489227  G510 SHUTTER G510 PG FJ"
+    },
+    {
+      "code": "0800446960",
+      "description": "G510 TOP MODULE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446960  G510 TOP MODULE"
+    },
+    {
+      "code": "0800447068",
+      "description": "G510 TRANSPORTE VERTICAL LOWER 1‐2",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447068  G510 TRANSPORTE VERTICAL LOWER 1‐2"
+    },
+    {
+      "code": "0800473966",
+      "description": "G510 TRANSPORTE VERTICAL LOWER 3‐4 NEW MOTOR HACIA DENTRO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800473966  G510 TRANSPORTE VERTICAL LOWER 3‐4 NEW MOTOR HACIA DENTRO"
+    },
+    {
+      "code": "0800446988",
+      "description": "G510 TRANSPORTE VERTICAL LOWER 3‐4 OLD MOTOR HACIA FUERA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446988  G510 TRANSPORTE VERTICAL LOWER 3‐4 OLD MOTOR HACIA FUERA"
+    },
+    {
+      "code": "0800451418",
+      "description": "G510 UNIDAD COMPLETA 2 DENOMINACIONES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800451418  G510 UNIDAD COMPLETA 2 DENOMINACIONES"
+    },
+    {
+      "code": "0800447781",
+      "description": "G60 CASH BOX (CAJETIN ABAJO)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447781  G60 CASH BOX (CAJETIN ABAJO)"
+    },
+    {
+      "code": "0800304863",
+      "description": "G60 H SENSOR (?)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800304863  G60 H SENSOR (?)"
+    },
+    {
+      "code": "0800447807",
+      "description": "G60 I/O PCB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447807  G60 I/O PCB"
+    },
+    {
+      "code": "0800447308",
+      "description": "G60 LIGHT EMISSION SENSOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447308  G60 LIGHT EMISSION SENSOR"
+    },
+    {
+      "code": "0800447326",
+      "description": "G60 LIGHT RECEIVING SENSOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447326  G60 LIGHT RECEIVING SENSOR"
+    },
+    {
+      "code": "0800487844",
+      "description": "G60 MAIN MODULE (SIN PLACA / CAJETINES)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487844  G60 MAIN MODULE (SIN PLACA / CAJETINES)"
+    },
+    {
+      "code": "0800447790",
+      "description": "G60 MAIN PCB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447790  G60 MAIN PCB"
+    },
+    {
+      "code": "0800447923",
+      "description": "G60 PH SENSOR (?)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447923  G60 PH SENSOR (?)"
+    },
+    {
+      "code": "0800447772",
+      "description": "G60 RECYCLE STACKER 1‐4",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447772  G60 RECYCLE STACKER 1‐4"
+    },
+    {
+      "code": "0800447282",
+      "description": "G60 SENSOR (?)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447282  G60 SENSOR (?)"
+    },
+    {
+      "code": "0800450598",
+      "description": "G60 SENSOR U",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800450598  G60 SENSOR U"
+    },
+    {
+      "code": "0800447816",
+      "description": "G60 TOP MODULE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800447816  G60 TOP MODULE"
+    },
+    {
+      "code": "0800312603",
+      "description": "GBNA ASSEMBLY DEPOSIT MOTOR GBNA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312603  GBNA ASSEMBLY DEPOSIT MOTOR GBNA"
+    },
+    {
+      "code": "0800252393",
+      "description": "GBNA LOWER BASE GBNA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800252393  GBNA LOWER BASE GBNA"
+    },
+    {
+      "code": "0800312578",
+      "description": "GBNA LOWER PCB GBNA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312578  GBNA LOWER PCB GBNA"
+    },
+    {
+      "code": "0800312541",
+      "description": "GBNA LOWER TRANSPORT (TAPA) GBNA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312541  GBNA LOWER TRANSPORT (TAPA) GBNA"
+    },
+    {
+      "code": "0800365574",
+      "description": "GBNA UPPER TRANSPORT GBNA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800365574  GBNA UPPER TRANSPORT GBNA"
+    },
+    {
+      "code": "0800410515",
+      "description": "GBRU ASSEMBLY RECYCLE MOTOR GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800410515  GBRU ASSEMBLY RECYCLE MOTOR GBRU"
+    },
+    {
+      "code": "0800252357",
+      "description": "GBRU CAJETIN DE RECHAZOS EXTRAIBLE GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800252357  GBRU CAJETIN DE RECHAZOS EXTRAIBLE GBRU"
+    },
+    {
+      "code": "0800379523",
+      "description": "GBRU CAJETIN RECICLABLES 20€ GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800379523  GBRU CAJETIN RECICLABLES 20€ GBRU"
+    },
+    {
+      "code": "0800379532",
+      "description": "GBRU CAJETIN RECICLABLES 50€ GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800379532  GBRU CAJETIN RECICLABLES 50€ GBRU"
+    },
+    {
+      "code": "0800351865",
+      "description": "GBRU KIT ADAPTACION TAPA DE CAJETIN RECICLABLES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351865  GBRU KIT ADAPTACION TAPA DE CAJETIN RECICLABLES"
+    },
+    {
+      "code": "0800475839",
+      "description": "GBRU KIT BILL SLIDERS 2R+2L GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800475839  GBRU KIT BILL SLIDERS 2R+2L GBRU"
+    },
+    {
+      "code": "0800488521",
+      "description": "GBRU KIT MODIFICACION GUIAS CAJETIN GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800488521  GBRU KIT MODIFICACION GUIAS CAJETIN GBRU"
+    },
+    {
+      "code": "0800375689",
+      "description": "GBRU LOWER BASE GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800375689  GBRU LOWER BASE GBRU"
+    },
+    {
+      "code": "0800252240",
+      "description": "GBRU LOWER PCB GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800252240  GBRU LOWER PCB GBRU"
+    },
+    {
+      "code": "0800252179",
+      "description": "GBRU LOWER TRANSPORT (TAPA) GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800252179  GBRU LOWER TRANSPORT (TAPA) GBRU"
+    },
+    {
+      "code": "0800252142",
+      "description": "GBRU UPPER TRANSPORT GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800252142  GBRU UPPER TRANSPORT GBRU"
+    },
+    {
+      "code": "0800360793",
+      "description": "GBXX ACTUADOR SENSOR ULPC MODIFICADO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800360793  GBXX ACTUADOR SENSOR ULPC MODIFICADO"
+    },
+    {
+      "code": "0800312756",
+      "description": "GBXX AMORTIGUADOR SEPARADOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312756  GBXX AMORTIGUADOR SEPARADOR"
+    },
+    {
+      "code": "0800351099",
+      "description": "GBXX CABLE ASSY (SEP TO UPPER)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351099  GBXX CABLE ASSY (SEP TO UPPER)"
+    },
+    {
+      "code": "0800312676",
+      "description": "GBXX CABLE LAN VALIDADORA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312676  GBXX CABLE LAN VALIDADORA"
+    },
+    {
+      "code": "0800312685",
+      "description": "GBXX CABLE POWER LOWER TO UPPER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312685  GBXX CABLE POWER LOWER TO UPPER"
+    },
+    {
+      "code": "0800312701",
+      "description": "GBXX CABLE POWER UNIDAD",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312701  GBXX CABLE POWER UNIDAD"
+    },
+    {
+      "code": "0800312667",
+      "description": "GBXX CABLE POWER VALIDADORA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312667  GBXX CABLE POWER VALIDADORA"
+    },
+    {
+      "code": "0800312729",
+      "description": "GBXX CABLE SHUTTER/MEEI",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312729  GBXX CABLE SHUTTER/MEEI"
+    },
+    {
+      "code": "0800351133",
+      "description": "GBXX CABLE UPCN",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351133  GBXX CABLE UPCN"
+    },
+    {
+      "code": "0800312658",
+      "description": "GBXX CABLE URCN",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312658  GBXX CABLE URCN"
+    },
+    {
+      "code": "0800312621",
+      "description": "GBXX CAJETIN DEPOSITO (AZUL)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312621  GBXX CAJETIN DEPOSITO (AZUL)"
+    },
+    {
+      "code": "0800252311",
+      "description": "GBXX CAJETIN RECICLABLES STANDARD GBRU",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800252311  GBXX CAJETIN RECICLABLES STANDARD GBRU"
+    },
+    {
+      "code": "0800458590",
+      "description": "GBXX CANALETA PLASTICO 24 ESLABONES",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800458590  GBXX CANALETA PLASTICO 24 ESLABONES"
+    },
+    {
+      "code": "0800397585",
+      "description": "GBXX CARRO ELEVADOR GBNA PRIMANOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800397585  GBXX CARRO ELEVADOR GBNA PRIMANOS"
+    },
+    {
+      "code": "0800312596",
+      "description": "GBXX CASSETTE CONNECTOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312596  GBXX CASSETTE CONNECTOR"
+    },
+    {
+      "code": "0800312630",
+      "description": "GBXX CONECTOR CASSETTE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312630  GBXX CONECTOR CASSETTE"
+    },
+    {
+      "code": "0800469132",
+      "description": "GBXX COVER ‐ FIJACION METALICA GUIAPRACEPTOR (2 UNIDADES)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800469132  GBXX COVER ‐ FIJACION METALICA GUIAPRACEPTOR (2 UNIDADES)"
+    },
+    {
+      "code": "0800365556",
+      "description": "GBXX ESCROW",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800365556  GBXX ESCROW"
+    },
+    {
+      "code": "0800327786",
+      "description": "GBXX FEED ROLLER (KIT 5 UNIDADES) SEPARATOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800327786  GBXX FEED ROLLER (KIT 5 UNIDADES) SEPARATOR"
+    },
+    {
+      "code": "0800410301",
+      "description": "GBXX GATE GBRU CAS ENTRY (DERIVADOR ENTRADA DE BILLETE)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800410301  GBXX GATE GBRU CAS ENTRY (DERIVADOR ENTRADA DE BILLETE)"
+    },
+    {
+      "code": "0800330816",
+      "description": "GBXX GUIA DE MONTAJE EN CABINET GBNA (X4)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800330816  GBXX GUIA DE MONTAJE EN CABINET GBNA (X4)"
+    },
+    {
+      "code": "0800450614",
+      "description": "GBXX GUIA PREACEPTOR DERECHA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800450614  GBXX GUIA PREACEPTOR DERECHA"
+    },
+    {
+      "code": "0800450623",
+      "description": "GBXX GUIA PREACEPTOR IZQUIERDA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800450623  GBXX GUIA PREACEPTOR IZQUIERDA"
+    },
+    {
+      "code": "0800340958",
+      "description": "GBXX INTERLOCK 16AMP (GBXX)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800340958  GBXX INTERLOCK 16AMP (GBXX)"
+    },
+    {
+      "code": "0800457537",
+      "description": "GBXX KIT TORNILLOS PARA GUIA DE MONTAJE EN CABINET GBNA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457537  GBXX KIT TORNILLOS PARA GUIA DE MONTAJE EN CABINET GBNA"
+    },
+    {
+      "code": "0800410169",
+      "description": "GBXX MUELLE DEL PEINE DEL SEPARADOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800410169  GBXX MUELLE DEL PEINE DEL SEPARADOR"
+    },
+    {
+      "code": "0800360800",
+      "description": "GBXX PATROL NOTE (10 UNIDADES)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800360800  GBXX PATROL NOTE (10 UNIDADES)"
+    },
+    {
+      "code": "0800357878",
+      "description": "GBXX PESTILLO CIERRE CAJETIN",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800357878  GBXX PESTILLO CIERRE CAJETIN"
+    },
+    {
+      "code": "0800327777",
+      "description": "GBXX PICK ROLLER (KIT 2 UNIDADES) SEPARATOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800327777  GBXX PICK ROLLER (KIT 2 UNIDADES) SEPARATOR"
+    },
+    {
+      "code": "0800338916",
+      "description": "GBXX PIÑON ARRASTRE UPPER/LOWER TRANSPORT",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800338916  GBXX PIÑON ARRASTRE UPPER/LOWER TRANSPORT"
+    },
+    {
+      "code": "0800485917",
+      "description": "GBXX PIÑON UPPER TRANSPORT",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800485917  GBXX PIÑON UPPER TRANSPORT"
+    },
+    {
+      "code": "0800312596",
+      "description": "GBXX PLACA POWER DC‐DC",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312596  GBXX PLACA POWER DC‐DC"
+    },
+    {
+      "code": "0800312569",
+      "description": "GBXX PLACA SEPARATOR PCB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312569  GBXX PLACA SEPARATOR PCB"
+    },
+    {
+      "code": "0800312550",
+      "description": "GBXX PLACA UPPER PCB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312550  GBXX PLACA UPPER PCB"
+    },
+    {
+      "code": "0800312499",
+      "description": "GBXX PREACEPTOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312499  GBXX PREACEPTOR"
+    },
+    {
+      "code": "0800365547",
+      "description": "GBXX PREVALIDADORA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800365547  GBXX PREVALIDADORA"
+    },
+    {
+      "code": "0800312587",
+      "description": "GBXX REED SWITCH PCB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312587  GBXX REED SWITCH PCB"
+    },
+    {
+      "code": "0800365565",
+      "description": "GBXX SEPARATOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800365565  GBXX SEPARATOR"
+    },
+    {
+      "code": "0800489218",
+      "description": "GBXX SHUTTER PG FJGBXX",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800489218  GBXX SHUTTER PG FJGBXX"
+    },
+    {
+      "code": "0800442170",
+      "description": "GBXX SHUTTER PG NCR –COMPATIBLE TODOS LOS MODELOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800442170  GBXX SHUTTER PG NCR –COMPATIBLE TODOS LOS MODELOS"
+    },
+    {
+      "code": "0800489236",
+      "description": "GBXX SHUTTER S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800489236  GBXX SHUTTER S100"
+    },
+    {
+      "code": "0800410267",
+      "description": "GBXX TAPA 15",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800410267  GBXX TAPA 15"
+    },
+    {
+      "code": "0800410267",
+      "description": "GBXX TAPA 15 DE SCROW",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800410267  GBXX TAPA 15 DE SCROW"
+    },
+    {
+      "code": "0800452319",
+      "description": "GBXX VALIDADORA BV100E",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800452319  GBXX VALIDADORA BV100E"
+    },
+    {
+      "code": "0800312774",
+      "description": "GBXX VALIDADORA GBVM",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800312774  GBXX VALIDADORA GBVM"
+    },
+    {
+      "code": "0800396933",
+      "description": "NFC ETIQUETA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800396933  NFC ETIQUETA"
+    },
+    {
+      "code": "0800395943",
+      "description": "NFC KIOSK II – ANTENA + CABLE + ETIQUETA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800395943  NFC KIOSK II – ANTENA + CABLE + ETIQUETA"
+    },
+    {
+      "code": "0800395952",
+      "description": "NFC KIOSK II – CONTROLADOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800395952  NFC KIOSK II – CONTROLADOR"
+    },
+    {
+      "code": "0800474386",
+      "description": "NFC KIOSK III ‐ ANTENA + CABLE + ETIQUETA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800474386  NFC KIOSK III ‐ ANTENA + CABLE + ETIQUETA"
+    },
+    {
+      "code": "0800474377",
+      "description": "NFC KIOSK III – CONTROLADOR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800474377  NFC KIOSK III – CONTROLADOR"
+    },
+    {
+      "code": "0800457653",
+      "description": "POCONO    CHASSIS FAN",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457653  POCONO    CHASSIS FAN"
+    },
+    {
+      "code": "0800457181",
+      "description": "POCONO    CONTOLADOR COMPLETO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457181  POCONO    CONTOLADOR COMPLETO"
+    },
+    {
+      "code": "0800457644",
+      "description": "POCONO    CPU FAN",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457644  POCONO    CPU FAN"
+    },
+    {
+      "code": "08003831087",
+      "description": "POCONO    MEMORIA 2GB DDR3 1333",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "08003831087  POCONO    MEMORIA 2GB DDR3 1333"
+    },
+    {
+      "code": "0800457555",
+      "description": "POCONO    MOTHERBOARD",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457555  POCONO    MOTHERBOARD"
+    },
+    {
+      "code": "0800457573",
+      "description": "POCONO    PLACA VIDEO VGA G210 PUBLICIDAD",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457573  POCONO    PLACA VIDEO VGA G210 PUBLICIDAD"
+    },
+    {
+      "code": "0800383082",
+      "description": "POCONO    PROCESADOR INTEL I5 2400 6M 1333 95W Q",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800383082  POCONO    PROCESADOR INTEL I5 2400 6M 1333 95W Q"
+    },
+    {
+      "code": "S0800351044",
+      "description": "POCONO    USB 2.0 PORT BREAK OUT ASSEMBLY",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "S0800351044  POCONO    USB 2.0 PORT BREAK OUT ASSEMBLY"
+    },
+    {
+      "code": "0800309500",
+      "description": "PPR2100    GUIA METALICA BOCA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800309500  PPR2100    GUIA METALICA BOCA"
+    },
+    {
+      "code": "0800303695",
+      "description": "PPR2100    MS‐READER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800303695  PPR2100    MS‐READER"
+    },
+    {
+      "code": "0800248390",
+      "description": "PPR2100    PASSBOOK PRINTER PPR2100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800248390  PPR2100    PASSBOOK PRINTER PPR2100"
+    },
+    {
+      "code": "0800478033",
+      "description": "PPR2100    PASSBOOK PRINTER PPR2100 F8000 IBERCAJA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800478033  PPR2100    PASSBOOK PRINTER PPR2100 F8000 IBERCAJA"
+    },
+    {
+      "code": "0800395453",
+      "description": "PPRX200GL   CHAPA METALICA BOCA DE ENTRADA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800395453  PPRX200GL   CHAPA METALICA BOCA DE ENTRADA"
+    },
+    {
+      "code": "0800435936",
+      "description": "PPRX200GL   FUENTE DE ALIMENTACION INTERNA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800435936  PPRX200GL   FUENTE DE ALIMENTACION INTERNA"
+    },
+    {
+      "code": "0800435954",
+      "description": "PPRX200GL   GOMAS DE CAMBIO DE PAGINA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800435954  PPRX200GL   GOMAS DE CAMBIO DE PAGINA"
+    },
+    {
+      "code": "0800435918",
+      "description": "PPRX200GL   IMS UNIT",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800435918  PPRX200GL   IMS UNIT"
+    },
+    {
+      "code": "0800398110",
+      "description": "PPRX200GL   MS R/W UNIT",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800398110  PPRX200GL   MS R/W UNIT"
+    },
+    {
+      "code": "0800435945",
+      "description": "PPRX200GL   PCB PRX10CB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800435945  PPRX200GL   PCB PRX10CB"
+    },
+    {
+      "code": "0800435927",
+      "description": "PPRX200GL   PRINT HEAD",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800435927  PPRX200GL   PRINT HEAD"
+    },
+    {
+      "code": "0800435909",
+      "description": "PPRX200GL   UNIDAD COMPLETA PPRX200GL",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800435909  PPRX200GL   UNIDAD COMPLETA PPRX200GL"
+    },
+    {
+      "code": "0800487336",
+      "description": "Q170 I5    CABLE AMPLIACION RS232 INTERNO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487336  Q170 I5    CABLE AMPLIACION RS232 INTERNO"
+    },
+    {
+      "code": "0800487880",
+      "description": "Q170 I5    CABLE AMPLIACION X 4 USB INTERNO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487880  Q170 I5    CABLE AMPLIACION X 4 USB INTERNO"
+    },
+    {
+      "code": "0800446513",
+      "description": "Q170 I5    CABLE INTERNO BOTON ENCENDIDO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446513  Q170 I5    CABLE INTERNO BOTON ENCENDIDO"
+    },
+    {
+      "code": "0800492071",
+      "description": "Q170 I5    COOLER CPU SOCKET LGA115X –2019",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800492071  Q170 I5    COOLER CPU SOCKET LGA115X –2019"
+    },
+    {
+      "code": "0800486694",
+      "description": "Q170 I5    KIT CONTROLADOR Q170 I5 3.6/Q170",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800486694  Q170 I5    KIT CONTROLADOR Q170 I5 3.6/Q170"
+    },
+    {
+      "code": "0800487318",
+      "description": "Q170 I5    MEMORIA 4GB DDR4 2133 (X1)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487318  Q170 I5    MEMORIA 4GB DDR4 2133 (X1)"
+    },
+    {
+      "code": "0800487292",
+      "description": "Q170 I5    PLACA BASE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487292  Q170 I5    PLACA BASE"
+    },
+    {
+      "code": "0800498253",
+      "description": "Q170 I5    PLACA VIDEO NVIDIA GEFORCE GT1030 (CON RF)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498253  Q170 I5    PLACA VIDEO NVIDIA GEFORCE GT1030 (CON RF)"
+    },
+    {
+      "code": "0800498413",
+      "description": "Q170 I5    PLACAA 4 PUERTOS USB 3.0 VIA VLI VL805 (CON RF)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498413  Q170 I5    PLACAA 4 PUERTOS USB 3.0 VIA VLI VL805 (CON RF)"
+    },
+    {
+      "code": "0800446443",
+      "description": "Q170 I5    POWER SUPPLY FSP400‐50AAC",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446443  Q170 I5    POWER SUPPLY FSP400‐50AAC"
+    },
+    {
+      "code": "0800487309",
+      "description": "Q170 I5    PROCESADOR INTEL I5‐6500",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487309  Q170 I5    PROCESADOR INTEL I5‐6500"
+    },
+    {
+      "code": "0800457993",
+      "description": "Q170 I5    SSD 128GB INNODISK 3ME4",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457993  Q170 I5    SSD 128GB INNODISK 3ME4"
+    },
+    {
+      "code": "0800487336",
+      "description": "Q170 I7    CABLE AMPLIACION RS232 INTERNO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487336  Q170 I7    CABLE AMPLIACION RS232 INTERNO"
+    },
+    {
+      "code": "0800487880",
+      "description": "Q170 I7    CABLE AMPLIACION X4 USB INTERNO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487880  Q170 I7    CABLE AMPLIACION X4 USB INTERNO"
+    },
+    {
+      "code": "0800492071",
+      "description": "Q170 I7    COLLER CPU SOCKET LGA115X –2019",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800492071  Q170 I7    COLLER CPU SOCKET LGA115X –2019"
+    },
+    {
+      "code": "0800489290",
+      "description": "Q170 I7    KIT CONTROLADOR I7_4.0/Q170/2R4/256",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800489290  Q170 I7    KIT CONTROLADOR I7_4.0/Q170/2R4/256"
+    },
+    {
+      "code": "0800501926",
+      "description": "Q170 I7    KIT Q170 I7 MIGRACION NCR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800501926  Q170 I7    KIT Q170 I7 MIGRACION NCR"
+    },
+    {
+      "code": "0800506226",
+      "description": "Q170 I7    MEMORIA 4GB DDR4 2666 (X2 ?)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800506226  Q170 I7    MEMORIA 4GB DDR4 2666 (X2 ?)"
+    },
+    {
+      "code": "0800498413",
+      "description": "Q170 I7    PLACA 4 PUERTOS USB 3.0 VIA VLI VL805 (CON RF)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498413  Q170 I7    PLACA 4 PUERTOS USB 3.0 VIA VLI VL805 (CON RF)"
+    },
+    {
+      "code": "0800487292",
+      "description": "Q170 I7    PLACA BASE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487292  Q170 I7    PLACA BASE"
+    },
+    {
+      "code": "0800498253",
+      "description": "Q170 I7    PLACA NVIDIA GEFORCE GT1030 (CON RF)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498253  Q170 I7    PLACA NVIDIA GEFORCE GT1030 (CON RF)"
+    },
+    {
+      "code": "0800446443",
+      "description": "Q170 I7    POWER SUPPLY FSP400‐50AAC",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446443  Q170 I7    POWER SUPPLY FSP400‐50AAC"
+    },
+    {
+      "code": "0800504497",
+      "description": "Q170 I7    PROCESADOR INTEL I7‐6700",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800504497  Q170 I7    PROCESADOR INTEL I7‐6700"
+    },
+    {
+      "code": "0800504488",
+      "description": "Q170 I7    SSD 256GB 2.5IN WD PC SA530 3D",
+      "imageRef": "4",
+      "source": "Repuestos.pdf",
+      "rawLine": "0800504488  Q170 I7    SSD 256GB 2.5IN WD PC SA530 3D"
+    },
+    {
+      "code": "0800487880",
+      "description": "Q77 BRACKET INTERNO 4 PUERTOS USB",
+      "imageRef": "4",
+      "source": "Repuestos.pdf",
+      "rawLine": "0800487880  Q77 BRACKET INTERNO 4 PUERTOS USB"
+    },
+    {
+      "code": "0800446513",
+      "description": "Q77 CABLE INTERNO BOTON ENCENDIDO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446513  Q77 CABLE INTERNO BOTON ENCENDIDO"
+    },
+    {
+      "code": "0800446504",
+      "description": "Q77 CABLE PARALELO INTERNO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446504  Q77 CABLE PARALELO INTERNO"
+    },
+    {
+      "code": "0800469515",
+      "description": "Q77 CONTROLADOR IQ5_2.4/CS_Q77/R4/S",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800469515  Q77 CONTROLADOR IQ5_2.4/CS_Q77/R4/S"
+    },
+    {
+      "code": "0800491571",
+      "description": "Q77 COOLER AKASA 7106HP",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800491571  Q77 COOLER AKASA 7106HP"
+    },
+    {
+      "code": "0800492071",
+      "description": "Q77 COOLER EKL 21909",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800492071  Q77 COOLER EKL 21909"
+    },
+    {
+      "code": "0800457644",
+      "description": "Q77 COOLER XILENCE XC032",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800457644  Q77 COOLER XILENCE XC032"
+    },
+    {
+      "code": "0800357324",
+      "description": "Q77 DVD SATA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800357324  Q77 DVD SATA"
+    },
+    {
+      "code": "0800498244",
+      "description": "Q77 KIT RECONOCIMIENTO FACIAL Q77",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498244  Q77 KIT RECONOCIMIENTO FACIAL Q77"
+    },
+    {
+      "code": "0800446489",
+      "description": "Q77 MEMORIA 2GB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446489  Q77 MEMORIA 2GB"
+    },
+    {
+      "code": "0800446443",
+      "description": "Q77 PC POWER SUPPLY",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446443  Q77 PC POWER SUPPLY"
+    },
+    {
+      "code": "0800446452",
+      "description": "Q77 PLACA BASE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446452  Q77 PLACA BASE"
+    },
+    {
+      "code": "0800498253",
+      "description": "Q77 PLACA VIDEO GEFORCE GT1030 (DOS SALIDAS DE VIDEO) (CON RF)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498253  Q77 PLACA VIDEO GEFORCE GT1030 (DOS SALIDAS DE VIDEO) (CON RF)"
+    },
+    {
+      "code": "0800498422",
+      "description": "Q77 PLACA VIDEO GEFORCE GT730 (TRES SALIDAS DE VIDEO) (CON RF)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498422  Q77 PLACA VIDEO GEFORCE GT730 (TRES SALIDAS DE VIDEO) (CON RF)"
+    },
+    {
+      "code": "0800498413",
+      "description": "Q77 PLACAA 4 PUERTOS USB 3.0 VIA VLI VL805 (CON RF)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498413  Q77 PLACAA 4 PUERTOS USB 3.0 VIA VLI VL805 (CON RF)"
+    },
+    {
+      "code": "0800446461",
+      "description": "Q77 PROCESADOR INTEL I5‐2400 3.1GHZ 6MB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446461  Q77 PROCESADOR INTEL I5‐2400 3.1GHZ 6MB"
+    },
+    {
+      "code": "0800488004",
+      "description": "Q77 SSD KINSTON A400‐240GB A400 SATA3",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800488004  Q77 SSD KINSTON A400‐240GB A400 SATA3"
+    },
+    {
+      "code": "0800498262",
+      "description": "R. FACIAL    ADAPTADOR VIDEO VGA‐DVI",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498262  R. FACIAL    ADAPTADOR VIDEO VGA‐DVI"
+    },
+    {
+      "code": "0800472306",
+      "description": "R. FACIAL    ADAPTADOR VIDEO VGA‐HDMI",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800472306  R. FACIAL    ADAPTADOR VIDEO VGA‐HDMI"
+    },
+    {
+      "code": "0800489030",
+      "description": "R. FACIAL    CABLE USB C PARA CAMARA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800489030  R. FACIAL    CABLE USB C PARA CAMARA"
+    },
+    {
+      "code": "0800498351",
+      "description": "R. FACIAL    CAMARA ECON SEE3CAM",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498351  R. FACIAL    CAMARA ECON SEE3CAM"
+    },
+    {
+      "code": "0800498388",
+      "description": "R. FACIAL    CARATULA PARA CAMARA (SOLO SOPORTE)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498388  R. FACIAL    CARATULA PARA CAMARA (SOLO SOPORTE)"
+    },
+    {
+      "code": "0800498404",
+      "description": "R. FACIAL    CRISTAL ANTIVANDALICO PARACAMARA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498404  R. FACIAL    CRISTAL ANTIVANDALICO PARACAMARA"
+    },
+    {
+      "code": "0800498379",
+      "description": "R. FACIAL    KIT RECONOCIMIENTO FACIAL POCONO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498379  R. FACIAL    KIT RECONOCIMIENTO FACIAL POCONO"
+    },
+    {
+      "code": "0800498280",
+      "description": "R. FACIAL    KIT RECONOCIMIENTO FACIAL Q170",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498280  R. FACIAL    KIT RECONOCIMIENTO FACIAL Q170"
+    },
+    {
+      "code": "0800498244",
+      "description": "R. FACIAL    KIT RECONOCIMIENTO FACIAL Q77",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498244  R. FACIAL    KIT RECONOCIMIENTO FACIAL Q77"
+    },
+    {
+      "code": "0800498413",
+      "description": "R. FACIAL    PLACA AMPLIACION 4 PUERTOS USB 3.0",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498413  R. FACIAL    PLACA AMPLIACION 4 PUERTOS USB 3.0"
+    },
+    {
+      "code": "0800498253",
+      "description": "R. FACIAL    PLACA VIDEO GEFORCE GT1030 (PARA CPU Q170 I5 ‐2 SALIDAS DE VIDEO)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498253  R. FACIAL    PLACA VIDEO GEFORCE GT1030 (PARA CPU Q170 I5 ‐2 SALIDAS DE VIDEO)"
+    },
+    {
+      "code": "0800498422",
+      "description": "R. FACIAL    PLACA VIDEO GEFORCE GT730 (3 SALIDAS DE VIDEO)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498422  R. FACIAL    PLACA VIDEO GEFORCE GT730 (3 SALIDAS DE VIDEO)"
+    },
+    {
+      "code": "0800498397",
+      "description": "R. FACIAL    SOPORTE INTERIOR DE PLASTICO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498397  R. FACIAL    SOPORTE INTERIOR DE PLASTICO"
+    },
+    {
+      "code": "0800498397",
+      "description": "R. FACIAL    SOPORTE PARA CAMARA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498397  R. FACIAL    SOPORTE PARA CAMARA"
+    },
+    {
+      "code": "0800448209",
+      "description": "S100 BOCA ANTI‐SKIMMING CON CABLE (IBERCAJA / BCO. SANTANDER)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800448209  S100 BOCA ANTI‐SKIMMING CON CABLE (IBERCAJA / BCO. SANTANDER)"
+    },
+    {
+      "code": "0800448218",
+      "description": "S100 CONTROLADORA ANTI‐SKIMMING(IBERCAJA / BCO. SANTANDER)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800448218  S100 CONTROLADORA ANTI‐SKIMMING(IBERCAJA / BCO. SANTANDER)"
+    },
+    {
+      "code": "0800465813",
+      "description": "S100 CRISTAL PROTECTOR ESCANER",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800465813  S100 CRISTAL PROTECTOR ESCANER"
+    },
+    {
+      "code": "0800489566",
+      "description": "S100 ESCANER – BAR CODE READER JDK‐2111_REVB (S100)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800489566  S100 ESCANER – BAR CODE READER JDK‐2111_REVB (S100)"
+    },
+    {
+      "code": "0800494890",
+      "description": "S100 HDD 1 TB (IBERCAJA / BCO. SANTANDER)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800494890  S100 HDD 1 TB (IBERCAJA / BCO. SANTANDER)"
+    },
+    {
+      "code": "0800491349",
+      "description": "S100 MONITOR CLIENTE KF KF305 ALTO BRILLO IBERCAJA / B. SANTANDER S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800491349  S100 MONITOR CLIENTE KF KF305 ALTO BRILLO IBERCAJA / B. SANTANDER S100"
+    },
+    {
+      "code": "0800491330",
+      "description": "S100 MONITOR CLIENTE KF KFE303 MEDIO BRILLO IBERCAJA / B. SANTANDER S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800491330  S100 MONITOR CLIENTE KF KFE303 MEDIO BRILLO IBERCAJA / B. SANTANDER S100"
+    },
+    {
+      "code": "0800446121",
+      "description": "S100 MONITOR CLIENTE KORTEK BRILLO NORMAL(250CD)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446121  S100 MONITOR CLIENTE KORTEK BRILLO NORMAL(250CD)"
+    },
+    {
+      "code": "0800446130",
+      "description": "S100 MONITOR CLIENTE LORTEK ALTO BRILLO (600CD)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446130  S100 MONITOR CLIENTE LORTEK ALTO BRILLO (600CD)"
+    },
+    {
+      "code": "0800501953",
+      "description": "S100 Q170 I5 S100 COMPLETO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800501953  S100 Q170 I5 S100 COMPLETO"
+    },
+    {
+      "code": "0800446023",
+      "description": "S100 SHUTTER G60",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446023  S100 SHUTTER G60"
+    },
+    {
+      "code": "0800475447",
+      "description": "S100 SHUTTER GBNA IBERCAJA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800475447  S100 SHUTTER GBNA IBERCAJA"
+    },
+    {
+      "code": "0800446158",
+      "description": "S100 TECLADO CLIENTE PCI EPP 3.0 IBERCAJA S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800446158  S100 TECLADO CLIENTE PCI EPP 3.0 IBERCAJA S100"
+    },
+    {
+      "code": "0800495942",
+      "description": "S100 TECLADO CLIENTE PCI EPP 5.0 IBERCAJA S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800495942  S100 TECLADO CLIENTE PCI EPP 5.0 IBERCAJA S100"
+    },
+    {
+      "code": "0800464547",
+      "description": "S100 TOUCH SCREEN + SOPORTE S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800464547  S100 TOUCH SCREEN + SOPORTE S100"
+    },
+    {
+      "code": "0800448192",
+      "description": "S100 UNIDAD DE TARJETAS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800448192  S100 UNIDAD DE TARJETAS"
+    },
+    {
+      "code": "0800458858",
+      "description": "S100 UNIDAD DE TARJETAS CON ANTI‐LAZO LIBANES S100 BBVA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800458858  S100 UNIDAD DE TARJETAS CON ANTI‐LAZO LIBANES S100 BBVA"
+    },
+    {
+      "code": "0800351794",
+      "description": "TALLADEGA   CONTROLADOR COMPLETO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351794  TALLADEGA   CONTROLADOR COMPLETO"
+    },
+    {
+      "code": "0800491571",
+      "description": "TALLADEGA   COOLER PARA CORE 2 DUO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800491571  TALLADEGA   COOLER PARA CORE 2 DUO"
+    },
+    {
+      "code": "0800351785",
+      "description": "TALLADEGA   FAN 12V DC",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351785  TALLADEGA   FAN 12V DC"
+    },
+    {
+      "code": "0800255176",
+      "description": "TALLADEGA   FUENTE DE ALIMENTACION",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800255176  TALLADEGA   FUENTE DE ALIMENTACION"
+    },
+    {
+      "code": "0800341010",
+      "description": "TALLADEGA   MEMORIA 1GB DDR2 800 PC2 6400",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800341010  TALLADEGA   MEMORIA 1GB DDR2 800 PC2 6400"
+    },
+    {
+      "code": "0800332832",
+      "description": "TALLADEGA   MEMORIA 1GB DDRII SDRAM PC2‐4200 CL4 (X2)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800332832  TALLADEGA   MEMORIA 1GB DDRII SDRAM PC2‐4200 CL4 (X2)"
+    },
+    {
+      "code": "0800351810",
+      "description": "TALLADEGA   PCB MAIN INTEL Q965 LA 775 EATX",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351810  TALLADEGA   PCB MAIN INTEL Q965 LA 775 EATX"
+    },
+    {
+      "code": "0800341056",
+      "description": "TALLADEGA   PLACA BASE INTEL Q965 LGA 775",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800341056  TALLADEGA   PLACA BASE INTEL Q965 LGA 775"
+    },
+    {
+      "code": "0800389273",
+      "description": "TALLADEGA   PLACA VIDEO NVIDIA GEFORCE 8400GS (ZICO E)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800389273  TALLADEGA   PLACA VIDEO NVIDIA GEFORCE 8400GS (ZICO E)"
+    },
+    {
+      "code": "0800476080",
+      "description": "TALLADEGA   PLACA VIDEO NVIDIA GEFORCE GT610",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800476080  TALLADEGA   PLACA VIDEO NVIDIA GEFORCE GT610"
+    },
+    {
+      "code": "0800387462",
+      "description": "TALLADEGA   PROCESADOR INTEL CORE 2 DUO 2.13GHZ 1066MHZ LGA775",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800387462  TALLADEGA   PROCESADOR INTEL CORE 2 DUO 2.13GHZ 1066MHZ LGA775"
+    },
+    {
+      "code": "0800387462",
+      "description": "TALLADEGA   PROCESADOR INTEL CORE 2 DUO E6400 2M CACHE 2.13GHZ 1066 FSB",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800387462  TALLADEGA   PROCESADOR INTEL CORE 2 DUO E6400 2M CACHE 2.13GHZ 1066 FSB"
+    },
+    {
+      "code": "0800351044",
+      "description": "TALLADEGA   USB 2.0 PORT BREAK OUT ASSEMBLY",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800351044  TALLADEGA   USB 2.0 PORT BREAK OUT ASSEMBLY"
+    },
+    {
+      "code": "0112020312",
+      "description": "UTILES     BOX 100 CLINEX SCOTT",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0112020312  UTILES     BOX 100 CLINEX SCOTT"
+    },
+    {
+      "code": "0800382886",
+      "description": "UTILES     BRIDA (PAQUETE 100 UNIDADES)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800382886  UTILES     BRIDA (PAQUETE 100 UNIDADES)"
+    },
+    {
+      "code": "0800488095",
+      "description": "UTILES     BRIDA CON SOLAPA PARA CAJETINES STORE EXTERNALIZADA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800488095  UTILES     BRIDA CON SOLAPA PARA CAJETINES STORE EXTERNALIZADA"
+    },
+    {
+      "code": "0800315272",
+      "description": "UTILES     CAJA 100 GUANTES LATEX CAT III. G",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800315272  UTILES     CAJA 100 GUANTES LATEX CAT III. G"
+    },
+    {
+      "code": "0800315263",
+      "description": "UTILES     CAJA 100 GUANTES LATEX CAT III. M",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800315263  UTILES     CAJA 100 GUANTES LATEX CAT III. M"
+    },
+    {
+      "code": "0800315254",
+      "description": "UTILES     CAJA 100 GUANTES LATEX CAT III. XL/XXL",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800315254  UTILES     CAJA 100 GUANTES LATEX CAT III. XL/XXL"
+    },
+    {
+      "code": "0800315307",
+      "description": "UTILES     CAJA 100 GUANTES NITRILO CAT III. G",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800315307  UTILES     CAJA 100 GUANTES NITRILO CAT III. G"
+    },
+    {
+      "code": "0800315290",
+      "description": "UTILES     CAJA 100 GUANTES NITRILO CAT III. M",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800315290  UTILES     CAJA 100 GUANTES NITRILO CAT III. M"
+    },
+    {
+      "code": "0800315281",
+      "description": "UTILES     CAJA 100 GUANTES NITRILO CAT III. XL/XXL",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800315281  UTILES     CAJA 100 GUANTES NITRILO CAT III. XL/XXL"
+    },
+    {
+      "code": "0133088004",
+      "description": "UTILES     CLEANING CARD CRW",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0133088004  UTILES     CLEANING CARD CRW"
+    },
+    {
+      "code": "0133081314",
+      "description": "UTILES     CLEANING CARD LIBRETAS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0133081314  UTILES     CLEANING CARD LIBRETAS"
+    },
+    {
+      "code": "0917100040",
+      "description": "UTILES     COIL TRAPO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0917100040  UTILES     COIL TRAPO"
+    },
+    {
+      "code": "0800513708",
+      "description": "UTILES     GEL DESINFECTANTE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800513708  UTILES     GEL DESINFECTANTE"
+    },
+    {
+      "code": "0800513637",
+      "description": "UTILES     GEL DESINFECTANTE 1L",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800513637  UTILES     GEL DESINFECTANTE 1L"
+    },
+    {
+      "code": "0917008034",
+      "description": "UTILES     HEAD CLEANING SOLVENT 250ML (CRC)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0917008034  UTILES     HEAD CLEANING SOLVENT 250ML (CRC)"
+    },
+    {
+      "code": "0917000050",
+      "description": "UTILES     ISOPROPILICO EN SPRAY C/BROCHA",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0917000050  UTILES     ISOPROPILICO EN SPRAY C/BROCHA"
+    },
+    {
+      "code": "0800181996",
+      "description": "UTILES     JABON ESPECIAL PARA RODILLOS Y GOMAS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800181996  UTILES     JABON ESPECIAL PARA RODILLOS Y GOMAS"
+    },
+    {
+      "code": "0800361505",
+      "description": "UTILES     KIT 100 BASTONCILLOS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800361505  UTILES     KIT 100 BASTONCILLOS"
+    },
+    {
+      "code": "0800181996",
+      "description": "UTILES     LIMPIADOR LIQUIDO 500CC",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800181996  UTILES     LIMPIADOR LIQUIDO 500CC"
+    },
+    {
+      "code": "0800513619",
+      "description": "UTILES     MASCARILLA FFP2 (1 UNIDAD)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800513619  UTILES     MASCARILLA FFP2 (1 UNIDAD)"
+    },
+    {
+      "code": "0800513735",
+      "description": "UTILES     MASCARILLA QUIRURGICA (50 UNIDADES)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800513735  UTILES     MASCARILLA QUIRURGICA (50 UNIDADES)"
+    },
+    {
+      "code": "0999120053",
+      "description": "UTILES     OIL DENSO (YELLOW) 500CC",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0999120053  UTILES     OIL DENSO (YELLOW) 500CC"
+    },
+    {
+      "code": "0800181987",
+      "description": "UTILES     POWER 133 GRASA ENVASE 250CC",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800181987  UTILES     POWER 133 GRASA ENVASE 250CC"
+    },
+    {
+      "code": "0800485597",
+      "description": "UTILES     SOPLADOR – BLOWER X3 HURRICANE",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800485597  UTILES     SOPLADOR – BLOWER X3 HURRICANE"
+    },
+    {
+      "code": "0995120033",
+      "description": "UTILES     SPRAY LIMPIEZA DISCOS CMI",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0995120033  UTILES     SPRAY LIMPIEZA DISCOS CMI"
+    },
+    {
+      "code": "0800227929",
+      "description": "VARIOS    BILLETE DUMMY 10€ (ALTERNATIVO 0800300867)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800227929  VARIOS    BILLETE DUMMY 10€ (ALTERNATIVO 0800300867)"
+    },
+    {
+      "code": "0800227956",
+      "description": "VARIOS    BILLETE DUMMY 100€ (ALTERNATIVO 0800300894)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800227956  VARIOS    BILLETE DUMMY 100€ (ALTERNATIVO 0800300894)"
+    },
+    {
+      "code": "0800227938",
+      "description": "VARIOS    BILLETE DUMMY 20€ (ALTERNATIVO 0800300876)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800227938  VARIOS    BILLETE DUMMY 20€ (ALTERNATIVO 0800300876)"
+    },
+    {
+      "code": "0800227965",
+      "description": "VARIOS    BILLETE DUMMY 200€ (ALTERNATIVO 0800300901)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800227965  VARIOS    BILLETE DUMMY 200€ (ALTERNATIVO 0800300901)"
+    },
+    {
+      "code": "0800227910",
+      "description": "VARIOS    BILLETE DUMMY 5€ (ALTERNATIVO 0800300858)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800227910  VARIOS    BILLETE DUMMY 5€ (ALTERNATIVO 0800300858)"
+    },
+    {
+      "code": "0800227947",
+      "description": "VARIOS    BILLETE DUMMY 50€ (ALTERNATIVO 0800300885)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800227947  VARIOS    BILLETE DUMMY 50€ (ALTERNATIVO 0800300885)"
+    },
+    {
+      "code": "0800227974",
+      "description": "VARIOS    BILLETE DUMMY 500€ (ALTERNATIVO 0800300910)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800227974  VARIOS    BILLETE DUMMY 500€ (ALTERNATIVO 0800300910)"
+    },
+    {
+      "code": "0800182370",
+      "description": "VARIOS    BOMBIN +LLAVES PUERTA SUPERIOR PG",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800182370  VARIOS    BOMBIN +LLAVES PUERTA SUPERIOR PG"
+    },
+    {
+      "code": "0800492071",
+      "description": "VARIOS    COOLER LGA115X EKL 21909 (PARA I5)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800492071  VARIOS    COOLER LGA115X EKL 21909 (PARA I5)"
+    },
+    {
+      "code": "0800491571",
+      "description": "VARIOS    COOLER LGA775 / LGA115X AK‐CCE‐7106HP (PARA DUAL CORE)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800491571  VARIOS    COOLER LGA775 / LGA115X AK‐CCE‐7106HP (PARA DUAL CORE)"
+    },
+    {
+      "code": "0800255176",
+      "description": "VARIOS    FA PC ATM ROHS FORTOM ATX‐40 (FA ATX ESTÁNDAR)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800255176  VARIOS    FA PC ATM ROHS FORTOM ATX‐40 (FA ATX ESTÁNDAR)"
+    },
+    {
+      "code": "0800498039",
+      "description": "VARIOS    GUIA UNIDADES G510 / FRONTAL S100",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498039  VARIOS    GUIA UNIDADES G510 / FRONTAL S100"
+    },
+    {
+      "code": "0800498057",
+      "description": "VARIOS    GUIA UNIDADES MONEDAS",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498057  VARIOS    GUIA UNIDADES MONEDAS"
+    },
+    {
+      "code": "0800498020",
+      "description": "VARIOS    GUIA UNIDADES PPR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498020  VARIOS    GUIA UNIDADES PPR"
+    },
+    {
+      "code": "0800498011",
+      "description": "VARIOS    GUIA UNIDADES RPR",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498011  VARIOS    GUIA UNIDADES RPR"
+    },
+    {
+      "code": "0800498048",
+      "description": "VARIOS    INTERRUPTOR GENERAL PG FJ",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800498048  VARIOS    INTERRUPTOR GENERAL PG FJ"
+    },
+    {
+      "code": "0800338989",
+      "description": "VARIOS    PASTA TERMICA DE SILICONA 1.5G",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800338989  VARIOS    PASTA TERMICA DE SILICONA 1.5G"
+    },
+    {
+      "code": "0214150292",
+      "description": "VARIOS    PILA 3.2V CR232",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0214150292  VARIOS    PILA 3.2V CR232"
+    },
+    {
+      "code": "0800478970",
+      "description": "VARIOS    SCREW BLOCKER LOCTITE 242 (6ML)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800478970  VARIOS    SCREW BLOCKER LOCTITE 242 (6ML)"
+    },
+    {
+      "code": "0800138071",
+      "description": "VARIOS    SWITCH E68 0.1AMP CABINET DOOR F8000",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800138071  VARIOS    SWITCH E68 0.1AMP CABINET DOOR F8000"
+    },
+    {
+      "code": "0213010150",
+      "description": "VARIOS    SWITCH NBDU F8000",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0213010150  VARIOS    SWITCH NBDU F8000"
+    },
+    {
+      "code": "0800318448",
+      "description": "VARIOS    SWITCH VARILLAS PG FJ / ALARMA F8000",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800318448  VARIOS    SWITCH VARILLAS PG FJ / ALARMA F8000"
+    },
+    {
+      "code": "0800475919",
+      "description": "VARIOS    TARJETA DE TEST –CARD OF TEST NFC+BAND+CHIP (PEDIR CONTRA CONTATO)",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800475919  VARIOS    TARJETA DE TEST –CARD OF TEST NFC+BAND+CHIP (PEDIR CONTRA CONTATO)"
+    },
+    {
+      "code": "0800492687",
+      "description": "VARIOS    TARJETA DE TEST ‐HIGH COHERTIVENES TEST CARD HICO",
+      "imageRef": null,
+      "source": "Repuestos.pdf",
+      "rawLine": "0800492687  VARIOS    TARJETA DE TEST ‐HIGH COHERTIVENES TEST CARD HICO"
+    },
+    {
+      "code": "0800494890",
+      "description": "HDD 1TB ST1000DM010 (DISCO MECANICO IBERCAJA / BCO. SANTANDER)",
+      "imageRef": null,
+      "source": "S100.pdf",
+      "rawLine": "0800494890  HDD 1TB ST1000DM010 (DISCO MECANICO IBERCAJA / BCO. SANTANDER)"
+    },
+    {
+      "code": "0800513708",
+      "description": "GEL DESINFECTANTE HIDROALCOHOLICO (500CL)",
+      "imageRef": null,
+      "source": "VARIOS.pdf",
+      "rawLine": "0800513708  GEL DESINFECTANTE HIDROALCOHOLICO (500CL)"
+    },
+    {
+      "code": "0800513637",
+      "description": "GEL DESINFECTANTE HIDROALCOHOLICO (1L)",
+      "imageRef": null,
+      "source": "VARIOS.pdf",
+      "rawLine": "0800513637  GEL DESINFECTANTE HIDROALCOHOLICO (1L)"
+    }
+  ],
+  "pdfDetails": {
+    "CONTROLADOR.pdf": {
+      "partsCount": 68,
+      "textSample": "\n\nCONTROLADOR V. 221112\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   0800531794  CONTROLADOR TALLADEGA \n   0800341056  PLACA BASE INTEL Q965 LGA 775 EATX \n   0800387462  PROCESADOR INTEL CORE 2 DUO E6400 2.13GHZ LGA 775 \n   0800332832  MEMORIA 1GB DDR II 800 PC2 6400 \n   0800491571  COOLER PARA CORE 2 DUO AKASA AK‐CCE‐7106HP \n   0800255176  FUENTE DE ALIMENTACION \n   0800476080  PLACA VGA NVIDIA GEFORCE GT610 \n   0800457573  PLACA VGA NVIDIA GEFORCE GT210 \n   0800389273  PLACA VGA NVIDIA GEFORCE GT8400 (ZICO E) \n   0800351044  USB 2.0 PORT BREAK OUT ASSEMBLY \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n  \n\nCONTROLADOR V. 221112\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   0800457181  CONTROLADOR POCONO \n   0800457555  PLACA BASE POCONO I5 \n   0800383082  PROCESADOR INTEL I5‐2400 6MB 1333 \n   0800383108  (X2) MEMORIA 2GB. DDR3 1333 \n   0800492071  COOLER PARA I5 EKL‐2019 \n   0800255176  FUENTE DE ALIMENTACION \n   0800340672  CABLE INTERNO RESET \n   0800457573  PLACA VIDEO PUBLICIDAD G210 \n   0800498413  PLACA AMPLIACION PCIE 4 PUERTOS USB 3.0 (RF) \n   0800473564  SSD KINGSTON 120GB \n   0800504095  MINI KIT RF (PLACA VIDEO G710 + ADAPTADOR HDMI/VGA) \n   0800351044  CABLE INTERNO 4 PUERTOS USB 2.0 \n   0800080186  DVD‐ROM SATA NEGRO \n   0800498379  KIT RECONOCIMIENTO FACIAL POCONO \n   \n   \n   \n   \n   \n   \n   \n   \n \n  \nPOCONO SIN RF  POCONO CON RF  \n\nCONTROLADOR V. 221112\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   0800469515  CONTROLADOR Q77 PG FJ IQ5_2.4/CS_Q77/R4/S \n   0800446452  PLACA BASE Q77 \n   0800446461  PROCESADOR INTEL I5‐2400 3.10GHZ. 6MB \n   0800446489  MEMORIA 2GB. \n   0800492071  COOLER PARA I5 EKL‐2019 \n   0800255176  FUENTE DE ALIMENTACION \n   0800446504  CABLE PUERTO PARALELO \n   0800446513  CABLE BOTON DE ENCENDIDO \n   0800487880  CABLE AMPLIACION 4 PUERTOS USB INTERNOS \n   0800498422  PLACA VIDEO NVIDIA GT730 (TRES SALIDAS DE VIDEO) (RF) \n   0800498253  PLACA VIDEO NVIDIA GT1030 (DOS SALIDAS DE VIDEO) (RF) \n   0800498413  PLACA AMPLIACION PCIE 4 PUERTOS USB 3.0 (RF) \n   0800457993  SSD 128GB INNODISK 3ME4 \n   0800448004  SSD 240GB A400 SATA3 \n   0800498244  KIT RECONOCIMIENTO FACIAL Q77 \n   \n   \n   \n   \n   \n   \n   \n \n  \nQ77 SIN RF\nQ77 CON RF  \nTARJETA GRAFICA GT730 \nQ77 CON RF  \nTARJETA GRAFICA GT1030 \n\nCONTROLADOR V. 221112\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   0800486694  KIT CONTROLLER Q170 I5 3.6/Q170 \n   0800498398  KIT CONTR. I5_Q170/8GB \n   0800489290  KIT CONTR. I7_4.0/Q170/2R4/256 \n   0800498307  KIT CONTR. I7_4.0/Q170/2R4/256 \n   0800487292  PLACA BASE Q170H4‐M6 \n   0800487318  (X1) MEMORIA 4GB DDR4 2133 (PARA Q170‐I5) \n   0800506226  (X2) MEMORIA 4GB DDR4 2666 (PARA Q170‐I7) \n   0800487309  PROCESADOR INTEL I5‐6500 (PARA Q170‐I5) \n   0800504497  PROCESADOR INTEL I7‐6700 (PARA Q170‐I7) \n   0800492071  COOLER EKL‐2019 \n   0800255176  FUENTE DE ALIMENTACION \n   0800487880  CABLE AMPLIACION 4 PUERTOS USB INTERNOS \n   0800446513  CABLE BOTON DE ENCENDIDO \n   0800487336  CABLE AMPLIACION 2 PUERTOS SERIE \n   0800498253  PLACA VIDEO NVIDIA GEFORCE GT1030 (RF) \n   0800498413  PLACA AMPLIACION PCIE 4 PUERTOS USB 3.0 (RF) \n   0800457993  SSD 128GB INNODISK 3ME4 (PARA Q170‐I5) \n   0800504488  SSD 256GB WD PC SA530 3D (PARA Q170‐I7) \n   0800498280  KIT RECONOCIMIENTO FACIAL Q170 \n   0800501926  KIT Q170 I7 MIGRACION NCR \n   \n   \n \n  \nQ170 FJ SIN RF  \nQ170 FJ CON RF  \nTARJETA GRAFICA GT1030 \nQ170 NCR CON RF  \nTARJETA GRAFICA GT1030 \nQ170 NCR SIN RF \n\nCONTROLADOR V. 221112\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   0800498244  KIT RECONOCIMIENTO FACIAL Q77 \n   0800498280  KIT RECONOCIMIENTO FACIAL Q170 \n   0800498379  KIT RECONOCIMIENTO FACIAL POCONO \n1   0800498351  CAMARA ECON 130 \n1   0800498397  SOPORTE INTERIOR DE PLASTICO \n1   0800498388  CARATULA (SOLO SOPORTE) \n2   0800498404  CRISTAL PROTECTOR \n3   0800489030  CABLE USB 3.0 \n4   0800498413  PLACA EXPANSORA 4 PUERTOS USB 3.0 \n5   0800498422  PLACA VIDEO GT730 \n5   0800498253  PLACA VIDEO GT1030 \n6   0800472306  ADAPTADOR HDMI – VGA \n7   0800498262  ADAPTADOR DVI ‐ VGA \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n1 \n2\n4 \n3 \n5 \n6\n7\nKIT RECONOCIMIENTO FACIAL "
+    },
+    "CRW.pdf": {
+      "partsCount": 1,
+      "textSample": "\n\nCRW V. 221106\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800448192  UNIDAD DE TARJETAS PG FJ SIN ANTI‐DEEP‐SKIMMING PG (PG FJ / IBERCAJA) \n1   0800490769  UNIDAD DE TARJETAS PG FJ CON ANTI‐DEEP‐SKIMMING PG FJ \n1   0800458858  UNIDAD DE TARJETAS BBVA CON ANTI‐LAZO LIBANES (2 PLACAS LATERALES) \n1   0800318983  UNIDAD DE TARJETAS PG NCR SIN ANTI‐DEEP‐SKIMMING \n1   0800495201  UNIDAD DE TARJETAS PG NCR CON ANTI‐DEEP‐SKIMMING \n1   0800376072  UNIDAD DE TARJETAS F8000 \n2   0800182691  CORREA DENTADA DEL MOTOR \n3 \n0800453210   CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRWPG NCR (USB MINI) \n4    0800486701   CONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B)\n5   0800448218  CONTROLADOR ANTISKIMMING (IBERCAJA / BCO. SANTANDER) \n6   0800448209  BOCA ANTISKIMMING (IBERCAJA / BCO. SNTANDER) \n7   0800491063  BLOQUEO ENTRADA TARJETAS PG FJ \n8   0800318171  BLOQUEO ENTRADA TARJETAS PG NCR \n9   0800469837  BLOQUEO ENTRADA TARJETAS S100 \n   \n   \n   \n   \n   \n   \n   \n   \n \n1 \n2 \n5 \n6 \n1\n+ \n+ \n3\n4 \n7 8 9"
+    },
+    "G510.pdf": {
+      "partsCount": 2,
+      "textSample": "\n\nG510 V. 221029\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   0800451418  BDU G510 2 DENOMINACIONES \n1   0800446960  TOP MODULE \n2   0800446979  LOWER UNIT 1‐2 \n3   0800447068  TRANSPORTE VERTICAL 1‐2 \n4   0800453826  LOWER UNIT 3‐4 OLD. MOTOR HACIA FUERA \n4   0800470102  LOWER UNIT 3‐4 NEW. MOTOR HACIA DENTRO \n5   0800446998  TRANSPORTE VERTICAL 3‐4. OLD MOTOR HACIA FUERA \n5   0800473966  TRANSPORTE VERTICAL 3‐4. NEW MOTOR HACIA DENTRO \n6   0800446951  MAIN PCB \n7   0800446997  REJECT BOX \n8   0800453835  CASSETTE \n9   0800447120  CONECTOR CASSETTE 1 \n10   0800447139  CONECTOR CASSETTE 2 \n11   0800447175  CONECTOR CASSETTE 3 \n12   0800447184  CONECTOR CASSETTE 4 \n13   0800479906  RETENEDOR DE CASSETTE \n14   0800447692  CONECTOR COVER \n15   0800447237  MOTOR PM1 \n   \n   \n   \n   \n \n  \n3\n5\n2 \n1 \n4 \n6\n7 \n8 \n9 \n13 \n15 \n14 \n10 \n11\n12\n\nG510 V. 221029\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800447004  FEED MODULE \n2   0800447638  RODILLOS DE PICK (6) \n3   0800447530  CORREA PLANA (3) \n4   0800447380  CORREA DENTADA FEEDER \n5   0800453835  CASSETTE \n6   0800447656  BISAGRA CAJETIN \n7   0800447102  GUIDE RIGHT \n8   0800447111  GUIDE LEFT \n9   0800447273  BOBINA CAJETIN \n10   0800447683  TAPA DE CONECTOR \n11   0800447095  CONJUNTO PULSADOR CAJETIN \n12   0800447647  RUBBER SHEET – 4 UNIDADES EN POOL \n13   0800478970  FIJADOR DE TORNILLO LOCTITE 242 6ML \n   0800109236  GALGA AJUSTE ESPESOR T=0,3 (PEDIR A TRAVES DE COORDINADOR) \n   \n   \n   \n   \n   \n   \n   \n   \n \n  \n1 \n2 3 4 6\n78191110\n5\n12 \n13 \n\nG510 V. 221029\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800450598  SENSOR U ‐ NEx, BSS, PDS, FRS, FHS, PRS, FSS, PHS, RES, SUS, SHS, FTS, BTS \n2   0800447308  SENSOR EMISOR ‐ PSx, BPRS, BPLS, GSS \n3   0800447326  SENSOR RECEPTOR ‐ ‐PSx, BPRS, BPLS, GSS \n4   0800447291  SENSOR EMISOR ‐ ‐CPS, PUS, POS, EJS, RTJS \n5   0800447317  SENSOR RECEPTOR – CPS, PUS, POS, EJS, RTJS \n6   0800304863  SENSOR EMISOR – RJS \n7   0800447282  SENSOR RECEPTOR – RJS \n8   0800142459  SENSOR ‐ MDS \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n1 \n2 \n3 \n6 \n7 "
+    },
+    "LIBRETAS.pdf": {
+      "partsCount": 0,
+      "textSample": "\n\nLIBRETAS V. 221112\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800435909  PBPR PPRX200GL \n1   0800248390  PBPR PPR2100 \n2   0800398110  MS‐READER PPRX200GL \n2   0800303695  MS‐READER PPR2100 \n3   0800435918  IMS UNIT PPRX200GL \n3   0800435963  CUBIERTA TRANSPARENTE DEL IMS PPRX200GL \n4   0800435927  PRINT HEAD PPRX200GL \n5   0800435972  PRINT HEAD MASK PPRX200GL \n6   0800435936  FUENTE DE ALIMENTACION PPRX20GL \n7   0800395453  CHAPA METALICA BOCA DE ENTRADA PPRX200GL \n7   0800309500  CHAPA METALICA BOCA DE ENTRADA PPR2100 \n8   0800435981  BOCA DE ENTRADA DE PLASTICO PPRX200GL \n9   0800435945  PLACA PRX10CB PPRX200GL \n10   0800436686  MANDO/POMO VERDE PPRX200GL \n11   0800436061  ACTUADOR S (ACTUADOR SENSOR DE ENTRADA DE LIBRETA) \n11   0800436052  ACTUADOR (ACTUADOR SENSOR DE ENTRADA DE LIBRETA) \n12   0800435954  GOMAS DE CAMBIO DE PAGINA \n   \n   \n   \n   \n   \n \n1 \n23\n45\n6 \n9 \n10 \n7 \n8 \n11\n12 "
+    },
+    "PUNT GROC.pdf": {
+      "partsCount": 31,
+      "textSample": "\n\nPUNT GROC V. 221106\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800470246  PLACA ILM92BB \n2   0800445998  PLACA HUB USB PG FJ (USB B) ALTERNATIVO 0800479112 \n2   0800479112  PLACA HUB USB PG FJ REV. 6 (USB B) \n3   0800445970  PLACA MISCELANEA PG FJ ILM10CC \n3   0800491964  PLACA MISCELANEA PG FJ JLM10 \n4   0800318858  HUB DC PG NCR \n5   0800318830  HUB USB PG NCR (MINI USB) \n6   0800318956  PLACA MISCELANEA PG NCR \n7   0800501800  GOP ACTUALIZADO PG NCR \n8   0800475526  FUENTE DE ALIMENTACION CON MODIFICACION COATING PG NCR \n10   0800479746  FUENTE DE ALIMENTACION PG FJ \n10   0800445961  FUENTE DE ALIMENTACION PG FJ (ALTERNATIVO 0800475205) \n10   0800475205  FUENTE DE ALIMENTACION PG FJ (ALTERNATIVO 0800479746) \n11   0800446194  GOP PG FJ \n12   0800475866  CABLE USB GOP A CPU PG FJ (DOBLE) \n   \n   \n   \n   \n   \n   \n   \n \n  \n1 2 \n3 \n45 \n6\nPG FJ PG NCR \n10\n11\n12\n7\n8\n\nPUNT GROC V. 221106\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800318368  CRISTAL ANTIVANDALICO PUBLICIDAD \n1   0800385534  MONITOR PUBLICIDAD KORTEK KT‐LA15CX \n1   0800446121  MONITOR PUBLICIDAD KORTEK (450CD) \n1   0800487345  MONITOR PUBLICIDAD KF \n2   0800385525  MONITOR CLIENTE KORTEK \n2   0800446130  MONITOR CLIENTE KORTEK \n2   0800475660  PANTALLA TACTIL  ( SUSTITUIR CONJUNTO POR MONITOR KF 0800487354) \n2   0800487354  MONITOR CLIENTE KFE301 \n3   0800436445  CAMARA USB \n3   0800443561  METACRILATO USB \n3   0800498351  CAMARA RF ECON 130 \n3   0800498397  SOPORTE INTERIOR DE PLASTICO CAMARA RF ECON 130 \n3   0800498388  CARATULA (SOLO SOPORTE) CAMARA RF ECON 130 \n3   0800498404  CRISTAL PROTECTOR CAMARA RF ECON 130 \n4   0800489227  SHUTTER G510 (PG FJ) \n4   0800442189  SHUTTER BILLETES (PG NCR) \n5   0800489218  SHUTTER GBXX (PG FJ) \n5   0800442170  SHUTTER GBXX (PG NCR) \n6   0800491063  BLOQUEO ENTRADA TARJETAS PG FJ \n7   0800318171  BLOQUEO ENTRADA TARJETAS PG NCR \n   \n   \n \n  \n1 \n2 \n4\n5 \n3 \n6 \n7 \n\nPUNT GROC V. 221106\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800318288  TECLADO CURSORES \n2   0800318279  TECLADO ALFABETICO \n3   0800318260  TECLADO NUMERICO 1.0 (CAIXA) ZZT588‐D12‐F16 \n3   0800453201  TECLADO NUMERICO 3.0 (CAIXA) ZZT588‐D300‐F20 \n3   0800495933  TECLADO NUMERICO 5.0 (CAIXA) ZZT588‐D400‐F50 \n3   0800470898  KIT MECANICO PARA CAMBIAR TECLADO PCI 1.0 POR PCI 3.0 \n   0800470460  CABLE CURSORES – ALFABETICO \n   0800470335  CABLE NUMERICO – ALFABETICO \n4   0800395943  CONTACTLESS ANTENA+CABLE+ANTENA KIOSK II \n4   0800395952  CONTACTLESS CONTROLADOR KIOSK II \n4   0800474386  CONTACTLESS ANTENA+CABLE+ETIQUETA KIOSK III \n4   0800474377  CONTACTLESS CONTROLADOR KIOSK III \n4   0800474386  CONTACTLESS ANTENA+CABLE+ETIQUETA KIOSK II EMV CO  V.2.6 \n4   0800487951  CONTACTLESS CONTROLADOR KIOSK II EMV CO V.2.6 \n5   0800446096  BAR CODE READER (PG FJ) \n5   0800503210  BCR JDK‐10216 (PG FJ) \n5   0800489566  BCR JDK2111_REVB (PG FJ) \n5   0800318821  SCANNER 2D READER (PG NCR) \n5   0800499412  KIT MECANICO TOBERA ESCANER + SOPORTE CRISTAL (SIN CRISTAL) \n6   0800318313  CRISTAL ESCANER \n   \n   \n \n  \n1 \n2\n3 \n4\n5 \n6\n\nPUNT GROC V. 221106\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800374500  ARO DE LUZ \n2   0800318901  EMBOCADURA LIBRETAS \n3   0800318885  EMBOCADURA TARJETAS \n4   0800318894  EMBOCADURA RECIBOS \n5   0800318929  EMBOCADURA INGRESOS \n6   0800318910  EMBOCADURA BILLETES \n2‐6   0800455101  CONJUNTO TODAS LAS EMBOCADURAS \n7   0800469980  FLICKER + DIFUSOR LARGO (PG FJ) \n7   0800421709  LARGE MEEI LENS (PG NCR) \n7   0800421727  LARGE MEEI BACK LIGHT (PG NCR) \n7   0800318386  LARGE MEEI (THREE MODULES) (PG NCR) \n8   0800469971  FLICKER + DIFUSOR CORTO (PG FJ) \n8   0800421692  SHORT MEEI LENS (PG NCR) \n8   0800421718  SHORT MEEI BACK LIGHT (PG NCR) \n8   0800318377  SHORT MEEI (TWO MODULES) (PG NCR) \n9   0800318395  FASCIA LIGHT POWER LEDS. BARRA DE LED VIEJA \n9   0800318402  FASCIA LIGHT PSU. FUENTE LEDS LUZ FRONTAL (ANTIGUA VER PROC144) \n9   0800318938  FASCIA ‐ METACRILATO ILUMINACION \n9   0800479274  FASCIA LIGHT SELF‐REGULATED. KIT CONVERSION LUMINARIA VIEJA‐NUEVA \n9   0800479498  FASCIA LIGHT SELF‐REGULATED. BARRA DE LEDS NUEVA \n   \n   \n \n  \n1 \n2\n3\n4\n6\n5 \n7 \n8 \n9 \n\nPUNT GROC V. 221106\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800492133  PUNTO AMARILLO DERECHO (PG FJ Y NCR A PARTIR MODELO E) \n1   0800492115  PUNTO AMARILLO DERECHO (PG NCR MODELO C/D) \n1   0800492142  PUNTO AMARILLO IZQUIERDO (PG FJ Y NCR A PARTIR MODELO E) \n1   0800492124  PUNTO AMARILLO IZQUIERDO (PG NCR MODELO C/D) \n2   0800469560  CLIP AND COVER (PG FJ) \n2   0800318876  CLIP AND COVER (PG NCR) \n3   0800436472  MESA DERECHA PG NCR MODELO D (1 MATRICULA+ TODA LA MECANICA) \n3   0800416118  MESA DERECHA PG NCR MODELOS C/D (2 MATRICULAS) \n3   0800436472  MESA DERECHA PG NCR MODELOS E/F/G Y PG FJ (1 MATRICULA + TODA LA MECANICA) \n3   0800469999  MESA DERECHA PG NCR MODELOS E/F/G Y PG FJ (SOLO MESA – 1 MATRICULA) \n3   0800416127  MESA IZQUIERDA PG NCR MODELOS "
+    },
+    "RBG 200.pdf": {
+      "partsCount": 31,
+      "textSample": "\n\nRBG 200 V. 221014\n \nDESPIECE ESQUEMATICO \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(5.X) \n2‐72‐7\nTransporte superior\n(1‐4) 0800425689 \n \nLAN\n(2‐5.2) 0800489076 \nI/F2 Silent Alarm\n(2‐6) 0800426394 \nI/O‐20IF \n(Interface) \n(2‐5)0800425723\nPanel  (2‐3/2‐4) \nISM   (1‐5) \nSalida  (1‐1) \nEntrada (1‐2) \nI/O‐20U \nUpper unit control \n(1‐6) 0800425698 \nHDV‐200 / HDV210 \nValidadora \n(1‐3) 0800425705 \nR \nS \nM \n10 \nI/O‐20L\nPlaca Lower Unit \n(3‐5) 0800425769 \nTransporte Vertical \n(3‐8) 0800433402 \nR \nS \nM \n1 \nR \nS \nM \n3 \nR \nS \nM \n5 \nR \nS \nM \n7 \nR \nS \nM \n9 \nR \nS \nM \n2 \nR \nS \nM \n4 \nR \nS \nM \n6 \nR \nS \nM \n8 \n(3‐4)\n(3‐3)\nAC In \nAlimentación \nMódulos \nFuente de alimentación \n(4‐2) 0800426321 \nPlaca reles \n(4‐3) 0800426492 \nControlador Linux\n(4‐4) 0800476936 \nKit lan Linux complete\n(4‐1) 0800489940\n(2‐7) \n(3‐7) \n(3‐2) \n(3‐1) \nNOTA: \n(x‐y) Código \nx = Figura \ny= Item \n\nRBG 200 V. 221014\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800425670  SALIDA – EXIT        LB33B0000Y0 \n2   0800425661  ENTRADA – ENTRANCE       LB33A0000Y0 \n2A   0800476678  GUIA ENTRADA IZQUIERDA      LB33A153PZ0 \n2B   0800476687  GUIA ENTRADA DERECHA      LB33A154PZ0 \n3   0800425705  VALIDADORA – BILL VALIDATION (HDV‐200)    LB33D0000Y0 \n4   0800425689  TRANSPORTE SUPERIOR – UPPER PATHWAY    LB33C0000PZ0 \n5   0800425714  ISM         LB33G0000Y0 \n5   0800476927  ISM (T) (CAPACIDAD 450 ES1/ES2)     LB33G0T00Y0 \n6   0800425698  PLACA CPU+I/O‐20U       LB33CE100Z0 \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n  \n \n2 \n1 \n3\n \n4 \n5 \n6 \nA\nB\n\nRBG 200 V. 221014\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800434198  ISM SET BOX (CHASIS ISM)      LB33G7300Z0 \n2   0800433803  VENTILADOR ISM – DC FAN (SUSTITUIR LOS DOS)           4M410081 \n3   0800426205  LCD – LCD OPERATOR PANNEL      4L230180 \n4   0800426562  RAS (G‐6568) ASSY – TECLADO OPERATOR PANNEL           LB33EE200Z0 \n5   0800425723  PLACA INTERFACE CPU+I/O‐20IF     LB33JE100Z0 \n5‐1   0800437079  PLACA RS232        YRBG‐45‐IB \n5‐2   0800426170  PLACA LAN        4J020634 \n6   0800426394  PLACA SILENT ALARM I/F2 (G‐5304)     FV82PE400Z0 \n7   0800426170  SOCKET LAN \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n  \n7 \n2 \n1 \n2 \n3\n4\n5‐1 \n5‐2 \n5 6 \n\nRBG 200 V. 221014\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800433395  RSM 10 (INFERIOR)       LB33M2000Y0 \n1   0800477515  RSM 10 (INFERIOR) ALTA CAPACIDAD – T)    LB33M2T00Y0 \n2   0800433386  RSM 9 (SUPERIOR)       LB33L2000Y0 \n2   0800477524  RSM 9 (INFERIOR) ALTA CAPACIDAD – T     LB33L2T00Y0 \n3   0800425750  LOWER RSM 2‐4‐6‐8       LB33M0000Y0 \n3   0800476918  LOWER RSM 2‐4‐6‐8 ALTA CAPACIDAD – T    LB33M0T00Y0 \n4   0800425741  UPPER RSM 1‐3‐5‐7       LB33L0000Y0 \n4   0800468892  UPPER RSM 1‐3‐5‐7‐ ALTA CAPACIDAD – T    LB33L5T00Y0 \n5   0800425769  PLACA LOWER CPU+I/O‐20L      LB33SE100Z0 \n6   0800433420  LOWER FRAME (RSM1 ‐> RSM8)     LB33S0000Y0 \n7   0800433411  RSM9‐RSM10 LOWER FRAME      LB33Q0000Y0 \n8   0800433402  TRANSPORTE VERTICAL       LB33R8000Y0 \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n  \n1 \n234\n5\n \n6\n8 \n7 \n\nRBG 200 V. 221014\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800489940  KIT LAN LINUX COMPLETE \n2   0800426321  POWER SUPPLY        4Z500580 \n3   0800426492  PLACA RELAY (G‐6438)       LB32EE300Z0 \n4   0800476936  CONTROLADOR LINUX       LB33VE100Z0 \n5   0800426660  VENTILADOR CNV13ASSY‐FANV2     LB33VF700Z0 \n   0800478266  KIT APERTURA EMERGENCIA POR FALLO EN F.A. PRINCIPAL       RBC034‐I‐JD \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n  \n1\n2\n3\n45\n\nRBG 200 V. 221014\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800435570  KIT BLOQUEO UPPER UNIT \n2   0800435589  KIT BLOQUEO LOWER UNIT \n   0800433778  INTERLOCK SWITCH MODULO SUPERIOR    4A220039 \n   0800433769  INTERLOCK SWITCH MODULO INFERIOR    4A220030 \n   0800433741  MICROSWITCH CARRO INFERIOR INSERTADO    4A0300040 \n   0800433750  PUCH‐BUTTON SWITCH (BOTON DE ‘OCUPADO’) \n   0800434385  ETIQUETAS NUMERADAS PARA LOS RSM    LB33S570PZ0 \n   0800476525  TARJETA COMPACT FLASH (PEDIR CONTRA CONTRATO) \n   0800478159  PLACA SECURE BOARD PLUS \n   0800443400  KIT SECURE BOARD PLUS COMPLETO     SBPLUSK1 \n   0800477944  MIDDLE TRANSPORT (PASO CAJA FUERTE) ‘V’ \n3   0800438327  JUEGO 2 LLAVES MODULO SUPERIOR     LB33K242PZ0 \n   0800498574  LLAVE CERRADURA TAPA INTERNA EN PUERTA \n   0800498565  CERRADURA TAPA INTERNA EN PUERTA \n   0800491367  CAJETIN MANUAL DE LA PUERTA     LB33V3620Z0 \n   0800495755  ACTUADOR INTERLOCK LOWER DOOR     LB33V360PZ0 \n   0800496521  EMBOCADURA BUZON MANUAL LATERALES    LB33B3630Z0 \n   0800496512  SOPORTE BUZON MANUAL EN LA PUERTA    LB33V361PZ0 \n   \n   \n   \n   \n \n  \nx1 \nx1 \nx2 \nx1 \nx2 \nx10 \nx1 \nx1 \nx1 x1 \nx5 x34 \nx4 \nx1 \nx2 \n3 \n2\n1\n\nRBG 200 V. 221014\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800441359  TECLADO MINITECH COMPLETO     T9520 "
+    },
+    "RECIBOS.pdf": {
+      "partsCount": 4,
+      "textSample": "\n\nRECIBOS V. 221112\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800448245  IMPRESORA RECIBOS BK‐T080II \n2   0800458536  CORTADORA \n3   0800499421  TOPE VERDE FIJACION ROLLO DE RECIBOS \n4   0800458545  PALANCA VERDE CIERRE CORTADORA \n5   0800258752  CABLE USB A‐B \n6   0800453210 \nCONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRWPG NCR (USB MINI) \n6   0800486701 \nCONJUNTO CABLES USB+ALIMENTACION T‐RPR & CRW PG FJ (USB B)\n  \n \n   \n7   0800248381  IMPRESORA COMPLETA A4‐T CON BOUNCHER \n8   0800330558  FEED UNIT CON BOUNCHER A4‐T \n8   0800178410  FEED UNIT SIN BOUNCHER A4‐T \n9   0800330567  PRINTER UNIT \n10   0800258137  PLACA HLM12 (DISPLAY) \n11   0800258128  PLACA HLM20 (PRINCIPAL) CONECTOR CENTRONICS \n12   0800337123  THERMAL HEAD \n13   0800337132  CLUNCH (EMBRAGUE DEL ROLLO DE PAPEL) \n   0880070812  CABLE PARALELO CENTRONICS 5M \n   0880073285  CABLE PARALELO CENTRONICS 7M \n   \n   \n   \n \n1\n2\n3 \n4 \n5 \n7 8 912\n10 \n11 \n13 \n6"
+    },
+    "Repuestos.pdf": {
+      "partsCount": 449,
+      "textSample": "\n\nV. 221112 \n0800337132  A4‐T CLUNCH (EMBRAGUE DEL ROLLO)\n0800330558  A4‐T FEED UNIT CON BOUNCHER\n0800178410  A4‐T FEED UNIT SIN BOUNCHER\n0800248381  A4‐T IMPRESORA COMPLETA A4‐T\n0800258137  A4‐T PLACA HLM12 (DISPLAY)\n0800258128  A4‐T PLACA HLM20 (PRINCIPAL)\n0800337123  A4‐T THERMAL HEAD\n0800351963  BILLETES NCR AIR FILTER (FILTRO AIRE)\n0800318714  BILLETES NCR CABLEADO. CODIGO UNICO (VER BTM BILL013‐I‐CM)\n0800463575  BILLETES NCR CAJETIN DE RECHAZOS\n0800341092  BILLETES NCR CAJETIN GENERICO\n0800458661  BILLETES NCR CAJETIN RETRABAJADO 10# TIPO 3\n0800346532  BILLETES NCR CAJETIN RETRABAJADO 100€ TIPO 5\n0800250661  BILLETES NCR CAJETIN RETRABAJADO 20€ TIPO 1\n0800250652  BILLETES NCR CAJETIN RETRABAJADO 50€ TIPO 2\n0800222050  BILLETES NCR CIERRE DE PLASTICOPARA CAJETIN DE BILLETES\n0800351972  BILLETES NCR CONECTOR ‘T’\n0800364995  BILLETES NCR CONJUNTO COMPLETO PICK LINE (X2)\n0800446340  BILLETES NCR CONJUNTO PIÑONES\n0800422575  BILLETES NCR CORREA DENTADA LOWER\n0800352007  BILLETES NCR CUP VACUUM (VENTOSA)\n0800477748  BILLETES NCR DRIVE SEGMENT ASSY (BRAZO ACTUADOR DEL CLUSTER DRIVE ASSEMBLY)\n0800276091  BILLETES NCR EJE DE PICK (PIC LINE)\n0800351954  BILLETES NCR LOWER UNIT 1‐2\n0800352016  BILLETES NCR LOWER UNIT 3\n0800351945  BILLETES NCR MOTOR ALTERNA\n0800318144  BILLETES NCR MOTOR SHUTTER\n0800470889  BILLETES NCR MOTOR STEPPER 3.6 (MOTOR CLAMP)\n0800368418  BILLETES NCR MUELLE PARA PIEZA ANCLAJE CAJETIN DE RECHAZOS\n0800390305  BILLETES NCR MUELLE PARA PIEZA VERDE ANCLAJE CAJETINES\n0800364968  BILLETES NCR PIEZA VERDE ANCLAJE CAJETIN DE RECHAZOS\n0800365002  BILLETES NCR PIEZA VERDE ANCLAJE DE CAJETIN\n0800341154  BILLETES NCR PLACA CONTROL S1 DISPENSE BOARD\n0800464057  BILLETES NCR PLACA CONTROL S1 DISPENSER BOARD –NEW (AS4450751703G) \n0800350802  BILLETES NCR PLACA DOUBLE PICK I/F\n0800318144  BILLETES NCR PLACA SHUTTER\n0800350811  BILLETES NCR PLACA SINGLE PICK I/F\n0800341190  BILLETES NCR PRESENTER \n0800477347  BILLETES NCR REMACHES CORTOS X 10 PARA SENSORES\n0800477338  BILLETES NCR REMACHES LARGOS X 10 PARA PLACAS\n0800465957  BILLETES NCR RUEDA DENTADA NUMERADA SINCRONIZACION\n0800335909  BILLETES NCR RUEDA VERDE GRANDE\n0800422539  BILLETES NCR SENSOR ASSY LVDT\n0800442189  BILLETES NCR SHUTTER  (COMPATIBLE TODOS LOS MODELOS)\n0800416109  BILLETES NCR SHUTTER (COMPATIBLE MODEL C, D, E)\n0800318180  BILLETES NCR SHUTTER (COMPATIBLE MODELO C)\n0800454139  BILLETES NCR SOLENOID PICK VALVE (ELECTROVALVULA)\n0800439567  BILLETES NCR SWITCH DETECCION CAJETIN DE RECHAZOS\n0800470317  BILLETES NCR TUBO VACIO 1 M (AZUL)\n0800318162  BILLETES NCR UNIDAD BILLETES COMPLETA\n0800395033  BILLETES NCR VACUUM RESERVOIR\n0800458536  BK‐T080II    CORTADORA \n0800458545  BK‐T080II    PALANCA VERDE CIERRE CORTADORA\n0800448245  BK‐T080II    THERMAL SINGLE ROLL RPR BK‐T080II\n0800499421  BK‐T080II    TOPE VERDE FIJACION ROLLO DE RECIBOS\n0800475189  CABINET    ANCLAJE 44N CON SWITCH\n0800361159  CABINET ANCLAJE GOP\n0800374500  CABINET ARO DE LUZ \n0800491063  CABINET    BLOQUEO ENTRADA TARJETAS PG FJ\n0800318171  CABINET    BLOQUEO ENTRADA TARJETAS PG NCR\n\nV. 221112 \n0800469837  CABINET    BLOQUEO ENTRADA TARJETAS S100\n0800436445  CABINET    CAMARA USB \n0800182370  CABINET    CERRADURA + 3 LLAVES PUERTA SUPERIOR TRASERA (ALTERNATIVO 0800475241)\n0800182370  CABINET    CERRADURA + TRES LLAVES PUERTA\n0800475241  CABINET    CERRADURA + TRES LLAVES PUERTA (ALTERNATIVO DE 0800182370) \n0800470898  CABINET    CHAPAS PARA MONTAR TECLADO PCI 3.0\n0800455101  CABINET    CONJUNTO COMPLETO TODAS LAS ENBOCADURAS\n0800318368  CABINET    CRISTAL ANTIVANDALICO PUBLICIDAD\n0800318910  CABINET    EMBOCADURA BILLETES\n0800318929  CABINET    EMBOCADURA INGRESOS\n0800318901  CABINET    EMBOCADURA LIBRETAS\n0800318894  CABINET EMBOCADURA RECIBOS\n0800318885  CABINET    EMBOCADURA TARJETAS\n0800503210  CABINET ESCANER – BAR CODE READER JDK‐10216 (?)\n0800446096  CABINET    ESCANER ‐ BAR CODE READER PG FJ\n0800318313  CABINET    ESCANER ‐ CRISTAL ESCANER\n0800318821  CABINET    ESCANER 2D READER PG NCR\n0800386926  CABINET    ETIQUETAS BILINGÜE CATALAN\n0800386935  CABINET    ETIQUETAS CASTELLANO\n0800318395  CABINET    FASCIA LIGHT POWER LEDS. BARRA DE LEDS VIEJA\n0800318402  CABINET    FASCIA LIGHT PSU. FUENTE LEDS LUZ FRONTAL\n0800479274  CABINET    FASCIA LIGHT SELF‐REGULATED. KIT CONVERSION LUMINARIA VIEJA‐NUEVA\n0800479746  CABINET    FUENTE DE ALIMENTACION PG FUJITSU\n0800445961  CABINET    FUENTE DE ALIMENTACION PG FUJITSU. ALTERNATIVO 0800475205 \n0800475205  CABINET    FUENTE DE ALIMENTACION PG FUJITSU. ALTERNATIVO 0800479746 \n0800475526  CABINET    FUENTE DE ALIMENTACION PG NCR CON MODIFICACION COATING \n0800415510  CABINET    FUSIBLE 7.5A PG NCR\n0800501800  CABINET    GOP ACTUALIZADO PG NCR\n0800446194  CABINET    GOP USB PG FJ\n0800445998  CABINET    HUB USB PG FJ (USB‐B) ALTERNATIVO 0800479112\n0800479112  CABINET    HUB USB PG FJ REV. 6 (USB‐B)\n0800318830  CABINET    HUB USB PG NCR (MINI‐USB)\n0800498299  CABINET INSERTOS X 10\n0800339639  CABINET    INTERLOCK E75 16A (GBXX)\n0"
+    },
+    "S100.pdf": {
+      "partsCount": 1,
+      "textSample": "\n\nS100 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1 \n2 \n3 \n4 \n5 \n6 \n6 \n7 \n7 \n8 \n8 \n8 \n8 \n9 \n10 \n10 \n10 \n10 \n11 \n12 \n \n \n \n \n5\n6\n7\n8\n9\n10\n08004588\n0800448\n0800448\n0800448\n0800489\n08004460\n0800489\n08004658\n08004895\n0800468\n0800470\n0800446\n08004959\n0800446\n08004913\n08004913\n0800446\n0800446\n08004698\n08004688\n \n \n5 \n6 \n7 \n8 \n9 \n0 \n858  UNID\n192  UNID\n218  CONT\n209  BOCA\n245  SHUT\n023  SHUT\n236  SHUT\n813  CRIST\n566  ESCA\n188  TECL\n219  TECL\n158  TECL\n942  TECL\n256  MESA\n349  MON\n330  MON\n130  MON\n121  MON\n837  BLOQ\n801  CHAP\n \n \nDAD DE TARJ\nDAD DE TARJ\nTROLADOR A\nA ANTI‐SKIM\nTTER G510 S\nTTER G60 \nTTER GBXX S\nTAL PROTECT\nANER \nADO CLIENT\nADO CLIENT\nADO CLIENT\nADO CLIENT\nA \nNITOR  CLIEN\nNITOR CLIENT\nNITOR CLIENT\nNITOR CLIENT\nQUEO ENTRA\nPA ACTUADO\n \n12 \nETAS CON A\nETAS (IBERC\nANTISKIMMI\nMMING (IBERC\n100 MOTOR\nS100 \nTOR ESCANE\nTE PCI EPP 3.0\nTE PCI EPP 3.0\nTE PCI EPP 3.0\nTE PCI EPP 5.0\nNTE KF KF305\nTE KF KFE303\nTE KORTEK A\nTE KORTEK B\nADA DE TARJ\nORA DEL BLO\nNTI‐LAZO LIB\nCAJA / BCO. S\nNG (IBERCAJ\nCAJA / BCO. \nRIZADO \nER \n0 BBVA \n0 BCO. SANT\n0 IBERCAJA\n0 IBERCAJA\n5 ALTO BRILL\n3 MEDIO BRI\nALTO BRILLO \nBRILLO NORM\nETAS \nOQUEO DE EN\nBANES (DOS \nSANTANDER)\nJA / BCO. SA\nSANTANDER\nTANDER \nO (IBERCAJA\nILLO (IBERCA\n(600CD) \nMAL (250CD)\nNTRADA DE T\n11\nPLACAS LAT\n) \nNTANDER) \nR) \nA / BCO. SANT\nAJA / BCO. SA\n) \nTARJETAS. \nTERALES) (BB\nTANDER) \nANTANDER) \nV. 22\nBVA) \n1 \n2 \n3 –4\n21029\n\nS100 V. 221029\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800446434  COMPLETE CONTROLLER S100 (Q77?) \n1   0800501953  CONTROLADOR Q170 I5 S100 COMPLETO \n2   0800479746  FUENTE DE ALIMENTACION \n2   0800445961  FUENTE DE ALIMENTACION \n2   0800475205  FUENTE DE ALIMENTACION \n3   0800446194  GOP USB \n3   0800475866  CABLE USB DOBLE GOP A CPU \n4   0800470246  PLACA ILM92BB \n5   0800445998  PLACA HUB USB (USB B) ALTERNATIVO 0800479112 \n5   0800479112  PLACA HUB USB REV. 6 (USB B) \n6   0800445970  PLACA MISCELANEA ILM10CC \n6   0800491964  PLACA MISCELANEA JLM10 \n7      (¿?) \n8   0800435909  IMPRESORA LIBRETAS PPRX200GL \n9   0800448245  IMPRESORA DE RECIBOS BT‐T080II \n   0800494890  HDD 1TB ST1000DM010 (DISCO MECANICO IBERCAJA / BCO. SANTANDER) \n   \n   \n   \n   \n   \n   \n \n  \n45 6\n5 7 \nBRAZO \n3 \n2\n1 \n8 \n9\n\nS100 V. 221029\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800366065  TECLADO PULSE WIN (IBERCAJA) \n2   0800441340  MEMBRANA TECLADO PULSE WIN (IBERCAJA) \n3   0800476856  CERRADURA PULSE WIN (IBERCAJA) \n4   0800066683  TECLADO SG6125 (DOS PILAS) (BCO. SANTANDER) \n5   0800475483  CERRADURA SG6125 (BCO. SANTANDER) \n6   0800483688  TECLADO SPIDER COM (BBVA) \n7   0800464048  CAJA CONEXIONES SPIDER COM (BBVA) \n8   0800483697  CERRADURA SPIDER COM (BBVA) \n9   0800447374  BOMBIN + LLAVES PUERTA SUPERIOR S100 (PERSONALIZADA IBERCAJA) \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n1 \n2 \n3 \n4 \n6 \n7 8 \n5 \n9 "
+    },
+    "VARIOS.pdf": {
+      "partsCount": 2,
+      "textSample": "\n\nVARIOS V. 221029\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800340495  SWITCH F69 – 10AMP \n2   0800350704  SWITCH F69 – 10AMP \n3   0800340958  SWITCH F79 – 10AMP / E75 – 16AMP (PUEDEN SERVIR CUALQUIERA DE ELLOS) \n3   0800453443  SWITCH F79 – 10AMP \n3   0800339639  SWITCH E75 – 16AMP \n4   0800138071  SWITCH E68 – 0.1AMP CABINET DOOR F8000 \n5   0213010150  SWITCH NBDU F8000 \n6   0800318448  SWITCH VARILLAS PG FJ / ALARMA F8000 \n7   0800361159  ANCLAJE GOP \n8   0800475189  ANCLAJE CON SWITCH \n9   0800495167  TWIST TIE PUSH 750‐3‐1 (UNIDAD – PEDIR 15) \n10   0800495176  TWIST TIE PUSH 450‐3‐1 (UNIDAD – PEDIR 15) \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n  \n1 2 3\n7 89 106 \n45\n\nVARIOS V. 221029\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800360800  PATROL NOTE (10 UNIDADES) LIMPIEZA RESIDUOS GBNA \n2   0800475919  CARD OF TEST NFC+BAND+CHIP (TARJETA DE TEST) (PEDIR CONTRA CONTRATO) \n2   0800492687  HIHG COHERTIVENES TEST CARD HICO (TARJETA DE TEST) \n3   0800491063  BLOQUEO ENTRADA TARJETAS PG FJ \n4   0800318171  BLOQUEO ENTRADA TARJETAS PG NCR \n5   0800469837  BLOQUEO ENTRADA TARJETAS S100 \n6   0800485597  SOPLADOR BLOWER X3 HURRICANE (PEDIR CONTRA CONTRATO) \n7   0800227910  BILLETE DUMMY 5€ (ALTERNATIVO 0800300858) \n7   0800227929  BILLETE DUMMY 10€ (ALTERNATIVO 0800300867) \n7   0800227938  BILLETE DUMMY 20€ (ALTERNATIVO 0800300876) \n7   0800227947  BILLETE DUMMY 50€ (ALTERNATIVO 0800300885) \n7   0800227956  BILLETE DUMMY 100€ (ALTERNATIVO 0800300894) \n7   0800227965  BILLETE DUMMY 200€ (ALTERNATIVO 0800300901) \n7   0800227974  BILLETE DUMMY 500€ (ALTERNATIVO 0800300910) \n8   0800498048  INTERRUPTOR GENERAL PG FJ \n9   0800498011  GUIA UNIDADES RPR \n9   0800498020  GUIA UNIDADES PPR \n9   0800498057  GUIA UNIDADES MONEDAS \n9   0800498039  GUIA UNIDADES G510 / FRONTAL S100 \n10   0800182370  BOMBIN + LLAVES PUERTA SUPERIOR PG MISMA KEY (PEDIR A TRAVES DE COORDINADOR) \n10   0800447374  BOMBIN + LLAVES PUERTA SUPERIOR S100 (PERSONALIZADA IBERCAJA) \n11   0800415510  FUSIBLE 7.5AMP PG NCR \n \n  \n1 2 \n3 4 \n56 \n7\n8 9\n10 11\n\nVARIOS V. 221029\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800181996  JABON LIMPIADOR PARA RODILLOS Y GOMAS (500CL) \n2   0999120053  ACEITE FINO (500CL) \n3   0995120033  SPRAY LIMPIEZA DISCOS CMI \n4   0917008034  HEAD CLEANING SOLVENT (CRC) (250ML) \n5   0917000050  ISOPROPILICO EN SPRAY CON BROCHA \n6   0800181987  POWER 13 GRASA (250CC) \n7   0133081314  CLEANING CARD LIBRETAS \n8   0133088004  CLEANING CARD TARJETAS \n9   0800361505  KIT 100 BASTONCILLOS \n10   0917100040  COIL TRAPO \n11   0800338989  PASTA TERMICA DE SILICONA 1.5G (NO SE PUEDE PEDIR CONTRA AVERIA) \n12   0800478970  FIJADOR DE TORNILLOS LOCTITE 242 (6ML) \n13   0800488095  BRIDA CON SOLAPA PARA CAJETINES STORE EXTERNALIZADA \n14   0214150292  PILA 3.2V CR2032 \n   \n   \n   \n   \n   \n   \n   \n   \n \n  \n1 2 3 456 \n7 8 9 \n10\n11 12 \n13\n14\n\nVARIOS V. 221029\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1   0800315290  CAJA 100 GUANTES NITRILO CAT III T.M. \n1   0800315307  CAJA 100 GUANTES NITRILO CAT III T.G. \n1   0800315281  CAJA 100 GUANTES NITRILO CAT III T.XL/XXL \n1   0800315263  CAJA 100 GUANTES LATEX CAT III T.M. \n1   0800315272  CAJA 100 GUANTES LATEX CAT III T.G. \n1   0800315254  CAJA 100 GUANTES LATEX CAT III T.XL/XXL \n2   0800513619  MASCARILLA FFP2 (UNIDAD) \n2   0800513628  MASCARILLA FFP3 (UNIDAD) \n3   0800513735  MASCARILLA QUIRURGICA (CAJA DE 50) \n   0800513708  GEL DESINFECTANTE HIDROALCOHOLICO (500CL) \n   0800513637  GEL DESINFECTANTE HIDROALCOHOLICO (1L) \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n1 \n2 3"
+    }
+  }
+}
