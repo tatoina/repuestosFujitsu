@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   View,
   StyleSheet,
@@ -30,6 +30,17 @@ const AdminPanel = ({ visible, onDismiss }) => {
   const [uploadStatus, setUploadStatus] = useState('');
   const [selectedFiles, setSelectedFiles] = useState([]);
   const [processedData, setProcessedData] = useState({ excel: 0, pdfs: 0, images: 0 });
+  const [lastUpload, setLastUpload] = useState(null);
+
+  // Cargar información de la última subida al autenticarse
+  useEffect(() => {
+    if (isAuthenticated) {
+      const lastUploadInfo = localStorage.getItem('lastUploadInfo');
+      if (lastUploadInfo) {
+        setLastUpload(JSON.parse(lastUploadInfo));
+      }
+    }
+  }, [isAuthenticated]);
 
   const handlePasswordSubmit = () => {
     if (password === 'fujitsu') {
@@ -103,6 +114,16 @@ const AdminPanel = ({ visible, onDismiss }) => {
 
       setProcessedData(stats);
       setUploadStatus('✅ ¡Todos los archivos procesados exitosamente!');
+
+      // Guardar información de la última subida
+      const uploadInfo = {
+        date: new Date().toISOString(),
+        excel: stats.excel,
+        pdfs: stats.pdfs,
+        images: stats.images,
+        totalFiles: selectedFiles.length,
+      };
+      localStorage.setItem('lastUploadInfo', JSON.stringify(uploadInfo));
 
       setTimeout(() => {
         Alert.alert(
@@ -292,6 +313,31 @@ const AdminPanel = ({ visible, onDismiss }) => {
                   >
                     Acceder
                   </Button>
+                {lastUpload && (
+                  <Card style={styles.lastUploadCard}>
+                    <Card.Content>
+                      <View style={styles.lastUploadHeader}>
+                        <Ionicons name="time-outline" size={20} color="#6200ee" />
+                        <Text style={styles.lastUploadTitle}>Última actualización</Text>
+                      </View>
+                      <Text style={styles.lastUploadDate}>
+                        📅 {new Date(lastUpload.date).toLocaleDateString('es-ES', {
+                          day: '2-digit',
+                          month: '2-digit',
+                          year: 'numeric',
+                          hour: '2-digit',
+                          minute: '2-digit'
+                        })}
+                      </Text>
+                      <View style={styles.lastUploadStats}>
+                        <Text style={styles.lastUploadStat}>📊 Excel: {lastUpload.excel}</Text>
+                        <Text style={styles.lastUploadStat}>📄 PDFs: {lastUpload.pdfs}</Text>
+                        <Text style={styles.lastUploadStat}>🖼️ Imágenes: {lastUpload.images}</Text>
+                      </View>
+                    </Card.Content>
+                  </Card>
+                )}
+
                 </View>
               </View>
             ) : (
@@ -480,6 +526,38 @@ const styles = StyleSheet.create({
   },
   filesScrollView: {
     maxHeight: 300,
+  lastUploadCard: {
+    marginBottom: 16,
+    backgroundColor: '#f0f4ff',
+    borderLeftWidth: 4,
+    borderLeftColor: '#6200ee',
+  },
+  lastUploadHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 8,
+  },
+  lastUploadTitle: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    color: '#6200ee',
+    marginLeft: 6,
+  },
+  lastUploadDate: {
+    fontSize: 13,
+    color: '#333',
+    marginBottom: 8,
+  },
+  lastUploadStats: {
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    flexWrap: 'wrap',
+  },
+  lastUploadStat: {
+    fontSize: 12,
+    color: '#666',
+    marginHorizontal: 4,
+  },
   },
   fileItem: {
     flexDirection: 'row',
