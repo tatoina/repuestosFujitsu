@@ -164,7 +164,7 @@ const SearchComponent = () => {
           
           {/* Fecha actual para verificar actualizaciones */}
           <Text style={styles.dateText}>
-            📚 Busca en EXCEL y PDFs simultáneamente - 17 Nov 2025
+            📚 Busca en EXCEL y PDFs simultáneamente - 21 Ene 2026
           </Text>
           
           {/* Indicador de tipo de búsqueda */}
