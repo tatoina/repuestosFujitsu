@@ -296,98 +296,93 @@ const AdminPanel = ({ visible, onDismiss }) => {
               </View>
             ) : (
               // Panel de administración
-              <View style={styles.adminContainer}>
-                <ScrollView style={styles.scrollableContent} contentContainerStyle={styles.scrollableContentContainer}>
-                  <View style={styles.headerContainer}>
-                    <Ionicons name="cloud-upload" size={48} color="#6200ee" />
-                    <Title style={styles.title}>Actualizar Base de Datos</Title>
+              <ScrollView style={styles.adminContainer}>
+                <View style={styles.headerContainer}>
+                  <Ionicons name="cloud-upload" size={48} color="#6200ee" />
+                  <Title style={styles.title}>Actualizar Base de Datos</Title>
+                </View>
+
+                <Paragraph style={styles.subtitle}>
+                  Selecciona archivos Excel o PDF con repuestos e imágenes
+                </Paragraph>
+
+                {!isUploading && (
+                  <View style={styles.uploadContainer}>
+                    <Button
+                      mode="contained"
+                      onPress={handleFileSelection}
+                      icon="file-multiple"
+                      style={styles.uploadButton}
+                    >
+                      Seleccionar archivos
+                    </Button>
+
+                    <View style={styles.formatInfoContainer}>
+                      <Chip icon="file-excel" style={styles.formatChip}>Excel (.xlsx, .xls)</Chip>
+                      <Chip icon="file-pdf-box" style={styles.formatChip}>PDF con imágenes</Chip>
+                    </View>
+
+                    <Text style={styles.formatInfo}>
+                      💡 Puedes seleccionar múltiples archivos a la vez
+                    </Text>
                   </View>
+                )}
 
-                  <Paragraph style={styles.subtitle}>
-                    Selecciona archivos Excel o PDF con repuestos e imágenes
-                  </Paragraph>
-
-                  {!isUploading && (
-                    <View style={styles.uploadContainer}>
-                      <Button
-                        mode="contained"
-                        onPress={handleFileSelection}
-                        icon="file-multiple"
-                        style={styles.uploadButton}
-                      >
-                        Seleccionar archivos
-                      </Button>
-
-                      <View style={styles.formatInfoContainer}>
-                        <Chip icon="file-excel" style={styles.formatChip}>Excel (.xlsx, .xls)</Chip>
-                        <Chip icon="file-pdf-box" style={styles.formatChip}>PDF con imágenes</Chip>
-                      </View>
-
-                      <Text style={styles.formatInfo}>
-                        💡 Puedes seleccionar múltiples archivos a la vez
-                      </Text>
+                {selectedFiles.length > 0 && !isUploading && (
+                  <View style={styles.filesListContainer}>
+                    <Text style={styles.filesListTitle}>Archivos seleccionados ({selectedFiles.length}):</Text>
+                    <View style={styles.filesScrollView}>
+                      {selectedFiles.map((file) => (
+                        <View key={file.id} style={styles.fileItem}>
+                          <Ionicons 
+                            name={file.type === 'pdf' ? 'document' : 'document-text'} 
+                            size={24} 
+                            color={file.type === 'pdf' ? '#ff6f00' : '#6200ee'}
+                          />
+                          <Text style={styles.fileName}>{file.name}</Text>
+                          <Text style={styles.fileSize}>
+                            {(file.size / 1024).toFixed(1)} KB
+                          </Text>
+                          <Button
+                            mode="text"
+                            onPress={() => removeFile(file.id)}
+                            compact
+                          >
+                            ✕
+                          </Button>
+                        </View>
+                      ))}
                     </View>
-                  )}
 
-                  {selectedFiles.length > 0 && !isUploading && (
-                    <View style={styles.filesListContainer}>
-                      <Text style={styles.filesListTitle}>Archivos seleccionados ({selectedFiles.length}):</Text>
-                      <ScrollView style={styles.filesScrollView} nestedScrollEnabled={true}>
-                        {selectedFiles.map((file) => (
-                          <View key={file.id} style={styles.fileItem}>
-                            <Ionicons 
-                              name={file.type === 'pdf' ? 'document' : 'document-text'} 
-                              size={24} 
-                              color={file.type === 'pdf' ? '#ff6f00' : '#6200ee'}
-                            />
-                            <Text style={styles.fileName}>{file.name}</Text>
-                            <Text style={styles.fileSize}>
-                              {(file.size / 1024).toFixed(1)} KB
-                            </Text>
-                            <Button
-                              mode="text"
-                              onPress={() => removeFile(file.id)}
-                              compact
-                            >
-                              ✕
-                            </Button>
-                          </View>
-                        ))}
-                      </ScrollView>
-                    </View>
-                  )}
-
-                  {isUploading && (
-                    <View style={styles.uploadingContainer}>
-                      <ActivityIndicator size="large" color="#6200ee" />
-                      <Text style={styles.uploadStatus}>{uploadStatus}</Text>
-                    </View>
-                  )}
-                </ScrollView>
-
-                {/* Botones fijos en la parte inferior */}
-                <View style={styles.fixedButtonsContainer}>
-                  {selectedFiles.length > 0 && !isUploading && (
                     <Button
                       mode="contained"
                       onPress={processAllFiles}
                       icon="check-circle"
-                      style={styles.processButtonFixed}
+                      style={styles.processButton}
                     >
                       Procesar {selectedFiles.length} archivo(s)
                     </Button>
-                  )}
-                  
+                  </View>
+                )}
+
+                {isUploading && (
+                  <View style={styles.uploadingContainer}>
+                    <ActivityIndicator size="large" color="#6200ee" />
+                    <Text style={styles.uploadStatus}>{uploadStatus}</Text>
+                  </View>
+                )}
+
+                <View style={styles.buttonContainer}>
                   <Button 
                     mode="outlined" 
                     onPress={handleClose}
-                    style={styles.closeButton}
+                    style={styles.button}
                     disabled={isUploading}
                   >
                     Cerrar
                   </Button>
                 </View>
-              </View>
+              </ScrollView>
             )}
           </Card.Content>
         </Card>
@@ -402,22 +397,13 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   card: {
-    maxHeight: '90%',
-    maxWidth: 600,
+    maxHeight: '85%',
   },
   authContainer: {
     padding: 20,
   },
   adminContainer: {
-    maxHeight: 600,
-    minHeight: 400,
-  },
-  scrollableContent: {
-    flex: 1,
-  },
-  scrollableContentContainer: {
     padding: 20,
-    paddingBottom: 10,
   },
   headerContainer: {
     alignItems: 'center',
@@ -493,7 +479,7 @@ const styles = StyleSheet.create({
     color: '#333',
   },
   filesScrollView: {
-    maxHeight: 250,
+    maxHeight: 300,
   },
   fileItem: {
     flexDirection: 'row',
@@ -518,19 +504,6 @@ const styles = StyleSheet.create({
   processButton: {
     marginTop: 16,
     paddingVertical: 8,
-  },
-  fixedButtonsContainer: {
-    borderTopWidth: 1,
-    borderTopColor: '#e0e0e0',
-    padding: 16,
-    backgroundColor: '#fff',
-  },
-  processButtonFixed: {
-    marginBottom: 12,
-    paddingVertical: 8,
-  },
-  closeButton: {
-    paddingVertical: 4,
   },
 });
 
