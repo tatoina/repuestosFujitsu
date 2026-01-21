@@ -37,6 +37,7 @@ const SearchComponent = () => {
   const [stats, setStats] = useState(null);
   const [selectedImage, setSelectedImage] = useState(null);
   const [showImageModal, setShowImageModal] = useState(false);
+  const [searchSources, setSearchSources] = useState({ excel: true, pdf: true }); // Fuentes de búsqueda activas
 
   useEffect(() => {
     // Solo inicializar datos una vez
@@ -60,7 +61,7 @@ const SearchComponent = () => {
     init();
   }, []); // Sin dependencias adicionales
 
-  const handleSearch = async (query = searchQuery) => {
+  const handleSearch = async (query = searchQuery, sources = searchSources) => {
     if (!query.trim()) {
       setSearchResults([]);
       setCurrentSearchType('description');
@@ -74,10 +75,11 @@ const SearchComponent = () => {
     
     setCurrentSearchType(searchType);
     console.log(`Búsqueda automática: "${query}" detectado como ${searchType === 'code' ? 'código' : 'descripción'}`);
+    console.log(`Fuentes activas: Excel=${sources.excel}, PDF=${sources.pdf}`);
 
     try {
       setIsLoading(true);
-      const results = await searchService.search(query, searchType);
+      const results = await searchService.search(query, searchType, sources);
       console.log(`Resultados encontrados: ${results.length}`);
       setSearchResults(results);
     } catch (error) {
@@ -85,6 +87,23 @@ const SearchComponent = () => {
       Alert.alert('Error', 'Error al realizar la búsqueda');
     } finally {
       setIsLoading(false);
+    }
+  };
+
+  const toggleSearchSource = (source) => {
+    const newSources = { ...searchSources, [source]: !searchSources[source] };
+    
+    // Al menos una fuente debe estar activa
+    if (!newSources.excel && !newSources.pdf) {
+      Alert.alert('Aviso', 'Debes tener al menos una fuente de búsqueda activa');
+      return;
+    }
+    
+    setSearchSources(newSources);
+    
+    // Re-ejecutar búsqueda si hay texto
+    if (searchQuery.trim()) {
+      handleSearch(searchQuery, newSources);
     }
   };
 
@@ -190,6 +209,37 @@ const SearchComponent = () => {
           <Text style={styles.dateText}>
             📚 Busca en EXCEL y PDFs simultáneamente - 21 Ene 2026
           </Text>
+
+          {/* Selector de fuentes de búsqueda */}
+          <View style={styles.sourceFilterContainer}>
+            <Text style={styles.sourceFilterLabel}>Buscar en:</Text>
+            <View style={styles.sourceFilterButtons}>
+              <Chip 
+                selected={searchSources.excel}
+                onPress={() => toggleSearchSource('excel')}
+                icon="file-excel"
+                style={[
+                  styles.sourceChip,
+                  searchSources.excel ? styles.sourceChipActive : styles.sourceChipInactive
+                ]}
+                textStyle={searchSources.excel ? styles.sourceChipTextActive : styles.sourceChipTextInactive}
+              >
+                Excel
+              </Chip>
+              <Chip 
+                selected={searchSources.pdf}
+                onPress={() => toggleSearchSource('pdf')}
+                icon="file-pdf-box"
+                style={[
+                  styles.sourceChip,
+                  searchSources.pdf ? styles.sourceChipActive : styles.sourceChipInactive
+                ]}
+                textStyle={searchSources.pdf ? styles.sourceChipTextActive : styles.sourceChipTextInactive}
+              >
+                PDFs
+              </Chip>
+            </View>
+          </View>
           
           {/* Indicador de tipo de búsqueda */}
           {searchQuery.trim() && (
@@ -645,6 +695,37 @@ const styles = StyleSheet.create({
     marginTop: 4,
     marginBottom: 8,
     fontStyle: 'italic',
+  },
+  sourceFilterContainer: {
+    alignItems: 'center',
+    marginVertical: 12,
+    paddingHorizontal: 16,
+  },
+  sourceFilterLabel: {
+    fontSize: 13,
+    color: '#666',
+    marginBottom: 8,
+    fontWeight: '500',
+  },
+  sourceFilterButtons: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    flexWrap: 'wrap',
+  },
+  sourceChipActive: {
+    backgroundColor: '#6200ee',
+    marginHorizontal: 4,
+  },
+  sourceChipInactive: {
+    backgroundColor: '#e0e0e0',
+    marginHorizontal: 4,
+  },
+  sourceChipTextActive: {
+    color: '#fff',
+    fontWeight: 'bold',
+  },
+  sourceChipTextInactive: {
+    color: '#999',
   },
   noResultsCard: {
     marginTop: 32,

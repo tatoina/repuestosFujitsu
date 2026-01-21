@@ -75,7 +75,7 @@ class SearchService {
     }
   }
 
-  search(query, searchType = 'description') {
+  search(query, searchType = 'description', sources = { excel: true, pdf: true }) {
     if (!query || !this.isDataLoaded) {
       return [];
     }
@@ -83,8 +83,8 @@ class SearchService {
     const queryLower = query.toLowerCase().trim();
     const results = [];
 
-    // Buscar en datos de Excel
-    const excelResults = this.excelData.filter(item => {
+    // Buscar en datos de Excel solo si está habilitado
+    const excelResults = sources.excel ? this.excelData.filter(item => {
       if (searchType === 'code') {
         return item.code && item.code.toLowerCase().includes(queryLower);
       } else {
@@ -95,10 +95,10 @@ class SearchService {
       source: 'Excel',
       sourceType: 'excel',
       hasImage: false
-    }));
+    })) : [];
 
-    // Buscar en datos de PDFs
-    const pdfResults = this.pdfData.filter(item => {
+    // Buscar en datos de PDFs solo si está habilitado
+    const pdfResults = sources.pdf ? this.pdfData.filter(item => {
       if (searchType === 'code') {
         return item.code && item.code.toLowerCase().includes(queryLower);
       } else {
@@ -131,7 +131,7 @@ class SearchService {
         imagePath: imagePath,
         rawLine: item.rawLine
       };
-    });
+    }) : [];
 
     // Combinar resultados y eliminar duplicados por código
     const pdfWithImages = pdfResults.filter(r => r.hasImage);
