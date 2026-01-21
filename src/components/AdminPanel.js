@@ -424,12 +424,12 @@ const styles = StyleSheet.create({
   },
   buttonContainer: {
     flexDirection: 'row',
-    justifyContent: 'space-around',
+    justifyContent: 'space-between',
     marginTop: 20,
+    gap: 12,
   },
   button: {
     flex: 1,
-    marginHorizontal: 8,
   },
   uploadContainer: {
     alignItems: 'center',
