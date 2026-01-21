@@ -20,6 +20,7 @@ import {
   ActivityIndicator,
   Provider as PaperProvider,
   IconButton,
+  Checkbox,
 } from 'react-native-paper';
 import { Ionicons } from '@expo/vector-icons';
 import { searchService } from '../services/searchServiceUnified';
@@ -214,30 +215,29 @@ const SearchComponent = () => {
           <View style={styles.sourceFilterContainer}>
             <Text style={styles.sourceFilterLabel}>Buscar en:</Text>
             <View style={styles.sourceFilterButtons}>
-              <Chip 
-                selected={searchSources.excel}
+              <TouchableOpacity 
+                style={styles.checkboxRow}
                 onPress={() => toggleSearchSource('excel')}
-                icon="file-excel"
-                style={[
-                  styles.sourceChip,
-                  searchSources.excel ? styles.sourceChipActive : styles.sourceChipInactive
-                ]}
-                textStyle={searchSources.excel ? styles.sourceChipTextActive : styles.sourceChipTextInactive}
               >
-                Excel
-              </Chip>
-              <Chip 
-                selected={searchSources.pdf}
+                <Checkbox
+                  status={searchSources.excel ? 'checked' : 'unchecked'}
+                  onPress={() => toggleSearchSource('excel')}
+                  color="#6200ee"
+                />
+                <Text style={styles.checkboxLabel}>📊 Excel</Text>
+              </TouchableOpacity>
+              
+              <TouchableOpacity 
+                style={styles.checkboxRow}
                 onPress={() => toggleSearchSource('pdf')}
-                icon="file-pdf-box"
-                style={[
-                  styles.sourceChip,
-                  searchSources.pdf ? styles.sourceChipActive : styles.sourceChipInactive
-                ]}
-                textStyle={searchSources.pdf ? styles.sourceChipTextActive : styles.sourceChipTextInactive}
               >
-                PDFs
-              </Chip>
+                <Checkbox
+                  status={searchSources.pdf ? 'checked' : 'unchecked'}
+                  onPress={() => toggleSearchSource('pdf')}
+                  color="#6200ee"
+                />
+                <Text style={styles.checkboxLabel}>📄 PDFs</Text>
+              </TouchableOpacity>
             </View>
           </View>
           
@@ -711,22 +711,16 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'center',
     flexWrap: 'wrap',
+  },gap: 24,
   },
-  sourceChipActive: {
-    backgroundColor: '#6200ee',
-    marginHorizontal: 4,
+  checkboxRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
   },
-  sourceChipInactive: {
-    backgroundColor: '#e0e0e0',
-    marginHorizontal: 4,
-  },
-  sourceChipTextActive: {
-    color: '#fff',
-    fontWeight: 'bold',
-  },
-  sourceChipTextInactive: {
-    color: '#999',
-  },
+  checkboxLabel: {
+    fontSize: 15,
+    color: '#333',
+    marginLeft: -8
   noResultsCard: {
     marginTop: 32,
     elevation: 2,
