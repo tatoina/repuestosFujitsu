@@ -133,13 +133,25 @@ class SearchService {
       };
     });
 
-    // Combinar resultados (PDFs primero si tienen imágenes)
+    // Combinar resultados y eliminar duplicados por código
     const pdfWithImages = pdfResults.filter(r => r.hasImage);
     const pdfWithoutImages = pdfResults.filter(r => !r.hasImage);
     
-    results.push(...pdfWithImages, ...excelResults, ...pdfWithoutImages);
+    // Combinar todos (PDFs con imágenes tienen prioridad, luego Excel, luego PDFs sin imágenes)
+    const allResults = [...pdfWithImages, ...excelResults, ...pdfWithoutImages];
+    
+    // Eliminar duplicados por código (mantener el primero encontrado)
+    const seenCodes = new Set();
+    const uniqueResults = allResults.filter(item => {
+      const code = item.code?.toLowerCase();
+      if (!code || seenCodes.has(code)) {
+        return false;
+      }
+      seenCodes.add(code);
+      return true;
+    });
 
-    return results.slice(0, 100); // Limitar a 100 resultados
+    return uniqueResults.slice(0, 100); // Limitar a 100 resultados
   }
 
   loadSampleData() {
