@@ -115,9 +115,33 @@ const SearchComponent = () => {
     setDebounceTimer(newTimer);
   };
 
-  const copyToClipboard = (text) => {
-    // En una app real, usarías @react-native-clipboard/clipboard
-    Alert.alert('Copiado', `${text} copiado al portapapeles`);
+  const copyToClipboard = async (text) => {
+    try {
+      // Usar la API del Clipboard para web y móvil
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        await navigator.clipboard.writeText(text);
+        Alert.alert('✅ Copiado', `"${text}" copiado al portapapeles`);
+      } else {
+        // Fallback para navegadores antiguos
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        textArea.style.position = 'fixed';
+        textArea.style.left = '-999999px';
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+        try {
+          document.execCommand('copy');
+          Alert.alert('✅ Copiado', `"${text}" copiado al portapapeles`);
+        } catch (err) {
+          Alert.alert('Error', 'No se pudo copiar al portapapeles');
+        }
+        document.body.removeChild(textArea);
+      }
+    } catch (error) {
+      console.error('Error al copiar:', error);
+      Alert.alert('Error', 'No se pudo copiar al portapapeles');
+    }
   };
 
   if (!dataLoaded && isLoading) {
