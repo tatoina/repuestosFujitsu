@@ -720,7 +720,8 @@ const styles = StyleSheet.create({
   checkboxLabel: {
     fontSize: 15,
     color: '#333',
-    marginLeft: -8
+    marginLeft: -8,
+  },
   noResultsCard: {
     marginTop: 32,
     elevation: 2,
