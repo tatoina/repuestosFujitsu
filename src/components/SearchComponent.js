@@ -710,8 +710,7 @@ const styles = StyleSheet.create({
   sourceFilterButtons: {
     flexDirection: 'row',
     justifyContent: 'center',
-    flexWrap: 'wrap',
-  },gap: 24,
+    gap: 24,
   },
   checkboxRow: {
     flexDirection: 'row',
