@@ -83,8 +83,29 @@ class SearchService {
     const queryLower = query.toLowerCase().trim();
     const results = [];
 
+    // Cargar preferencias de fuentes habilitadas
+    let enabledSources = {};
+    if (typeof localStorage !== 'undefined') {
+      try {
+        enabledSources = JSON.parse(localStorage.getItem('enabledSources') || '{}');
+      } catch (e) {
+        console.error('Error cargando preferencias de fuentes:', e);
+      }
+    }
+
+    // Función para verificar si una fuente está habilitada (por defecto true si no está en preferencias)
+    const isSourceEnabled = (sourceName) => {
+      return enabledSources[sourceName] !== false;
+    };
+
     // Buscar en datos de Excel solo si está habilitado
     const excelResults = sources.excel ? this.excelData.filter(item => {
+      // Verificar si la fuente específica está habilitada
+      const sourceName = item.source || 'repuestos.xlsx';
+      if (!isSourceEnabled(sourceName)) {
+        return false;
+      }
+
       if (searchType === 'code') {
         return item.code && item.code.toLowerCase().includes(queryLower);
       } else {
@@ -99,6 +120,12 @@ class SearchService {
 
     // Buscar en datos de PDFs solo si está habilitado
     const pdfResults = sources.pdf ? this.pdfData.filter(item => {
+      // Verificar si la fuente específica está habilitada
+      const sourceName = item.source || 'documento.pdf';
+      if (!isSourceEnabled(sourceName)) {
+        return false;
+      }
+
       if (searchType === 'code') {
         return item.code && item.code.toLowerCase().includes(queryLower);
       } else {

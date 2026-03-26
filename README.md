@@ -10,7 +10,10 @@ Una aplicación móvil React Native para búsqueda bidireccional de códigos y d
 
 - ✅ **Búsqueda bidireccional**: Código → Descripción o Descripción → Código
 - ✅ **Búsqueda en tiempo real**: Resultados instantáneos mientras escribes
-- ✅ **Panel de administración**: Actualizar base de datos con contraseña
+- ✅ **Búsqueda en PDFs**: Busca en PDFs y en archivos Excel simultáneamente
+- ✅ **Gestión de fuentes**: Activa/desactiva fuentes de datos para búsquedas más precisas
+- ✅ **Abrir documentos**: Botones para abrir PDFs y Excel originales con un clic
+- ✅ **Panel de administración**: Actualizar y gestionar base de datos con contraseña
 - ✅ **Procesamiento Excel**: Carga automática de archivos .xlsx/.xls
 - ✅ **Responsive**: Optimizado para móvil y escritorio
 - ✅ **Auto-detección**: Reconoce automáticamente columnas de código/descripción
@@ -22,12 +25,27 @@ Una aplicación móvil React Native para búsqueda bidireccional de códigos y d
 1. **Buscar por descripción**: Escribe parte de la descripción para obtener el código
 2. **Buscar por código**: Cambia el modo y busca por código para obtener la descripción
 3. **Copiar resultados**: Toca "Copiar" en cualquier resultado
+4. **Ver documentos originales**: 
+   - Si el repuesto viene de un **PDF**, haz clic en **"Abrir PDF"** (naranja) para ver el catálogo completo
+   - Si el repuesto viene de **Excel**, haz clic en **"Abrir Excel"** (verde) para ver la hoja de cálculo completa
 
 ### Para administradores:
 1. **Acceder al panel**: Toca el icono ⚙️ en la esquina superior derecha
 2. **Autenticar**: Ingresa la contraseña de administrador
-3. **Subir Excel**: Selecciona un archivo Excel para actualizar la base de datos
-4. **Automático**: El sistema detecta las columnas y actualiza inmediatamente
+3. **Ver y gestionar fuentes actuales**: Expande "Ver Fuentes de Datos Actuales" para:
+   - Ver todos los archivos Excel y PDF cargados
+   - **Activar/desactivar fuentes**: Usa el switch para incluir o excluir fuentes de la búsqueda
+   - Ver el número de repuestos por cada fuente
+   - **Eliminar fuentes personalizadas**: Solo puedes eliminar fuentes que hayas subido
+4. **Actualizar base de datos**:
+   - Selecciona uno o varios archivos Excel (.xlsx, .xls) o PDF
+   - Haz clic en "Procesar X archivo(s)"
+   - Espera a que se procesen todos los archivos
+   - La aplicación se actualizará automáticamente
+5. **Optimizar búsquedas**:
+   - Desactiva fuentes que no necesites para obtener resultados más rápidos y relevantes
+   - Las fuentes desactivadas no aparecerán en los resultados de búsqueda
+   - Puedes reactivarlas en cualquier momento
 
 ## �️ Tecnologías utilizadas
 
@@ -38,6 +56,8 @@ Una aplicación móvil React Native para búsqueda bidireccional de códigos y d
 - **GitHub**: Control de versiones
 
 ## 📋 Formato de datos
+
+### Archivos Excel
 
 El archivo Excel debe tener estas columnas (detección automática):
 
@@ -50,6 +70,42 @@ El archivo Excel debe tener estas columnas (detección automática):
 **Nombres compatibles:**
 - **Códigos**: "Códigos", "Code", "Cod", "ID" o primera columna
 - **Descripciones**: "Descripciones", "Description", "Desc", "Nombre" o segunda columna
+
+### Archivos PDF
+
+Para añadir catálogos en PDF:
+
+```bash
+# 1. Copiar PDFs a data/pdfs/
+
+# 2. Procesar texto de PDFs
+node processPDFs.js
+
+# 3. Copiar PDFs a carpeta pública (para que se puedan abrir en la web)
+node copyPDFsToPublic.js
+
+# 4. Copiar JSONs procesados
+# Windows:
+Copy-Item data\processed\*.json src\data\processed\ -Force
+# L
+
+### Archivo Excel
+
+Para actualizar o cambiar el archivo Excel:
+
+```bash
+# 1. Reemplazar data/repuestos.xlsx con tu archivo
+
+# 2. Convertir Excel a JSON
+node convertExcel.js
+
+# 3. Copiar Excel a carpeta pública (para que se pueda abrir en la web)
+node copyExcelToPublic.js
+
+# 4. La app se actualizará automáticamente
+```inux/Mac:
+cp data/processed/*.json src/data/processed/
+```
 
 ## � Instalación local
 
@@ -103,18 +159,28 @@ eas build --platform all
 RepuestosFuji/
 ├── src/
 │   ├── components/
-│   │   ├── SearchComponent.js    # Componente principal de búsqueda
-│   │   └── AdminPanel.js         # Panel de administración
+│   │   ├── SearchComponent.js       # Componente principal de búsqueda
+│   │   └── AdminPanel.js            # Panel de administración
 │   ├── services/
-│   │   └── searchService.js      # Lógica de búsqueda y datos
+│   │   ├── searchService.js         # Búsqueda básica (Excel)
+│   │   └── searchServiceUnified.js  # Búsqueda unificada (Excel + PDFs)
 │   └── data/
-│       └── repuestos.json        # Datos convertidos del Excel
+│       ├── repuestos.json           # Datos convertidos del Excel
+│       └── processed/
+│           └── pdfs-data.json       # Datos procesados de PDFs
 ├── data/
-│   ├── repuestos.xlsx           # Archivo Excel original
-│   └── README.md                # Instrucciones para datos
-├── convertExcel.js              # Script de conversión Excel → JSON
-├── App.js                       # Componente raíz
-└── package.json                 # Dependencias
+│   ├── repuestos.xlsx              # Archivo Excel original
+│   ├── pdfs/                       # PDFs de catálogos (originales)
+│   ├── processed/                  # Datos procesados
+│   └── README.md                   # Instrucciones para datos
+├── public/
+│   ├── pdfs/                       # PDFs accesibles en web
+│   └── index.html
+├── processPDFs.js                 # Script: procesar texto de PDFs
+├── copyPDFsToPublic.js            # Script: copiar PDFs a public
+├── convertExcel.js                # Script: conversión Excel → JSON
+├── App.js                         # Componente raíz
+└── package.json                   # Dependencias
 ```
 
 ## 🔒 Seguridad

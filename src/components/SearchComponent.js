@@ -5,10 +5,8 @@ import {
   ScrollView,
   Alert,
   TouchableOpacity,
-  Modal,
-  Image,
 } from 'react-native';
-// v2.1.0 - Búsqueda automática inteligente + Imágenes extraídas
+// v2.2.0 - Búsqueda automática inteligente + Abrir PDFs directamente
 import {
   Searchbar,
   Card,
@@ -36,8 +34,6 @@ const SearchComponent = () => {
   const [showAdminPanel, setShowAdminPanel] = useState(false);
   const [currentSearchType, setCurrentSearchType] = useState('description'); // Para mostrar al usuario qué tipo de búsqueda se está haciendo
   const [stats, setStats] = useState(null);
-  const [selectedImage, setSelectedImage] = useState(null);
-  const [showImageModal, setShowImageModal] = useState(false);
   const [searchSources, setSearchSources] = useState({ excel: true, pdf: true }); // Fuentes de búsqueda activas
 
   useEffect(() => {
@@ -324,7 +320,7 @@ const SearchComponent = () => {
                   {currentSearchType === 'description' ? item.description : item.code}
                 </Paragraph>
 
-                {/* Mostrar fuente y número de imagen si existe */}
+                {/* Mostrar fuente */}
                 <View style={styles.sourceInfo}>
                   <Chip 
                     icon={() => (
@@ -339,21 +335,6 @@ const SearchComponent = () => {
                   >
                     {item.source}
                   </Chip>
-                  
-                  {item.hasImage && item.imageRef && (
-                    <Chip 
-                      icon={() => <Ionicons name="camera" size={14} color="#4caf50" />}
-                      style={styles.imageChip}
-                      textStyle={styles.chipText}
-                      onPress={() => Alert.alert(
-                        '📷 Tiene Imagen',
-                        `Este repuesto tiene foto en el PDF.\n\nBusca la imagen Nº ${item.imageRef} en "${item.pdfSource}"`,
-                        [{ text: 'OK' }]
-                      )}
-                    >
-                      📷 Tiene foto (#{item.imageRef})
-                    </Chip>
-                  )}
                 </View>
 
                 <View style={styles.cardActions}>
@@ -367,33 +348,29 @@ const SearchComponent = () => {
                     <Text style={styles.copyButtonText}>Copiar</Text>
                   </TouchableOpacity>
                   
-                  {item.hasImage && (
+                  {item.sourceType === 'pdf' && item.pdfSource && (
                     <TouchableOpacity
-                      style={styles.imageButton}
+                      style={styles.pdfButton}
                       onPress={() => {
-                        if (item.imagePath) {
-                          setSelectedImage({
-                            path: item.imagePath,
-                            code: item.code,
-                            description: item.description,
-                            imageRef: item.imageRef,
-                            pdfSource: item.pdfSource
-                          });
-                          setShowImageModal(true);
-                        } else {
-                          Alert.alert(
-                            '📷 Referencia a Imagen',
-                            `Este repuesto tiene una imagen numerada:\n\n` +
-                            `📄 PDF: ${item.pdfSource}\n` +
-                            `🖼️ Imagen Nº: ${item.imageRef}\n\n` +
-                            `⚠️ Imagen no disponible en este momento`,
-                            [{ text: 'Entendido', style: 'default' }]
-                          );
-                        }
+                        const pdfUrl = `/pdfs/${item.pdfSource}`;
+                        window.open(pdfUrl, '_blank');
                       }}
                     >
-                      <Ionicons name={item.imagePath ? "image" : "information-circle"} size={16} color="#4caf50" />
-                      <Text style={styles.imageButtonText}>{item.imagePath ? "Ver Imagen" : "Info Imagen"}</Text>
+                      <Ionicons name="document-text" size={16} color="#ff6f00" />
+                      <Text style={styles.pdfButtonText}>Abrir PDF</Text>
+                    </TouchableOpacity>
+                  )}
+                  
+                  {item.sourceType === 'excel' && (
+                    <TouchableOpacity
+                      style={styles.excelButton}
+                      onPress={() => {
+                        const excelUrl = `/repuestos.xlsx`;
+                        window.open(excelUrl, '_blank');
+                      }}
+                    >
+                      <Ionicons name="table" size={16} color="#217346" />
+                      <Text style={styles.excelButtonText}>Abrir Excel</Text>
                     </TouchableOpacity>
                   )}
                 </View>
@@ -422,50 +399,6 @@ const SearchComponent = () => {
           visible={showAdminPanel}
           onDismiss={() => setShowAdminPanel(false)}
         />
-
-        <Modal
-          visible={showImageModal}
-          transparent={true}
-          animationType="fade"
-          onRequestClose={() => setShowImageModal(false)}
-        >
-          <View style={styles.modalOverlay}>
-            <View style={styles.modalContent}>
-              <View style={styles.modalHeader}>
-                <View style={styles.modalHeaderText}>
-                  <Text style={styles.modalTitle}>{selectedImage?.code}</Text>
-                  <Text style={styles.modalSubtitle} numberOfLines={2}>
-                    {selectedImage?.description}
-                  </Text>
-                </View>
-                <TouchableOpacity
-                  style={styles.closeButton}
-                  onPress={() => setShowImageModal(false)}
-                >
-                  <Ionicons name="close" size={28} color="#333" />
-                </TouchableOpacity>
-              </View>
-              
-              {selectedImage?.path && (
-                <ScrollView 
-                  style={styles.imageScrollView}
-                  contentContainerStyle={styles.imageScrollContent}
-                >
-                  <Image
-                    source={{ uri: selectedImage.path }}
-                    style={styles.modalImage}
-                    resizeMode="contain"
-                  />
-                  <View style={styles.imageInfo}>
-                    <Text style={styles.imageInfoText}>
-                      📄 {selectedImage.pdfSource} | 🖼️ Imagen #{selectedImage.imageRef}
-                    </Text>
-                  </View>
-                </ScrollView>
-              )}
-            </View>
-          </View>
-        </Modal>
       </View>
     </PaperProvider>
   );
@@ -489,8 +422,8 @@ const styles = StyleSheet.create({
   },
   header: {
     backgroundColor: 'white',
-    padding: 16,
-    paddingTop: 50,
+    padding: 12,
+    paddingTop: 45,
     elevation: 4,
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
@@ -499,9 +432,10 @@ const styles = StyleSheet.create({
   },
   title: {
     textAlign: 'center',
-    marginBottom: 16,
+    marginBottom: 8,
     color: '#6200ee',
     flex: 1,
+    fontSize: 20,
   },
   titleContainer: {
     flexDirection: 'row',
@@ -524,7 +458,8 @@ const styles = StyleSheet.create({
     marginHorizontal: 4,
   },
   searchbar: {
-    marginBottom: 12,
+    marginBottom: 8,
+    marginTop: 4,
     elevation: 2,
   },
   searchButton: {
@@ -591,49 +526,53 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   searchTypeIndicator: {
-    marginBottom: 12,
+    marginBottom: 6,
     alignItems: 'center',
   },
   helpText: {
     textAlign: 'center',
     color: '#999',
-    fontSize: 12,
-    marginTop: 8,
+    fontSize: 10,
+    marginTop: 4,
     fontStyle: 'italic',
   },
   statsContainer: {
-    backgroundColor: '#fff',
-    padding: 12,
-    borderRadius: 8,
-    marginBottom: 8,
-    elevation: 1,
+    backgroundColor: '#f8f8f8',
+    padding: 6,
+    borderRadius: 6,
+    marginBottom: 4,
+    elevation: 0,
   },
   statsTitle: {
-    fontSize: 14,
+    fontSize: 11,
     fontWeight: '600',
-    color: '#333',
-    marginBottom: 8,
+    color: '#666',
+    marginBottom: 4,
     textAlign: 'center',
   },
   statsRow: {
     flexDirection: 'row',
-    justifyContent: 'space-around',
-    flexWrap: 'wrap',
+    justifyContent: 'center',
+    flexWrap: 'nowrap',
+    gap: 4,
   },
   excelStat: {
     backgroundColor: '#e3f2fd',
-    marginHorizontal: 4,
+    marginHorizontal: 2,
+    height: 24,
   },
   pdfStat: {
     backgroundColor: '#fff3e0',
-    marginHorizontal: 4,
+    marginHorizontal: 2,
+    height: 24,
   },
   totalStat: {
     backgroundColor: '#e8f5e9',
-    marginHorizontal: 4,
+    marginHorizontal: 2,
+    height: 24,
   },
   statText: {
-    fontSize: 11,
+    fontSize: 10,
     fontWeight: '600',
   },
   cardActions: {
@@ -661,19 +600,34 @@ const styles = StyleSheet.create({
   chipText: {
     fontSize: 11,
   },
-  imageButton: {
+  pdfButton: {
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: 12,
     paddingVertical: 6,
     borderRadius: 4,
-    backgroundColor: '#e8f5e9',
+    backgroundColor: '#fff3e0',
     marginLeft: 8,
   },
-  imageButtonText: {
+  pdfButtonText: {
     marginLeft: 4,
     fontSize: 14,
-    color: '#4caf50',
+    color: '#ff6f00',
+    fontWeight: '500',
+  },
+  excelButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 4,
+    backgroundColor: '#e7f5ee',
+    marginLeft: 8,
+  },
+  excelButtonText: {
+    marginLeft: 4,
+    fontSize: 14,
+    color: '#217346',
     fontWeight: '500',
   },
   copyButton: {
@@ -690,34 +644,37 @@ const styles = StyleSheet.create({
   },
   dateText: {
     textAlign: 'center',
-    color: '#888',
-    fontSize: 12,
-    marginTop: 4,
-    marginBottom: 8,
+    color: '#999',
+    fontSize: 10,
+    marginTop: 2,
+    marginBottom: 4,
     fontStyle: 'italic',
   },
   sourceFilterContainer: {
+    flexDirection: 'row',
     alignItems: 'center',
-    marginVertical: 12,
-    paddingHorizontal: 16,
+    justifyContent: 'center',
+    marginVertical: 6,
+    paddingHorizontal: 8,
   },
   sourceFilterLabel: {
-    fontSize: 13,
+    fontSize: 11,
     color: '#666',
-    marginBottom: 8,
+    marginRight: 8,
     fontWeight: '500',
   },
   sourceFilterButtons: {
     flexDirection: 'row',
     justifyContent: 'center',
-    gap: 24,
+    gap: 12,
   },
   checkboxRow: {
     flexDirection: 'row',
     alignItems: 'center',
+    transform: [{ scale: 0.85 }],
   },
   checkboxLabel: {
-    fontSize: 15,
+    fontSize: 12,
     color: '#333',
     marginLeft: -8,
   },
@@ -738,72 +695,6 @@ const styles = StyleSheet.create({
     marginTop: 8,
     textAlign: 'center',
     color: '#999',
-  },
-  modalOverlay: {
-    flex: 1,
-    backgroundColor: 'rgba(0, 0, 0, 0.9)',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  modalContent: {
-    width: '95%',
-    maxWidth: 800,
-    height: '90%',
-    backgroundColor: '#fff',
-    borderRadius: 12,
-    overflow: 'hidden',
-  },
-  modalHeader: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'flex-start',
-    padding: 16,
-    backgroundColor: '#6200ee',
-  },
-  modalHeaderText: {
-    flex: 1,
-    marginRight: 12,
-  },
-  modalTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
-    color: '#fff',
-    marginBottom: 4,
-  },
-  modalSubtitle: {
-    fontSize: 14,
-    color: '#fff',
-    opacity: 0.9,
-  },
-  closeButton: {
-    padding: 4,
-    backgroundColor: 'rgba(255, 255, 255, 0.2)',
-    borderRadius: 20,
-  },
-  imageScrollView: {
-    flex: 1,
-  },
-  imageScrollContent: {
-    flexGrow: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    padding: 16,
-  },
-  modalImage: {
-    width: '100%',
-    height: 500,
-    maxHeight: '80%',
-  },
-  imageInfo: {
-    marginTop: 16,
-    padding: 12,
-    backgroundColor: '#f5f5f5',
-    borderRadius: 8,
-  },
-  imageInfoText: {
-    fontSize: 13,
-    color: '#666',
-    textAlign: 'center',
   },
 });
 
