@@ -18,6 +18,14 @@
       "dest": "/assets/$1"
     },
     {
+      "src": "/pdfs/(.*)",
+      "dest": "/pdfs/$1"
+    },
+    {
+      "src": "/repuestos.xlsx",
+      "dest": "/repuestos.xlsx"
+    },
+    {
       "src": "/favicon.svg",
       "dest": "/favicon.svg"
     },
